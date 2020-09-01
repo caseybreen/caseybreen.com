@@ -2,10 +2,16 @@
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 education:
   courses:
-  - course: Ph.D. Demography
+  - course: Ph.D., Demography
+    institution: UC Berkeley
+    year: In Progress
+  - course: M.A., Biostatistics
     institution: UC Berkeley Demography
     year: In Progress
-  - course: B.A., Mathematical Economics 
+  - course: M.A., Biostatistics
+    year: 2019
+    year: In Progress
+  - course: B.A., Economics 
     institution: Pomona College
     year: 2016
 email: "caseybreen@berkeley.edu"

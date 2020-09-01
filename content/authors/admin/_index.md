@@ -1,16 +1,16 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 education:
   courses:
   - course: Ph.D., Demography
     institution: UC Berkeley
     year: In Progress
   - course: M.A., Biostatistics
-    institution: UC Berkeley Demography
+    institution: UC Berkeley 
     year: In Progress
-  - course: M.A., Biostatistics
+  - course: M.A., Demography
     year: 2019
-    year: In Progress
+    institution: UC Berkeley
   - course: B.A., Economics 
     institution: Pomona College
     year: 2016
@@ -39,7 +39,6 @@ user_groups:
 - Principal Investigators
 ---
 
-I am a Ph.D. student in Demography at UC Berkeley. I am interested in health disparities and 
-
+I'm a Ph.D. student in Demography at UC Berkeley. I am interested in applying 
 
 View my {{< staticref "media/casey-cv.pdf" "newtab" >}}CV{{< /staticref >}}.

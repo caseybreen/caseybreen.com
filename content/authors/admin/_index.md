@@ -36,6 +36,7 @@ user_groups:
 - Principal Investigators
 ---
 
-I'm a Ph.D. student in Demography at UC Berkeley. I am interested in applying quantitative methods to 
+I'm a Ph.D. student in Demography at UC Berkeley. I am interested in the application of social network analysis and computational methods to questions in population health. 
+
 
 View my {{< staticref "media/casey-cv.pdf" "newtab" >}}CV{{< /staticref >}}.

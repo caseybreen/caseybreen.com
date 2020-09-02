@@ -23,13 +23,13 @@ role: Graduate Student
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
+  link: mailto:caseybreen@berkeley.edu
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/caseybreen
+  link: https://twitter.com/caseyfbreen
 - icon: github
   icon_pack: fab
-  link: https://github.com/caseyfbreen
+  link: https://github.com/caseybreen
 superuser: true
 title: Casey Breen
 user_groups:

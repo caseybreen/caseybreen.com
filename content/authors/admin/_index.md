@@ -2,13 +2,13 @@
 bio: 
 education:
   courses:
-  - course: Ph.D., Demography
+  - course: PhD, Demography
     institution: UC Berkeley
     year: In Progress
-  - course: M.A., Biostatistics
+  - course: MA, Biostatistics
     institution: UC Berkeley 
     year: In Progress
-  - course: B.A., Economics 
+  - course: BA, Economics 
     institution: Pomona College
     year: 2016
 email: "caseybreen@berkeley.edu"
@@ -36,6 +36,6 @@ user_groups:
 - Principal Investigators
 ---
 
-I'm a Ph.D. student in Demography at UC Berkeley. I am interested in applying 
+I'm a Ph.D. student in Demography at UC Berkeley. I am interested in applying quantitative methods to 
 
 View my {{< staticref "media/casey-cv.pdf" "newtab" >}}CV{{< /staticref >}}.

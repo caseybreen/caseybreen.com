@@ -8,9 +8,6 @@ education:
   - course: M.A., Biostatistics
     institution: UC Berkeley 
     year: In Progress
-  - course: M.A., Demography
-    year: 2019
-    institution: UC Berkeley
   - course: B.A., Economics 
     institution: Pomona College
     year: 2016

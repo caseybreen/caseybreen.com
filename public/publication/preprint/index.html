@@ -341,6 +341,10 @@
 
 
   <title>An example preprint / working paper | Casey Breen</title>
+  
+{% if site.google_analytics and jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
 
 </head>
 

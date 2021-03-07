@@ -294,6 +294,10 @@
 
 
   <title>Recent &amp; Upcoming Talks | Casey Breen</title>
+  
+{% if site.google_analytics and jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
 
 </head>
 

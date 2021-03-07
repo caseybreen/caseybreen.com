@@ -299,6 +299,10 @@ Tip 1 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tell
 
 
   <title>Example Page 1 | Casey Breen</title>
+  
+{% if site.google_analytics and jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
 
 </head>
 

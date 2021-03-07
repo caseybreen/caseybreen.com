@@ -348,6 +348,10 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
 
 
   <title>Writing technical content in Academic | Casey Breen</title>
+  
+{% if site.google_analytics and jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
 
 </head>
 
@@ -639,7 +643,7 @@ data.head()
 <p>Demo:</p>
 
 
-<div id="chart-417269853" class="chart pb-3" style="max-width: 100%; margin: auto;"></div>
+<div id="chart-589312647" class="chart pb-3" style="max-width: 100%; margin: auto;"></div>
 <script>
   (function() {
     let a = setInterval( function() {
@@ -649,7 +653,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json("./line-chart.json", function(chart) {
-        Plotly.plot('chart-417269853', chart.data, chart.layout, {responsive: true});
+        Plotly.plot('chart-589312647', chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

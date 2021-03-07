@@ -1,7 +1,4 @@
 ---
 site: blogdown:::blogdown_site
 output: 
-  html_document:
-    includes:
-       in_header: analytics.html
 ---

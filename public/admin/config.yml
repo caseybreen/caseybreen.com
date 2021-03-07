@@ -301,5 +301,3 @@ collections:
             widget: "boolean"
             default: false
           - {label: "Body", name: "body", widget: "markdown"}
-# Google Analytics
-google_analytics: G-GD4XKBD7D4

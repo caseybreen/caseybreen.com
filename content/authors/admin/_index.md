@@ -7,7 +7,7 @@ education:
     year: In Progress
   - course: MA, Biostatistics
     institution: UC Berkeley 
-    year: In Progress
+    year: 2021
   - course: BA, Economics 
     institution: Pomona College
     year: 2016

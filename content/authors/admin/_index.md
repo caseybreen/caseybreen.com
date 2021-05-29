@@ -39,4 +39,4 @@ user_groups:
 I'm a Ph.D. student in Demography at UC Berkeley. I'm interested in the application of social network analysis and computational methods to questions in population health. 
 
 
-View my {{< staticref "media/casey-cv.pdf" "newtab" >}}CV{{< /staticref >}}.
+View my {{< staticref "media/casey_breen_cv.pdf" "newtab" >}}CV{{< /staticref >}}.

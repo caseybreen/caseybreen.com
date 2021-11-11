@@ -25,7 +25,7 @@ I am interested broadly in the areas of population health and social networks. M
 1\. Casey F. Breen, Dennis M. Feehan, and Ayesha S. Mahmud. “Using Multilevel Regression with Poststratification to Estimate Subnational Contact Patterns.” [[working paper](https://osf.io/preprints/socarxiv/87e32/)]
 
 <details>
-&emsp; <summary> <b>Abstract</b> </summary>
+<summary> <b>Abstract</b> </summary>
 The spread and transmission dynamics of directly transmitted airborne pathogens, such as SARS-CoV-2, are fundamentally determined by in-person contact patterns. Reliable quantitative estimates of contact patterns are critical to modeling and reducing the spread of directly transmitted infectious diseases. While national-level contact data are available in many countries, including the United States, local-level estimates of age-specific contact patterns are key since disease dynamics and public health policy vary by geography. However, collecting contact data for each state would require a very large sample and be prohibitively expensive. To overcome this challenge, we develop a flexible model to estimate age-specific contact patterns at the subnational level using national-level interpersonal contact data. Our model is based on dynamic multilevel regression with poststratification. We apply this approach to a national sample of interpersonal contact data collected by the Berkeley Interpersonal Contact Study (BICS). Results illustrate important state-level variation in levels and trends of contacts across the US.
 </details>
 
@@ -34,7 +34,7 @@ The spread and transmission dynamics of directly transmitted airborne pathogens,
 2\. Casey F. Breen. ''Changes in Racial Self-Identiﬁcation for the Greatest Generation: Evidence from Social Security Administrative Data.'' [[working paper ](https://osf.io/preprints/socarxiv/b9ek3/)]
 
 <details>
-&emsp; <summary> <b>Abstract</b> </summary>
+<summary> <b>Abstract</b> </summary>
 Researchers generally recognize that racial identification may shift over the life course. However, there is less consensus about the prevalence of these shifts. Previous estimates suggest as many as 6% of Americans shift their racial identity. Using administrative data on Social Security applications from 1984 to 2007, we quantify the magnitude and direction of shifts in racial and ethnic self-identification among Black, White, Asian, American Indian, and Hispanic members of the “Greatest Generation,” those born between 1901 and 1927 (N = 410,388). Approximately 9,274 (2.3%) persons in this dataset changed their racial or Hispanic identity, with distinct patterns of change for racial-ethnic subgroups. Overall, the most common shift was from a non-White identity to a non-Hispanic White identity. We then link to the 1940 Census to investigate whether social status in youth and young adulthood predicts a shift in identity in later life, and we find a positive and significant association between socioeconomic status in early life and a shift from non-White to non-Hispanic White identity. These systematic patterns would be unlikely if these shifts were due entirely to measurement error. We conclude the prevalence of racial fluidity is itself contingent, varying across time and cohort with response to racial climate, events in greater society, and social position.
 </details>
 

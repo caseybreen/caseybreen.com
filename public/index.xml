@@ -105,7 +105,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-481672539&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-259378641&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -115,7 +115,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-481672539&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-259378641&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -569,7 +569,7 @@ $$&lt;/p&gt;
       <link>https://caseybreen.github.io/research/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
       <guid>https://caseybreen.github.io/research/</guid>
-      <description>&lt;p&gt;My research interests are broadly in the areas of population health and social networks. My current research focuses on:&lt;/p&gt;
+      <description>&lt;p&gt;I am interested broadly in the areas of population health and social networks. My current research agenda focuses on:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Developing social-network based methods for sampling and enumerating hard to reach populations.&lt;/p&gt;
@@ -590,13 +590,13 @@ The spread and transmission dynamics of directly transmitted airborne pathogens,
 &lt;/details&gt;
 &lt;br /&gt;
 &lt;p&gt;2. Casey F. Breen. &amp;lsquo;&amp;lsquo;Changes in Racial Self-Identiﬁcation for the Greatest Generation: Evidence from Social Security Administrative Data.&amp;rsquo;&amp;rsquo; [
-&lt;a href=&#34;https://osf.io/preprints/socarxiv/87e32/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;working paper &lt;/a&gt;]&lt;/p&gt;
+&lt;a href=&#34;https://osf.io/preprints/socarxiv/b9ek3/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;working paper &lt;/a&gt;]&lt;/p&gt;
 &lt;details&gt;
 &amp;emsp; &lt;summary&gt; &lt;b&gt;Abstract&lt;/b&gt; &lt;/summary&gt;
 Researchers generally recognize that racial identification may shift over the life course. However, there is less consensus about the prevalence of these shifts. Previous estimates suggest as many as 6% of Americans shift their racial identity. Using administrative data on Social Security applications from 1984 to 2007, we quantify the magnitude and direction of shifts in racial and ethnic self-identification among Black, White, Asian, American Indian, and Hispanic members of the “Greatest Generation,” those born between 1901 and 1927 (N = 410,388). Approximately 9,274 (2.3%) persons in this dataset changed their racial or Hispanic identity, with distinct patterns of change for racial-ethnic subgroups. Overall, the most common shift was from a non-White identity to a non-Hispanic White identity. We then link to the 1940 Census to investigate whether social status in youth and young adulthood predicts a shift in identity in later life, and we find a positive and significant association between socioeconomic status in early life and a shift from non-White to non-Hispanic White identity. These systematic patterns would be unlikely if these shifts were due entirely to measurement error. We conclude the prevalence of racial fluidity is itself contingent, varying across time and cohort with response to racial climate, events in greater society, and social position.
 &lt;/details&gt;
 &lt;br /&gt;
-&lt;p&gt;3. Casey F. Breen, Elissa M. Redmiles, and Cormac Herley.“A Large-Scale Measurement of Cybercrime against Individuals.” [draft available upon request]&lt;/p&gt;
+&lt;p&gt;3. Casey F. Breen, Elissa M. Redmiles, and Cormac Herley. “A Large-Scale Measurement of Cybercrime against Individuals.” [draft available upon request]&lt;/p&gt;
 &lt;details&gt;
 &lt;summary&gt; &lt;b&gt;Abstract&lt;/b&gt; &lt;/summary&gt;
 We know surprisingly little about the prevalence and severity of cybercrime in the U.S. Yet, in order to prioritize the development and distribution of advice and technology to protect end users, we require empirical evidence regarding cybercrime. Measuring crime, including cybercrime, is a challenging problem that relies on a combination of direct crime reports to the government -- which have known issues of under-reporting -- and assessment via carefully-designed self-report surveys. We report on the first large-scale, nationally representative academic survey (n=11,953) of consumer cybercrime experiences in the U.S. Our analysis answers four research questions -- (1) What is the prevalence and (2) the monetary impact of these cybercrimes we measure in the U.S.?, (3) Do inequities exist in victimization?, and (4) Can we improve cybercrime measurement by leveraging social-reporting techniques used to measure physical crime? -- and offers insight toward improving future measurement of cybercrime and protecting users.

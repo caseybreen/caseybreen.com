@@ -9,7 +9,7 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 ---
 
-My research interests are broadly in the areas of population health and social networks. My current research focuses on:  
+I am interested broadly in the areas of population health and social networks. My current research agenda focuses on:  
 
 - Developing social-network based methods for sampling and enumerating hard to reach populations. 
 
@@ -22,7 +22,7 @@ My research interests are broadly in the areas of population health and social n
 <br />
 
 
-1\. Casey F. Breen, Dennis M. Feehan, and Ayesha S. Mahmud. “Using Multilevel Regression with Poststratification to Estimate Subnational Contact Patterns.” \[[working paper](https://osf.io/preprints/socarxiv/87e32/)\]
+1\. Casey F. Breen, Dennis M. Feehan, and Ayesha S. Mahmud. “Using Multilevel Regression with Poststratification to Estimate Subnational Contact Patterns.” [[working paper](https://osf.io/preprints/socarxiv/87e32/)]
 
 <details>
 &emsp; <summary> <b>Abstract</b> </summary>
@@ -31,7 +31,7 @@ The spread and transmission dynamics of directly transmitted airborne pathogens,
 
 <br />
 
-2\. Casey F. Breen. ''Changes in Racial Self-Identiﬁcation for the Greatest Generation: Evidence from Social Security Administrative Data.'' [[working paper ](https://osf.io/preprints/socarxiv/87e32/)]
+2\. Casey F. Breen. ''Changes in Racial Self-Identiﬁcation for the Greatest Generation: Evidence from Social Security Administrative Data.'' [[working paper ](https://osf.io/preprints/socarxiv/b9ek3/)]
 
 <details>
 &emsp; <summary> <b>Abstract</b> </summary>
@@ -40,7 +40,7 @@ Researchers generally recognize that racial identification may shift over the li
 
 <br />
 
-3\. Casey F. Breen, Elissa M. Redmiles, and Cormac Herley.“A Large-Scale Measurement of Cybercrime against Individuals.” [draft available upon request] 
+3\. Casey F. Breen, Elissa M. Redmiles, and Cormac Herley. “A Large-Scale Measurement of Cybercrime against Individuals.” [draft available upon request] 
 
 <details>
 <summary> <b>Abstract</b> </summary>

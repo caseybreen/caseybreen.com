@@ -15,8 +15,8 @@
     url = "media/casey_breen_cv.pdf"
     weight = 70
     
- [[main]]
+[[main]]
     name = "Research"
-    url = "contact/"
-    weight = 70
+    url = "research/"
+    weight = 80
 

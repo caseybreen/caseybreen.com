@@ -105,7 +105,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-295487136&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-941723865&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -115,7 +115,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-295487136&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-941723865&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -624,11 +624,11 @@ One of the most pressing problems in population research is sampling hard-to-rea
 
 
 
-&lt;p&gt;Apr. 2022: Talk at PAA 2022 in session &amp;ldquo;Computational Demography, Machine Learning, and Algorithmic Bias&amp;rdquo; [&lt;a href=&#34;https://caseybreen.github.io/media/talk_slides/breen_feehan_rds-multi_paa_2022.pdf&#34;&gt;Slides&lt;/a&gt;]&lt;/p&gt;
-&lt;p&gt;Apr. 2022: Talk at PAA 2022 in the session &amp;ldquo;Flash: Socioeconomic Inequalities in Health, Life Expectancy, and Mortality&amp;rdquo; [&lt;a href=&#34;https://caseybreen.github.io/media/talk_slides/breen_flash_paa2022_homeownership.pdf&#34;&gt;Slides&lt;/a&gt;]&lt;/p&gt;
-&lt;p&gt;Apr. 2022: New working paper — &lt;a href=&#34;https://osf.io/preprints/socarxiv/87e32/&#34;&gt;Novel Estimates Reveal Subnational Heterogeneities in Disease-Relevant Contact Patterns in the United States&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Apr. 2022: Talk at PAA 2022 in session &amp;ldquo;Computational Demography, Machine Learning, and Algorithmic Bias.&amp;rdquo; [&lt;a href=&#34;https://caseybreen.github.io/media/talk_slides/breen_feehan_rds-multi_paa_2022.pdf&#34;&gt;Slides&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;Apr. 2022: Talk at PAA 2022 in the session &amp;ldquo;Flash: Socioeconomic Inequalities in Health, Life Expectancy, and Mortality.&amp;rdquo; [&lt;a href=&#34;https://caseybreen.github.io/media/talk_slides/breen_flash_paa2022_homeownership.pdf&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Apr. 2022: New working paper — &lt;a href=&#34;https://osf.io/preprints/socarxiv/87e32/&#34;&gt;Novel Estimates Reveal Subnational Heterogeneities in Disease-Relevant Contact Patterns in the United States&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Mar. 2022: I will be a research scientist intern with the Demography and Survey Science Team at Meta (Facebook) for summer 2022.&lt;/p&gt;
-&lt;p&gt;Feb. 2022: New working paper — &lt;a href=&#34;https://osf.io/preprints/socarxiv/pc294/&#34;&gt;Berkeley Unified Numident Mortality Database: Public Administrative Records for Individual-Level Mortality Research&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Feb. 2022: New working paper — &lt;a href=&#34;https://osf.io/preprints/socarxiv/pc294/&#34;&gt;Berkeley Unified Numident Mortality Database: Public Administrative Records for Individual-Level Mortality Research&lt;/a&gt;.&lt;/p&gt;
 
 </description>
     </item>

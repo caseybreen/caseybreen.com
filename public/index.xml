@@ -105,7 +105,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-234879165&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-358792146&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -115,7 +115,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-234879165&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-358792146&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -624,9 +624,8 @@ One of the most pressing problems in population research is sampling hard-to-rea
 
 
 
-&lt;p&gt;** ** I gave a talk at PAA 2022.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[12/02/20]&lt;/strong&gt; Seminar presentation on &lt;a href=&#34;https://caseybreen.github.io/talk/2020-feb-ucy/&#34;&gt;Data-driven decentralised control design in Active Distribution Networks&lt;/a&gt; at &lt;a href=&#34;http://ucy.ac.cy&#34;&gt;UCY&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[31/12/19]&lt;/strong&gt; New paper on &lt;a href=&#34;https://caseybreen.github.io/publication/2020jdehghan/&#34;&gt; A Robust Coordinated Expansion Planning Model For Wind Farm-Integrated Power Systems With Flexibility Sources Using Affine Policies&lt;/a&gt; published on IEEE Systems Journal.&lt;/p&gt;
+&lt;p&gt;I gave two talks at PAA 2022.&lt;/p&gt;
+&lt;p&gt;I have a new working paper: &lt;a href=&#34;https://osf.io/preprints/socarxiv/87e32/&#34;&gt;Novel Estimates Reveal Subnational Heterogeneities in Disease-Relevant Contact Patterns in the United States&lt;/a&gt;&lt;/p&gt;
 
 </description>
     </item>

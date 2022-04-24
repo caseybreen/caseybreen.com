@@ -105,7 +105,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-185946372&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-234879165&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -115,7 +115,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-185946372&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-234879165&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -607,6 +607,27 @@ We know surprisingly little about the prevalence and severity of cybercrime in t
 &lt;summary&gt;  &lt;b&gt;Abstract&lt;/b&gt; &lt;/summary&gt;
 One of the most pressing problems in population research is sampling hard-to-reach populations. Respondent-driven sampling (RDS) is the dominant method to sample such understudied and underserved populations. The key insight behind RDS is that individuals in these hidden populations are connected through an underlying social network. Conventional RDS begins with a convenience sample of “seed” individuals, who are interviewed and then refer their peers to the study. In turn, these peers refer their peers until the recruitment chains die out or the desired sample size is obtained. RDS has been endorsed by the Center for Disease Control and Prevention (CDC), World Health Organization (WHO), and the Joint United Nations program on HIV/AIDS (UNAIDS) and is the dominant method for sampling people who inject drugs, sex workers, and other populations hard-to-reach due to their illegal or stigmatized behaviors. RDS sampling represents a powerful tool for data collection, but the efficacy of RDS is limited if the underlying network structure has low connectivity or high clustering. These properties can lead to inaccurate RDS estimates or cause recruitment chains to die out before the desired sample size is obtained. We introduce a new approach to collecting RDS data by modifying who is asked to refer whom. Specifically, the new approach allows members of the hidden population to recruit highly connected social referents to improve the underlying network structure. Here, we describe our new approach to RDS data collection and illustrate it with empirical results.x
 &lt;/details&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://caseybreen.github.io/news/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://caseybreen.github.io/news/</guid>
+      <description>
+
+
+
+
+
+
+
+
+&lt;p&gt;** ** I gave a talk at PAA 2022.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[12/02/20]&lt;/strong&gt; Seminar presentation on &lt;a href=&#34;https://caseybreen.github.io/talk/2020-feb-ucy/&#34;&gt;Data-driven decentralised control design in Active Distribution Networks&lt;/a&gt; at &lt;a href=&#34;http://ucy.ac.cy&#34;&gt;UCY&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[31/12/19]&lt;/strong&gt; New paper on &lt;a href=&#34;https://caseybreen.github.io/publication/2020jdehghan/&#34;&gt; A Robust Coordinated Expansion Planning Model For Wind Farm-Integrated Power Systems With Flexibility Sources Using Affine Policies&lt;/a&gt; published on IEEE Systems Journal.&lt;/p&gt;
+
 </description>
     </item>
     

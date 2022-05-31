@@ -15,6 +15,9 @@ comments: false  # Show comments?
 <link rel="stylesheet" href="/css/kube.min.css" type="text/css"/> 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<style>
+    ul li { margin-bottom: 10px; }
+</style>
 </head>
 
 I am interested broadly in the areas of population health and social networks. My current research agenda focuses on:  

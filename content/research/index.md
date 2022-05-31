@@ -25,7 +25,7 @@ I am interested broadly in the areas of population health and social networks. M
 
 
 ### Publications
-<br />
+<hr>
 
 
 <ul>
@@ -45,6 +45,7 @@ We know surprisingly little about the prevalence and severity of cybercrime in t
 
 
 ### Under Review
+<hr>
 <ul>
 Casey F. Breen, Dennis M. Feehan, and Ayesha S. Mahmud. 2022. “Using Multilevel Regression with Poststratification to Estimate Subnational Contact Patterns.”
 <br />

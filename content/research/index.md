@@ -20,7 +20,7 @@ comments: false  # Show comments?
 </style>
 </head>
 
-I am interested broadly in the areas of population health and social networks. My current research agenda focuses on:  
+I am broadly interested in the areas of population health and social networks. My current research agenda focuses on:  
 
 - Developing social-network based methods for sampling and enumerating hard to reach populations. 
 

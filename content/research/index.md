@@ -61,8 +61,6 @@ The spread and transmission dynamics of directly transmitted airborne pathogens,
 </div> 
 
 <br />
-<br />
-
 
 Casey F. Breen. 2022. ''Changes in Racial Self-Identiﬁcation for the Greatest Generation: Evidence from Social Security Administrative Data.''<br /> <!-- Links to pubs, abstract, etc. -->
 <a style="white-space: nowrap" href="https://osf.io/preprints/socarxiv/b9ek3/">
@@ -76,6 +74,7 @@ Casey F. Breen. 2022. ''Changes in Racial Self-Identiﬁcation for the Greatest 
 Researchers generally recognize that ethnoracial identification may shift over the life course.  However, the prevalence of these shifts across cohorts and among older adults remain open questions. Using administrative data from  Social  Security applications from 1984 to 2007, we quantify the magnitude and direction of later life shifts in ethnoracial self-identification among Black, White, Asian, American Indian, and Hispanic members of the “Greatest Generation,” those born between 1901 and 1927. Overall, 2.3% persons in these data changed their ethnoracial identity after the age of 57, with distinct patterns of change for ethnoracial subgroups. By linking to the 1940 Census, we find a positive and significant association between socioeconomic status in early lifeand a shift from non-White to non-Hispanic White identity in later life.  We conclude that ethnoracial self-identification fluidity continues even among older adults, varying in response to social position, ethnoracial climate, and events in greater society.</div> 
 
 <br />
+
 Casey F. Breen and Joshua R. Goldstein Feehan. 2022. “Berkeley Unified Numident Mortality Database: Public Administrative Records for Individual-Level Mortality Research” <br /> <!-- Links to pubs, abstract, etc. -->
 <a style="white-space: nowrap" href="https://doi.org/10.31235/osf.io/pc294">
 <button type="button" class="btn btn-primary">Working Paper</button> </a> 

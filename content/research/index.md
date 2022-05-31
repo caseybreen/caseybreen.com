@@ -12,8 +12,9 @@ comments: false  # Show comments?
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- Kube CSS -->
-<link rel="stylesheet" href="/css/kube.min.css" type="text/css"/>  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="/css/kube.min.css" type="text/css"/> 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 </head>
 
 I am interested broadly in the areas of population health and social networks. My current research agenda focuses on:  
@@ -23,11 +24,14 @@ I am interested broadly in the areas of population health and social networks. M
 - Investigating health and mortality disparities in the United States using large-scale linked administrative datasets, such as UC Berkeley's [CenSoc](https://censoc.berkeley.edu/) project.  
 
 
-### Publications 
+### Publications
+<hr />
 
 <br />
 
- Casey F. Breen, Elissa M. Redmiles, and Cormac Herley. “A Large-Scale Measurement of Cybercrime against Individuals.”  
+
+  <ul>
+Casey F. Breen, Elissa M. Redmiles, and Cormac Herley. 2022. “A Large-Scale Measurement of Cybercrime against Individuals.”  
  
 <!-- Links to pubs, abstract, etc. -->
 <a style="white-space: nowrap" href="https://dl.acm.org/doi/10.1145/3491102.3517613"><button type="button" class="btn btn-primary">Publication</button> </a> 
@@ -40,11 +44,17 @@ I am interested broadly in the areas of population health and social networks. M
 <br />
 We know surprisingly little about the prevalence and severity of cybercrime in the U.S. Yet, in order to prioritize the development and distribution of advice and technology to protect end users, we require empirical evidence regarding cybercrime. Measuring crime, including cybercrime, is a challenging problem that relies on a combination of direct crime reports to the government – which have known issues of under-reporting – and assessment via carefully-designed self-report surveys. We report on the first large-scale, nationally representative academic survey (n=11,953) of consumer cybercrime experiences in the U.S. Our analysis answers four research questions: (1) What is the prevalence and (2) the monetary impact of these cybercrimes we measure in the U.S.?, (3) Do inequities exist in victimization?, and (4) Can we improve cybercrime measurement by leveraging social-reporting techniques used to measure physical crime? Our analysis also offers insight toward improving future measurement of cybercrime and protecting users.</div> 
 
+</li>
+</ul>
+</div>
+
 
 ### Under Review
+<hr />
 
+<ul>
 
-Casey F. Breen, Dennis M. Feehan, and Ayesha S. Mahmud. “Using Multilevel Regression with Poststratification to Estimate Subnational Contact Patterns.” 
+Casey F. Breen, Dennis M. Feehan, and Ayesha S. Mahmud. 2022. “Using Multilevel Regression with Poststratification to Estimate Subnational Contact Patterns.” 
 <!-- Links to pubs, abstract, etc. -->
 <a style="white-space: nowrap" href="https://osf.io/preprints/socarxiv/87e32/">
 <button type="button" class="btn btn-primary">Working Paper</button> </a> 
@@ -61,7 +71,7 @@ The spread and transmission dynamics of directly transmitted airborne pathogens,
 <br />
 
 
-Casey F. Breen. ''Changes in Racial Self-Identiﬁcation for the Greatest Generation: Evidence from Social Security Administrative Data.''
+Casey F. Breen. 2022. ''Changes in Racial Self-Identiﬁcation for the Greatest Generation: Evidence from Social Security Administrative Data.''
 
 <!-- Links to pubs, abstract, etc. -->
 <a style="white-space: nowrap" href="https://osf.io/preprints/socarxiv/b9ek3/">
@@ -75,9 +85,9 @@ Casey F. Breen. ''Changes in Racial Self-Identiﬁcation for the Greatest Genera
 Researchers generally recognize that ethnoracial identification may shift over the life course.  However, the prevalence of these shifts across cohorts and among older adults remain open questions. Using administrative data from  Social  Security applications from 1984 to 2007, we quantify the magnitude and direction of later life shifts in ethnoracial self-identification among Black, White, Asian, American Indian, and Hispanic members of the “Greatest Generation,” those born between 1901 and 1927. Overall, 2.3% persons in these data changed their ethnoracial identity after the age of 57, with distinct patterns of change for ethnoracial subgroups. By linking to the 1940 Census, we find a positive and significant association between socioeconomic status in early lifeand a shift from non-White to non-Hispanic White identity in later life.  We conclude that ethnoracial self-identification fluidity continues even among older adults, varying in response to social position, ethnoracial climate, and events in greater society.</div> 
 
 <br />
+<br />
 
-Casey F. Breen and Joshua R. Goldstein Feehan. “Berkeley Unified Numident Mortality Database: Public Administrative Records for Individual-Level Mortality Research”
-
+Casey F. Breen and Joshua R. Goldstein Feehan. 2022. “Berkeley Unified Numident Mortality Database: Public Administrative Records for Individual-Level Mortality Research”
 <!-- Links to pubs, abstract, etc. -->
 <a style="white-space: nowrap" href="https://doi.org/10.31235/osf.io/pc294">
 <button type="button" class="btn btn-primary">Working Paper</button> </a> 

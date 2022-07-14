@@ -105,7 +105,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-254361879&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-426517389&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -115,7 +115,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-254361879&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-426517389&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -594,9 +594,9 @@ $$&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt; Casey F. Breen, Elissa M. Redmiles, and Cormac Herley. 2022. “A Large-Scale Measurement of Cybercrime against Individuals.”  
 &lt;!-- Links to pubs, abstract, etc. --&gt;
-&lt;p&gt;&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://dl.acm.org/doi/10.1145/3491102.3517613&#34;&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-primary&#34;&gt;Publication&lt;/button&gt; &lt;/a&gt;
-&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://doi.org/10.17605/OSF.IO/KNUFM&#34;&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-primary&#34;&gt;Replication&lt;/button&gt; &lt;/a&gt;
-&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://www.youtube.com/watch?v=BjrQJc11Isg&#34;&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-primary&#34;&gt;Video&lt;/button&gt; &lt;/a&gt;
+&lt;p&gt;&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://dl.acm.org/doi/10.1145/3491102.3517613&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-primary&#34;&gt;Publication&lt;/button&gt; &lt;/a&gt;
+&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://doi.org/10.17605/OSF.IO/KNUFM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-primary&#34;&gt;Replication&lt;/button&gt; &lt;/a&gt;
+&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://www.youtube.com/watch?v=BjrQJc11Isg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-primary&#34;&gt;Video&lt;/button&gt; &lt;/a&gt;
 &lt;a href=&#34;#abstract-cyber&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34;&gt;Abstract&lt;/a&gt;&lt;/p&gt;
 &lt;!-- Abstract --&gt;
 &lt;div id=&#34;abstract-cyber&#34; class=&#34;collapse&#34;&gt;
@@ -604,13 +604,28 @@ $$&lt;/p&gt;
 We know surprisingly little about the prevalence and severity of cybercrime in the U.S. Yet, in order to prioritize the development and distribution of advice and technology to protect end users, we require empirical evidence regarding cybercrime. Measuring crime, including cybercrime, is a challenging problem that relies on a combination of direct crime reports to the government – which have known issues of under-reporting – and assessment via carefully-designed self-report surveys. We report on the first large-scale, nationally representative academic survey (n=11,953) of consumer cybercrime experiences in the U.S. Our analysis answers four research questions: (1) What is the prevalence and (2) the monetary impact of these cybercrimes we measure in the U.S.?, (3) Do inequities exist in victimization?, and (4) Can we improve cybercrime measurement by leveraging social-reporting techniques used to measure physical crime? Our analysis also offers insight toward improving future measurement of cybercrime and protecting users.&lt;/div&gt; 
 &lt;/li&gt;
 &lt;/ol&gt;
+&lt;li&gt;
+Casey F. Breen and Joshua R. Goldstein Feehan. 2022. “Berkeley Unified Numident Mortality Database: Public Administrative Records for Individual-Level Mortality Research,” Demographic Research. &lt;br /&gt; &lt;!-- Links to pubs, abstract, etc. --&gt;
+&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://doi.org/10.31235/osf.io/pc294&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
+&lt;button type=&#34;button&#34; class=&#34;btn btn-primary&#34;&gt;Publication&lt;/button&gt; &lt;/a&gt; 
+&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://osf.io/10.4054/DemRes.2022.47.5/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
+&lt;button type=&#34;button&#34; class=&#34;btn btn-primary&#34;&gt;Open Access&lt;/button&gt; &lt;/a&gt; 
+&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://osf.io/eu63f/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-primary&#34;&gt;Replication&lt;/button&gt; &lt;/a&gt; 
+&lt;a href=&#34;#abstract-bunmd&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34;&gt;Abstract&lt;/a&gt;
+&lt;!-- Abstract --&gt;
+&lt;div id=&#34;abstract-bunmd&#34; class=&#34;collapse&#34;&gt;
+&lt;br /&gt;
+While much progress has been made in understanding the demographic determinants of mortality in the United States using individual survey data and aggregate tabulations, the lack of population-level register data is a barrier to further advances in mortality research. With the release of Social Security application (SS-5), claim, and death records, the National Archives and Records Administration (NARA) has created a new administrative data resource for researchers studying mortality. We introduce the Berkeley Unified Numident Mortality Database (BUNMD), a cleaned and harmonized version of these records. This publicly available dataset provides researchers access to over 49 million individual-level mortality records with demographic covariates and fine geographic detail, allowing for high-resolution mortality research.
+&lt;/div&gt; 
+&lt;/li&gt;
+&lt;/ol&gt;
 &lt;h3 id=&#34;under-review&#34;&gt;Under Review&lt;/h3&gt;
 &lt;hr&gt;
 &lt;ol&gt;
 &lt;li&gt;
-Casey F. Breen, Dennis M. Feehan, and Ayesha S. Mahmud. 2022. “Using Multilevel Regression with Poststratification to Estimate Subnational Contact Patterns.”&lt;br /&gt; &lt;!-- Links to pubs, abstract, etc. --&gt; &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://osf.io/preprints/socarxiv/87e32/&#34;&gt;
+Casey F. Breen, Dennis M. Feehan, and Ayesha S. Mahmud. 2022. “Using Multilevel Regression with Poststratification to Estimate Subnational Contact Patterns.”&lt;br /&gt; &lt;!-- Links to pubs, abstract, etc. --&gt; &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://osf.io/preprints/socarxiv/87e32/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
 &lt;button type=&#34;button&#34; class=&#34;btn btn-primary&#34;&gt;Working Paper&lt;/button&gt; &lt;/a&gt; 
-&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://doi.org/10.17605/OSF.IO/AECWN&#34;&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-primary&#34;&gt;Replication&lt;/button&gt; &lt;/a&gt; 
+&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://doi.org/10.17605/OSF.IO/AECWN&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-primary&#34;&gt;Replication&lt;/button&gt; &lt;/a&gt; 
 &lt;a href=&#34;#abstract-bics&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34;&gt;Abstract&lt;/a&gt;
 &lt;!-- Abstract --&gt;
 &lt;div id=&#34;abstract-bics&#34; class=&#34;collapse&#34;&gt;
@@ -620,28 +635,15 @@ The spread and transmission dynamics of directly transmitted airborne pathogens,
 &lt;/li&gt;
 &lt;li&gt;
 Casey F. Breen. 2022. &#39;&#39;Changes in Racial Self-Identiﬁcation for the Greatest Generation: Evidence from Social Security Administrative Data.&#39;&#39;&lt;br /&gt; &lt;!-- Links to pubs, abstract, etc. --&gt;
-&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://osf.io/preprints/socarxiv/b9ek3/&#34;&gt;
+&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://osf.io/preprints/socarxiv/b9ek3/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
 &lt;button type=&#34;button&#34; class=&#34;btn btn-primary&#34;&gt;Working Paper&lt;/button&gt; &lt;/a&gt; 
-&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://osf.io/vzyj9/&#34;&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-primary&#34;&gt;Replication&lt;/button&gt; &lt;/a&gt; 
+&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://osf.io/vzyj9/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-primary&#34;&gt;Replication&lt;/button&gt; &lt;/a&gt; 
 &lt;a href=&#34;#abstract-ethnoracial&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34;&gt;Abstract&lt;/a&gt;
 &lt;!-- Abstract --&gt;
 &lt;div id=&#34;abstract-ethnoracial&#34; class=&#34;collapse&#34;&gt;
 &lt;br /&gt;
 Researchers generally recognize that ethnoracial identification may shift over the life course.  However, the prevalence of these shifts across cohorts and among older adults remain open questions. Using administrative data from  Social  Security applications from 1984 to 2007, we quantify the magnitude and direction of later life shifts in ethnoracial self-identification among Black, White, Asian, American Indian, and Hispanic members of the “Greatest Generation,” those born between 1901 and 1927. Overall, 2.3% persons in these data changed their ethnoracial identity after the age of 57, with distinct patterns of change for ethnoracial subgroups. By linking to the 1940 Census, we find a positive and significant association between socioeconomic status in early lifeand a shift from non-White to non-Hispanic White identity in later life.  We conclude that ethnoracial self-identification fluidity continues even among older adults, varying in response to social position, ethnoracial climate, and events in greater society.&lt;/div&gt; 
 &lt;/li&gt;
-&lt;li&gt;
-Casey F. Breen and Joshua R. Goldstein Feehan. 2022. “Berkeley Unified Numident Mortality Database: Public Administrative Records for Individual-Level Mortality Research” &lt;br /&gt; &lt;!-- Links to pubs, abstract, etc. --&gt;
-&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://doi.org/10.31235/osf.io/pc294&#34;&gt;
-&lt;button type=&#34;button&#34; class=&#34;btn btn-primary&#34;&gt;Working Paper&lt;/button&gt; &lt;/a&gt; 
-&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://osf.io/eu63f/&#34;&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-primary&#34;&gt;Replication&lt;/button&gt; &lt;/a&gt; 
-&lt;a href=&#34;#abstract-bunmd&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34;&gt;Abstract&lt;/a&gt;
-&lt;!-- Abstract --&gt;
-&lt;div id=&#34;abstract-bunmd&#34; class=&#34;collapse&#34;&gt;
-&lt;br /&gt;
-While much progress has been made in understanding the demographic determinants of mortality in the United States using individual survey data and aggregate tabulations, the lack of population-level register data is a barrier to further advances in mortality research. With the release of Social Security application (SS-5), claim, and death records, the National Archives and Records Administration (NARA) has created a new administrative data resource for researchers studying mortality. We introduce the Berkeley Unified Numident Mortality Database (BUNMD), a cleaned and harmonized version of these records. This publicly available dataset provides researchers access to over 49 million individual-level mortality records with demographic covariates and fine geographic detail, allowing for high-resolution mortality research.
-&lt;/div&gt; 
-&lt;/li&gt;
-&lt;/ol&gt;
 </description>
     </item>
     
@@ -659,6 +661,7 @@ While much progress has been made in understanding the demographic determinants 
 
 
 
+&lt;p&gt;May. 2022: New publication: &lt;a href=&#34;https://doi.org/10.4054/DemRes.2022.47.5&#34;&gt;Berkeley Unified Numident Mortality Database: Public Administrative Records for Individual-Level Mortality Research&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;May. 2022: New publication: &lt;a href=&#34;https://doi.org/10.1145/3491102.3517613&#34;&gt;A Large-Scale Measurement of Cybercrime Against Individuals&lt;/a&gt;. [&lt;a href=&#34;https://www.youtube.com/watch?v=BjrQJc11Isg&#34;&gt;Talk&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;Apr. 2022: Talk at PAA 2022 in the session &amp;ldquo;Computational Demography, Machine Learning, and Algorithmic Bias.&amp;rdquo; [&lt;a href=&#34;https://caseybreen.github.io/media/talk_slides/breen_feehan_rds-multi_paa_2022.pdf&#34;&gt;Slides&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;Apr. 2022: Talk at PAA 2022 in the session &amp;ldquo;Flash: Socioeconomic Inequalities in Health, Life Expectancy, and Mortality.&amp;rdquo; [&lt;a href=&#34;https://caseybreen.github.io/media/talk_slides/breen_flash_paa2022_homeownership.pdf&#34;&gt;Slides&lt;/a&gt;]&lt;/p&gt;

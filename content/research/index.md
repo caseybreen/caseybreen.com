@@ -47,6 +47,23 @@ We know surprisingly little about the prevalence and severity of cybercrime in t
 </li>
 </ol>
 
+<li>
+Casey F. Breen and Joshua R. Goldstein Feehan. 2022. “Berkeley Unified Numident Mortality Database: Public Administrative Records for Individual-Level Mortality Research,” Demographic Research. <br /> <!-- Links to pubs, abstract, etc. -->
+<a style="white-space: nowrap" href="https://doi.org/10.31235/osf.io/pc294" target="_blank" rel="noopener noreferrer">
+<button type="button" class="btn btn-primary">Publication</button> </a> 
+<a style="white-space: nowrap" href="https://osf.io/10.4054/DemRes.2022.47.5/" target="_blank" rel="noopener noreferrer">
+<button type="button" class="btn btn-primary">Open Access</button> </a> 
+<a style="white-space: nowrap" href="https://osf.io/eu63f/" target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-primary">Replication</button> </a> 
+<a href="#abstract-bunmd" class="btn btn-primary" data-toggle="collapse">Abstract</a>
+
+<!-- Abstract -->
+<div id="abstract-bunmd" class="collapse">
+<br />
+While much progress has been made in understanding the demographic determinants of mortality in the United States using individual survey data and aggregate tabulations, the lack of population-level register data is a barrier to further advances in mortality research. With the release of Social Security application (SS-5), claim, and death records, the National Archives and Records Administration (NARA) has created a new administrative data resource for researchers studying mortality. We introduce the Berkeley Unified Numident Mortality Database (BUNMD), a cleaned and harmonized version of these records. This publicly available dataset provides researchers access to over 49 million individual-level mortality records with demographic covariates and fine geographic detail, allowing for high-resolution mortality research.
+</div> 
+</li>
+</ol>
+
 
 ### Under Review
 <hr>
@@ -76,20 +93,7 @@ Casey F. Breen. 2022. ''Changes in Racial Self-Identiﬁcation for the Greatest 
 Researchers generally recognize that ethnoracial identification may shift over the life course.  However, the prevalence of these shifts across cohorts and among older adults remain open questions. Using administrative data from  Social  Security applications from 1984 to 2007, we quantify the magnitude and direction of later life shifts in ethnoracial self-identification among Black, White, Asian, American Indian, and Hispanic members of the “Greatest Generation,” those born between 1901 and 1927. Overall, 2.3% persons in these data changed their ethnoracial identity after the age of 57, with distinct patterns of change for ethnoracial subgroups. By linking to the 1940 Census, we find a positive and significant association between socioeconomic status in early lifeand a shift from non-White to non-Hispanic White identity in later life.  We conclude that ethnoracial self-identification fluidity continues even among older adults, varying in response to social position, ethnoracial climate, and events in greater society.</div> 
 </li>
 
-<li>
-Casey F. Breen and Joshua R. Goldstein Feehan. 2022. “Berkeley Unified Numident Mortality Database: Public Administrative Records for Individual-Level Mortality Research” <br /> <!-- Links to pubs, abstract, etc. -->
-<a style="white-space: nowrap" href="https://doi.org/10.31235/osf.io/pc294" target="_blank" rel="noopener noreferrer">
-<button type="button" class="btn btn-primary">Working Paper</button> </a> 
-<a style="white-space: nowrap" href="https://osf.io/eu63f/" target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-primary">Replication</button> </a> 
-<a href="#abstract-bunmd" class="btn btn-primary" data-toggle="collapse">Abstract</a>
 
-<!-- Abstract -->
-<div id="abstract-bunmd" class="collapse">
-<br />
-While much progress has been made in understanding the demographic determinants of mortality in the United States using individual survey data and aggregate tabulations, the lack of population-level register data is a barrier to further advances in mortality research. With the release of Social Security application (SS-5), claim, and death records, the National Archives and Records Administration (NARA) has created a new administrative data resource for researchers studying mortality. We introduce the Berkeley Unified Numident Mortality Database (BUNMD), a cleaned and harmonized version of these records. This publicly available dataset provides researchers access to over 49 million individual-level mortality records with demographic covariates and fine geographic detail, allowing for high-resolution mortality research.
-</div> 
-</li>
-</ol>
 
 
 

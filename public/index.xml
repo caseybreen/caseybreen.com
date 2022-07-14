@@ -105,7 +105,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-829574136&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-345762819&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -115,7 +115,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-829574136&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-345762819&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -603,7 +603,6 @@ $$&lt;/p&gt;
 &lt;br /&gt;
 We know surprisingly little about the prevalence and severity of cybercrime in the U.S. Yet, in order to prioritize the development and distribution of advice and technology to protect end users, we require empirical evidence regarding cybercrime. Measuring crime, including cybercrime, is a challenging problem that relies on a combination of direct crime reports to the government – which have known issues of under-reporting – and assessment via carefully-designed self-report surveys. We report on the first large-scale, nationally representative academic survey (n=11,953) of consumer cybercrime experiences in the U.S. Our analysis answers four research questions: (1) What is the prevalence and (2) the monetary impact of these cybercrimes we measure in the U.S.?, (3) Do inequities exist in victimization?, and (4) Can we improve cybercrime measurement by leveraging social-reporting techniques used to measure physical crime? Our analysis also offers insight toward improving future measurement of cybercrime and protecting users.&lt;/div&gt; 
 &lt;/li&gt;
-&lt;/ol&gt;
 &lt;li&gt;
 Casey F. Breen and Joshua R. Goldstein Feehan. 2022. “Berkeley Unified Numident Mortality Database: Public Administrative Records for Individual-Level Mortality Research,” Demographic Research. &lt;br /&gt; &lt;!-- Links to pubs, abstract, etc. --&gt;
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://doi.org/10.31235/osf.io/pc294&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
@@ -661,8 +660,8 @@ Researchers generally recognize that ethnoracial identification may shift over t
 
 
 
-&lt;p&gt;May. 2022: New publication: &lt;a href=&#34;https://doi.org/10.4054/DemRes.2022.47.5&#34;&gt;Berkeley Unified Numident Mortality Database: Public Administrative Records for Individual-Level Mortality Research&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;May. 2022: New publication: &lt;a href=&#34;https://doi.org/10.1145/3491102.3517613&#34;&gt;A Large-Scale Measurement of Cybercrime Against Individuals&lt;/a&gt;. [&lt;a href=&#34;https://www.youtube.com/watch?v=BjrQJc11Isg&#34;&gt;Talk&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;July 2022: New publication — &lt;a href=&#34;https://doi.org/10.4054/DemRes.2022.47.5&#34;&gt;Berkeley Unified Numident Mortality Database: Public Administrative Records for Individual-Level Mortality Research&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;May 2022: New publication — &lt;a href=&#34;https://doi.org/10.1145/3491102.3517613&#34;&gt;A Large-Scale Measurement of Cybercrime Against Individuals&lt;/a&gt;. [&lt;a href=&#34;https://www.youtube.com/watch?v=BjrQJc11Isg&#34;&gt;Talk&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;Apr. 2022: Talk at PAA 2022 in the session &amp;ldquo;Computational Demography, Machine Learning, and Algorithmic Bias.&amp;rdquo; [&lt;a href=&#34;https://caseybreen.github.io/media/talk_slides/breen_feehan_rds-multi_paa_2022.pdf&#34;&gt;Slides&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;Apr. 2022: Talk at PAA 2022 in the session &amp;ldquo;Flash: Socioeconomic Inequalities in Health, Life Expectancy, and Mortality.&amp;rdquo; [&lt;a href=&#34;https://caseybreen.github.io/media/talk_slides/breen_flash_paa2022_homeownership.pdf&#34;&gt;Slides&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;Apr. 2022: New working paper — &lt;a href=&#34;https://osf.io/preprints/socarxiv/87e32/&#34;&gt;Novel Estimates Reveal Subnational Heterogeneities in Disease-Relevant Contact Patterns in the United States&lt;/a&gt;.&lt;/p&gt;

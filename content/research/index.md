@@ -32,7 +32,7 @@ I am broadly interested in the areas of population health and social networks. M
 
 
 <ol>
-<li> Casey F. Breen, Elissa M. Redmiles, and Cormac Herley. 2022. “A Large-Scale Measurement of Cybercrime against Individuals.”  
+<li> Casey F. Breen, Elissa M. Redmiles, and Cormac Herley. 2022. “A Large-Scale Measurement of Cybercrime against Individuals.”  The 2022 ACM Conference on Human Factors in Computing Systems (<b>CHI</b>).
 <!-- Links to pubs, abstract, etc. -->
 
 <a style="white-space: nowrap" href="https://dl.acm.org/doi/10.1145/3491102.3517613" target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-primary">Publication</button> </a> 
@@ -45,13 +45,13 @@ I am broadly interested in the areas of population health and social networks. M
 <br />
 We know surprisingly little about the prevalence and severity of cybercrime in the U.S. Yet, in order to prioritize the development and distribution of advice and technology to protect end users, we require empirical evidence regarding cybercrime. Measuring crime, including cybercrime, is a challenging problem that relies on a combination of direct crime reports to the government – which have known issues of under-reporting – and assessment via carefully-designed self-report surveys. We report on the first large-scale, nationally representative academic survey (n=11,953) of consumer cybercrime experiences in the U.S. Our analysis answers four research questions: (1) What is the prevalence and (2) the monetary impact of these cybercrimes we measure in the U.S.?, (3) Do inequities exist in victimization?, and (4) Can we improve cybercrime measurement by leveraging social-reporting techniques used to measure physical crime? Our analysis also offers insight toward improving future measurement of cybercrime and protecting users.</div> 
 </li>
-</ol>
+
 
 <li>
-Casey F. Breen and Joshua R. Goldstein Feehan. 2022. “Berkeley Unified Numident Mortality Database: Public Administrative Records for Individual-Level Mortality Research,” Demographic Research. <br /> <!-- Links to pubs, abstract, etc. -->
-<a style="white-space: nowrap" href="https://doi.org/10.31235/osf.io/pc294" target="_blank" rel="noopener noreferrer">
+Casey F. Breen and Joshua R. Goldstein Feehan. 2022. “Berkeley Unified Numident Mortality Database: Public Administrative Records for Individual-Level Mortality Research.” Demographic Research. <br /> <!-- Links to pubs, abstract, etc. -->
+<a style="white-space: nowrap" href="https://doi.org/10.4054/DemRes.2022.47.5" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-primary">Publication</button> </a> 
-<a style="white-space: nowrap" href="https://osf.io/10.4054/DemRes.2022.47.5/" target="_blank" rel="noopener noreferrer">
+<a style="white-space: nowrap" href="https://doi.org/10.31235/osf.io/pc294" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-primary">Open Access</button> </a> 
 <a style="white-space: nowrap" href="https://osf.io/eu63f/" target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-primary">Replication</button> </a> 
 <a href="#abstract-bunmd" class="btn btn-primary" data-toggle="collapse">Abstract</a>

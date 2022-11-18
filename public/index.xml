@@ -105,7 +105,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-942153876&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-153246978&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -115,7 +115,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-942153876&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-153246978&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -660,9 +660,6 @@ Researchers generally recognize that ethnoracial identification may shift over t
 
 
 
-&lt;p&gt;Nov. 2022: Talk at SSHA in the session &amp;ldquo;Full Count Census Data II: Record Linkage and Data Bases.&amp;rdquo; [&lt;a href=&#34;https://caseybreen.github.io/media/talk_slides/breen_goldstein_bunmd_nov18_2022.pdf&#34;&gt;Slides&lt;/a&gt;]&lt;/p&gt;
-&lt;p&gt;Nov. 2022: Talk at FSU Sociology Sociology: &amp;ldquo;The Mortality Advantage of Homeonwership: Evidence from Linked Administrative Data&amp;rdquo; [&lt;a href=&#34;https://caseybreen.github.io/media/talk_slides/breen_homeownership_longevity_nov9_2022.pdf&#34;&gt;Slides&lt;/a&gt;]&lt;/p&gt;
-&lt;p&gt;Aug. 2022: Talk at ASA 2022 in the session &amp;ldquo;Section on Methodology — Advances in Network Methods&amp;rdquo; [&lt;a href=&#34;https://caseybreen.github.io/media/talk_slides/breen_feehan_rds_multi_asa_2022.pdf&#34;&gt;Slides&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;Aug. 2022: Talk at ASA 2022 in the session &amp;ldquo;Section on Mathematical Sociology / Computational Sociology: Methods and Application&amp;rdquo; [&lt;a href=&#34;https://caseybreen.github.io/media/talk_slides/breen_seltzer_machine_learning_mortality_asa2022.pdf&#34;&gt;Slides&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;July 2022: New publication — &lt;a href=&#34;https://doi.org/10.4054/DemRes.2022.47.5&#34;&gt;Berkeley Unified Numident Mortality Database: Public Administrative Records for Individual-Level Mortality Research&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;May 2022: New publication — &lt;a href=&#34;https://doi.org/10.1145/3491102.3517613&#34;&gt;A Large-Scale Measurement of Cybercrime Against Individuals&lt;/a&gt;. [&lt;a href=&#34;https://www.youtube.com/watch?v=BjrQJc11Isg&#34;&gt;Talk&lt;/a&gt;]&lt;/p&gt;

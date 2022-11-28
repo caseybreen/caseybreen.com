@@ -1,6 +1,6 @@
 ---
 header:
-title: Recent & Upcoming Talks
+title: Confernce and Invited Talks
 ---
 
 <style type="text/css">

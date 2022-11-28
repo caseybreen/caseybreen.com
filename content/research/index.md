@@ -32,7 +32,7 @@ I am broadly interested in the areas of population health and social networks. M
 
 <ol>
 <li>
-Casey F. Breen, Dennis M. Feehan, and Ayesha S. Mahmud. 2022. ''Using Multilevel Regression with Poststratification to Estimate Subnational Contact Patterns.'' Forthcoming, <i> PLOS Computational Biology. </i> <br /> <!-- Links to pubs, abstract, etc. --> <a style="white-space: nowrap" href="https://osf.io/preprints/socarxiv/87e32/" target="_blank" rel="noopener noreferrer">
+Casey F. Breen, Dennis M. Feehan, and Ayesha S. Mahmud. 2022. ''Using Multilevel Regression with Poststratification to Estimate Subnational Contact Patterns.'' Forthcoming, <i> PLOS Computational Biology. </i>  <!-- Links to pubs, abstract, etc. --> <a style="white-space: nowrap" href="https://osf.io/preprints/socarxiv/87e32/" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-primary">Working Paper</button> </a> 
 <a style="white-space: nowrap" href="https://doi.org/10.17605/OSF.IO/AECWN" target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-primary">Replication</button> </a> 
 <a href="#abstract-bics" class="btn btn-primary" data-toggle="collapse">Abstract</a>
@@ -44,7 +44,7 @@ The spread and transmission dynamics of directly transmitted airborne pathogens,
 </li>
 
 <li>
-Casey F. Breen. 2022. ''Changes in Racial Self-Identiﬁcation for the Greatest Generation: Evidence from Social Security Administrative Data.'' Forthcoming, <i> Population Research and Policy Review. </i> <br /> <!-- Links to pubs, abstract, etc. -->
+Casey F. Breen. 2022. ''Changes in Racial Self-Identiﬁcation for the Greatest Generation: Evidence from Social Security Administrative Data.'' Forthcoming, <i> Population Research and Policy Review. </i>  <!-- Links to pubs, abstract, etc. -->
 <a style="white-space: nowrap" href="https://osf.io/preprints/socarxiv/b9ek3/" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-primary">Working Paper</button> </a> 
 <a style="white-space: nowrap" href="https://osf.io/vzyj9/" target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-primary">Replication</button> </a> 
@@ -60,7 +60,6 @@ Researchers generally recognize that ethnoracial identification may shift over t
 
 <li> Casey F. Breen, Elissa M. Redmiles, and Cormac Herley. 2022. “A Large-Scale Measurement of Cybercrime against Individuals.”  <i> The 2022 ACM Conference on Human Factors in Computing Systems (<b>CHI</b>) </i>.
 <!-- Links to pubs, abstract, etc. -->
-
 <a style="white-space: nowrap" href="https://dl.acm.org/doi/10.1145/3491102.3517613" target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-primary">Publication</button> </a> 
 <a style="white-space: nowrap" href="https://doi.org/10.17605/OSF.IO/KNUFM" target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-primary">Replication</button> </a> 
 <a style="white-space: nowrap" href="https://www.youtube.com/watch?v=BjrQJc11Isg" target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-primary">Video</button> </a> 
@@ -73,7 +72,7 @@ We know surprisingly little about the prevalence and severity of cybercrime in t
 </li>
 
 <li>
-Casey F. Breen and Joshua R. Goldstein. 2022. “Berkeley Unified Numident Mortality Database: Public Administrative Records for Individual-Level Mortality Research.” <i> Demographic Research. </i><br /> <!-- Links to pubs, abstract, etc. -->
+Casey F. Breen and Joshua R. Goldstein. 2022. “Berkeley Unified Numident Mortality Database: Public Administrative Records for Individual-Level Mortality Research.” <i> Demographic Research. </i> <!-- Links to pubs, abstract, etc. -->
 <a style="white-space: nowrap" href="https://doi.org/10.4054/DemRes.2022.47.5" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-primary">Publication</button> </a> 
 <a style="white-space: nowrap" href="https://doi.org/10.31235/osf.io/pc294" target="_blank" rel="noopener noreferrer">
@@ -97,7 +96,7 @@ While much progress has been made in understanding the demographic determinants 
 <ol>
 
 <li>
-Joshua R. Goldstein, Casey F. Breen, Maria Osborne, and Serge Atherwood. 2022. “Mortality Modeling of Partially Observed Cohorts Using Administrative Death Records.” <br /> <!-- Links to pubs, abstract, etc. -->
+Joshua R. Goldstein, Casey F. Breen, Maria Osborne, and Serge Atherwood. 2022. “Mortality Modeling of Partially Observed Cohorts Using Administrative Death Records.”  <br /> <!-- Links to pubs, abstract, etc. -->
 
 <a style="white-space: nowrap" href="https://doi.org/10.31235/osf.io/efdzh" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-primary">Open Access</button> </a> 

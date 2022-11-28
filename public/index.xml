@@ -5,7 +5,7 @@
     <link>https://caseybreen.github.io/</link>
       <atom:link href="https://caseybreen.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Casey Breen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 12 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://caseybreen.github.io/images/icon_hu27584b1e22fc8fa90178e36a7ef1ffc7_1165_512x512_fill_lanczos_center_3.png</url>
       <title>Casey Breen</title>
@@ -55,28 +55,6 @@
     </item>
     
     <item>
-      <title>Example Talk</title>
-      <link>https://caseybreen.github.io/talk/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://caseybreen.github.io/talk/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Writing technical content in Academic</title>
       <link>https://caseybreen.github.io/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
@@ -105,7 +83,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-389461572&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-451639728&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -115,7 +93,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-389461572&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-451639728&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -459,10 +437,10 @@ date: 2019-09-01
 &lt;hr&gt;
 &lt;ol&gt;
 &lt;li&gt;
-Casey F. Breen, Dennis M. Feehan, and Ayesha S. Mahmud. 2022. &#39;&#39;Using Multilevel Regression with Poststratification to Estimate Subnational Contact Patterns.&#39;&#39; Forthcoming, &lt;i&gt; PLOS Computational Biology. &lt;/i&gt; &lt;br /&gt; &lt;!-- Links to pubs, abstract, etc. --&gt; &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://osf.io/preprints/socarxiv/87e32/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
-&lt;button type=&#34;button&#34; class=&#34;btn btn-primary&#34;&gt;Working Paper&lt;/button&gt; &lt;/a&gt; 
-&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://doi.org/10.17605/OSF.IO/AECWN&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-primary&#34;&gt;Replication&lt;/button&gt; &lt;/a&gt; 
-&lt;a href=&#34;#abstract-bics&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34;&gt;Abstract&lt;/a&gt;
+Casey F. Breen, Dennis M. Feehan, and Ayesha S. Mahmud. 2022. &#39;&#39;Using Multilevel Regression with Poststratification to Estimate Subnational Contact Patterns.&#39;&#39; Forthcoming, &lt;i&gt; PLOS Computational Biology. &lt;/i&gt;  &lt;!-- Links to pubs, abstract, etc. --&gt; &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://osf.io/preprints/socarxiv/87e32/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
+&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Working Paper&lt;/button&gt; &lt;/a&gt; 
+&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://doi.org/10.17605/OSF.IO/AECWN&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Replication&lt;/button&gt; &lt;/a&gt; 
+&lt;a href=&#34;#abstract-bics&#34; class=&#34;btn btn-outline-primary&#34; data-toggle=&#34;collapse&#34;&gt;Abstract&lt;/a&gt;
 &lt;!-- Abstract --&gt;
 &lt;div id=&#34;abstract-bics&#34; class=&#34;collapse&#34;&gt;
 &lt;br /&gt;
@@ -470,11 +448,11 @@ The spread and transmission dynamics of directly transmitted airborne pathogens,
 &lt;/div&gt; 
 &lt;/li&gt;
 &lt;li&gt;
-Casey F. Breen. 2022. &#39;&#39;Changes in Racial Self-Identiﬁcation for the Greatest Generation: Evidence from Social Security Administrative Data.&#39;&#39; Forthcoming, &lt;i&gt; Population Research and Policy Review. &lt;/i&gt; &lt;br /&gt; &lt;!-- Links to pubs, abstract, etc. --&gt;
+Casey F. Breen. 2022. &#39;&#39;Changes in Racial Self-Identiﬁcation for the Greatest Generation: Evidence from Social Security Administrative Data.&#39;&#39; Forthcoming, &lt;i&gt; Population Research and Policy Review. &lt;/i&gt;  &lt;!-- Links to pubs, abstract, etc. --&gt;
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://osf.io/preprints/socarxiv/b9ek3/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
-&lt;button type=&#34;button&#34; class=&#34;btn btn-primary&#34;&gt;Working Paper&lt;/button&gt; &lt;/a&gt; 
-&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://osf.io/vzyj9/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-primary&#34;&gt;Replication&lt;/button&gt; &lt;/a&gt; 
-&lt;a href=&#34;#abstract-ethnoracial&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34;&gt;Abstract&lt;/a&gt;
+&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Working Paper&lt;/button&gt; &lt;/a&gt; 
+&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://osf.io/vzyj9/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Replication&lt;/button&gt; &lt;/a&gt; 
+&lt;a href=&#34;#abstract-ethnoracial&#34; class=&#34;btn btn-outline-primary&#34; data-toggle=&#34;collapse&#34;&gt;Abstract&lt;/a&gt;
 &lt;!-- Abstract --&gt;
 &lt;div id=&#34;abstract-ethnoracial&#34; class=&#34;collapse&#34;&gt;
 &lt;br /&gt;
@@ -482,23 +460,23 @@ Researchers generally recognize that ethnoracial identification may shift over t
 &lt;/li&gt;
 &lt;li&gt; Casey F. Breen, Elissa M. Redmiles, and Cormac Herley. 2022. “A Large-Scale Measurement of Cybercrime against Individuals.”  &lt;i&gt; The 2022 ACM Conference on Human Factors in Computing Systems (&lt;b&gt;CHI&lt;/b&gt;) &lt;/i&gt;.
 &lt;!-- Links to pubs, abstract, etc. --&gt;
-&lt;p&gt;&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://dl.acm.org/doi/10.1145/3491102.3517613&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-primary&#34;&gt;Publication&lt;/button&gt; &lt;/a&gt;
-&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://doi.org/10.17605/OSF.IO/KNUFM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-primary&#34;&gt;Replication&lt;/button&gt; &lt;/a&gt;
-&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://www.youtube.com/watch?v=BjrQJc11Isg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-primary&#34;&gt;Video&lt;/button&gt; &lt;/a&gt;
-&lt;a href=&#34;#abstract-cyber&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34;&gt;Abstract&lt;/a&gt;&lt;/p&gt;
+&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://dl.acm.org/doi/10.1145/3491102.3517613&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Publication&lt;/button&gt; &lt;/a&gt; 
+&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://doi.org/10.17605/OSF.IO/KNUFM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Replication&lt;/button&gt; &lt;/a&gt; 
+&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://www.youtube.com/watch?v=BjrQJc11Isg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Video&lt;/button&gt; &lt;/a&gt; 
+&lt;a href=&#34;#abstract-cyber&#34; class=&#34;btn btn-outline-primary&#34; data-toggle=&#34;collapse&#34;&gt;Abstract&lt;/a&gt;
 &lt;!-- Abstract --&gt;
 &lt;div id=&#34;abstract-cyber&#34; class=&#34;collapse&#34;&gt;
 &lt;br /&gt;
 We know surprisingly little about the prevalence and severity of cybercrime in the U.S. Yet, in order to prioritize the development and distribution of advice and technology to protect end users, we require empirical evidence regarding cybercrime. Measuring crime, including cybercrime, is a challenging problem that relies on a combination of direct crime reports to the government – which have known issues of under-reporting – and assessment via carefully-designed self-report surveys. We report on the first large-scale, nationally representative academic survey (n=11,953) of consumer cybercrime experiences in the U.S. Our analysis answers four research questions: (1) What is the prevalence and (2) the monetary impact of these cybercrimes we measure in the U.S.?, (3) Do inequities exist in victimization?, and (4) Can we improve cybercrime measurement by leveraging social-reporting techniques used to measure physical crime? Our analysis also offers insight toward improving future measurement of cybercrime and protecting users.&lt;/div&gt; 
 &lt;/li&gt;
 &lt;li&gt;
-Casey F. Breen and Joshua R. Goldstein. 2022. “Berkeley Unified Numident Mortality Database: Public Administrative Records for Individual-Level Mortality Research.” &lt;i&gt; Demographic Research. &lt;/i&gt;&lt;br /&gt; &lt;!-- Links to pubs, abstract, etc. --&gt;
+Casey F. Breen and Joshua R. Goldstein. 2022. “Berkeley Unified Numident Mortality Database: Public Administrative Records for Individual-Level Mortality Research.” &lt;i&gt; Demographic Research. &lt;/i&gt; &lt;!-- Links to pubs, abstract, etc. --&gt;
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://doi.org/10.4054/DemRes.2022.47.5&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
-&lt;button type=&#34;button&#34; class=&#34;btn btn-primary&#34;&gt;Publication&lt;/button&gt; &lt;/a&gt; 
+&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Publication&lt;/button&gt; &lt;/a&gt; 
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://doi.org/10.31235/osf.io/pc294&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
-&lt;button type=&#34;button&#34; class=&#34;btn btn-primary&#34;&gt;Open Access&lt;/button&gt; &lt;/a&gt; 
-&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://osf.io/eu63f/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-primary&#34;&gt;Replication&lt;/button&gt; &lt;/a&gt; 
-&lt;a href=&#34;#abstract-bunmd&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34;&gt;Abstract&lt;/a&gt;
+&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Open Access&lt;/button&gt; &lt;/a&gt; 
+&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://osf.io/eu63f/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Replication&lt;/button&gt; &lt;/a&gt; 
+&lt;a href=&#34;#abstract-bunmd&#34; class=&#34;btn btn-outline-primary&#34; data-toggle=&#34;collapse&#34;&gt;Abstract&lt;/a&gt;
 &lt;!-- Abstract --&gt;
 &lt;div id=&#34;abstract-bunmd&#34; class=&#34;collapse&#34;&gt;
 &lt;br /&gt;
@@ -510,11 +488,11 @@ While much progress has been made in understanding the demographic determinants 
 &lt;hr&gt;
 &lt;ol&gt;
 &lt;li&gt;
-Joshua R. Goldstein, Casey F. Breen, Maria Osborne, and Serge Atherwood. 2022. “Mortality Modeling of Partially Observed Cohorts Using Administrative Death Records.” &lt;br /&gt; &lt;!-- Links to pubs, abstract, etc. --&gt;
+Joshua R. Goldstein, Casey F. Breen, Maria Osborne, and Serge Atherwood. 2022. “Mortality Modeling of Partially Observed Cohorts Using Administrative Death Records.”  &lt;br /&gt; &lt;!-- Links to pubs, abstract, etc. --&gt;
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://doi.org/10.31235/osf.io/efdzh&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
-&lt;button type=&#34;button&#34; class=&#34;btn btn-primary&#34;&gt;Open Access&lt;/button&gt; &lt;/a&gt; 
-&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://osf.io/d6qhf/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-primary&#34;&gt;Replication&lt;/button&gt; &lt;/a&gt; 
-&lt;a href=&#34;#abstract-gompertz&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34;&gt;Abstract&lt;/a&gt;
+&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Open Access&lt;/button&gt; &lt;/a&gt; 
+&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://osf.io/d6qhf/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Replication&lt;/button&gt; &lt;/a&gt; 
+&lt;a href=&#34;#abstract-gompertz&#34; class=&#34;btn btn-outline-primary&#34; data-toggle=&#34;collapse&#34;&gt;Abstract&lt;/a&gt;
 &lt;!-- Abstract --&gt;
 &lt;div id=&#34;abstract-gompertz&#34; class=&#34;collapse&#34;&gt;
 &lt;br /&gt;

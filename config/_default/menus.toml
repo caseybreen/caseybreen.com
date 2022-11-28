@@ -19,4 +19,9 @@
     name = "Research"
     url = "research/"
     weight = 80
+    
+[[main]]
+    name = "Talks"
+    url = "talk/"
+    weight = 90
 

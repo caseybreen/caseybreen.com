@@ -13,7 +13,7 @@
  [[main]]
     name = "CV"
     url = "media/casey_breen_cv.pdf"
-    weight = 70
+    weight = 100
     
 [[main]]
     name = "Research"

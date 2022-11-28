@@ -1,6 +1,6 @@
 ---
 header:
-title: Confernce and Invited Talks
+title: Conference and Invited Talks
 ---
 
 <style type="text/css">

@@ -20,7 +20,7 @@ title: Recent & Upcoming Talks
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-fymr">Title</th>
+    <th class="tg-fymr">Talk Title</th>
     <th class="tg-fymr">Venue </th>
     <th class="tg-fymr">Date</th>
     <th class="tg-0lax"><span style="font-weight:bold">Links</span></th>
@@ -55,7 +55,7 @@ title: Recent & Upcoming Talks
     <td class="tg-buh4"><span style="font-weight:400;font-style:normal">A Large-Scale Study of </span>Cybercrime Against Individuals</td>
     <td class="tg-buh4"><a href="https://chi2022.acm.org/" target="_blank" rel="noopener noreferrer">The 2022 ACM Conference on Human Factors in Computing Systems (CHI)</a></td>
     <td class="tg-buh4">May 4, 2022</td>
-    <td class="tg-buh4"><a href="https://www.youtube.com/watch?v=BjrQJc11Isg" target="_blank" rel="noopener noreferrer">Video</a></td>
+    <td class="tg-buh4"><a href="https://www.youtube.com/watch?v=BjrQJc11Isg" target="_blank" rel="noopener noreferrer">Video          </a></td>
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal">New Approaches to Collecting Data From </span>a Respondent-Driven Sample</td>

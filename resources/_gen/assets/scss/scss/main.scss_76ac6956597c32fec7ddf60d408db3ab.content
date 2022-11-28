@@ -9232,3 +9232,14 @@ div.mermaid {
  **************************************************/
 html[dir="rtl"] body {
   text-align: right; }
+
+input[type="button"] {
+  outline: none; }
+
+input[type="button"]::-moz-focus-inner {
+  border: 0; }
+
+.dropdown-menu,
+nav#navbar-main li.nav-item {
+  font-size: 18px;
+  font-weight: bold; }

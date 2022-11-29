@@ -45,7 +45,7 @@ The spread and transmission dynamics of directly transmitted airborne pathogens,
 </li>
 
 <li>
-**Casey F. Breen**. 2022. ''Changes in Racial Self-Identiﬁcation for the Greatest Generation: Evidence from Social Security Administrative Data.'' Forthcoming, <i> Population Research and Policy Review. </i>  <!-- Links to pubs, abstract, etc. -->
+<b>Casey F. Breen</b>. 2022. ''Changes in Racial Self-Identiﬁcation for the Greatest Generation: Evidence from Social Security Administrative Data.'' Forthcoming, <i> Population Research and Policy Review. </i>  <!-- Links to pubs, abstract, etc. -->
 <a style="white-space: nowrap" href="https://osf.io/preprints/socarxiv/b9ek3/" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Working Paper</button> </a> 
 <a style="white-space: nowrap" href="https://osf.io/vzyj9/" target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-outline-primary">Replication</button> </a> 

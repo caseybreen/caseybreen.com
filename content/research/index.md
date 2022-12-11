@@ -49,7 +49,7 @@ Researchers generally recognize that ethnoracial identification may shift over t
 
 
 <li>
-<b>Casey F. Breen</b>, Dennis M. Feehan, and Ayesha S. Mahmud. 2022. ''Using Multilevel Regression with Poststratification to Estimate Subnational Contact Patterns.'' <i> PLOS Computational Biology. </i> e1010742. <!-- Links to pubs, abstract, etc. --> <a style="white-space: nowrap" href="https://journals.plos.org/ploscompbiol/article/comments?id=10.1371/journal.pcbi.1010742" target="_blank" rel="noopener noreferrer">
+<b>Casey F. Breen</b>, Dennis M. Feehan, and Ayesha S. Mahmud. 2022. ''Using Multilevel Regression with Poststratification to Estimate Subnational Contact Patterns.'' <i> PLOS Computational Biology. </i> e1010742. <!-- Links to pubs, abstract, etc. --> <a style="white-space: nowrap" href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010742" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Publication</button> </a>  
 <a style="white-space: nowrap" href="https://osf.io/preprints/socarxiv/87e32/" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Open Access</button> </a> 

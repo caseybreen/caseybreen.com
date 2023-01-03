@@ -31,8 +31,9 @@ social:
   icon_pack: fab
   link: https://github.com/caseybreen
 - icon: google-scholar
-  icon_pack: Academicons
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=sUYdR54AAAAJ&hl=en
+  
 superuser: true
 title: Casey Breen
 user_groups:

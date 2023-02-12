@@ -105,7 +105,7 @@ We know surprisingly little about the prevalence and severity of cybercrime in t
 <ol>
 
 <li>
-Joshua R. Goldstein, <b>Casey F. Breen</b>, Maria Osborne, and Serge Atherwood. 2022. “Mortality Modeling of Partially Observed Cohorts Using Administrative Death Records.” <i> Population Research and Policy Review. </i> Conditionall Accepted. <br /> <!-- Links to pubs, abstract, etc. -->
+Joshua R. Goldstein, <b>Casey F. Breen</b>, Maria Osborne, and Serge Atherwood. 2022. “Mortality Modeling of Partially Observed Cohorts Using Administrative Death Records.” <i> Population Research and Policy Review. </i> Conditionally Accepted. <br /> <!-- Links to pubs, abstract, etc. -->
 
 <a style="white-space: nowrap" href="https://doi.org/10.31235/osf.io/efdzh" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Open Access</button> </a> 
@@ -115,7 +115,7 @@ Joshua R. Goldstein, <b>Casey F. Breen</b>, Maria Osborne, and Serge Atherwood. 
 <!-- Abstract -->
 <div id="abstract-gompertz" class="collapse">
 <br />
-New advances in data linkage provide mortality researchers with access to admin-istrative datasets with millions of mortality records and rich demographic covariates.Although  these  new  datasets  allow  for  high-resolution  mortality  research,  adminis-trative  mortality  records  often  have  technical  limitations,  such  as  limited  mortalitycoverage windows and incomplete observation of survivors.  We describe a method forfitting truncated distributions that can be used for estimating mortality differentialsin administrative data.  We apply this method to the CenSoc datasets, which link U.S.1940 Census records to Social Security administrative mortality records.  Our approachmay be useful in other contexts where administrative data on deaths are available.  Asa companion to the paper, we release the R packagegompertztrunc, which implementsthe methods introduced in this paper.
+New advances in data linkage provide mortality researchers with access to administrative datasets with millions of mortality records and rich demographic covariates. Although these new  datasets allow for high-resolution mortality research, administrative mortality records often have technical limitations, such as limited mortality coverage windows and incomplete observation of survivors. We describe a method for fitting truncated distributions that can be used for estimating mortality differentials in administrative data. We apply this method to the CenSoc datasets, which link U.S.1940 Census records to Social Security administrative mortality records. Our approach may be useful in other contexts where administrative data on deaths are available. As a companion to the paper, we release the R package gompertztrunc, which implements the methods introduced in this paper.
 </div> 
 </li>
 </ol>

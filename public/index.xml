@@ -83,7 +83,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-153684297&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-563982741&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -93,7 +93,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-153684297&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-563982741&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -491,7 +491,7 @@ We know surprisingly little about the prevalence and severity of cybercrime in t
 &lt;hr&gt;
 &lt;ol&gt;
 &lt;li&gt;
-Joshua R. Goldstein, &lt;b&gt;Casey F. Breen&lt;/b&gt;, Maria Osborne, and Serge Atherwood. 2022. “Mortality Modeling of Partially Observed Cohorts Using Administrative Death Records.” &lt;i&gt; Population Research and Policy Review. &lt;/i&gt; &lt;br /&gt; &lt;!-- Links to pubs, abstract, etc. --&gt;
+Joshua R. Goldstein, &lt;b&gt;Casey F. Breen&lt;/b&gt;, Maria Osborne, and Serge Atherwood. 2022. “Mortality Modeling of Partially Observed Cohorts Using Administrative Death Records.” &lt;i&gt; Population Research and Policy Review. &lt;/i&gt; Conditionally Accepted. &lt;br /&gt; &lt;!-- Links to pubs, abstract, etc. --&gt;
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://doi.org/10.31235/osf.io/efdzh&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Open Access&lt;/button&gt; &lt;/a&gt; 
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://osf.io/d6qhf/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Replication&lt;/button&gt; &lt;/a&gt; 
@@ -499,7 +499,7 @@ Joshua R. Goldstein, &lt;b&gt;Casey F. Breen&lt;/b&gt;, Maria Osborne, and Serge
 &lt;!-- Abstract --&gt;
 &lt;div id=&#34;abstract-gompertz&#34; class=&#34;collapse&#34;&gt;
 &lt;br /&gt;
-New advances in data linkage provide mortality researchers with access to admin-istrative datasets with millions of mortality records and rich demographic covariates.Although  these  new  datasets  allow  for  high-resolution  mortality  research,  adminis-trative  mortality  records  often  have  technical  limitations,  such  as  limited  mortalitycoverage windows and incomplete observation of survivors.  We describe a method forfitting truncated distributions that can be used for estimating mortality differentialsin administrative data.  We apply this method to the CenSoc datasets, which link U.S.1940 Census records to Social Security administrative mortality records.  Our approachmay be useful in other contexts where administrative data on deaths are available.  Asa companion to the paper, we release the R packagegompertztrunc, which implementsthe methods introduced in this paper.
+New advances in data linkage provide mortality researchers with access to administrative datasets with millions of mortality records and rich demographic covariates. Although these new  datasets allow for high-resolution mortality research, administrative mortality records often have technical limitations, such as limited mortality coverage windows and incomplete observation of survivors. We describe a method for fitting truncated distributions that can be used for estimating mortality differentials in administrative data. We apply this method to the CenSoc datasets, which link U.S.1940 Census records to Social Security administrative mortality records. Our approach may be useful in other contexts where administrative data on deaths are available. As a companion to the paper, we release the R package gompertztrunc, which implements the methods introduced in this paper.
 &lt;/div&gt; 
 &lt;/li&gt;
 &lt;/ol&gt;

@@ -5,4 +5,5 @@ Casey Notes
 * add new talks: change /content/newlist.dat
 * change home page: content/authors/admin/_index.md
 * talk_for_website.tgn contains list of talks 
-
+* update news: /content/newslist.dat
+* update research: /content/research/index.md

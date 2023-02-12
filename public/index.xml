@@ -83,7 +83,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-462983157&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-153684297&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -93,7 +93,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-462983157&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-153684297&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -438,7 +438,7 @@ date: 2019-09-01
 &lt;hr&gt;
 &lt;ol reversed&gt;
 &lt;li&gt;
-&lt;b&gt;Casey F. Breen&lt;/b&gt;. 2022. &#39;&#39;Changes in Racial Self-Identiﬁcation for the Greatest Generation: Evidence from Social Security Administrative Data.&#39;&#39; Forthcoming, &lt;i&gt; Population Research and Policy Review. &lt;/i&gt;  &lt;!-- Links to pubs, abstract, etc. --&gt;
+&lt;b&gt;Casey F. Breen&lt;/b&gt;. 2022. &#39;&#39;Changes in Racial Self-Identiﬁcation for the Greatest Generation: Evidence from Social Security Administrative Data.&#39;&#39; &lt;i&gt; Population Research and Policy Review. &lt;/i&gt;  42(1):10. &lt;!-- Links to pubs, abstract, etc. --&gt;
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://osf.io/preprints/socarxiv/b9ek3/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Working Paper&lt;/button&gt; &lt;/a&gt; 
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://osf.io/vzyj9/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Replication&lt;/button&gt; &lt;/a&gt; 
@@ -491,7 +491,7 @@ We know surprisingly little about the prevalence and severity of cybercrime in t
 &lt;hr&gt;
 &lt;ol&gt;
 &lt;li&gt;
-Joshua R. Goldstein, &lt;b&gt;Casey F. Breen&lt;/b&gt;, Maria Osborne, and Serge Atherwood. 2022. “Mortality Modeling of Partially Observed Cohorts Using Administrative Death Records.”  &lt;br /&gt; &lt;!-- Links to pubs, abstract, etc. --&gt;
+Joshua R. Goldstein, &lt;b&gt;Casey F. Breen&lt;/b&gt;, Maria Osborne, and Serge Atherwood. 2022. “Mortality Modeling of Partially Observed Cohorts Using Administrative Death Records.” &lt;i&gt; Population Research and Policy Review. &lt;/i&gt; &lt;br /&gt; &lt;!-- Links to pubs, abstract, etc. --&gt;
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://doi.org/10.31235/osf.io/efdzh&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Open Access&lt;/button&gt; &lt;/a&gt; 
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://osf.io/d6qhf/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Replication&lt;/button&gt; &lt;/a&gt; 
@@ -520,6 +520,7 @@ New advances in data linkage provide mortality researchers with access to admin-
 
 
 
+&lt;p&gt;Feb. 2023: New publication — &lt;a href=&#34;https://link.springer.com/article/10.1007/s11113-023-09764-4&#34;&gt;Late‑Life Changes in Ethnoracial Self‑identification: Evidence from Social Security Administrative Data&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Dec. 2022: New publication — &lt;a href=&#34;https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010742&#34;&gt;Novel Estimates Reveal Subnational Heterogeneities in Disease-Relevant Contact Patterns in the United States&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Nov. 2022: Talk at SSHA in the session &amp;ldquo;Full Count Census Data II: Record Linkage and Data Bases.&amp;rdquo; [&lt;a href=&#34;https://caseybreen.github.io/media/talk_slides/breen_goldstein_bunmd_nov18_2022.pdf&#34;&gt;Slides&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;Nov. 2022: Talk at Florida State: &amp;ldquo;The Mortality Advantage of Homeonwership: Evidence from Linked Administrative Data&amp;rdquo; [&lt;a href=&#34;https://caseybreen.github.io/media/talk_slides/breen_homeownership_longevity_nov9_2022.pdf&#34;&gt;Slides&lt;/a&gt;]&lt;/p&gt;

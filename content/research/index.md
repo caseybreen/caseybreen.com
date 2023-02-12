@@ -35,7 +35,7 @@ I am broadly interested in the areas of population health and social networks. M
 
 
 <li>
-<b>Casey F. Breen</b>. 2022. ''Changes in Racial Self-Identiﬁcation for the Greatest Generation: Evidence from Social Security Administrative Data.'' Forthcoming, <i> Population Research and Policy Review. </i>  <!-- Links to pubs, abstract, etc. -->
+<b>Casey F. Breen</b>. 2022. ''Changes in Racial Self-Identiﬁcation for the Greatest Generation: Evidence from Social Security Administrative Data.'' <i> Population Research and Policy Review. </i>  42(1):10. <!-- Links to pubs, abstract, etc. -->
 <a style="white-space: nowrap" href="https://osf.io/preprints/socarxiv/b9ek3/" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Working Paper</button> </a> 
 <a style="white-space: nowrap" href="https://osf.io/vzyj9/" target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-outline-primary">Replication</button> </a> 
@@ -105,7 +105,7 @@ We know surprisingly little about the prevalence and severity of cybercrime in t
 <ol>
 
 <li>
-Joshua R. Goldstein, <b>Casey F. Breen</b>, Maria Osborne, and Serge Atherwood. 2022. “Mortality Modeling of Partially Observed Cohorts Using Administrative Death Records.”  <br /> <!-- Links to pubs, abstract, etc. -->
+Joshua R. Goldstein, <b>Casey F. Breen</b>, Maria Osborne, and Serge Atherwood. 2022. “Mortality Modeling of Partially Observed Cohorts Using Administrative Death Records.” <i> Population Research and Policy Review. </i> Conditionall Accepted. <br /> <!-- Links to pubs, abstract, etc. -->
 
 <a style="white-space: nowrap" href="https://doi.org/10.31235/osf.io/efdzh" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Open Access</button> </a> 

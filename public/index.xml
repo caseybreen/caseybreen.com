@@ -83,7 +83,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-563982741&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-879451236&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -93,7 +93,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-563982741&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-879451236&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -462,7 +462,8 @@ The spread and transmission dynamics of directly transmitted airborne pathogens,
 &lt;/div&gt; 
 &lt;/li&gt;
 &lt;li&gt;
-&lt;b&gt;Casey F. Breen&lt;/b&gt; and Joshua R. Goldstein. 2022. “Berkeley Unified Numident Mortality Database: Public Administrative Records for Individual-Level Mortality Research.” &lt;i&gt; Demographic Research. Volume 47, Page 111-142.&lt;/i&gt; &lt;!-- Links to pubs, abstract, etc. --&gt;
+&lt;b&gt;Casey F. Breen&lt;/b&gt; and Joshua R. Goldstein. 2022. “Berkeley Unified Numident Mortality Database: Public Administrative Records for Individual-Level Mortality Research.” &lt;i&gt; Demographic Research. Volume 47, Page 111-142.&lt;/i&gt; 
+&lt;!-- Links to pubs, abstract, etc. --&gt;
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://doi.org/10.4054/DemRes.2022.47.5&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Publication&lt;/button&gt; &lt;/a&gt; 
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://doi.org/10.31235/osf.io/pc294&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
@@ -475,7 +476,8 @@ The spread and transmission dynamics of directly transmitted airborne pathogens,
 While much progress has been made in understanding the demographic determinants of mortality in the United States using individual survey data and aggregate tabulations, the lack of population-level register data is a barrier to further advances in mortality research. With the release of Social Security application (SS-5), claim, and death records, the National Archives and Records Administration (NARA) has created a new administrative data resource for researchers studying mortality. We introduce the Berkeley Unified Numident Mortality Database (BUNMD), a cleaned and harmonized version of these records. This publicly available dataset provides researchers access to over 49 million individual-level mortality records with demographic covariates and fine geographic detail, allowing for high-resolution mortality research.
 &lt;/div&gt; 
 &lt;/li&gt;
-&lt;li&gt; &lt;b&gt;Casey F. Breen&lt;/b&gt;, Elissa M. Redmiles, and Cormac Herley. 2022. “A Large-Scale Measurement of Cybercrime against Individuals.”  &lt;i&gt; The 2022 ACM Conference on Human Factors in Computing Systems (&lt;b&gt;CHI&lt;/b&gt;) &lt;/i&gt; Pp.1–41..
+&lt;!--Paper  --&gt;
+&lt;li&gt; &lt;b&gt;Casey F. Breen&lt;/b&gt;, Elissa M. Redmiles, and Cormac Herley. 2022. “A Large-Scale Measurement of Cybercrime against Individuals.”  &lt;i&gt; The 2022 ACM Conference on Human Factors in Computing Systems (&lt;b&gt;CHI&lt;/b&gt;) &lt;/i&gt; Pp.1–41.
 &lt;!-- Links to pubs, abstract, etc. --&gt;
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://dl.acm.org/doi/10.1145/3491102.3517613&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Publication&lt;/button&gt; &lt;/a&gt; 
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://doi.org/10.17605/OSF.IO/KNUFM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Replication&lt;/button&gt; &lt;/a&gt; 

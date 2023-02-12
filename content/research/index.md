@@ -64,7 +64,8 @@ The spread and transmission dynamics of directly transmitted airborne pathogens,
 
 
 <li>
-<b>Casey F. Breen</b> and Joshua R. Goldstein. 2022. “Berkeley Unified Numident Mortality Database: Public Administrative Records for Individual-Level Mortality Research.” <i> Demographic Research. Volume 47, Page 111-142.</i> <!-- Links to pubs, abstract, etc. -->
+<b>Casey F. Breen</b> and Joshua R. Goldstein. 2022. “Berkeley Unified Numident Mortality Database: Public Administrative Records for Individual-Level Mortality Research.” <i> Demographic Research. Volume 47, Page 111-142.</i> 
+<!-- Links to pubs, abstract, etc. -->
 <a style="white-space: nowrap" href="https://doi.org/10.4054/DemRes.2022.47.5" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Publication</button> </a> 
 <a style="white-space: nowrap" href="https://doi.org/10.31235/osf.io/pc294" target="_blank" rel="noopener noreferrer">
@@ -80,8 +81,9 @@ While much progress has been made in understanding the demographic determinants 
 </li>
 
 
+<!--Paper  -->
 
-<li> <b>Casey F. Breen</b>, Elissa M. Redmiles, and Cormac Herley. 2022. “A Large-Scale Measurement of Cybercrime against Individuals.”  <i> The 2022 ACM Conference on Human Factors in Computing Systems (<b>CHI</b>) </i> Pp.1–41..
+<li> <b>Casey F. Breen</b>, Elissa M. Redmiles, and Cormac Herley. 2022. “A Large-Scale Measurement of Cybercrime against Individuals.”  <i> The 2022 ACM Conference on Human Factors in Computing Systems (<b>CHI</b>) </i> Pp.1–41.
 <!-- Links to pubs, abstract, etc. -->
 <a style="white-space: nowrap" href="https://dl.acm.org/doi/10.1145/3491102.3517613" target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-outline-primary">Publication</button> </a> 
 <a style="white-space: nowrap" href="https://doi.org/10.17605/OSF.IO/KNUFM" target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-outline-primary">Replication</button> </a> 

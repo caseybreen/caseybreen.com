@@ -9,9 +9,6 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 ---
 
-
-
-
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- Kube CSS -->
@@ -30,25 +27,26 @@ I am broadly interested in the areas of population health and social networks. M
 - Investigating health and mortality disparities in the United States using large-scale linked administrative datasets, such as UC Berkeley's [CenSoc](https://censoc.berkeley.edu/) project.  
 
 
-
-### Publications
+### Working Papers
 <hr>
 
 <ol reversed>
 
 <li>
-<b>Casey F. Breen</b> and Nathan Seltzer. 2022. “The unpredictability of individual-level longevity.” <!-- Links to pubs, abstract, etc. -->
+<b>Casey F. Breen</b> and Nathan Seltzer. “The unpredictability of individual-level longevity.” <!-- Links to pubs, abstract, etc. -->
 
 <a style="white-space: nowrap" href="https://10.31235/osf.io/znsqg
 " target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Open Access</button> </a> 
-<a href="#abstract-gompertz" class="btn btn-outline-primary" data-toggle="collapse">Abstract</a>
+<a href="#abstract-prediction" class="btn btn-outline-primary" data-toggle="collapse">Abstract</a>
 
 <!-- Abstract -->
 <div id="abstract-prediction" class="collapse">
 <br />
-How accurately can age of death be predicted using basic sociodemographic characteristics? We test this question using a large-scale administrative dataset combining the complete count 1940 Census with Social Security death records. We fit eight machine learning algorithms using 35 sociodemographic predictors to generate individual-level predictions of age of death for birth cohorts born at the beginning of the 20th century. We find that none of these algorithms are able to explain more than 1.5% of the variation in age of death. Our results suggest mortality is inherently unpredictable and underscore the challenges of using algorithms to predict major life outcomes.</div> 
+How accurately can age of death be predicted using basic sociodemographic characteristics? We test this question using a large-scale administrative dataset combining the complete count 1940 Census with Social Security death records. We fit eight machine learning algorithms using 35 sociodemographic predictors to generate individual-level predictions of age of death for birth cohorts born at the beginning of the 20th century. We find that none of these algorithms are able to explain more than 1.5% of the variation in age of death. Our results suggest mortality is inherently unpredictable and underscore the challenges of using algorithms to predict major life outcomes.
+</div> 
 </li>
+
 </ol>
 
 
@@ -57,12 +55,8 @@ How accurately can age of death be predicted using basic sociodemographic charac
 
 <ol reversed>
 
-
-
-<ol>
-
 <li>
-Joshua R. Goldstein, <b>Casey F. Breen</b>, Maria Osborne, and Serge Atherwood. 2022. “Mortality Modeling of Partially Observed Cohorts Using Administrative Death Records.” <i> Population Research and Policy Review. </i> Forthcoming <br /> <!-- Links to pubs, abstract, etc. -->
+Joshua R. Goldstein, <b>Casey F. Breen</b>, Maria Osborne, and Serge Atherwood. 2023. “Mortality Modeling of Partially Observed Cohorts Using Administrative Death Records.” <i> Population Research and Policy Review. </i> Forthcoming <br /> <!-- Links to pubs, abstract, etc. -->
 
 <a style="white-space: nowrap" href="https://doi.org/10.31235/osf.io/efdzh" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Open Access</button> </a> 

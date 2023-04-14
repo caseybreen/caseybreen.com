@@ -83,7 +83,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-483791652&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-341572869&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -93,7 +93,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-483791652&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-341572869&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -434,7 +434,7 @@ date: 2019-09-01
 &lt;a href=&#34;https://censoc.berkeley.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CenSoc&lt;/a&gt; project.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;publications&#34;&gt;Publications&lt;/h3&gt;
+&lt;h3 id=&#34;working-papers&#34;&gt;Working Papers&lt;/h3&gt;
 &lt;hr&gt;
 &lt;ol reversed&gt;
 &lt;li&gt;
@@ -442,14 +442,15 @@ date: 2019-09-01
 &lt;p&gt;&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://10.31235/osf.io/znsqg
 &#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Open Access&lt;/button&gt; &lt;/a&gt;
-&lt;a href=&#34;#abstract-gompertz&#34; class=&#34;btn btn-outline-primary&#34; data-toggle=&#34;collapse&#34;&gt;Abstract&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;#abstract-prediction&#34; class=&#34;btn btn-outline-primary&#34; data-toggle=&#34;collapse&#34;&gt;Abstract&lt;/a&gt;&lt;/p&gt;
 &lt;!-- Abstract --&gt;
 &lt;div id=&#34;abstract-prediction&#34; class=&#34;collapse&#34;&gt;
 &lt;br /&gt;
-How accurately can age of death be predicted using basic sociodemographic characteristics? We test this question using a large-scale administrative dataset combining the complete count 1940 Census with Social Security death records. We fit eight machine learning algorithms using 35 sociodemographic predictors to generate individual-level predictions of age of death for birth cohorts born at the beginning of the 20th century. We find that none of these algorithms are able to explain more than 1.5% of the variation in age of death. Our results suggest mortality is inherently unpredictable and underscore the challenges of using algorithms to predict major life outcomes.&lt;/div&gt; 
+How accurately can age of death be predicted using basic sociodemographic characteristics? We test this question using a large-scale administrative dataset combining the complete count 1940 Census with Social Security death records. We fit eight machine learning algorithms using 35 sociodemographic predictors to generate individual-level predictions of age of death for birth cohorts born at the beginning of the 20th century. We find that none of these algorithms are able to explain more than 1.5% of the variation in age of death. Our results suggest mortality is inherently unpredictable and underscore the challenges of using algorithms to predict major life outcomes.
+&lt;/div&gt; 
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3 id=&#34;publications-1&#34;&gt;Publications&lt;/h3&gt;
+&lt;h3 id=&#34;publications&#34;&gt;Publications&lt;/h3&gt;
 &lt;hr&gt;
 &lt;ol reversed&gt;
 &lt;ol&gt;

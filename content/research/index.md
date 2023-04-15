@@ -2,7 +2,6 @@
 title: Research
 summary: Here we describe how to add a page to your site.
 date: "2018-06-28T00:00:00Z"
-
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
@@ -33,7 +32,7 @@ I am broadly interested in the areas of population health and social networks. M
 <ol reversed>
 
 <li>
-<b>Casey F. Breen</b> and Nathan Seltzer. “The unpredictability of individual-level longevity.” <!-- Links to pubs, abstract, etc. -->
+<b>Casey F. Breen</b> and Nathan Seltzer. “The Unpredictability of Individual-level Longevity.” <!-- Links to pubs, abstract, etc. -->
 
 <a style="white-space: nowrap" href="https://doi.org/10.31235/osf.io/znsqg" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Open Access</button> </a> 
@@ -45,6 +44,21 @@ I am broadly interested in the areas of population health and social networks. M
 How accurately can age of death be predicted using basic sociodemographic characteristics? We test this question using a large-scale administrative dataset combining the complete count 1940 Census with Social Security death records. We fit eight machine learning algorithms using 35 sociodemographic predictors to generate individual-level predictions of age of death for birth cohorts born at the beginning of the 20th century. We find that none of these algorithms are able to explain more than 1.5% of the variation in age of death. Our results suggest mortality is inherently unpredictable and underscore the challenges of using algorithms to predict major life outcomes.
 </div> 
 </li>
+
+<li>
+<b>Casey F. Breen</b>. “The Longevity Benefits of Homeownership.” <!-- Links to pubs, abstract, etc. -->
+
+<a style="white-space: nowrap" href="https://osf.io/preprints/socarxiv/7ya3f/" target="_blank" rel="noopener noreferrer">
+<button type="button" class="btn btn-outline-primary">Open Access</button> </a> 
+<a href="#homeownership-prediction" class="btn btn-outline-primary" data-toggle="collapse">Abstract</a>
+
+<!-- Abstract -->
+<div id="homeownership-prediction" class="collapse">
+<br />
+Owning a home has long been touted as a key component of the idealized “American Dream.” Homeownership is associated with greater wealth and better health, but the causal impact of homeownership on health remains unclear. Using linked complete-count census and Social Security mortality records, we document Black-White disparities in homeownership rates and produce the first U.S.-based estimates of the association between homeownership in early adulthood and longevity. We then use a sibling-based identification strategy to estimate the causal effect of homeownership on longevity for cohorts born in the first two decades of the 20th century. Our results indicate homeownership has a significant positive impact on longevity, which we estimate at approximately 0.4 years.
+</div> 
+</li>
+
 
 </ol>
 

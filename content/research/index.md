@@ -69,7 +69,7 @@ Owning a home has long been touted as a key component of the idealized “Americ
 <ol reversed>
 
 <li>
-Joshua R. Goldstein, <b>Casey F. Breen</b>, Maria Osborne, and Serge Atherwood. 2023. “Mortality Modeling of Partially Observed Cohorts Using Administrative Death Records.” <i> Population Research and Policy Review. </i> Forthcoming <br /> <!-- Links to pubs, abstract, etc. -->
+Joshua R. Goldstein, <b>Casey F. Breen</b>, Maria Osborne, and Serge Atherwood. 2023. “Mortality Modeling of Partially Observed Cohorts Using Administrative Death Records.” <i> Population Research and Policy Review. </i> Forthcoming. <!-- Links to pubs, abstract, etc. -->
 
 <a style="white-space: nowrap" href="https://doi.org/10.31235/osf.io/efdzh" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Open Access</button> </a> 
@@ -84,8 +84,7 @@ New advances in data linkage provide mortality researchers with access to admini
 </li>
 
 <li>
-<b>Casey F. Breen</b>. 2022. ''Changes in Racial Self-Identiﬁcation for the Greatest Generation: Evidence from Social Security Administrative Data.'' <i> Population Research and Policy Review. </i>  42(1):10. <!-- Links to pubs, abstract, etc. -->
-<a style="white-space: nowrap" href="https://osf.io/preprints/socarxiv/b9ek3/" target="_blank" rel="noopener noreferrer">
+<b>Casey F. Breen</b>. 2022. ''Changes in Racial Self-Identiﬁcation for the Greatest Generation: Evidence from Social Security Administrative Data.'' <i> Population Research and Policy Review. </i>  42(1):10. <!-- Links to pubs, abstract, etc. --> <a style="white-space: nowrap" href="https://osf.io/preprints/socarxiv/b9ek3/" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Working Paper</button> </a> 
 <a style="white-space: nowrap" href="https://osf.io/vzyj9/" target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-outline-primary">Replication</button> </a> 
 <a href="#abstract-ethnoracial" class="btn btn-outline-primary" data-toggle="collapse">Abstract</a>

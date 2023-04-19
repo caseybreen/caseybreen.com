@@ -84,8 +84,10 @@ New advances in data linkage provide mortality researchers with access to admini
 </li>
 
 <li>
-<b>Casey F. Breen</b>. 2022. ''Changes in Racial Self-Identiﬁcation for the Greatest Generation: Evidence from Social Security Administrative Data.'' <i> Population Research and Policy Review. </i>  42(1):10. <!-- Links to pubs, abstract, etc. --> <a style="white-space: nowrap" href="https://osf.io/preprints/socarxiv/b9ek3/" target="_blank" rel="noopener noreferrer">
-<button type="button" class="btn btn-outline-primary">Working Paper</button> </a> 
+<b>Casey F. Breen</b>. 2022. ''Changes in Racial Self-Identiﬁcation for the Greatest Generation: Evidence from Social Security Administrative Data.'' <i> Population Research and Policy Review. </i>  42(1):10. <!-- Links to pubs, abstract, etc. --> <a style="white-space: nowrap" href="https://link.springer.com/article/10.1007/s11113-023-09764-4" target="_blank" rel="noopener noreferrer">
+<button type="button" class="btn btn-outline-primary">Publication</button> </a>
+<a style="white-space: nowrap" href="https://osf.io/preprints/socarxiv/b9ek3/" target="_blank" rel="noopener noreferrer">
+<button type="button" class="btn btn-outline-primary">Open Access</button> </a> 
 <a style="white-space: nowrap" href="https://osf.io/vzyj9/" target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-outline-primary">Replication</button> </a> 
 <a href="#abstract-ethnoracial" class="btn btn-outline-primary" data-toggle="collapse">Abstract</a>
 

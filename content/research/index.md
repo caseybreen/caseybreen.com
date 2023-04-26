@@ -69,7 +69,7 @@ Owning a home has long been touted as a key component of the idealized “Americ
 <ol reversed>
 
 <li>
-Joshua R. Goldstein, <b>Casey F. Breen</b>, Maria Osborne, and Serge Atherwood. 2023. “Mortality Modeling of Partially Observed Cohorts Using Administrative Death Records.” <i> Population Research and Policy Review. </i> Forthcoming. <!-- Links to pubs, abstract, etc. -->
+Joshua R. Goldstein, <b>Casey F. Breen</b>, Maria Osborne, and Serge Atherwood. 2023. “Mortality Modeling of Partially Observed Cohorts Using Administrative Death Records.” <i> Population Research and Policy Review. </i> 42(3):36. <!-- Links to pubs, abstract, etc. -->
 <a style="white-space: nowrap" href="https://link.springer.com/article/10.1007/s11113-023-09785-z" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Publication</button> </a>
 <a style="white-space: nowrap" href="https://doi.org/10.31235/osf.io/efdzh" target="_blank" rel="noopener noreferrer">

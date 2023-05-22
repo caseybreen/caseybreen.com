@@ -42,7 +42,6 @@ user_groups:
 
 I am a Senior Postdoctoral Fellow in Computational Social Science at the University of Oxford. I completed my Ph.D. in Demography at UC Berkeley supervised by [Dennis Feehan](https://dennisfeehan.org/) and [Joshua R. Goldstein](https://jrgoldstein.com/). 
 
-My research develops and applies computational and demographic methods to examine questions in population health. In one line of research, I advance understanding of health
-and mortality disparities in the United States by combining multiple administrative datasets using record linkage techniques, such as full-count census records and population-level mortality data. A second line of my research develops and applies network-based methods to sample hard-to-reach populations and estimate demographic rates.
+My research develops and applies computational and demographic methods to examine questions in population health. In one line of research, I investigate mortality disparities and dynamics in the United States using large-scale administrative data. In a second line of research, I develop and apply network-based methods to sample hard-to-reach populations and estimate mortality rates in humanitarian emergencies.
 
 View my {{< staticref "media/casey_breen_cv.pdf" "newtab" >}}CV{{< /staticref >}}.

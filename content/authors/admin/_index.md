@@ -40,6 +40,6 @@ user_groups:
 - Principal Investigators
 ---
 
-I'm a Ph.D. candidate in Demography at UC Berkeley supervised by [Dennis Feehan](https://dennisfeehan.org/) and [Joshua R. Goldstein](https://jrgoldstein.com/). I'm interested in the application of social network analysis and computational methods to questions in population health. 
+I am a Postdoctoral Fellow at the University of Oxford. I completed my Ph.D. in Demography at UC Berkeley supervised by [Dennis Feehan](https://dennisfeehan.org/) and [Joshua R. Goldstein](https://jrgoldstein.com/). My research develops and applies computational and demographic methods to examine questions in population health.
 
 View my {{< staticref "media/casey_breen_cv.pdf" "newtab" >}}CV{{< /staticref >}}.

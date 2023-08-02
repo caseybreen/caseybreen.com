@@ -10,9 +10,10 @@ comments: false  # Show comments?
 
 ---
 
-**Email:** &nbsp;&nbsp;&nbsp;&nbsp;<caseybreen@berkeley.edu>
+**Email:** &nbsp;&nbsp;&nbsp;&nbsp;<casey.breen@sociology.ox.ac.uk>
 
 
-**Mail:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Department of Demography  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of California, Berkeley  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 310 Social Sciences Building, Berkeley CA 94720  
+**Mail:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Leverhulme Centre for Demographic Science
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Oxford, Nuffield College
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 42-43 Park End Street, Oxford, OX1 1NF, UK

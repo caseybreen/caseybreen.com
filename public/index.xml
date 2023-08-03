@@ -83,7 +83,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-123476589&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-857691423&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -93,7 +93,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-123476589&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-857691423&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -403,9 +403,9 @@ date: 2019-09-01
       <guid>https://caseybreen.github.io/contact/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt;     
 &lt;a href=&#34;mailto:casey.breen@sociology.ox.ac.uk&#34;&gt;casey.breen@sociology.ox.ac.uk&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Mail:&lt;/strong&gt;        Leverhulme Centre for Demographic Science&lt;/p&gt;
-&lt;p&gt;                 University of Oxford, Nuffield College
-                 42-43 Park End Street, Oxford, OX1 1NF, UK&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mail:&lt;/strong&gt;        Leverhulme Centre for Demographic Science
+          University of Oxford, Nuffield College
+          42-43 Park End Street, Oxford, OX1 1NF, UK&lt;/p&gt;
 </description>
     </item>
     

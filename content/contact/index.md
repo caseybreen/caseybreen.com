@@ -13,7 +13,6 @@ comments: false  # Show comments?
 **Email:** &nbsp;&nbsp;&nbsp;&nbsp;<casey.breen@sociology.ox.ac.uk>
 
 
-**Mail:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Leverhulme Centre for Demographic Science
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Oxford, Nuffield College
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 42-43 Park End Street, Oxford, OX1 1NF, UK
+**Mail:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Leverhulme Centre for Demographic Science <br>
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Oxford, Nuffield College <br>
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 42-43 Park End Street, Oxford, OX1 1NF, UK

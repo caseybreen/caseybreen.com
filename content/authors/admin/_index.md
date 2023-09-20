@@ -40,7 +40,7 @@ user_groups:
 - Principal Investigators
 ---
 
-I am a Postdoctoral Fellow in Computational Social Science at the University of Oxford. I completed my Ph.D. in Demography at UC Berkeley supervised by [Dennis Feehan](https://dennisfeehan.org/) and [Joshua R. Goldstein](https://jrgoldstein.com/). 
+I am a Senior Postdoctoral Fellow in Computational Social Science at the University of Oxford. I completed my Ph.D. in Demography at UC Berkeley supervised by [Dennis Feehan](https://dennisfeehan.org/) and [Joshua R. Goldstein](https://jrgoldstein.com/). 
 
 My research develops and applies computational and demographic methods to examine questions in population health. In one line of research, I investigate mortality disparities and dynamics in the United States using large-scale administrative data. In a second line of research, I develop and apply network-based methods to sample hard-to-reach populations and estimate mortality rates in humanitarian emergencies.
 

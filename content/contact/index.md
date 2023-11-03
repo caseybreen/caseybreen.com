@@ -10,7 +10,7 @@ comments: false  # Show comments?
 
 ---
 
-**Email:** &nbsp;&nbsp;&nbsp;&nbsp;<casey.breen@sociology.ox.ac.uk>
+**Email:** &nbsp;&nbsp;&nbsp;&nbsp;<casey.breen@demography.ox.ac.uk>
 
 
 **Mail:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Leverhulme Centre for Demographic Science <br>

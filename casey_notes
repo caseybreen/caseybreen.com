@@ -1,11 +1,19 @@
-Casey Notes 
+### Casey Notes Organized
 
-* edit color scheme by change /config/_default/params 
-    * create new color scheme /themes/hugo_academic/data/themes/
-* add new talks: change /content/newlist.dat
-* change home page: content/authors/admin/_index.md
-* talk_for_website.tgn contains list of talks 
-* update news: /content/newslist.dat
-* update research: /content/research/index.md
-* update CV: add CV to /static/media/casey_breen_cv.pdf
-* change profile pic: /content/authors/admin/avatar.png
+#### Website Configuration
+- **Edit color scheme**: `/config/_default/params`
+  - **Create new color scheme**: `/themes/hugo_academic/data/themes/`
+
+#### Content Updates
+- **Add new talks**: `/content/newlist.dat`
+- **Update news**: `/content/newslist.dat`
+- **Update research**: `/content/research/index.md`
+
+#### Personal Information
+- **Change home page**: `/content/authors/admin/_index.md`
+- **Update CV**: `/static/media/casey_breen_cv.pdf`
+- **Change profile pic**: `/content/authors/admin/avatar.png`
+- **Update contact**: `/content/contact/index.md`
+
+#### Additional Files
+- **`talk_for_website.tgn` contains list of talks**

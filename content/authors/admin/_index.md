@@ -35,7 +35,7 @@ social:
   link: https://scholar.google.com/citations?user=sUYdR54AAAAJ&hl=en
   
 superuser: true
-title: Casey Breen
+title: Casey Flather Breen
 user_groups:
 - Principal Investigators
 ---

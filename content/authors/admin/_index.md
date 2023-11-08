@@ -17,8 +17,8 @@ interests:
 - Health and Mortality Disparities
 - Computational Social Science
 organizations:
-- name: UC Berkeley
-  url: https://www.site.demog.berkeley.edu/
+- name: University of Oxford
+  url: https://www.ox.ac.uk/
 role: Postdoctoral Scholar
 social:
 - icon: envelope

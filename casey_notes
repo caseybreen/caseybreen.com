@@ -2,7 +2,7 @@
 
 #### Website Configuration
 - **Edit color scheme**: `/config/_default/params`
-  - **Create new color scheme**: `/themes/hugo_academic/data/themes/`
+- **Create new color scheme**: `/themes/hugo_academic/data/themes/`
 
 #### Content Updates
 - **Add new talks**: `/content/newlist.dat`

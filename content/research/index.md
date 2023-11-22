@@ -69,6 +69,24 @@ Owning a home has long been touted as a key component of the idealized “Americ
 <ol reversed>
 
 <li>
+<b>Casey F. Breen</b>, Maria Osborne, and Joshua R. Goldstein. 2023. “CenSoc: Public Linked Administrative Mortality Records for Individual-level Research.” <i> Scientific Data. </i> 42(3):36. <!-- Links to pubs, abstract, etc. -->
+<a style="white-space: nowrap" href="https://www.nature.com/articles/s41597-023-02713-y" target="_blank" rel="noopener noreferrer">
+<button type="button" class="btn btn-outline-primary">Publication</button> </a>
+<a style="white-space: nowrap" href="https://doi.org/10.17605/OSF.IO/8R349" target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-outline-primary">Replication</button> </a> 
+<a href="#abstract-censoc" class="btn btn-outline-primary" data-toggle="collapse">Abstract</a>
+
+<!-- Abstract -->
+<div id="abstract-censoc" class="collapse">
+<br />
+In the United States, much has been learned about the determinants of longevity from survey data and aggregated tabulations. However, the lack of large-scale, individual-level administrative mortality records has proven to be a barrier to further progress. We introduce the CenSoc datasets, which link the complete-count 1940 U.S. Census to Social Security mortality records. These datasets—CenSoc-DMF (N = 4.7 million) and CenSoc-Numident (N = 7.0 million)—primarily cover deaths among individuals aged 65 and older. The size and richness of CenSoc allows investigators to make new discoveries into geographic, racial, and class-based disparities in old-age mortality in the United States. This article gives an overview of the technical steps taken to construct these datasets, validates them using external aggregate mortality data, and discusses best practices for working with these datasets. The CenSoc datasets are publicly available, enabling new avenues of research into the determinants of mortality disparities in the United States.
+</div> 
+</li>
+
+
+
+
+
+<li>
 Joshua R. Goldstein, <b>Casey F. Breen</b>, Maria Osborne, and Serge Atherwood. 2023. “Mortality Modeling of Partially Observed Cohorts Using Administrative Death Records.” <i> Population Research and Policy Review. </i> 42(3):36. <!-- Links to pubs, abstract, etc. -->
 <a style="white-space: nowrap" href="https://link.springer.com/article/10.1007/s11113-023-09785-z" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Publication</button> </a>

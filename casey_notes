@@ -16,4 +16,5 @@
 - **Update contact**: `/content/contact/index.md`
 
 #### Additional Files
-- **`talk_for_website.tgn` contains list of talks**
+- **List of talks:** content/talk/_index.md 
+

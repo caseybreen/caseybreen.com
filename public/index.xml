@@ -83,7 +83,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-857691423&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-387496251&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -93,7 +93,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-857691423&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-387496251&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -402,10 +402,10 @@ date: 2019-09-01
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
       <guid>https://caseybreen.github.io/contact/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt;     
-&lt;a href=&#34;mailto:casey.breen@sociology.ox.ac.uk&#34;&gt;casey.breen@sociology.ox.ac.uk&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Mail:&lt;/strong&gt;        Leverhulme Centre for Demographic Science
-          University of Oxford, Nuffield College
-          42-43 Park End Street, Oxford, OX1 1NF, UK&lt;/p&gt;
+&lt;a href=&#34;mailto:casey.breen@demography.ox.ac.uk&#34;&gt;casey.breen@demography.ox.ac.uk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mail:&lt;/strong&gt;        Leverhulme Centre for Demographic Science &lt;br&gt;
+                 University of Oxford, Nuffield College &lt;br&gt;
+                 42-43 Park End Street, Oxford, OX1 1NF, UK&lt;/p&gt;
 </description>
     </item>
     
@@ -463,6 +463,18 @@ Owning a home has long been touted as a key component of the idealized “Americ
 &lt;h3 id=&#34;publications&#34;&gt;Publications&lt;/h3&gt;
 &lt;hr&gt;
 &lt;ol reversed&gt;
+&lt;li&gt;
+&lt;b&gt;Casey F. Breen&lt;/b&gt;, Maria Osborne, and Joshua R. Goldstein. 2023. “CenSoc: Public Linked Administrative Mortality Records for Individual-level Research.” &lt;i&gt; Scientific Data. &lt;/i&gt; 42(3):36. &lt;!-- Links to pubs, abstract, etc. --&gt;
+&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://www.nature.com/articles/s41597-023-02713-y&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
+&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Publication&lt;/button&gt; &lt;/a&gt;
+&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://doi.org/10.17605/OSF.IO/8R349&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Replication&lt;/button&gt; &lt;/a&gt; 
+&lt;a href=&#34;#abstract-censoc&#34; class=&#34;btn btn-outline-primary&#34; data-toggle=&#34;collapse&#34;&gt;Abstract&lt;/a&gt;
+&lt;!-- Abstract --&gt;
+&lt;div id=&#34;abstract-censoc&#34; class=&#34;collapse&#34;&gt;
+&lt;br /&gt;
+In the United States, much has been learned about the determinants of longevity from survey data and aggregated tabulations. However, the lack of large-scale, individual-level administrative mortality records has proven to be a barrier to further progress. We introduce the CenSoc datasets, which link the complete-count 1940 U.S. Census to Social Security mortality records. These datasets—CenSoc-DMF (N = 4.7 million) and CenSoc-Numident (N = 7.0 million)—primarily cover deaths among individuals aged 65 and older. The size and richness of CenSoc allows investigators to make new discoveries into geographic, racial, and class-based disparities in old-age mortality in the United States. This article gives an overview of the technical steps taken to construct these datasets, validates them using external aggregate mortality data, and discusses best practices for working with these datasets. The CenSoc datasets are publicly available, enabling new avenues of research into the determinants of mortality disparities in the United States.
+&lt;/div&gt; 
+&lt;/li&gt;
 &lt;li&gt;
 Joshua R. Goldstein, &lt;b&gt;Casey F. Breen&lt;/b&gt;, Maria Osborne, and Serge Atherwood. 2023. “Mortality Modeling of Partially Observed Cohorts Using Administrative Death Records.” &lt;i&gt; Population Research and Policy Review. &lt;/i&gt; 42(3):36. &lt;!-- Links to pubs, abstract, etc. --&gt;
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://link.springer.com/article/10.1007/s11113-023-09785-z&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
@@ -547,6 +559,11 @@ We know surprisingly little about the prevalence and severity of cybercrime in t
 
 
 
+&lt;p&gt;Nov. 2023: New publication — 
+&lt;a href=&#34;https://www.nature.com/articles/s41597-023-02713-y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CenSoc: Public Linked Administrative Mortality Records for Individual-level Research.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Jul. 2023: I am delighted to have joined the 
+&lt;a href=&#34;https://www.demography.ox.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leverhulme Centre for Demographic Science at the University of Oxford&lt;/a&gt; as a Senior Postdoctoral Scholar in Computational Social Science. (Mentor: 
+&lt;a href=&#34;https://www.nuffield.ox.ac.uk/people/profiles/ridhi-kashyap/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ridhi Kashyap&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;Feb. 2023: New publication — 
 &lt;a href=&#34;https://link.springer.com/article/10.1007/s11113-023-09785-z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mortality Modeling of Partially Observed Cohorts Using Administrative Death Records&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Apr. 2023: Talk at PAA 2023 in the session &amp;ldquo;Flash: Socioeconomic Inequalities in Mortality.&amp;rdquo; [
@@ -559,7 +576,7 @@ We know surprisingly little about the prevalence and severity of cybercrime in t
 &lt;a href=&#34;https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010742&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Novel Estimates Reveal Subnational Heterogeneities in Disease-Relevant Contact Patterns in the United States&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Nov. 2022: Talk at SSHA in the session &amp;ldquo;Full Count Census Data II: Record Linkage and Data Bases.&amp;rdquo; [
 &lt;a href=&#34;https://caseybreen.github.io/media/talk_slides/breen_goldstein_bunmd_nov18_2022.pdf&#34;&gt;Slides&lt;/a&gt;]&lt;/p&gt;
-&lt;p&gt;Nov. 2022: Talk at Florida State: &amp;ldquo;The Mortality Advantage of Homeonwership: Evidence from Linked Administrative Data&amp;rdquo; [
+&lt;p&gt;Nov. 2022: Talk at Florida State: &amp;ldquo;The Mortality Advantage of Homeownership: Evidence from Linked Administrative Data&amp;rdquo; [
 &lt;a href=&#34;https://caseybreen.github.io/media/talk_slides/breen_homeownership_longevity_nov9_2022.pdf&#34;&gt;Slides&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;Aug. 2022: Talk at ASA 2022 in the session &amp;ldquo;Section on Methodology — Advances in Network Methods&amp;rdquo; [
 &lt;a href=&#34;https://caseybreen.github.io/media/talk_slides/breen_feehan_rds_multi_asa_2022.pdf&#34;&gt;Slides&lt;/a&gt;]&lt;/p&gt;

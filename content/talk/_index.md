@@ -1,6 +1,6 @@
 ---
 header:
-title: Conference and Invited Talks
+title: Recent Conference and Invited Talks
 ---
 
 <style type="text/css">
@@ -10,7 +10,7 @@ title: Conference and Invited Talks
   word-break:normal;}
 .tg th{background-color:#f0f0f0;border-bottom-width:1px;border-color:#ccc;border-style:solid;border-top-width:1px;
   border-width:0px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;
-  padding:10px 5px;word-break:normal;}
+  padding:10px 10px;word-break:normal;}
 .tg .tg-buh4{background-color:#f9f9f9;text-align:left;vertical-align:top}
 .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
@@ -18,8 +18,8 @@ title: Conference and Invited Talks
 .tg .tg-btxf{background-color:#f9f9f9;border-color:inherit;text-align:left;vertical-align:top}
 </style>
 
-| <span style="font-size:large;">Title</span>                                                                         | <span style="font-size:large;">Venue</span>                                                                        | <span style="font-size:large;">Date</span> | <span style="font-size:large;">Links </span>                          |
-|---------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|---------------------------------|:--------------------------------------------------------------------------------:|
+| <span style="font-size:large;">Title</span>                                                                         | <span style="font-size:large;">Venue</span>                                                                        | <span style="font-size:large;">Date</span> | <span style="font-size:large;">Link </span>                          |
+|---------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|---------------------------------|:-------------------------------------------------------------------------------------:|
 | Mapping Subnational Gender Gaps in Internet and Mobile Adoption using Social Media Data                             | Johns Hopkins, Population Health Seminar                                                                          | Dec 13, 2023                    | [Slides](/media/talk_slides/breen_lcds_seminar_dec6_2023.pdf)                  |
 | Computational Approaches to Estimating Key Demographic Quantities in Data-Sparse Settings                           | Oxford University, Leverhulme Centre for Demographic Science                                                       | Dec 6th, 2023                   | [Slides](/media/talk_slides/breen_johns_hopkins_dec13_2023.pdf)                  |
 | The Unpredictability of Individual-level Longevity                                                                  | [Population Association of America 2023](https://ssha2022.ssha.org/)                                               | April 13, 2023                  | [Slides](/media/talk_slides/breen_paa_2023_unpredictability_mortality_slides.pdf)|

@@ -3,27 +3,14 @@ header:
 title: Recent Conference and Invited Talks
 ---
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
-.tg td{background-color:#fff;border-bottom-width:1px;border-color:#ccc;border-style:solid;border-top-width:1px;
-  border-width:0px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;
-  word-break:normal;}
-.tg th{background-color:#f0f0f0;border-bottom-width:1px;border-color:#ccc;border-style:solid;border-top-width:1px;
-  border-width:0px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;
-  padding:10px 10px;word-break:normal;}
-.tg .tg-buh4{background-color:#f9f9f9;text-align:left;vertical-align:top}
-.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-btxf{background-color:#f9f9f9;border-color:inherit;text-align:left;vertical-align:top}
-</style>
+
 
 | <span style="font-size:large;">Title</span>                                                                         | <span style="font-size:large;">Venue</span>                                                                        | <span style="font-size:large;">Date</span> | <span style="font-size:large;">Link </span>                          |
 |---------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|---------------------------------|:-------------------------------------------------------------------------------------:|
-| Mapping Subnational Gender Gaps in Internet and Mobile Adoption using Social Media Data                             | Johns Hopkins, Population Health Seminar                                                                          | Dec 13, 2023                    | [Slides](/media/talk_slides/breen_lcds_seminar_dec6_2023.pdf)                  |
-| Computational Approaches to Estimating Key Demographic Quantities in Data-Sparse Settings                           | Oxford University, Leverhulme Centre for Demographic Science                                                       | Dec 6th, 2023                   | [Slides](/media/talk_slides/breen_johns_hopkins_dec13_2023.pdf)                  |
+| Mapping Subnational Gender Gaps in Internet and Mobile Adoption<br> using Social Media Data                             | Johns Hopkins, Population Health Seminar                                                                           | Dec 13, 2023                    | [Slides](/media/talk_slides/breen_lcds_seminar_dec6_2023.pdf)                  |
+| Computational Approaches to Estimating Key Demographic Quantities<br> in Data-Sparse Settings                           | Oxford University, Leverhulme Centre for Demographic Science                                                       | Dec 6th, 2023                   | [Slides](/media/talk_slides/breen_johns_hopkins_dec13_2023.pdf)              |
 | The Unpredictability of Individual-level Longevity                                                                  | [Population Association of America 2023](https://ssha2022.ssha.org/)                                               | April 13, 2023                  | [Slides](/media/talk_slides/breen_paa_2023_unpredictability_mortality_slides.pdf)|
-|  The Effect of Record Linkage Algorithms on Research Results                                                        | [Population Association of America 2023](https://ssha2022.ssha.org/)                                               | April 13, 2023                  | [Slides](/media/talk_slides/breen_open_science_paa_2023_record_linkage_slides.pdf)|
+| The Effect of Record Linkage Algorithms on Research Results                                                         | [Population Association of America 2023](https://ssha2022.ssha.org/)                                               | April 13, 2023                  | [Slides](/media/talk_slides/breen_open_science_paa_2023_record_linkage_slides.pdf)|
 | Berkeley Unified Numident Mortality Database: Public Administrative Records for Individual-level Mortality Research | [Annual Meeting of the Social Science History Association 2022](https://ssha2022.ssha.org/)                        | Nov 18, 2022                    | [Slides](/media/talk_slides/breen_goldstein_bunmd_nov18_2022.pdf)                |
 | Long Live the American Dream? The Longevity Benefits of Homeownership                                               | Florida State University, Department of Sociology                                                                  | Nov 9, 2022                     | [Slides](/media/talk_slides/breen_homeownership_longevity_nov9_2022.pdf)         |
 | Using Machine Learning Algorithms to Predict Age of Death                                                           | [Annual Meeting of the American Sociological Association 2022](https://www.asanet.org/2022-annual-meeting)         | August 5, 2022                  | [Slides](/media/talk_slides/breen_seltzer_machine_learning_mortality_asa2022.pdf)|

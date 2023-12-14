@@ -1,6 +1,6 @@
 ---
 header:
-title: Recent Conference and Invited Talks
+title: Select Conference and Invited Talks
 ---
 
 

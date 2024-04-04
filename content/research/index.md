@@ -31,6 +31,22 @@ I am broadly interested in the areas of population health and social networks. M
 
 <ol reversed>
 
+
+<li>
+<b>Casey F. Breen</b>. “The Longevity Benefits of Homeownership.” Revised and Resubmitted, <i> Demography. </i><!-- Links to pubs, abstract, etc. -->
+
+<a style="white-space: nowrap" href="https://osf.io/preprints/socarxiv/7ya3f/" target="_blank" rel="noopener noreferrer">
+<button type="button" class="btn btn-outline-primary">Open Access</button> </a> 
+<a href="#homeownership-prediction" class="btn btn-outline-primary" data-toggle="collapse">Abstract</a>
+
+<!-- Abstract -->
+<div id="homeownership-prediction" class="collapse">
+<br />
+Owning a home has long been touted as a key component of the idealized “American Dream.” Homeownership is associated with greater wealth and better health, but the causal impact of homeownership on health remains unclear. Using linked complete-count census and Social Security mortality records, we document Black-White disparities in homeownership rates and produce the first U.S.-based estimates of the association between homeownership in early adulthood and longevity. We then use a sibling-based identification strategy to estimate the causal effect of homeownership on longevity for cohorts born in the first two decades of the 20th century. Our results indicate homeownership has a significant positive impact on longevity, which we estimate at approximately 0.4 years.
+</div> 
+</li>
+
+
 <li>
 <b>Casey F. Breen</b> and Nathan Seltzer. “The Unpredictability of Individual-level Longevity.” <!-- Links to pubs, abstract, etc. -->
 
@@ -46,19 +62,18 @@ How accurately can age of death be predicted using basic sociodemographic charac
 </li>
 
 <li>
-<b>Casey F. Breen</b>. “The Longevity Benefits of Homeownership.” <!-- Links to pubs, abstract, etc. -->
+<b>Casey F. Breen </b>, Saeed Rahman, Christina Kay, Joeri Smits, Steve Ahuka, and Dennis M. Feehan. “Estimating Death Rates in Complex Humanitarian Emergencies Using the Network Survival Method.” <!-- Links to pubs, abstract, etc. -->
 
-<a style="white-space: nowrap" href="https://osf.io/preprints/socarxiv/7ya3f/" target="_blank" rel="noopener noreferrer">
-<button type="button" class="btn btn-outline-primary">Open Access</button> </a> 
-<a href="#homeownership-prediction" class="btn btn-outline-primary" data-toggle="collapse">Abstract</a>
+<a style="white-space: nowrap" href="https://osf.io/vdsjr" target="_blank" rel="noopener noreferrer">
+<button type="button" class="btn btn-outline-primary">Pre-registration</button> </a> 
+<a href="#abstract-network-survival" class="btn btn-outline-primary" data-toggle="collapse">Abstract</a>
 
 <!-- Abstract -->
-<div id="homeownership-prediction" class="collapse">
+<div id="abstract-network-survival" class="collapse">
 <br />
-Owning a home has long been touted as a key component of the idealized “American Dream.” Homeownership is associated with greater wealth and better health, but the causal impact of homeownership on health remains unclear. Using linked complete-count census and Social Security mortality records, we document Black-White disparities in homeownership rates and produce the first U.S.-based estimates of the association between homeownership in early adulthood and longevity. We then use a sibling-based identification strategy to estimate the causal effect of homeownership on longevity for cohorts born in the first two decades of the 20th century. Our results indicate homeownership has a significant positive impact on longevity, which we estimate at approximately 0.4 years.
+Reliable estimates of death rates in complex humanitarian emergencies are critical for assessing the severity of a crisis and for effectively allocating resources. However, in many humanitarian settings, logistical and security concerns make conventional methods for estimating death rates infeasible. In this study, we develop and test a new method for estimating death rates in humanitarian emergencies. Our method is based on the idea that reports about deaths in survey respondents’ social networks can be used to estimate death rates. To test our method, we collected original data in a setting where reliable estimates of death rates are in high demand, Tanganyika Province of the Democratic Republic of the Congo. Qualitative work suggested testing two different types of personal networks as the basis for death rate estimates: deaths among immediate neighbors and deaths among extended kin. We evaluate our new method for estimating mortality rates in humanitarian emergencies by benchmarking against a contemporaneous retrospective household mortality survey. Our empirical results illustrate the settings and assumptions under which we would expect our new method to produce reliable estimates of crude death dates. 
 </div> 
 </li>
-
 
 </ol>
 

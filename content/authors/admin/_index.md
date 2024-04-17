@@ -40,7 +40,7 @@ user_groups:
 - Principal Investigators
 ---
 
-I am a Postdoctoral Felloew at the University of Oxford. I completed my Ph.D. in Demography and M.A. in Biostatistics at UC Berkeley. 
+I am a Postdoctoral Fellow at the University of Oxford. I completed my Ph.D. in Demography and M.A. in Biostatistics at UC Berkeley. 
 
 My research develops and applies computational and demographic methods to examine questions in population health. In one line of research, I investigate mortality disparities and dynamics in the United States using large-scale administrative data. In a second line of research, I develop and apply network-based methods to sample hard-to-reach populations and estimate mortality rates in humanitarian emergencies.
 

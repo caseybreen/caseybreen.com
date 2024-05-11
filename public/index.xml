@@ -83,7 +83,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-368975412&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-359816247&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -93,7 +93,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-368975412&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-359816247&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -460,12 +460,12 @@ How accurately can age of death be predicted using basic sociodemographic charac
 &lt;/div&gt; 
 &lt;/li&gt;
 &lt;li&gt;
-&lt;b&gt;Casey F. Breen, Saeed Rahman, Christina Kay, Joeri Smits, Steve Ahuka, and Dennis M. Feehan.&lt;/b&gt;. “Estimating Death Rates in Complex Humanitarian Emergencies Using the Network Survival Method.” &lt;!-- Links to pubs, abstract, etc. --&gt;
-&lt;p&gt;&amp;lt;a style=&amp;ldquo;white-space: nowrap&amp;rdquo; href=https://osf.io/vdsjr&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;ldquo;noopener noreferrer&amp;rdquo;&amp;gt;
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Pre-registration&lt;/button&gt; &lt;/a&gt;
-&lt;a href=&#34;#abstract-prediction&#34; class=&#34;btn btn-outline-primary&#34; data-toggle=&#34;collapse&#34;&gt;Abstract&lt;/a&gt;&lt;/p&gt;
+&lt;b&gt;Casey F. Breen &lt;/b&gt;, Saeed Rahman, Christina Kay, Joeri Smits, Steve Ahuka, and Dennis M. Feehan. “Estimating Death Rates in Complex Humanitarian Emergencies Using the Network Survival Method.” &lt;!-- Links to pubs, abstract, etc. --&gt;
+&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://osf.io/vdsjr&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
+&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Pre-registration&lt;/button&gt; &lt;/a&gt; 
+&lt;a href=&#34;#abstract-network-survival&#34; class=&#34;btn btn-outline-primary&#34; data-toggle=&#34;collapse&#34;&gt;Abstract&lt;/a&gt;
 &lt;!-- Abstract --&gt;
-&lt;div id=&#34;abstract-prediction&#34; class=&#34;collapse&#34;&gt;
+&lt;div id=&#34;abstract-network-survival&#34; class=&#34;collapse&#34;&gt;
 &lt;br /&gt;
 Reliable estimates of death rates in complex humanitarian emergencies are critical for assessing the severity of a crisis and for effectively allocating resources. However, in many humanitarian settings, logistical and security concerns make conventional methods for estimating death rates infeasible. In this study, we develop and test a new method for estimating death rates in humanitarian emergencies. Our method is based on the idea that reports about deaths in survey respondents’ social networks can be used to estimate death rates. To test our method, we collected original data in a setting where reliable estimates of death rates are in high demand, Tanganyika Province of the Democratic Republic of the Congo. Qualitative work suggested testing two different types of personal networks as the basis for death rate estimates: deaths among immediate neighbors and deaths among extended kin. We evaluate our new method for estimating mortality rates in humanitarian emergencies by benchmarking against a contemporaneous retrospective household mortality survey. Our empirical results illustrate the settings and assumptions under which we would expect our new method to produce reliable estimates of crude death dates. 
 &lt;/div&gt; 
@@ -570,6 +570,7 @@ We know surprisingly little about the prevalence and severity of cybercrime in t
 
 
 
+&lt;p&gt;May 2024: I had a wonderful timing at PAA 2024 in Ohio. I  gave two talks, chaired a session on data infrastructure, and was a discussant for a very interesting session on historical inequality and political economy.&lt;/p&gt;
 &lt;p&gt;Nov. 2023: New publication — 
 &lt;a href=&#34;https://www.nature.com/articles/s41597-023-02713-y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CenSoc: Public Linked Administrative Mortality Records for Individual-level Research.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Jul. 2023: I am delighted to have joined the 

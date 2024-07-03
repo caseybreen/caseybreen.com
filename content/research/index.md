@@ -33,7 +33,7 @@ I am broadly interested in the areas of population health and social networks. M
 
 
 <li>
-<b>Casey F. Breen</b>. “The Longevity Benefits of Homeownership.” Revised and Resubmitted, <i> Demography. </i><!-- Links to pubs, abstract, etc. -->
+<b>Casey F. Breen</b>. “The Longevity Benefits of Homeownership: Evidence from Early 20th-Century U.S. Male Birth Cohorts.” Forthcoming, <i> Demography. </i><!-- Links to pubs, abstract, etc. -->
 
 <a style="white-space: nowrap" href="https://osf.io/preprints/socarxiv/7ya3f/" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Open Access</button> </a> 
@@ -48,7 +48,7 @@ Owning a home has long been touted as a key component of the idealized “Americ
 
 
 <li>
-<b>Casey F. Breen</b> and Nathan Seltzer. “The Unpredictability of Individual-level Longevity.” <!-- Links to pubs, abstract, etc. -->
+<b>Casey F. Breen</b> and Nathan Seltzer. “Demographic Perspectives on Predicting Individual-level Mortality.” <!-- Links to pubs, abstract, etc. -->
 
 <a style="white-space: nowrap" href="https://doi.org/10.31235/osf.io/znsqg" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Open Access</button> </a> 
@@ -57,7 +57,7 @@ Owning a home has long been touted as a key component of the idealized “Americ
 <!-- Abstract -->
 <div id="abstract-prediction" class="collapse">
 <br />
-How accurately can age of death be predicted using basic sociodemographic characteristics? We test this question using a large-scale administrative dataset combining the complete count 1940 Census with Social Security death records. We fit eight machine learning algorithms using 35 sociodemographic predictors to generate individual-level predictions of age of death for birth cohorts born at the beginning of the 20th century. We find that none of these algorithms are able to explain more than 1.5% of the variation in age of death. Our results suggest mortality is inherently unpredictable and underscore the challenges of using algorithms to predict major life outcomes.
+There are striking disparities in longevity across sociodemographic groups in theUnited States. Yet, can sociodemographic characteristics meaningfully explain individual-level variation in longevity?  Here, we leverage machine-learning algorithms and large-scale administrative data to predict individual-level mortality using an array of social,economic, and demographic predictors measured in early adulthood.  We conduct two distinct analyses:  a cohort analysis, which predicts the exact age of death for individuals in the same birth cohort, and a period analysis, which predicts whether individualsage 54–95 will die within the next 10 years.  We are not able to make accurate predic-tions in either our cohort analysis (<i>R<sup>2</sup></i> = 0.014) or our period analysis (<i>R<sup>2</sup></i> = 0.166).Together,  these analyses demonstrate that later life longevity is unpredictable usingsociodemographic characteristics alone, and underscore the crucial need to account forstochastic processes in demographic theory.
 </div> 
 </li>
 

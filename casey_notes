@@ -5,7 +5,6 @@
 - Create new color scheme: `/themes/hugo_academic/data/themes/`
 
 #### Content Updates
-- Add new talks: `/content/newlist.dat`
 - Update news: `/content/newslist.dat`
 - Update research: `/content/research/index.md`
 

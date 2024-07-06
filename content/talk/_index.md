@@ -59,7 +59,7 @@ title: Select Conference Presentations and Invited Talks
       <td>Mapping Subnational Gender Gaps in Internet and Mobile Adoption using Social Media Data</td>
       <td>Johns Hopkins, Population Health Seminar</td>
       <td>Dec 13, 2023</td>
-      <td><a href="/media/talk_slides/breen_johns_hopkins_dec13_2023.pdf" target="_blank">Slides</a></td>
+      <td><a href="https://www.youtube.com/watch?v=CVd3HqcGn0s" target="_blank">Video</a>, <a href="/media/talk_slides/breen_johns_hopkins_dec13_2023.pdf" target="_blank">Slides</a></td>
     </tr>
     <tr>
       <td>Computational Approaches to Estimating Key Demographic Quantities in Data-Sparse Settings</td>

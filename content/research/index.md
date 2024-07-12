@@ -37,6 +37,8 @@ I am broadly interested in the areas of population health and social networks. M
 
 <a style="white-space: nowrap" href="https://osf.io/preprints/socarxiv/7ya3f/" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Open Access</button> </a> 
+<a style="white-space: nowrap" href="https://osf.io/g85sv/?view_only=57f5a76035754ffabc3f7916bf6d3cd0" target="_blank" rel="noopener noreferrer">
+<button type="button" class="btn btn-outline-primary">Replication</button> </a> 
 <a href="#homeownership-prediction" class="btn btn-outline-primary" data-toggle="collapse">Abstract</a>
 
 <!-- Abstract -->

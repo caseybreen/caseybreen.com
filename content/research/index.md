@@ -31,24 +31,6 @@ I am broadly interested in the areas of population health and social networks. M
 
 <ol reversed>
 
-
-<li>
-<b>Casey F. Breen</b>. “The Longevity Benefits of Homeownership: Evidence from Early 20th-Century U.S. Male Birth Cohorts.” Forthcoming, <i> Demography. </i><!-- Links to pubs, abstract, etc. -->
-
-<a style="white-space: nowrap" href="https://osf.io/preprints/socarxiv/7ya3f/" target="_blank" rel="noopener noreferrer">
-<button type="button" class="btn btn-outline-primary">Open Access</button> </a> 
-<a style="white-space: nowrap" href="https://osf.io/g85sv/?view_only=57f5a76035754ffabc3f7916bf6d3cd0" target="_blank" rel="noopener noreferrer">
-<button type="button" class="btn btn-outline-primary">Replication</button> </a> 
-<a href="#homeownership-prediction" class="btn btn-outline-primary" data-toggle="collapse">Abstract</a>
-
-<!-- Abstract -->
-<div id="homeownership-prediction" class="collapse">
-<br />
-Owning a home has long been touted as a key component of the idealized “American Dream.” Homeownership is associated with greater wealth and better health, but the causal impact of homeownership on health remains unclear. Using linked complete-count census and Social Security mortality records, we document Black-White disparities in homeownership rates and produce the first U.S.-based estimates of the association between homeownership in early adulthood and longevity. We then use a sibling-based identification strategy to estimate the causal effect of homeownership on longevity for cohorts born in the first two decades of the 20th century. Our results indicate homeownership has a significant positive impact on longevity, which we estimate at approximately 0.4 years.
-</div> 
-</li>
-
-
 <li>
 <b>Casey F. Breen</b> and Nathan Seltzer. “Demographic Perspectives on Predicting Individual-level Mortality.” <!-- Links to pubs, abstract, etc. -->
 
@@ -84,6 +66,42 @@ Reliable estimates of death rates in complex humanitarian emergencies are critic
 <hr>
 
 <ol reversed>
+
+
+<li>
+<b>Casey F. Breen</b>. “The Longevity Benefits of Homeownership: Evidence from Early 20th-Century U.S. Male Birth Cohorts.” Forthcoming, <i> Demography. </i><!-- Links to pubs, abstract, etc. -->
+
+<a style="white-space: nowrap" href="https://osf.io/preprints/socarxiv/7ya3f/" target="_blank" rel="noopener noreferrer">
+<button type="button" class="btn btn-outline-primary">Open Access</button> </a> 
+<a style="white-space: nowrap" href="https://osf.io/g85sv/?view_only=57f5a76035754ffabc3f7916bf6d3cd0" target="_blank" rel="noopener noreferrer">
+<button type="button" class="btn btn-outline-primary">Replication</button> </a> 
+<a href="#homeownership-prediction" class="btn btn-outline-primary" data-toggle="collapse">Abstract</a>
+
+<!-- Abstract -->
+<div id="homeownership-prediction" class="collapse">
+<br />
+Owning a home has long been touted as a key component of the idealized “American Dream.” Homeownership is associated with greater wealth and better health, but the causal impact of homeownership on health remains unclear. Using linked complete-count census and Social Security mortality records, we document Black-White disparities in homeownership rates and produce the first U.S.-based estimates of the association between homeownership in early adulthood and longevity. We then use a sibling-based identification strategy to estimate the causal effect of homeownership on longevity for cohorts born in the first two decades of the 20th century. Our results indicate homeownership has a significant positive impact on longevity, which we estimate at approximately 0.4 years.
+</div> 
+</li>
+
+
+
+
+<li>
+<b>Casey F. Breen</b>. “New Data Sources for Demographic Research.” Forthcoming, <i> Population and Development Review. </i><!-- Links to pubs, abstract, etc. -->
+
+<a style="white-space: nowrap" href="https://osf.io/preprints/socarxiv/ybghv" target="_blank" rel="noopener noreferrer">
+<button type="button" class="btn btn-outline-primary">Open Access</button> </a> 
+<a href="#new-data" class="btn btn-outline-primary" data-toggle="collapse">Abstract</a>
+
+<!-- Abstract -->
+<div id="new-data" class="collapse">
+<br />
+We are in the early stages of a new, uncertain era of demographic research, driven by the scientific possibilities that are opened up by new sources of data, such as the digital traces that arise from ubiquitous social computing, massive longitudinal datasets produced by the digitization of historical records, and information about previously inaccessible populations reached through innovations in classic modes of data collection. Such new data sources seemingly offer exciting opportunities to quantify demographic phenomena at a scale and resolution once unimaginable. In this commentary, we describe five promising new sources of demographic data and their potential appeal: detailed patterns of human mobility and migration, population-scale measurements of social connectedness, minute-by-minute records of cultural change, detailed timelines of partnership formation, and more. Yet, realizing the full potential of these data sources will demand innovative methodological developments and continued investment in high-quality, traditional surveys and censuses. Together, such advances will lead demographers to develop new theories and revisit and sharpen old ones.
+</div> 
+</li>
+
+
 
 <li>
 <b>Casey F. Breen</b>, Maria Osborne, and Joshua R. Goldstein. 2023. “CenSoc: Public Linked Administrative Mortality Records for Individual-level Research.” <i> Scientific Data. </i> 42(3):36. <!-- Links to pubs, abstract, etc. -->

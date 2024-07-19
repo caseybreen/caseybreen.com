@@ -80,7 +80,7 @@ Reliable estimates of death rates in complex humanitarian emergencies are critic
 <!-- Abstract -->
 <div id="homeownership-prediction" class="collapse">
 <br />
-Owning a home has long been touted as a key component of the idealized “American Dream.” Homeownership is associated with greater wealth and better health, but the causal impact of homeownership on health remains unclear. Using linked complete-count census and Social Security mortality records, we document Black-White disparities in homeownership rates and produce the first U.S.-based estimates of the association between homeownership in early adulthood and longevity. We then use a sibling-based identification strategy to estimate the causal effect of homeownership on longevity for cohorts born in the first two decades of the 20th century. Our results indicate homeownership has a significant positive impact on longevity, which we estimate at approximately 0.4 years.
+Owning a home has long been touted as a key component of the idealized "American Dream." Homeownership is associated with greater wealth and better health, but the causal impact of homeownership on health remains unclear. Using linked complete-count census and Social Security mortality records, we document Black-White disparities in homeownership rates and produce the first U.S.-based estimates of the association between homeownership in early adulthood and longevity. We then use a sibling-based identification strategy to estimate the causal effect of homeownership on longevity for cohorts born in the first two decades of the $20^{th}$ century. Our results indicate homeownership has a significant positive impact on longevity, which we estimate at approximately 4 months.
 </div> 
 </li>
 

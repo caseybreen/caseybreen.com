@@ -83,7 +83,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-631245798&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-917345628&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -93,7 +93,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-631245798&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-917345628&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -477,7 +477,7 @@ Owning a home has long been touted as a key component of the idealized &#34;Amer
 &lt;/div&gt; 
 &lt;/li&gt;
 &lt;li&gt;
-&lt;b&gt;Casey F. Breen and Dennis M. Feehan &lt;/b&gt;. “New Data Sources for Demographic Research.” Forthcoming, &lt;i&gt; Population and Development Review. &lt;/i&gt;&lt;!-- Links to pubs, abstract, etc. --&gt;
+&lt;b&gt;Casey F. Breen &lt;/b&gt; and Dennis M. Feehan. “New Data Sources for Demographic Research.” Forthcoming, &lt;i&gt; Population and Development Review. &lt;/i&gt;&lt;!-- Links to pubs, abstract, etc. --&gt;
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://osf.io/preprints/socarxiv/ybghv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Open Access&lt;/button&gt; &lt;/a&gt; 
 &lt;a href=&#34;#new-data&#34; class=&#34;btn btn-outline-primary&#34; data-toggle=&#34;collapse&#34;&gt;Abstract&lt;/a&gt;

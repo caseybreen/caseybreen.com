@@ -44,4 +44,6 @@ I am a Postdoctoral Fellow at the University of Oxford. I completed my Ph.D. in 
 
 My research develops and applies computational and demographic methods to examine questions in population health. In one line of research, I investigate mortality disparities and dynamics in the United States using large-scale administrative data. In a second line of research, I develop and apply network-based methods to sample hard-to-reach populations and estimate mortality rates in humanitarian emergencies.
 
+My work has been published or is forthcoming in *Demography*, *Population and Development Review*, *Demographic Research*, and *Population Research and Policy Review*, among other outlets. 
+
 View my {{< staticref "media/casey_breen_cv.pdf" "newtab" >}}CV{{< /staticref >}}.

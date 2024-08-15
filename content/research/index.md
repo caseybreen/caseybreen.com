@@ -36,6 +36,8 @@ I am broadly interested in the areas of population health and social networks. M
 
 <a style="white-space: nowrap" href="https://doi.org/10.31235/osf.io/znsqg" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Open Access</button> </a> 
+<a style="white-space: nowrap" href="https://doi.org/10.31235/osf.io/znsqg" target="_blank" rel="noopener noreferrer">
+<button type="button" class="btn btn-outline-primary">Replication</button> </a> 
 <a href="#abstract-prediction" class="btn btn-outline-primary" data-toggle="collapse">Abstract</a>
 
 <!-- Abstract -->
@@ -43,6 +45,23 @@ I am broadly interested in the areas of population health and social networks. M
 <br />
 There are striking disparities in longevity across sociodemographic groups in theUnited States. Yet, can sociodemographic characteristics meaningfully explain individual-level variation in longevity?  Here, we leverage machine-learning algorithms and large-scale administrative data to predict individual-level mortality using an array of social,economic, and demographic predictors measured in early adulthood.  We conduct two distinct analyses:  a cohort analysis, which predicts the exact age of death for individuals in the same birth cohort, and a period analysis, which predicts whether individualsage 54–95 will die within the next 10 years.  We are not able to make accurate predic-tions in either our cohort analysis (<i>R<sup>2</sup></i> = 0.014) or our period analysis (<i>R<sup>2</sup></i> = 0.166).Together,  these analyses demonstrate that later life longevity is unpredictable usingsociodemographic characteristics alone, and underscore the crucial need to account forstochastic processes in demographic theory.
 </div> 
+</li>
+
+
+<li>
+<b>Casey F. Breen</b>, Masoomali Fatehkia, Jiani Yan, Douglas Leasure, Ingmar Weber, and Ridhi Kashyap. “Mapping Subnational Gender Gaps in Internet and Mobile Adoption Using Social Media Data .” <!-- Links to pubs, abstract, etc. -->
+
+<a style="white-space: nowrap" href="https://doi.org/10.31235/osf.io/qnzsw" target="_blank" rel="noopener noreferrer">
+<button type="button" class="btn btn-outline-primary">Open Access</button> </a> 
+<a style="white-space: nowrap" href="https://osf.io/5e8wf/ 
+" target="_blank" rel="noopener noreferrer">
+<button type="button" class="btn btn-outline-primary">Replication</button> </a> 
+<a href="#abstract-dgg-mapping" class="btn btn-outline-primary" data-toggle="collapse">Abstract</a>
+
+<!-- Abstract -->
+<div id="abstract-dgg-mapping" class="collapse">
+<br />
+The  digital revolution  has  ushered  in  many  societal  and  economic  benefits.  Yet access to digital technologies such as mobile phones and internet remains highly un-equal, especially by gender in the context of low- and middle-income countries.  While national-level estimates are increasingly available for many countries,  reliable,  quantitative  estimates  of  digital  gender  inequalities at the subnational  level  are  lacking. These estimates, however, are essential for monitoring gaps within countries and implementing targeted  interventions  within  the  global  sustainable  development  goals,which  emphasize  the  need  to  close  inequalities both  between  and  within  countries. We  develop  estimates  of  internet and mobile  adoption  by  gender  and  digital  gender gaps at the subnational level for 2,158 regions in 118 low- and middle-income countries  (LMICs),  a context  where  digital  penetration is low  and  national-level  gender gaps disfavoring women are large. We construct these estimates by applying machine-learning algorithms to Facebook user counts, geospatial data, development indicators,and population composition data.  We calibrate and assess the performance of these algorithms using ground-truth data from subnationally-representative household surveydata from 31 LMICs. Our results reveal striking disparities in access to mobile and internet technologies between and within LMICs, with implications for policy formulation and infrastructure investment.  These disparities contribute to a global context where women are 21% less likely to use the internet and 17% less likely to own mobile phones than men, corresponding to over 385 million more men than women owning a mobile phone and over 360 million more men than women using the internet.</div> 
 </li>
 
 <li>

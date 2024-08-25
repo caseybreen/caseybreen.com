@@ -31,6 +31,21 @@ I am broadly interested in the areas of population health and social networks. M
 
 <ol reversed>
 
+
+<li>
+<b>Casey F. Breen</b>. “Black-White Mortality Crossover: New Evidence from Social Security Mortality Records.” <!-- Links to pubs, abstract, etc. -->
+
+<a style="white-space: nowrap" href="https://doi.org/10.31235/osf.io/ax9u3" target="_blank" rel="noopener noreferrer">
+<button type="button" class="btn btn-outline-primary">Open Access</button> </a> 
+<a href="#abstract-bw_crossover" class="btn btn-outline-primary" data-toggle="collapse">Abstract</a>
+
+<!-- Abstract -->
+<div id="abstract-prediction" class="collapse">
+<br />
+The Black-White mortality crossover is well-studied demographic paradox. Black Americans experience higher age-specific mortality rates than White Americans throughout most of the life course, but this puzzlingly reverses at advanced ages. The leading explanation for the Black-White mortality crossover centers around selective mortality over the life course. Black Americans who survived higher age-specific mortality risk throughout their life course are highly selected on robustness, and have lower mortality than White Americans in late life. However, skeptics argue the Black-White mortality crossover is simply a data artifact from age misreporting or related data quality issues. We use large-scale linked administrative data (N = 2.3 million) to document the Black-White mortality crossover for cohorts born in the early 20th century. We find evidence the crossover is not a data artifact and cannot be uncrossed using sociodemographic characteristics alone.
+</div> 
+</li>
+
 <li>
 <b>Casey F. Breen</b> and Nathan Seltzer. “Demographic Perspectives on Predicting Individual-level Mortality.” <!-- Links to pubs, abstract, etc. -->
 

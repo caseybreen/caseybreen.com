@@ -121,6 +121,8 @@ Owning a home has long been touted as a key component of the idealized "American
 <li>
 <b>Casey F. Breen </b> and Dennis M. Feehan. “New Data Sources for Demographic Research.” 2024. <i> Population and Development Review. </i><!-- Links to pubs, abstract, etc. -->
 
+<a style="white-space: nowrap" href="https://doi.org/10.1111/padr.12671" target="_blank" rel="noopener noreferrer">
+<button type="button" class="btn btn-outline-primary">Publication</button> </a>
 <a style="white-space: nowrap" href="https://osf.io/preprints/socarxiv/ybghv" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Open Access</button> </a> 
 <a href="#new-data" class="btn btn-outline-primary" data-toggle="collapse">Abstract</a>

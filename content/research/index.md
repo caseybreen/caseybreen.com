@@ -51,7 +51,7 @@ The Black-White mortality crossover is well-studied demographic paradox. Black A
 
 <a style="white-space: nowrap" href="https://doi.org/10.31235/osf.io/znsqg" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Open Access</button> </a> 
-<a style="white-space: nowrap" href="https://doi.org/10.31235/osf.io/znsqg" target="_blank" rel="noopener noreferrer">
+<a style="white-space: nowrap" href="https://osf.io/fazsj/?view_only=cbfea9a08a684a48b1c97d1e5f8da967" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Replication</button> </a> 
 <a href="#abstract-prediction" class="btn btn-outline-primary" data-toggle="collapse">Abstract</a>
 

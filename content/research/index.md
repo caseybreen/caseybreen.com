@@ -15,7 +15,7 @@ comments: false  # Show comments?
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 <style>
-    ol li { margin-bottom: 20px; }
+    ol li { margin-bottom: 20px;}
 </style>
 </head>
 
@@ -82,6 +82,10 @@ The digital revolution has ushered in many societal and economic  benefits. Yet 
 <li>
 <b>Casey F. Breen</b>, Saeed Rahman, Christina Kay, Joeri Smits, Steve Ahuka, and Dennis M. Feehan. “Estimating Death Rates in Complex Humanitarian Emergencies Using the Network Survival Method.” <!-- Links to pubs, abstract, etc. -->
 
+<a style="white-space: nowrap" href="https://doi.org/10.31235/osf.io/4efdt" target="_blank" rel="noopener noreferrer">
+<button type="button" class="btn btn-outline-primary">Open Access</button> </a> 
+<a style="white-space: nowrap" href="https:https://osf.io/y6f4q/?view_only=f77d16ca27f74b52811623d2037b3cb3" target="_blank" rel="noopener noreferrer">
+<button type="button" class="btn btn-outline-primary">Replication</button> </a> 
 <a style="white-space: nowrap" href="https://osf.io/vdsjr" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Pre-registration</button> </a> 
 <a href="#abstract-network-survival" class="btn btn-outline-primary" data-toggle="collapse">Abstract</a>

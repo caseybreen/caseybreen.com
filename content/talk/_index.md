@@ -14,6 +14,27 @@ title: Select Conference Presentations and Invited Talks
   </thead>
   <tbody>
     <tr>
+      <td>Black-White Mortality Crossover Paradox: New Evidence from Linked
+Social Security Records </td>
+      <td>Lund University, Department of Economic History</td>
+      <td>Dec 3, 2024 &nbsp;</td>
+      <td><a href="/media/talk_slides/bw_mortality_crossover_talk_lund.pdf" target="_blank">Slides</a></td>
+    </tr>
+    <tr>
+    <tr>
+      <td>Population Research with Linked Data: Guide to Inference </td>
+      <td>Social Science and History Association</td>
+      <td>October 31, 2024 &nbsp;</td>
+      <td><a href="/media/talk_slides/breen_record_linkage_ssha_slides_2024.pdf" target="_blank">Slides</a></td>
+    </tr>
+    <tr>
+      <td>Black-White Mortality Crossover Paradox: New Evidence from Linked
+Social Security Records</td>
+      <td>Social Science and History Association</td>
+      <td>October 31, 2024 &nbsp;</td>
+      <td><a href="/media/talk_slides/bw_mortality_crossover_ssha_2024.pdf" target="_blank">Slides</a></td>
+    </tr>
+    <tr>
       <td>Mapping Subnational Gender Gaps in Internet and Mobile Adoption using Social Media Data</td>
       <td>European Population Conference</td>
       <td>June 13, 2024 &nbsp;</td>

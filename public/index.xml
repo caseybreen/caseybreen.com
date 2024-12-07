@@ -83,7 +83,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-672915384&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-842795316&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -93,7 +93,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-672915384&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-842795316&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -421,18 +421,14 @@ date: 2019-09-01
 &lt;script src=&#34;https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js&#34;&gt;&lt;/script&gt;
 &lt;style&gt;
-    ol li { margin-bottom: 20px; }
+    ol li { margin-bottom: 20px;}
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;p&gt;I am broadly interested in the areas of population health and social networks. My current research agenda focuses on:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Developing social-network based methods for sampling and enumerating hard to reach populations.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Investigating health and mortality disparities in the United States using large-scale linked administrative datasets, such as UC Berkeley&amp;rsquo;s 
-&lt;a href=&#34;https://censoc.berkeley.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CenSoc&lt;/a&gt; project.&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;Investigating health and mortality disparities in the United States using large-scale linked administrative datasets, such as UC Berkeley&amp;rsquo;s 
+&lt;a href=&#34;https://censoc.berkeley.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CenSoc&lt;/a&gt; project.&lt;/li&gt;
+&lt;li&gt;Developing social-network based methods for sampling and enumerating hard to reach populations.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;working-papers&#34;&gt;Working Papers&lt;/h3&gt;
 &lt;hr&gt;
@@ -443,7 +439,7 @@ date: 2019-09-01
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Open Access&lt;/button&gt; &lt;/a&gt; 
 &lt;a href=&#34;#abstract-bw_crossover&#34; class=&#34;btn btn-outline-primary&#34; data-toggle=&#34;collapse&#34;&gt;Abstract&lt;/a&gt;
 &lt;!-- Abstract --&gt;
-&lt;div id=&#34;abstract-prediction&#34; class=&#34;collapse&#34;&gt;
+&lt;div id=&#34;abstract-bw_crossover&#34; class=&#34;collapse&#34;&gt;
 &lt;br /&gt;
 The Black-White mortality crossover is well-studied demographic paradox. Black Americans experience higher age-specific mortality rates than White Americans throughout most of the life course, but this puzzlingly reverses at advanced ages. The leading explanation for the Black-White mortality crossover centers around selective mortality over the life course. Black Americans who survived higher age-specific mortality risk throughout their life course are highly selected on robustness, and have lower mortality than White Americans in late life. However, skeptics argue the Black-White mortality crossover is simply a data artifact from age misreporting or related data quality issues. We use large-scale linked administrative data (N = 2.3 million) to document the Black-White mortality crossover for cohorts born in the early 20th century. We find evidence the crossover is not a data artifact and cannot be uncrossed using sociodemographic characteristics alone.
 &lt;/div&gt; 
@@ -452,13 +448,13 @@ The Black-White mortality crossover is well-studied demographic paradox. Black A
 &lt;b&gt;Casey F. Breen&lt;/b&gt; and Nathan Seltzer. “Demographic Perspectives on Predicting Individual-level Mortality.” &lt;!-- Links to pubs, abstract, etc. --&gt;
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://doi.org/10.31235/osf.io/znsqg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Open Access&lt;/button&gt; &lt;/a&gt; 
-&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://doi.org/10.31235/osf.io/znsqg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
+&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://osf.io/fazsj/?view_only=cbfea9a08a684a48b1c97d1e5f8da967&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Replication&lt;/button&gt; &lt;/a&gt; 
 &lt;a href=&#34;#abstract-prediction&#34; class=&#34;btn btn-outline-primary&#34; data-toggle=&#34;collapse&#34;&gt;Abstract&lt;/a&gt;
 &lt;!-- Abstract --&gt;
 &lt;div id=&#34;abstract-prediction&#34; class=&#34;collapse&#34;&gt;
 &lt;br /&gt;
-There are striking disparities in longevity across sociodemographic groups in theUnited States. Yet, can sociodemographic characteristics meaningfully explain individual-level variation in longevity?  Here, we leverage machine-learning algorithms and large-scale administrative data to predict individual-level mortality using an array of social,economic, and demographic predictors measured in early adulthood.  We conduct two distinct analyses:  a cohort analysis, which predicts the exact age of death for individuals in the same birth cohort, and a period analysis, which predicts whether individualsage 54–95 will die within the next 10 years.  We are not able to make accurate predic-tions in either our cohort analysis (&lt;i&gt;R&lt;sup&gt;2&lt;/sup&gt;&lt;/i&gt; = 0.014) or our period analysis (&lt;i&gt;R&lt;sup&gt;2&lt;/sup&gt;&lt;/i&gt; = 0.166).Together,  these analyses demonstrate that later life longevity is unpredictable usingsociodemographic characteristics alone, and underscore the crucial need to account forstochastic processes in demographic theory.
+There are striking disparities in longevity across sociodemographic groups in the United States. Yet, can sociodemographic characteristics meaningfully explain individual-level variation in longevity?  Here, we leverage machine-learning algorithms and large-scale administrative data to predict individual-level mortality using an array of social,economic, and demographic predictors measured in early adulthood.  We conduct two distinct analyses:  a cohort analysis, which predicts the exact age of death for individuals in the same birth cohort, and a period analysis, which predicts whether individuals aged 54–95 will die within the next 10 years.  We are not able to make accurate predictions in either our cohort analysis (&lt;i&gt;R&lt;sup&gt;2&lt;/sup&gt;&lt;/i&gt; = 0.014) or our period analysis (&lt;i&gt;R&lt;sup&gt;2&lt;/sup&gt;&lt;/i&gt; = 0.166).Together,  these analyses demonstrate that later life longevity is unpredictable using sociodemographic characteristics alone, and underscore the crucial need to account for stochastic processes in demographic theory.
 &lt;/div&gt; 
 &lt;/li&gt;
 &lt;li&gt;
@@ -472,10 +468,14 @@ There are striking disparities in longevity across sociodemographic groups in th
 &lt;!-- Abstract --&gt;
 &lt;div id=&#34;abstract-dgg-mapping&#34; class=&#34;collapse&#34;&gt;
 &lt;br /&gt;
-The  digital revolution  has  ushered  in  many  societal  and  economic  benefits.  Yet access to digital technologies such as mobile phones and internet remains highly un-equal, especially by gender in the context of low- and middle-income countries.  While national-level estimates are increasingly available for many countries,  reliable,  quantitative  estimates  of  digital  gender  inequalities at the subnational  level  are  lacking. These estimates, however, are essential for monitoring gaps within countries and implementing targeted  interventions  within  the  global  sustainable  development  goals,which  emphasize  the  need  to  close  inequalities both  between  and  within  countries. We  develop  estimates  of  internet and mobile  adoption  by  gender  and  digital  gender gaps at the subnational level for 2,158 regions in 118 low- and middle-income countries  (LMICs),  a context  where  digital  penetration is low  and  national-level  gender gaps disfavoring women are large. We construct these estimates by applying machine-learning algorithms to Facebook user counts, geospatial data, development indicators,and population composition data.  We calibrate and assess the performance of these algorithms using ground-truth data from subnationally-representative household surveydata from 31 LMICs. Our results reveal striking disparities in access to mobile and internet technologies between and within LMICs, with implications for policy formulation and infrastructure investment.  These disparities contribute to a global context where women are 21% less likely to use the internet and 17% less likely to own mobile phones than men, corresponding to over 385 million more men than women owning a mobile phone and over 360 million more men than women using the internet.&lt;/div&gt; 
+The digital revolution has ushered in many societal and economic  benefits. Yet access to digital technologies such as mobile phones and internet remains highly unequal, especially by gender in the context of low- and middle-income countries. While national-level estimates are increasingly available for many countries, reliable, quantitative  estimates of digital gender inequalities at the subnational level are  lacking. These estimates, however, are essential for monitoring gaps within countries and implementing targeted interventions within the  global sustainable development goals, which emphasize the need to  close inequalities both between and within countries. We develop  estimates of internet and mobile adoption by gender and digital  gender gaps at the subnational level for 2,158 regions in 118 low- and middle-income countries (LMICs), a context where digital penetration is low and national-level gender gaps disfavoring women are large. We construct these estimates by applying machine-learning algorithms to Facebook user counts, geospatial data, development indicators,and population composition data. We calibrate and assess the performance of these algorithms using ground-truth data from subnationally-representative household survey data from 31 LMICs. Our results reveal striking disparities in access to mobile and internet technologies between and within LMICs, with implications for policy formulation and infrastructure investment. These disparities contribute to a global context where women are 21% less likely to use the internet and 17% less likely to own mobile phones than men, corresponding to over 385 million more men than women owning a mobile phone and over 360 million more men than women using the internet.&lt;/div&gt; 
 &lt;/li&gt;
 &lt;li&gt;
-&lt;b&gt;Casey F. Breen &lt;/b&gt;, Saeed Rahman, Christina Kay, Joeri Smits, Steve Ahuka, and Dennis M. Feehan. “Estimating Death Rates in Complex Humanitarian Emergencies Using the Network Survival Method.” &lt;!-- Links to pubs, abstract, etc. --&gt;
+&lt;b&gt;Casey F. Breen&lt;/b&gt;, Saeed Rahman, Christina Kay, Joeri Smits, Steve Ahuka, and Dennis M. Feehan. “Estimating Death Rates in Complex Humanitarian Emergencies Using the Network Survival Method.” &lt;!-- Links to pubs, abstract, etc. --&gt;
+&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://doi.org/10.31235/osf.io/4efdt&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
+&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Open Access&lt;/button&gt; &lt;/a&gt; 
+&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https:https://osf.io/y6f4q/?view_only=f77d16ca27f74b52811623d2037b3cb3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
+&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Replication&lt;/button&gt; &lt;/a&gt; 
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://osf.io/vdsjr&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Pre-registration&lt;/button&gt; &lt;/a&gt; 
 &lt;a href=&#34;#abstract-network-survival&#34; class=&#34;btn btn-outline-primary&#34; data-toggle=&#34;collapse&#34;&gt;Abstract&lt;/a&gt;
@@ -490,7 +490,9 @@ Reliable estimates of death rates in complex humanitarian emergencies are critic
 &lt;hr&gt;
 &lt;ol reversed&gt;
 &lt;li&gt;
-&lt;b&gt;Casey F. Breen&lt;/b&gt;. “The Longevity Benefits of Homeownership: Evidence from Early 20th-Century U.S. Male Birth Cohorts.” Forthcoming, &lt;i&gt; Demography. &lt;/i&gt;&lt;!-- Links to pubs, abstract, etc. --&gt;
+&lt;b&gt;Casey F. Breen&lt;/b&gt;. “The Longevity Benefits of Homeownership: Evidence from Early 20th-Century U.S. Male Birth Cohorts.” 2024. &lt;i&gt; Demography. &lt;/i&gt; doi: 10.1215/00703370-11680975.&lt;!-- Links to pubs, abstract, etc. --&gt;
+&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://doi.org/10.1215/00703370-11680975&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
+&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Publication&lt;/button&gt; &lt;/a&gt;
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://osf.io/preprints/socarxiv/7ya3f/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Open Access&lt;/button&gt; &lt;/a&gt; 
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://osf.io/g85sv/?view_only=57f5a76035754ffabc3f7916bf6d3cd0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
@@ -503,7 +505,9 @@ Owning a home has long been touted as a key component of the idealized &#34;Amer
 &lt;/div&gt; 
 &lt;/li&gt;
 &lt;li&gt;
-&lt;b&gt;Casey F. Breen &lt;/b&gt; and Dennis M. Feehan. “New Data Sources for Demographic Research.” Forthcoming, &lt;i&gt; Population and Development Review. &lt;/i&gt;&lt;!-- Links to pubs, abstract, etc. --&gt;
+&lt;b&gt;Casey F. Breen &lt;/b&gt; and Dennis M. Feehan. “New Data Sources for Demographic Research.” 2024. &lt;i&gt; Population and Development Review. &lt;/i&gt;&lt;!-- Links to pubs, abstract, etc. --&gt;
+&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://doi.org/10.1111/padr.12671&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
+&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Publication&lt;/button&gt; &lt;/a&gt;
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://osf.io/preprints/socarxiv/ybghv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Open Access&lt;/button&gt; &lt;/a&gt; 
 &lt;a href=&#34;#new-data&#34; class=&#34;btn btn-outline-primary&#34; data-toggle=&#34;collapse&#34;&gt;Abstract&lt;/a&gt;
@@ -609,6 +613,21 @@ We know surprisingly little about the prevalence and severity of cybercrime in t
 
 
 
+&lt;p&gt;Dec. 2024: I organized the (inaugural) CenSoc Users Conference. [
+&lt;a href=&#34;https://docs.google.com/document/d/1MyUOiTJTgunslsIquQ6OpIsSycRVltgYpepBiXt8Vtw/edit?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Program&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;Dec. 2024: New paper in Demography: 
+&lt;a href=&#34;https://doi.org/10.1111/padr.12671&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Longevity Benefits of Homeownership: Evidence From Early Twentieth-Century US Male Birth Cohorts&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Nov. 2024: I very much enjoyed giving a seminar at Lund University&amp;rsquo;s Department of Economic History. Great group! 
+&lt;a href=&#34;https://caseybreen.github.io/media/talk_slides/bw_mortality_crossover_talk_lund.pdf&#34;&gt;Slides&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Nov. 2024: I enjoyed organizing the 2024 SSHA Demography and Family sessions (13 sesssions) in Toronto. Highly recommend this conference for demographers. I also gave two talks and chaired a session on historical mortality inequality.&lt;/p&gt;
+&lt;p&gt;June 2024: New paper in Population and Development Review: 
+&lt;a href=&#34;https://doi.org/10.1111/padr.12671&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;New Data Sources for Demographic Research&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;June 2024: I co-organized a Workshop on Digital Technologies and Sustainable Development. [
+&lt;a href=&#34;https://docs.google.com/document/d/1Aj9fxCtVYL71svxlLhrZhCQNgmyImCKFWvrObW65emU/edit?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Program&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;June 2024: I really enjoyed participating in the MORTAL Conference at Oxford and presenting on the Black-White Crossover. [
+&lt;a href=&#34;https://caseybreen.github.io/media/talk_slides/bw_mortality_crossover_conference.pdf&#34;&gt;Slides&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;June 2024: Talk at EPC 2024 on Mapping Subnational Gender Gaps in Internet and Mobile Adoption Using Social Media Data.&amp;quot; [
+&lt;a href=&#34;https://caseybreen.github.io/media/talk_slides/dgg_epc_presentation.pdf&#34;&gt;Slides&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;May 2024: I very much enjoyed visiting the Population Studies Group at LSHTM and giving a talk on estimating mortality rates in humanitarian crises using the Network Survival Method.&lt;/p&gt;
 &lt;p&gt;April 2024: I had a wonderful time in Ohio at PAA 2024. I  gave two talks, chaired a session on data infrastructure, and was a discussant for a very interesting session on historical inequality and political economy.&lt;/p&gt;
 &lt;p&gt;Nov. 2023: New publication — 

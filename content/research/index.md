@@ -21,9 +21,8 @@ comments: false  # Show comments?
 
 I am broadly interested in the areas of population health and social networks. My current research agenda focuses on:  
 
-- Developing social-network based methods for sampling and enumerating hard to reach populations. 
-
 - Investigating health and mortality disparities in the United States using large-scale linked administrative datasets, such as UC Berkeley's [CenSoc](https://censoc.berkeley.edu/) project.  
+- Developing social-network based methods for sampling and enumerating hard to reach populations. 
 
 
 ### Working Papers
@@ -107,8 +106,10 @@ Reliable estimates of death rates in complex humanitarian emergencies are critic
 
 
 <li>
-<b>Casey F. Breen</b>. “The Longevity Benefits of Homeownership: Evidence from Early 20th-Century U.S. Male Birth Cohorts.” Forthcoming, <i> Demography. </i><!-- Links to pubs, abstract, etc. -->
+<b>Casey F. Breen</b>. “The Longevity Benefits of Homeownership: Evidence from Early 20th-Century U.S. Male Birth Cohorts.” 2024. <i> Demography. </i> doi: 10.1215/00703370-11680975.<!-- Links to pubs, abstract, etc. -->
 
+<a style="white-space: nowrap" href="https://doi.org/10.1215/00703370-11680975" target="_blank" rel="noopener noreferrer">
+<button type="button" class="btn btn-outline-primary">Publication</button> </a>
 <a style="white-space: nowrap" href="https://osf.io/preprints/socarxiv/7ya3f/" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Open Access</button> </a> 
 <a style="white-space: nowrap" href="https://osf.io/g85sv/?view_only=57f5a76035754ffabc3f7916bf6d3cd0" target="_blank" rel="noopener noreferrer">

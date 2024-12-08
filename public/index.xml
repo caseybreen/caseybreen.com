@@ -83,7 +83,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-874261359&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-759348621&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -93,7 +93,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-874261359&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-759348621&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -616,7 +616,7 @@ We know surprisingly little about the prevalence and severity of cybercrime in t
 &lt;p&gt;Dec. 2024: I organized the (inaugural) CenSoc Users Conference. [
 &lt;a href=&#34;https://docs.google.com/document/d/1MyUOiTJTgunslsIquQ6OpIsSycRVltgYpepBiXt8Vtw/edit?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Program&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;Dec. 2024: New paper in Demography: 
-&lt;a href=&#34;https://doi.org/10.1111/padr.12671&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Longevity Benefits of Homeownership: Evidence From Early Twentieth-Century US Male Birth Cohorts&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;https://read.dukeupress.edu/demography/article-abstract/doi/10.1215/00703370-11680975/393034/The-Longevity-Benefits-of-Homeownership-Evidence?redirectedFrom=fulltext&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Longevity Benefits of Homeownership: Evidence From Early Twentieth-Century US Male Birth Cohorts&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Nov. 2024: I very much enjoyed giving a seminar at Lund University&amp;rsquo;s Department of Economic History. Great group! 
 &lt;a href=&#34;https://caseybreen.github.io/media/talk_slides/bw_mortality_crossover_talk_lund.pdf&#34;&gt;Slides&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Nov. 2024: I enjoyed organizing the 2024 SSHA Demography and Family sessions (13 sesssions) in Toronto. Highly recommend this conference for demographers. I also gave two talks and chaired a session on historical mortality inequality.&lt;/p&gt;

@@ -83,7 +83,7 @@ The digital revolution has ushered in many societal and economic  benefits. Yet 
 
 <a style="white-space: nowrap" href="https://doi.org/10.31235/osf.io/4efdt" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Open Access</button> </a> 
-<a style="white-space: nowrap" href="https:https://osf.io/y6f4q/?view_only=f77d16ca27f74b52811623d2037b3cb3" target="_blank" rel="noopener noreferrer">
+<a style="white-space: nowrap" href="https://doi.org/10.17605/OSF.IO/Y6F4Q" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Replication</button> </a> 
 <a style="white-space: nowrap" href="https://osf.io/vdsjr" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Pre-registration</button> </a> 

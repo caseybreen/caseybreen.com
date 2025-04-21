@@ -1,6 +1,5 @@
 ---
 title: Teaching
-summary: Here we describe how to add a page to your site.
 date: "2018-06-28T00:00:00Z"
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -30,7 +29,7 @@ comments: false  # Show comments?
   <button type="button" class="btn btn-outline-primary">Reading List</button>
 </a>
 
-The growing availability of new streams of data, expansion of computational power and the digitalisation of our lives has created new questions and research opportunities for social and population scientists. The course will introduce students to a range of methodological and substantive topics in computational social science. We will cover topics such as digital trace and big data, machine learning, non-probability sampling, social networks, and agent-based modelling and microsimulation. The course will consist of seminar and lab sessions (taught in R), where students will engage with research in computational social science and learn to apply basic computational methods to research problems based on existing research papers. 
+The growing availability of new streams of data, expansion of computational power and the digitalisation of our lives has created new questions and research opportunities for social and population scientists. The course will introduce students to a range of methodological and substantive topics in computational social science. We will cover topics such as digital trace and big data, machine learning, non-probability sampling, social networks, and agent-based modelling and microsimulation. The course will consist of seminar and lab sessions (taught in R), where students will engage with research in computational social science and learn to apply basic computational methods to research problems based on existing research papers.
 
 ### Short Courses
 <hr>
@@ -42,3 +41,5 @@ The growing availability of new streams of data, expansion of computational powe
 This course is designed for incoming graduate students. It focuses on foundational R programming skills, emphasizing reproducible workflows
 and best practices for data analysis in the social sciences. Each session is approximately 3 hours and includes lectures, in-class exercises,
 and take-home problem sets with solutions.
+
+

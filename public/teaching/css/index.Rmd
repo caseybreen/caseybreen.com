@@ -1,0 +1,10 @@
+---
+title: "Topics in Computational Social Science"
+date: 2025-04-21
+type: docs
+layout: page
+draft: false
+summary: "Overview of the CSS graduate course."
+---
+<h3>Intro to R and Modern Workflow</h3>
+<p>This is the full page content for the short course...</p>

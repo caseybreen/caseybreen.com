@@ -5,7 +5,7 @@
     <link>https://caseybreen.github.io/</link>
       <atom:link href="https://caseybreen.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Casey Breen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 12 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://caseybreen.github.io/images/icon_hu27584b1e22fc8fa90178e36a7ef1ffc7_1165_512x512_fill_lanczos_center_3.png</url>
       <title>Casey Breen</title>
@@ -55,6 +55,246 @@
     </item>
     
     <item>
+      <title>Introduction to R</title>
+      <link>https://caseybreen.github.io/teaching/intro_r/</link>
+      <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://caseybreen.github.io/teaching/intro_r/</guid>
+      <description>&lt;p&gt;This course is designed for incoming graduate students.
+It focuses on foundational R programming skills, emphasizing reproducible workflows and best practices for data analysis in the social sciences.
+Each session is approximately 3 hours and includes lectures, in-class exercises, and take-home problem sets with solutions.&lt;/p&gt;
+&lt;h3 id=&#34;course-materials&#34;&gt;Course Materials&lt;/h3&gt;
+&lt;div style=&#34;overflow-x: auto;&#34;&gt;
+&lt;table style=&#34;min-width: 1000px; font-size: 1rem; border-collapse: separate; border-spacing: 0 0.75rem;&#34;&gt;
+  &lt;thead style=&#34;background-color: #f8f9fa;&#34;&gt;
+    &lt;tr&gt;
+      &lt;th style=&#34;padding: 10px;&#34;&gt;Session&lt;/th&gt;
+      &lt;th style=&#34;padding: 10px;&#34;&gt;Topic &amp; Modules&lt;/th&gt;
+      &lt;th style=&#34;padding: 10px;&#34;&gt;Lecture Slides&lt;/th&gt;
+      &lt;th style=&#34;padding: 10px;&#34;&gt;Problem Set&lt;/th&gt;
+      &lt;th style=&#34;padding: 10px;&#34;&gt;Solutions&lt;/th&gt;
+      &lt;th style=&#34;padding: 10px;&#34;&gt;Learning Objectives&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;Session 1&lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
+        Module 1: Intro to R &amp; RStudio&lt;br&gt;
+        Module 2: R Programming Basics&lt;br&gt;
+        Module 3: Vectors &amp; Data Frames
+      &lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
+        &lt;a href=&#34;https://docs.google.com/presentation/d/13t7LNHBYU1zrtXvAqYnapZ8Dhh-ljfMJCV-njYcD9io/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;
+      &lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
+        &lt;a href=&#34;https://github.com/caseybreen/intro_r/blob/main/problem_sets/problem_set1.pdf&#34; target=&#34;_blank&#34;&gt;Problem Set 1&lt;/a&gt;
+      &lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
+        &lt;a href=&#34;https://github.com/caseybreen/intro_r/blob/main/problem_sets/problem_set1_solutions.pdf&#34; target=&#34;_blank&#34;&gt;Solutions&lt;/a&gt;
+      &lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
+        - Install R and RStudio&lt;br&gt;
+        - Why use R?&lt;br&gt;
+        - R scripts, notebooks, and Quarto&lt;br&gt;
+        - R objects &amp; functions&lt;br&gt;
+        - Basic syntax and operators&lt;br&gt;
+        - Data structures &amp; types&lt;br&gt;
+        - Subset vectors&lt;br&gt;
+        - Data frame manipulation (base)&lt;br&gt;
+        - Data frame characteristics
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;Session 2&lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
+        Module 4: Data Import/Export&lt;br&gt;
+        Module 5: Data Manipulation&lt;br&gt;
+        Module 6: Best Practices
+      &lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
+        &lt;a href=&#34;https://docs.google.com/presentation/d/1BQLEHZURV8CFreBzPdDz0Y1qvej34JxbbAbT2Mm_3xg/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;
+      &lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
+        &lt;a href=&#34;https://github.com/caseybreen/intro_r/blob/main/problem_sets/problem_set2.pdf&#34; target=&#34;_blank&#34;&gt;Problem Set 2&lt;/a&gt;
+      &lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
+        &lt;a href=&#34;https://github.com/caseybreen/intro_r/blob/main/problem_sets/problem_set2_solutions.pdf&#34; target=&#34;_blank&#34;&gt;Solutions&lt;/a&gt;
+      &lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
+        - Data formats&lt;br&gt;
+        - Import/export functions&lt;br&gt;
+        - File paths&lt;br&gt;
+        - Tidyverse overview&lt;br&gt;
+        - Data manipulation with dplyr&lt;br&gt;
+        - Data visualization with ggplot&lt;br&gt;
+        - Code documentation&lt;br&gt;
+        - Troubleshooting&lt;br&gt;
+        - Self-study resources
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;Session 3&lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;Machine learning and prediction&lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
+        &lt;a href=&#34;https://docs.google.com/presentation/d/1PFXmsI9tGyObkZ2bxS980XKzRWRBlpQvJ6fA3SP035Q/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;
+      &lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;&lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;&lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;whats-covered&#34;&gt;What&amp;rsquo;s covered?&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Session&lt;/th&gt;
+&lt;th&gt;Topic &amp;amp; Module&lt;/th&gt;
+&lt;th&gt;Learning Objectives&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Session 1&lt;/td&gt;
+&lt;td&gt;Module 1: Intro to R &amp;amp; RStudio&lt;/td&gt;
+&lt;td&gt;- Install R and RStudio &lt;br&gt; - Why use R? &lt;br&gt; - R scripts, notebooks, and Quarto&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Session 1&lt;/td&gt;
+&lt;td&gt;Module 2: R Programming Basics&lt;/td&gt;
+&lt;td&gt;- R objects &amp;amp; functions &lt;br&gt; - Basic syntax and operators &lt;br&gt; - Data structures &amp;amp; types&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Session 1&lt;/td&gt;
+&lt;td&gt;Module 3: Vectors &amp;amp; Data Frames&lt;/td&gt;
+&lt;td&gt;- Subset vectors &lt;br&gt; - Data frame manipulation (base) &lt;br&gt; - Data frame characteristics&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Session 2&lt;/td&gt;
+&lt;td&gt;Module 4: Data Import/Export&lt;/td&gt;
+&lt;td&gt;- Data formats &lt;br&gt; - Import/export functions &lt;br&gt; - File paths&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Session 2&lt;/td&gt;
+&lt;td&gt;Module 5: Data Manipulation&lt;/td&gt;
+&lt;td&gt;- Tidyverse overview &lt;br&gt; - Data manipulation with dplyr &lt;br&gt; - Data visualization with ggplot&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Session 2&lt;/td&gt;
+&lt;td&gt;Module 6: Best Practices&lt;/td&gt;
+&lt;td&gt;- Code documentation &lt;br&gt; - Troubleshooting &lt;br&gt; - Self-study resources&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Topics in Computational Social Science</title>
+      <link>https://caseybreen.github.io/teaching/css/</link>
+      <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://caseybreen.github.io/teaching/css/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Tuesdays 16:00-18:00pm, Sociology Seminar Room&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The growing availability of new streams of data, expansion of computational power and the digitalisation of our lives has created new questions and research opportunities for social and population scientists. The course will introduce students to a range of methodological and substantive topics in computational social science. We will cover topics such as digital trace and big data, machine learning, non-probability sampling, social networks, and agent-based modelling and microsimulation. The course will consist of seminar and lab sessions (taught in R), where students will engage with research in computational social science and learn to apply basic computational methods to research problems based on existing research papers.&lt;/p&gt;
+&lt;h3 id=&#34;course-schedule&#34;&gt;Course Schedule&lt;/h3&gt;
+&lt;table style=&#34;min-width: 1200px; font-size: 1rem;&#34;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Week&lt;/th&gt;
+      &lt;th&gt;Topic&lt;/th&gt;
+      &lt;th&gt;Lecture Slides&lt;/th&gt;
+      &lt;th&gt;R Labs&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Week 1&lt;/td&gt;
+      &lt;td&gt;Introduction to computational social science&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/13t7LNHBYU1zrtXvAqYnapZ8Dhh-ljfMJCV-njYcD9io/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Week 2&lt;/td&gt;
+      &lt;td&gt;Social data in the digital age: opportunities and challenges&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1BQLEHZURV8CFreBzPdDz0Y1qvej34JxbbAbT2Mm_3xg/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://github.com/caseybreen/css_course/blob/main/labs/lab1/css_lab1.qmd&#34; target=&#34;_blank&#34;&gt;Lab 1&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Week 3&lt;/td&gt;
+      &lt;td&gt;Machine learning and prediction&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1PFXmsI9tGyObkZ2bxS980XKzRWRBlpQvJ6fA3SP035Q/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Week 4&lt;/td&gt;
+      &lt;td&gt;Machine learning lab&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1K046klcdWtJbV6VSgBeQOFbY4iIgL8_ug-uFdFpAZuI/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://github.com/caseybreen/css_course/blob/main/labs/lab2/css_lab2.qmd&#34; target=&#34;_blank&#34;&gt;Lab 2&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Week 5&lt;/td&gt;
+      &lt;td&gt;Non-probability sampling&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1b-r0yzuPmKHSp3lh2C7DZuQi5neyieX0ttnenwu5JCw/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Week 6&lt;/td&gt;
+      &lt;td&gt;Social networks&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/123FSUlKAhM_NWrwXwzZFBtA6Cj6pvlbqOF8b4qExFqs/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Week 7&lt;/td&gt;
+      &lt;td&gt;Non-probability sampling lab&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1VOwPoAcnB-_tsUAXMTceD0mt51Wy-f_Dmz9LXELABoQ/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://github.com/caseybreen/css_course/blob/main/labs/lab3/css_lab3.qmd&#34; target=&#34;_blank&#34;&gt;Lab 3&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Week 8&lt;/td&gt;
+      &lt;td&gt;Agent-based and microsimulation modelling&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1FYl7VQy5S8khuGGXkx8VW-2OP2yqfanGS93hFbLdxaI/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;learning-outcomes&#34;&gt;Learning Outcomes:&lt;/h3&gt;
+&lt;p&gt;By the end of this course, students will be able to:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Critically evaluate and engage with contemporary scientific debates within the area of computational social science and identify key contributions;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Apply computational social science perspectives to formulate and address relevant sociological and demographic questions; 3. Demonstrate proficiency in some techniques of computational social science, including methods for processing and analysing digital and unstructured data, basic methods for machine learning and addressing bias in non-probability samples;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Apply and engage with a computational social science perspective to address their own research problems and areas of interests.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;teaching-arrangement&#34;&gt;Teaching arrangement:&lt;/h3&gt;
+&lt;p&gt;The teaching will be organised in a combination of lectures, discussion-based seminars, and three computer labs. All weeks will feature an introductory lecture, followed by either a discussion seminar (weeks 1, 3, 5, 7, and 8) or lab (weeks 2, 4, 6).&lt;/p&gt;
+&lt;p&gt;In discussion seminar weeks (1, 3, 5, 7 and 8), readings marked with * in the reading list will serve as core readings for that week. We are asking all participants to present one of these core readings in a max 10 minute presentation (no slides required) during the course in the format of a synthesis and peer review. The presenter for the readings for a given week will be made available on Canvas the previous week.&lt;/p&gt;
+&lt;p&gt;In presenting the paper to the group, please focus on: What is the objective of the paper, what are the main contributions, and what are its limitations? If it is an empirical paper, does the analysis/data seem convincing and does the strength of the argument match the data and evidence? If it is a theoretical/perspective paper, what questions and ideas does it generate for research in computational social science?&lt;/p&gt;
+&lt;p&gt;All participants – and not only those presenting – are expected to read, at minimum, all core papers for the week. We strongly encourage you to review all readings for a given week.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The course will be taught in R (using RStudio). Students are expected to have R and RStudio downloaded and be familiar with R. We recommend completing a basic introductory course in R via CodeAcademy or equivalent prior to the course. As an additional resource, we suggest the following text, which is freely available online:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Wickham, Hadley, Mine Çetinkaya-Rundel, and Garrett Grolemund. 2023. R for Data Science: Import, Tidy, Transform, Visualize, and Model Data (2nd Edition). O’Reilly.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Course Assessment:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The course will be examined by:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Essay (max 3000 words) in response to one from a list of questions provided by instructors, provided in week 8, due on Friday, noon, week 0 Trinity term;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Problem set, involving code and markdown report, that applies computational techniques learned during the module, provided in week 8, due on Friday, noon, week 0 Trinity term.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Writing technical content in Academic</title>
       <link>https://caseybreen.github.io/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
@@ -83,7 +323,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-759348621&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-754216389&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -93,7 +333,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-759348621&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-754216389&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -600,6 +840,42 @@ We know surprisingly little about the prevalence and severity of cybercrime in t
     </item>
     
     <item>
+      <title>Teaching</title>
+      <link>https://caseybreen.github.io/teaching/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://caseybreen.github.io/teaching/</guid>
+      <description>&lt;head&gt;
+&lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1&#34;&gt;
+  &lt;!-- Kube CSS --&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://caseybreen.github.io/css/kube.min.css&#34; type=&#34;text/css&#34;/&gt; 
+&lt;script src=&#34;https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js&#34;&gt;&lt;/script&gt;
+&lt;style&gt;
+    ol li { margin-bottom: 20px;}
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;h3 id=&#34;graduate-courses&#34;&gt;Graduate Courses&lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;b&gt;Topics in Computational Social Science&lt;/b&gt;
+&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://caseybreen.github.io/teaching/css/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
+&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Course Materials&lt;/button&gt;
+&lt;/a&gt;
+&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://caseybreen.github.io/media/teaching_materials/css_reading_list.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
+&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Reading List&lt;/button&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The growing availability of new streams of data, expansion of computational power and the digitalisation of our lives has created new questions and research opportunities for social and population scientists. The course will introduce students to a range of methodological and substantive topics in computational social science. We will cover topics such as digital trace and big data, machine learning, non-probability sampling, social networks, and agent-based modelling and microsimulation. The course will consist of seminar and lab sessions (taught in R), where students will engage with research in computational social science and learn to apply basic computational methods to research problems based on existing research papers.&lt;/p&gt;
+&lt;h3 id=&#34;short-courses&#34;&gt;Short Courses&lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;b&gt;Introduction to R and modern workflow&lt;/b&gt;  &lt;!-- Links to pubs, abstract, etc. --&gt;
+&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://caseybreen.github.io/teaching/intro_r/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
+&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Course Materials&lt;/button&gt; &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This course is designed for incoming graduate students. It focuses on foundational R programming skills, emphasizing reproducible workflows
+and best practices for data analysis in the social sciences. Each session is approximately 3 hours and includes lectures, in-class exercises,
+and take-home problem sets with solutions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>News</title>
       <link>https://caseybreen.github.io/news/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
@@ -613,12 +889,13 @@ We know surprisingly little about the prevalence and severity of cybercrime in t
 
 
 
-&lt;p&gt;Dec. 2024: I organized the (inaugural) CenSoc Users Conference. [
+&lt;p&gt;Apr 2025: I had a great time at PAA 2025 in Washington D.C. I gave two talks, chaired a panel on lessons the field of Demography learned from COVID-19 pandemic, and was a discussant for a session on historical policies and health.&lt;/p&gt;
+&lt;p&gt;Dec. 2024: I had lots of fun organizing a CenSoc Users Conference. [
 &lt;a href=&#34;https://docs.google.com/document/d/1MyUOiTJTgunslsIquQ6OpIsSycRVltgYpepBiXt8Vtw/edit?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Program&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;Dec. 2024: New paper in Demography: 
 &lt;a href=&#34;https://read.dukeupress.edu/demography/article-abstract/doi/10.1215/00703370-11680975/393034/The-Longevity-Benefits-of-Homeownership-Evidence?redirectedFrom=fulltext&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Longevity Benefits of Homeownership: Evidence From Early Twentieth-Century US Male Birth Cohorts&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Nov. 2024: I very much enjoyed giving a seminar at Lund University&amp;rsquo;s Department of Economic History. Great group! 
-&lt;a href=&#34;https://caseybreen.github.io/media/talk_slides/bw_mortality_crossover_talk_lund.pdf&#34;&gt;Slides&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Nov. 2024: I very much enjoyed giving a seminar at Lund University&amp;rsquo;s Department of Economic History. Great group&amp;mdash;biggest economic history department in the world! [
+&lt;a href=&#34;https://caseybreen.github.io/media/talk_slides/bw_mortality_crossover_talk_lund.pdf&#34;&gt;Slides&lt;/a&gt;.]&lt;/p&gt;
 &lt;p&gt;Nov. 2024: I enjoyed organizing the 2024 SSHA Demography and Family sessions (13 sesssions) in Toronto. Highly recommend this conference for demographers. I also gave two talks and chaired a session on historical mortality inequality.&lt;/p&gt;
 &lt;p&gt;June 2024: New paper in Population and Development Review: 
 &lt;a href=&#34;https://doi.org/10.1111/padr.12671&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;New Data Sources for Demographic Research&lt;/a&gt;.&lt;/p&gt;
@@ -629,7 +906,7 @@ We know surprisingly little about the prevalence and severity of cybercrime in t
 &lt;p&gt;June 2024: Talk at EPC 2024 on Mapping Subnational Gender Gaps in Internet and Mobile Adoption Using Social Media Data.&amp;quot; [
 &lt;a href=&#34;https://caseybreen.github.io/media/talk_slides/dgg_epc_presentation.pdf&#34;&gt;Slides&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;May 2024: I very much enjoyed visiting the Population Studies Group at LSHTM and giving a talk on estimating mortality rates in humanitarian crises using the Network Survival Method.&lt;/p&gt;
-&lt;p&gt;April 2024: I had a wonderful time in Ohio at PAA 2024. I  gave two talks, chaired a session on data infrastructure, and was a discussant for a very interesting session on historical inequality and political economy.&lt;/p&gt;
+&lt;p&gt;April 2024: I had a wonderful time in Ohio at PAA 2024. I gave two talks, chaired a session on data infrastructure, and was a discussant for a very interesting session on historical inequality and political economy.&lt;/p&gt;
 &lt;p&gt;Nov. 2023: New publication — 
 &lt;a href=&#34;https://www.nature.com/articles/s41597-023-02713-y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CenSoc: Public Linked Administrative Mortality Records for Individual-level Research.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Jul. 2023: I am delighted to have joined the 
@@ -899,7 +1176,7 @@ pie(
   col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;),
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
-&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
 &lt;img src=&#34;https://caseybreen.github.io/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.

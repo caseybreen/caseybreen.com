@@ -21,6 +21,11 @@
     weight = 80
     
 [[main]]
+    name = "Teaching"
+    url = "teaching/"
+    weight = 80
+    
+[[main]]
     name = "Talks"
     url = "talk/"
     weight = 90

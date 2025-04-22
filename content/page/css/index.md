@@ -94,7 +94,9 @@ By the end of this course, students will be able to:
 
 1. Critically evaluate and engage with contemporary scientific debates within the area of computational social science and identify key contributions;
 
-2. Apply computational social science perspectives to formulate and address relevant sociological and demographic questions; 3. Demonstrate proficiency in some techniques of computational social science, including methods for processing and analysing digital and unstructured data, basic methods for machine learning and addressing bias in non-probability samples;
+2. Apply computational social science perspectives to formulate and address relevant sociological and demographic questions; 
+
+3. Demonstrate proficiency in some techniques of computational social science, including methods for processing and analysing digital and unstructured data, basic methods for machine learning and addressing bias in non-probability samples;
 
 4. Apply and engage with a computational social science perspective to address their own research problems and areas of interests.
 

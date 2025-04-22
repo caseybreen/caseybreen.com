@@ -110,13 +110,13 @@ In presenting the paper to the group, please focus on: What is the objective of 
 
 All participants – and not only those presenting – are expected to read, at minimum, all core papers for the week. We strongly encourage you to review all readings for a given week.
 
-**Requirements:**
+### Requirements:
 
 The course will be taught in R (using RStudio). Students are expected to have R and RStudio downloaded and be familiar with R. We recommend completing a basic introductory course in R via CodeAcademy or equivalent prior to the course. As an additional resource, we suggest the following text, which is freely available online:
 
 - *Wickham, Hadley, Mine Çetinkaya-Rundel, and Garrett Grolemund. 2023. R for Data Science: Import, Tidy, Transform, Visualize, and Model Data (2nd Edition). O’Reilly.*
 
-**Course Assessment:**
+### Course Assessment:
 
 The course will be examined by:
 

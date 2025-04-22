@@ -40,7 +40,7 @@ Each session is approximately 3 hours and includes lectures, in-class exercises,
         <a href="https://github.com/caseybreen/intro_r/blob/main/problem_sets/problem_set1.pdf" target="_blank">Problem Set 1</a>
       </td>
       <td style="vertical-align: top; padding: 10px;">
-        <a href="https://github.com/caseybreen/intro_r/blob/main/slides/session3_workflow.pdf" target="_blank">Solutions</a>
+        <a href="https://github.com/caseybreen/intro_r/blob/main/problem_sets/problem_set1_solutions.pdf" target="_blank">Solutions</a>
       </td>
     </tr>
     <tr>
@@ -64,7 +64,7 @@ Each session is approximately 3 hours and includes lectures, in-class exercises,
       <td style="vertical-align: top; padding: 10px;">Session 3</td>
       <td style="vertical-align: top; padding: 10px;">Reproducible Workflow</td>
       <td style="vertical-align: top; padding: 10px;">
-        <a href="https://docs.google.com/presentation/d/1PFXmsI9tGyObkZ2bxS980XKzRWRBlpQvJ6fA3SP035Q/edit?usp=sharing" target="_blank">Slides</a>
+        <a href="https://github.com/caseybreen/intro_r/blob/main/slides/session3_workflow.pdf" target="_blank">Slides</a>
       </td>
       <td style="vertical-align: top; padding: 10px;"></td>
       <td style="vertical-align: top; padding: 10px;"></td>

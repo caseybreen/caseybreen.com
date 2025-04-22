@@ -30,7 +30,6 @@ Each session is approximately 3 hours and includes lectures, in-class exercises,
       &lt;th style=&#34;padding: 10px;&#34;&gt;Lecture Slides&lt;/th&gt;
       &lt;th style=&#34;padding: 10px;&#34;&gt;Problem Set&lt;/th&gt;
       &lt;th style=&#34;padding: 10px;&#34;&gt;Solutions&lt;/th&gt;
-      &lt;th style=&#34;padding: 10px;&#34;&gt;Learning Objectives&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -42,24 +41,13 @@ Each session is approximately 3 hours and includes lectures, in-class exercises,
         Module 3: Vectors &amp; Data Frames
       &lt;/td&gt;
       &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
-        &lt;a href=&#34;https://docs.google.com/presentation/d/13t7LNHBYU1zrtXvAqYnapZ8Dhh-ljfMJCV-njYcD9io/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;
+        &lt;a href=&#34;https://github.com/caseybreen/intro_r/blob/main/slides/session1_slides.pdf&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;
       &lt;/td&gt;
       &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
         &lt;a href=&#34;https://github.com/caseybreen/intro_r/blob/main/problem_sets/problem_set1.pdf&#34; target=&#34;_blank&#34;&gt;Problem Set 1&lt;/a&gt;
       &lt;/td&gt;
       &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
-        &lt;a href=&#34;https://github.com/caseybreen/intro_r/blob/main/problem_sets/problem_set1_solutions.pdf&#34; target=&#34;_blank&#34;&gt;Solutions&lt;/a&gt;
-      &lt;/td&gt;
-      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
-        - Install R and RStudio&lt;br&gt;
-        - Why use R?&lt;br&gt;
-        - R scripts, notebooks, and Quarto&lt;br&gt;
-        - R objects &amp; functions&lt;br&gt;
-        - Basic syntax and operators&lt;br&gt;
-        - Data structures &amp; types&lt;br&gt;
-        - Subset vectors&lt;br&gt;
-        - Data frame manipulation (base)&lt;br&gt;
-        - Data frame characteristics
+        &lt;a href=&#34;https://github.com/caseybreen/intro_r/blob/main/slides/session3_workflow.pdf&#34; target=&#34;_blank&#34;&gt;Solutions&lt;/a&gt;
       &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
@@ -70,7 +58,7 @@ Each session is approximately 3 hours and includes lectures, in-class exercises,
         Module 6: Best Practices
       &lt;/td&gt;
       &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
-        &lt;a href=&#34;https://docs.google.com/presentation/d/1BQLEHZURV8CFreBzPdDz0Y1qvej34JxbbAbT2Mm_3xg/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;
+        &lt;a href=&#34;https://github.com/caseybreen/intro_r/blob/main/slides/session2_slides.pdf&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;
       &lt;/td&gt;
       &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
         &lt;a href=&#34;https://github.com/caseybreen/intro_r/blob/main/problem_sets/problem_set2.pdf&#34; target=&#34;_blank&#34;&gt;Problem Set 2&lt;/a&gt;
@@ -78,73 +66,19 @@ Each session is approximately 3 hours and includes lectures, in-class exercises,
       &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
         &lt;a href=&#34;https://github.com/caseybreen/intro_r/blob/main/problem_sets/problem_set2_solutions.pdf&#34; target=&#34;_blank&#34;&gt;Solutions&lt;/a&gt;
       &lt;/td&gt;
-      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
-        - Data formats&lt;br&gt;
-        - Import/export functions&lt;br&gt;
-        - File paths&lt;br&gt;
-        - Tidyverse overview&lt;br&gt;
-        - Data manipulation with dplyr&lt;br&gt;
-        - Data visualization with ggplot&lt;br&gt;
-        - Code documentation&lt;br&gt;
-        - Troubleshooting&lt;br&gt;
-        - Self-study resources
-      &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;Session 3&lt;/td&gt;
-      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;Machine learning and prediction&lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;Reproducible Workflow&lt;/td&gt;
       &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
         &lt;a href=&#34;https://docs.google.com/presentation/d/1PFXmsI9tGyObkZ2bxS980XKzRWRBlpQvJ6fA3SP035Q/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;
       &lt;/td&gt;
-      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;&lt;/td&gt;
       &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;&lt;/td&gt;
       &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
-&lt;h2 id=&#34;whats-covered&#34;&gt;What&amp;rsquo;s covered?&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Session&lt;/th&gt;
-&lt;th&gt;Topic &amp;amp; Module&lt;/th&gt;
-&lt;th&gt;Learning Objectives&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Session 1&lt;/td&gt;
-&lt;td&gt;Module 1: Intro to R &amp;amp; RStudio&lt;/td&gt;
-&lt;td&gt;- Install R and RStudio &lt;br&gt; - Why use R? &lt;br&gt; - R scripts, notebooks, and Quarto&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Session 1&lt;/td&gt;
-&lt;td&gt;Module 2: R Programming Basics&lt;/td&gt;
-&lt;td&gt;- R objects &amp;amp; functions &lt;br&gt; - Basic syntax and operators &lt;br&gt; - Data structures &amp;amp; types&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Session 1&lt;/td&gt;
-&lt;td&gt;Module 3: Vectors &amp;amp; Data Frames&lt;/td&gt;
-&lt;td&gt;- Subset vectors &lt;br&gt; - Data frame manipulation (base) &lt;br&gt; - Data frame characteristics&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Session 2&lt;/td&gt;
-&lt;td&gt;Module 4: Data Import/Export&lt;/td&gt;
-&lt;td&gt;- Data formats &lt;br&gt; - Import/export functions &lt;br&gt; - File paths&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Session 2&lt;/td&gt;
-&lt;td&gt;Module 5: Data Manipulation&lt;/td&gt;
-&lt;td&gt;- Tidyverse overview &lt;br&gt; - Data manipulation with dplyr &lt;br&gt; - Data visualization with ggplot&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Session 2&lt;/td&gt;
-&lt;td&gt;Module 6: Best Practices&lt;/td&gt;
-&lt;td&gt;- Code documentation &lt;br&gt; - Troubleshooting &lt;br&gt; - Self-study resources&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
 </description>
     </item>
     
@@ -154,8 +88,18 @@ Each session is approximately 3 hours and includes lectures, in-class exercises,
       <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://caseybreen.github.io/teaching/css/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Tuesdays 16:00-18:00pm, Sociology Seminar Room&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The growing availability of new streams of data, expansion of computational power and the digitalisation of our lives has created new questions and research opportunities for social and population scientists. The course will introduce students to a range of methodological and substantive topics in computational social science. We will cover topics such as digital trace and big data, machine learning, non-probability sampling, social networks, and agent-based modelling and microsimulation. The course will consist of seminar and lab sessions (taught in R), where students will engage with research in computational social science and learn to apply basic computational methods to research problems based on existing research papers.&lt;/p&gt;
+&lt;p&gt;[Joint instruction with 
+&lt;a href=&#34;https://www.sociology.ox.ac.uk/people/ridhi-kashyap#tab-2366051&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ridhi Kashyap&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;The growing availability of new streams of data, expansion of computational power and the
+digitalisation of our lives has created new questions and research opportunities for social
+and population scientists. The course will introduce students to a range of methodological
+and substantive topics in computational social science. We will cover topics such as digital
+trace and big data, machine learning, non-probability sampling, social networks, and agent-based
+modelling and microsimulation. The course will consist of seminar and lab sessions (taught in R),
+where students will engage with research in computational social science and learn to apply basic
+computational methods to research problems based on existing research papers.&lt;/p&gt;
 &lt;h3 id=&#34;course-schedule&#34;&gt;Course Schedule&lt;/h3&gt;
+&lt;div style=&#34;overflow-x: auto;&#34;&gt;
 &lt;table style=&#34;min-width: 1200px; font-size: 1rem;&#34;&gt;
   &lt;thead&gt;
     &lt;tr&gt;
@@ -216,6 +160,7 @@ Each session is approximately 3 hours and includes lectures, in-class exercises,
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;/div&gt;
 &lt;h3 id=&#34;learning-outcomes&#34;&gt;Learning Outcomes:&lt;/h3&gt;
 &lt;p&gt;By the end of this course, students will be able to:&lt;/p&gt;
 &lt;ol&gt;

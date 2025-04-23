@@ -105,7 +105,7 @@ Reliable estimates of death rates in complex humanitarian emergencies are critic
 </li>
 
 <li>
-<b>Casey F. Breen</b>. “The Longevity Benefits of Homeownership: Evidence from Early 20th-Century U.S. Male Birth Cohorts.” 2024. <i> Demography. </i> 61(6):1731-1757..<!-- Links to pubs, abstract, etc. -->
+<b>Casey F. Breen</b>. “The Longevity Benefits of Homeownership: Evidence from Early 20th-Century U.S. Male Birth Cohorts.” 2024. <i> Demography. </i> 61(6):1731-1757.<!-- Links to pubs, abstract, etc. -->
 
 <a style="white-space: nowrap" href="https://doi.org/10.1215/00703370-11680975" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Publication</button> </a>

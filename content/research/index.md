@@ -87,7 +87,7 @@ The digital revolution has ushered in many societal and economic benefits. Yet a
 <ol reversed>
 
 <li>
-<b>Casey F. Breen</b>, Saeed Rahman, Christina Kay, Joeri Smits, Steve Ahuka, and Dennis M. Feehan. “Estimating Death Rates in Complex Humanitarian Emergencies Using the Network Survival Method.” Forth., <i> American Journal of Epidemiology. </i> <!-- Links to pubs, abstract, etc. -->
+<b>Casey F. Breen</b>, Saeed Rahman, Christina Kay, Joeri Smits, Steve Ahuka, and Dennis M. Feehan. “Estimating Death Rates in Complex Humanitarian Emergencies Using the Network Survival Method.” Forthcoming. <i> American Journal of Epidemiology. </i> <!-- Links to pubs, abstract, etc. -->
 
 <a style="white-space: nowrap" href="https://doi.org/10.31235/osf.io/4efdt" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Open Access</button> </a> 

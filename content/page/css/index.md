@@ -231,7 +231,7 @@ and Mobile Adoption Using Social Media Data’.
 
 
 
-**Week 5: Non-probability sampling - discussion** 
+**Week 5: Non-probability sampling** 
 
 
 - Stedman, Richard C., Nancy A. Connelly, Thomas A. Heberlein, Daniel J. Decker, and
@@ -287,7 +287,7 @@ Proceedings of the National Academy of Sciences 107(15):6743–47. doi:
 Long Ties’. American Journal of Sociology 113(3):702–34. doi: 10.1086/521848.*
 
 
-**Week 7: Network Survival Method + Non-probability Sampling [LAB 3]** 
+**Week 7: Network Survival Method + non-probability Sampling [LAB 3]** 
 
 
 - Baker, Reg, J. Michael Brick, Nancy A. Bates, Mike Battaglia, Mick P. Couper, Jill A.

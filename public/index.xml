@@ -89,7 +89,7 @@ Each session is approximately 3 hours and includes lectures, in-class exercises,
         &lt;a href=&#34;https://github.com/caseybreen/intro_r/blob/main/problem_sets/problem_set1.pdf&#34; target=&#34;_blank&#34;&gt;Problem Set 1&lt;/a&gt;
       &lt;/td&gt;
       &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
-        &lt;a href=&#34;https://github.com/caseybreen/intro_r/blob/main/slides/session3_workflow.pdf&#34; target=&#34;_blank&#34;&gt;Solutions&lt;/a&gt;
+        &lt;a href=&#34;https://github.com/caseybreen/intro_r/blob/main/problem_sets/problem_set1_solutions.pdf&#34; target=&#34;_blank&#34;&gt;Solutions&lt;/a&gt;
       &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
@@ -113,7 +113,7 @@ Each session is approximately 3 hours and includes lectures, in-class exercises,
       &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;Session 3&lt;/td&gt;
       &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;Reproducible Workflow&lt;/td&gt;
       &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
-        &lt;a href=&#34;https://docs.google.com/presentation/d/1PFXmsI9tGyObkZ2bxS980XKzRWRBlpQvJ6fA3SP035Q/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;
+        &lt;a href=&#34;https://github.com/caseybreen/intro_r/blob/main/slides/session3_workflow.pdf&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;
       &lt;/td&gt;
       &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;&lt;/td&gt;
       &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;&lt;/td&gt;
@@ -239,6 +239,172 @@ computational methods to research problems based on existing research papers.&lt
 &lt;p&gt;Problem set, involving code and markdown report, that applies computational techniques learned during the module, provided in week 8, due on Friday, noon, week 0 Trinity term.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
+&lt;h3 id=&#34;reading-list&#34;&gt;Reading list&lt;/h3&gt;
+&lt;p&gt;Note: starred (*) papers are for presentation to the group by the assigned student for that week.
+These are the core readings for the week.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Week 1: Introduction to Computational Social Science&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Kashyap, Ridhi, R. Gordon Rinderknecht, Aliakbar Akbaritabar, Diego
+Alburez-Gutierrez, Sofia Gil-Clavel, André Grow, Jisu Kim et al. &amp;ldquo;Digital and
+computational demography.&amp;rdquo; In Research Handbook on Digital Sociology, pp. 48-86.
+Edward Elgar Publishing, 2023.$\dagger$&lt;/li&gt;
+&lt;li&gt;Lazer, David, Eszter Hargittai, Deen Freelon, Sandra Gonzalez-Bailon, Kevin Munger,
+Katherine Ognyanova, and Jason Radford. 2021. ‘Meaningful Measures of Human
+Society in the Twenty-First Century’. Nature 595(7866):189–96. doi:
+10.1038/s41586-021-03660-7.$\dagger$&lt;/li&gt;
+&lt;li&gt;Edelmann, Achim, Tom Wolff, Danielle Montagne, and Christopher A. Bail.
+&amp;ldquo;Computational social science and sociology.&amp;rdquo; Annual review of sociology 46, no. 1
+(2020): 61-81.$\dagger$&lt;/li&gt;
+&lt;li&gt;Lazer, David M. J., Alex Pentland, Duncan J. Watts, Sinan Aral, Susan Athey, Noshir
+Contractor, Deen Freelon, Sandra Gonzalez-Bailon, Gary King, Helen Margetts, Alondra
+Nelson, Matthew J. Salganik, Markus Strohmaier, Alessandro Vespignani, and Claudia
+Wagner. 2020. ‘Computational Social Science: Obstacles and Opportunities’. Science
+369(6507):1060–62. doi: 10.1126/science.aaz8170.$\dagger$&lt;/li&gt;
+&lt;li&gt;Salganik, Matthew J. 2019. Bit by Bit: Social Research in the Digital Age. Princeton
+University Press. Chapter 1.$\dagger$&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Week 2: Social data in the digital age - opportunities and challenges - Lab
+&lt;em&gt;Note: No paper presentations this week.&lt;/em&gt;
+● Ruggles, Steven. 2014. ‘Big Microdata for Population Research’. Demography
+51(1):287–97. doi: 10.1007/s13524-013-0240-2.
+● * Kashyap, Ridhi. 2021. ‘Has Demography Witnessed a Data Revolution? Promises and
+Pitfalls of a Changing Data Ecosystem’. Population Studies 75(sup1):47–75. doi:
+10.1080/00324728.2021.1969031.
+● * Salganik, Matthew J. 2019. Bit by Bit: Social Research in the Digital Age. Princeton
+University Press. Chapter 2.
+● Lazer, David, Ryan Kennedy, Gary King, and Alessandro Vespignani. 2014. ‘The Parable
+of Google Flu: Traps in Big Data Analysis’. Science 343(6176):1203–5. doi:
+10.1126/science.1248506.
+● * Ruggles, Steven, Catherine A. Fitch, and Evan Roberts. 2018. ‘Historical Census
+Record Linkage’. Annual Review of Sociology 44(1):19–37. doi:
+10.1146/annurev-soc-073117-041447.
+● Chetty, Raj, Matthew O. Jackson, Theresa Kuchler, Johannes Stroebel, Nathaniel
+Hendren, Robert B. Fluegge, Sara Gong, Federico Gonzalez, Armelle Grondin, Matthew
+Jacob, Drew Johnston, Martin Koenen, Eduardo Laguna-Muggenburg, Florian
+Mudekereza, Tom Rutter, Nicolaj Thor, Wilbur Townsend, Ruby Zhang, Mike Bailey,
+Pablo Barberá, Monica Bhole, and Nils Wernerfelt. 2022. ‘Social Capital I: Measurement
+and Associations with Economic Mobility’. Nature 608(7921):108–21. doi:
+10.1038/s41586-022-04996-4.
+● * Bruch, Elizabeth E., and M. E. J. Newman. 2018. ‘Aspirational Pursuit of Mates in
+Online Dating Markets’. Science Advances 4(8):eaap9815. doi: 10.1126/sciadv.aap9815.
+● Grinberg, Nir, Kenneth Joseph, Lisa Friedland, Briony Swire-Thompson, and David
+Lazer. 2019. ‘Fake News on Twitter during the 2016 U.S. Presidential Election’. Science
+363(6425):374–78. doi: 10.1126/science.aau2706.
+Week 2: Collecting Facebook data using an Application Program Interface (API) [LAB 1]
+● * Fatehkia, Masoomali, Ridhi Kashyap, and Ingmar Weber. &amp;ldquo;Using Facebook ad data to
+track the global digital gender gap.&amp;rdquo; World Development 107 (2018): 189-209.
+● Zagheni, Emilio, Ingmar Weber, and Krishna Gummadi. 2017. ‘Leveraging Facebook’s
+Advertising Platform to Monitor Stocks of Migrants’. Population and Development
+Review 43(4):721–34.
+● Araujo, Matheus, Yelena Mejova, Ingmar Weber, and Fabricio Benevenuto. &amp;ldquo;Using
+Facebook ads audiences for global lifestyle disease surveillance: Promises and
+limitations.&amp;rdquo; In Proceedings of the 2017 ACM on Web science conference, pp. 253-257.
+2017.
+● Collect original data on the count of Facebook users broken down by characteristics
+using the Facebook marketing API
+Week 3: Machine learning/prediction - discussion
+● * Salganik, Matthew J., Ian Lundberg, …, and Sara McLanahan. 2020. ‘Measuring the
+Predictability of Life Outcomes with a Scientific Mass Collaboration’. Proceedings of the
+National Academy of Sciences 117(15):8398–8403. doi: 10.1073/pnas.1915006117.
+● Lundberg, Ian, Jennie E. Brand, and Nanum Jeon. 2022. ‘Researcher Reasoning Meets
+Computational Capacity: Machine Learning for Social Science’. Social Science Research
+108:102807. doi: 10.1016/j.ssresearch.2022.102807.
+● Lundberg, Ian, Rachel Brown-Weinstock, Susan Clampet-Lundquist, Sarah Pachman,
+Timothy J. Nelson, Vicki Yang, Kathryn Edin, and Matthew J. Salganik. 2024. ‘The
+Origins of Unpredictability in Life Outcome Prediction Tasks’. Proceedings of the
+National Academy of Sciences 121(24):e2322973121. doi: 10.1073/pnas.2322973121.
+● * Blumenstock, Joshua, Gabriel Cadamuro, and Robert On. 2015. ‘Predicting Poverty
+and Wealth from Mobile Phone Metadata’. Science 350(6264):1073–76. doi:
+10.1126/science.aac4420.
+● Chi, Guanghua, Han Fang, Sourav Chatterjee, and Joshua E. Blumenstock. 2022.
+‘Microestimates of Wealth for All Low- and Middle-Income Countries’. Proceedings of
+the National Academy of Sciences 119(3):e2113658119. doi: 10.1073/pnas.2113658119.
+● Molina, Mario, and Filiz Garip. 2019. ‘Machine Learning for Sociology’. Annual Review
+of Sociology 45(1):27–45. doi: 10.1146/annurev-soc-073117-041106.
+● * Hofman, Jake M., Duncan J. Watts, Susan Athey, Filiz Garip, Thomas L. Griffiths, Jon
+Kleinberg, Helen Margetts, Sendhil Mullainathan, Matthew J. Salganik, Simine Vazire,
+Alessandro Vespignani, and Tal Yarkoni. 2021. ‘Integrating Explanation and Prediction in
+Computational Social Science’. Nature 595(7866):181–88. doi:
+10.1038/s41586-021s-03659-0.
+Integrating explanation and prediction in computational social science | Nature
+Week 4: Machine learning [LAB 2]
+Apply machine learning algorithms and Facebook user counts to predict overall levels of internet
+adoption and digital divisions
+● Breen, Casey F., Masoomali Fatehkia, Jiani Yan, Xinyi Zhao, Douglas R. Leasure,
+Ingmar Weber, and Ridhi Kashyap. 2024. ‘Mapping Subnational Gender Gaps in Internet
+and Mobile Adoption Using Social Media Data’.&lt;/p&gt;
+&lt;p&gt;Week 5: Non-probability sampling - discussion
+● * Stedman, Richard C., Nancy A. Connelly, Thomas A. Heberlein, Daniel J. Decker, and
+Shorna B. Allred. 2019. ‘The End of the (Research) World As We Know It?
+Understanding and Coping With Declining Response Rates to Mail Surveys’. Society &amp;amp;
+Natural Resources 32(10):1139–54. doi: 10.1080/08941920.2019.1587127.
+● * Lehdonvirta, Vili, Atte Oksanen, Pekka Räsänen, and Grant Blank. 2021. ‘Social
+Media, Web, and Panel Surveys: Using Non-Probability Samples in Social and Policy
+Research’. Policy &amp;amp; Internet 13(1):134–55. doi: 10.1002/poi3.238.
+● Elliott, Michael R., and Richard Valliant. 2017. ‘Inference for Nonprobability Samples’.
+Statistical Science 32(2):249–64.
+● * Wang, Wei, David Rothschild, Sharad Goel, and Andrew Gelman. 2015. ‘Forecasting
+Elections with Non-Representative Polls’. International Journal of Forecasting
+31(3):980–91. doi: 10.1016/j.ijforecast.2014.06.001.
+● Dutwin, David, and Trent D. Buskirk. 2017. ‘Apples to Oranges or Gala versus Golden
+Delicious?: Comparing Data Quality of Nonprobability Internet Samples to Low
+Response Rate Probability Samples’. Public Opinion Quarterly 81(S1):213–39. doi:
+10.1093/poq/nfw061.
+● Park, David K., Andrew Gelman, and Joseph Bafumi. 2004. ‘Bayesian Multilevel
+Estimation with Poststratification: State-Level Estimates from National Polls’. Political
+Analysis 12(4):375–85. doi: 10.1093/pan/mph024.
+● Breen, Casey F., Ayesha S. Mahmud, and Dennis M. Feehan. 2022. ‘Novel Estimates
+Reveal Subnational Heterogeneities in Disease-Relevant Contact Patterns in the United
+States’. PLOS Computational Biology 18(12):e1010742. doi:
+10.1371/journal.pcbi.1010742.
+Week 6: Social networks - discussion
+● Borgatti, Stephen P., Ajay Mehra, Daniel J. Brass, and Giuseppe Labianca. 2009.
+‘Network Analysis in the Social Sciences’. Science 323(5916):892–95. doi:
+10.1126/science.1165821.
+● * Watts, Duncan J. 2004. ‘The “New” Science of Networks’. Annual Review of Sociology
+30(1):243–70. doi: 10.1146/annurev.soc.30.020404.104342.
+● Eagle, Nathan, Alex (Sandy) Pentland, and DavThe “New” Science of Networks | Annual
+Reviewsid Lazer. 2009. ‘Inferring Friendship Network Structure by Using Mobile Phone
+Data’. Proceedings of the National Academy of Sciences 106(36):15274–78. doi:
+10.1073/pnas.0900282106.
+● Kossinets, Gueorgi, and Duncan J. Watts. 2006. ‘Empirical Analysis of an Evolving
+Social Network’. Science 311(5757):88–90. doi: 10.1126/science.1116869.
+● Feehan, Dennis M., and Curtiss Cobb. 2019. ‘Using an Online Sample to Estimate the
+Size of an Offline Population’. Demography 56(6):2377–92. doi:
+10.1007/s13524-019-00840-z.
+● * Granovetter, Mark S. 1973. ‘The Strength of Weak Ties’. American Journal of
+Sociology 78(6):1360–80.
+● * Salganik, Matthew J., and Douglas D. Heckathorn. 2004. ‘Sampling and Estimation in
+Hidden Populations Using Respondent-Driven Sampling. Sociological Methodology
+34(1):193–240.
+● Goel, Sharad, and Matthew J. Salganik. 2010. ‘Assessing Respondent-Driven Sampling’.
+Proceedings of the National Academy of Sciences 107(15):6743–47. doi:
+10.1073/pnas.1000261107.
+● * Centola, Damon, and Michael Macy. 2007. ‘Complex Contagions and the Weakness of
+Long Ties’. American Journal of Sociology 113(3):702–34. doi: 10.1086/521848.
+Week 7: Non-probability sampling [LAB]
+Apply poststratification and inverse-probability weighting to a non-probability sample to
+estimate mortality rates using network survival method
+● Baker, Reg, J. Michael Brick, Nancy A. Bates, Mike Battaglia, Mick P. Couper, Jill A.
+Dever, Krista J. Gile, and Roger Tourangeau. 2013. ‘Summary Report of the AAPOR
+Task Force on Non-Probability Sampling’. Journal of Survey Statistics and Methodology
+1(2):90–143. doi: 10.1093/jssam/smt008.
+Week 8: Agent-based modelling and microsimulation - discussion
+● * Bruch, Elizabeth, and Jon Atwell. &amp;ldquo;Agent-based models in empirical social research.&amp;rdquo;
+Sociological methods &amp;amp; research44, no. 2 (2015): 186-221.
+● Spielauer, Martin. &amp;ldquo;What is social science microsimulation?&amp;rdquo; Social Science Computer
+Review 29, no. 1 (2011): 9-20.
+● Zagheni, Emilio. &amp;ldquo;The impact of the HIV/AIDS epidemic on kinship resources for
+orphans in Zimbabwe.&amp;rdquo; Population and Development Review 37, no. 4 (2011): 761-783.
+● * Kashyap, Ridhi, and Francisco Villavicencio. &amp;ldquo;The dynamics of son preference,
+technology diffusion, and fertility decline underlying distorted sex ratios at birth: A
+simulation approach.&amp;rdquo; Demography 53, no. 5 (2016): 1261-1281.
+● Grow, André, and Jan Van Bavel. &amp;ldquo;Assortative mating and the reversal of gender
+inequality in education in Europe: An agent-based model.&amp;rdquo; PloS one 10, no. 6 (2015):
+e0127806.
+● *Alburez‐Gutierrez, Diego, Carl Mason, and Emilio Zagheni. &amp;ldquo;The “sandwich
+generation” revisited: Global demographic drivers of care time demands.&amp;rdquo; Population
+and Development Review 47, no. 4 (2021): 997-1023.&lt;/p&gt;
 </description>
     </item>
     
@@ -271,7 +437,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-417985326&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-485197236&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -281,7 +447,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-417985326&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-485197236&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -656,10 +822,14 @@ There are striking disparities in longevity across sociodemographic groups in th
 &lt;!-- Abstract --&gt;
 &lt;div id=&#34;abstract-dgg-mapping&#34; class=&#34;collapse&#34;&gt;
 &lt;br /&gt;
-The digital revolution has ushered in many societal and economic  benefits. Yet access to digital technologies such as mobile phones and internet remains highly unequal, especially by gender in the context of low- and middle-income countries. While national-level estimates are increasingly available for many countries, reliable, quantitative  estimates of digital gender inequalities at the subnational level are  lacking. These estimates, however, are essential for monitoring gaps within countries and implementing targeted interventions within the  global sustainable development goals, which emphasize the need to  close inequalities both between and within countries. We develop  estimates of internet and mobile adoption by gender and digital  gender gaps at the subnational level for 2,158 regions in 118 low- and middle-income countries (LMICs), a context where digital penetration is low and national-level gender gaps disfavoring women are large. We construct these estimates by applying machine-learning algorithms to Facebook user counts, geospatial data, development indicators,and population composition data. We calibrate and assess the performance of these algorithms using ground-truth data from subnationally-representative household survey data from 31 LMICs. Our results reveal striking disparities in access to mobile and internet technologies between and within LMICs, with implications for policy formulation and infrastructure investment. These disparities contribute to a global context where women are 21% less likely to use the internet and 17% less likely to own mobile phones than men, corresponding to over 385 million more men than women owning a mobile phone and over 360 million more men than women using the internet.&lt;/div&gt; 
+The digital revolution has ushered in many societal and economic benefits. Yet access to digital technologies such as mobile phones and internet remains highly unequal, especially by gender in the context of low- and middle-income countries. While national-level estimates are increasingly available for many countries, reliable, quantitative  estimates of digital gender inequalities at the subnational level are  lacking. These estimates, however, are essential for monitoring gaps within countries and implementing targeted interventions within the  global sustainable development goals, which emphasize the need to  close inequalities both between and within countries. We develop  estimates of internet and mobile adoption by gender and digital  gender gaps at the subnational level for 2,158 regions in 118 low- and middle-income countries (LMICs), a context where digital penetration is low and national-level gender gaps disfavoring women are large. We construct these estimates by applying machine-learning algorithms to Facebook user counts, geospatial data, development indicators,and population composition data. We calibrate and assess the performance of these algorithms using ground-truth data from subnationally-representative household survey data from 31 LMICs. Our results reveal striking disparities in access to mobile and internet technologies between and within LMICs, with implications for policy formulation and infrastructure investment. These disparities contribute to a global context where women are 21% less likely to use the internet and 17% less likely to own mobile phones than men, corresponding to over 385 million more men than women owning a mobile phone and over 360 million more men than women using the internet.&lt;/div&gt; 
 &lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;publications&#34;&gt;Publications&lt;/h3&gt;
+&lt;hr&gt;
+&lt;ol reversed&gt;
 &lt;li&gt;
-&lt;b&gt;Casey F. Breen&lt;/b&gt;, Saeed Rahman, Christina Kay, Joeri Smits, Steve Ahuka, and Dennis M. Feehan. “Estimating Death Rates in Complex Humanitarian Emergencies Using the Network Survival Method.” &lt;!-- Links to pubs, abstract, etc. --&gt;
+&lt;b&gt;Casey F. Breen&lt;/b&gt;, Saeed Rahman, Christina Kay, Joeri Smits, Steve Ahuka, and Dennis M. Feehan. “Estimating Death Rates in Complex Humanitarian Emergencies Using the Network Survival Method.” Forthcoming. &lt;i&gt; American Journal of Epidemiology. &lt;/i&gt; &lt;!-- Links to pubs, abstract, etc. --&gt;
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://doi.org/10.31235/osf.io/4efdt&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Open Access&lt;/button&gt; &lt;/a&gt; 
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://doi.org/10.17605/OSF.IO/Y6F4Q&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
@@ -673,12 +843,8 @@ The digital revolution has ushered in many societal and economic  benefits. Yet 
 Reliable estimates of death rates in complex humanitarian emergencies are critical for assessing the severity of a crisis and for effectively allocating resources. However, in many humanitarian settings, logistical and security concerns make conventional methods for estimating death rates infeasible. In this study, we develop and test a new method for estimating death rates in humanitarian emergencies. Our method is based on the idea that reports about deaths in survey respondents’ social networks can be used to estimate death rates. To test our method, we collected original data in a setting where reliable estimates of death rates are in high demand, Tanganyika Province of the Democratic Republic of the Congo. Qualitative work suggested testing two different types of personal networks as the basis for death rate estimates: deaths among immediate neighbors and deaths among extended kin. We evaluate our new method for estimating mortality rates in humanitarian emergencies by benchmarking against a contemporaneous retrospective household mortality survey. Our empirical results illustrate the settings and assumptions under which we would expect our new method to produce reliable estimates of crude death dates. 
 &lt;/div&gt; 
 &lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&#34;publications&#34;&gt;Publications&lt;/h3&gt;
-&lt;hr&gt;
-&lt;ol reversed&gt;
 &lt;li&gt;
-&lt;b&gt;Casey F. Breen&lt;/b&gt;. “The Longevity Benefits of Homeownership: Evidence from Early 20th-Century U.S. Male Birth Cohorts.” 2024. &lt;i&gt; Demography. &lt;/i&gt; doi: 10.1215/00703370-11680975.&lt;!-- Links to pubs, abstract, etc. --&gt;
+&lt;b&gt;Casey F. Breen&lt;/b&gt;. “The Longevity Benefits of Homeownership: Evidence from Early 20th-Century U.S. Male Birth Cohorts.” 2024. &lt;i&gt; Demography. &lt;/i&gt; 61(6):1731-1757.&lt;!-- Links to pubs, abstract, etc. --&gt;
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://doi.org/10.1215/00703370-11680975&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Publication&lt;/button&gt; &lt;/a&gt;
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://osf.io/preprints/socarxiv/7ya3f/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
@@ -693,7 +859,7 @@ Owning a home has long been touted as a key component of the idealized &#34;Amer
 &lt;/div&gt; 
 &lt;/li&gt;
 &lt;li&gt;
-&lt;b&gt;Casey F. Breen &lt;/b&gt; and Dennis M. Feehan. “New Data Sources for Demographic Research.” 2024. &lt;i&gt; Population and Development Review. &lt;/i&gt;&lt;!-- Links to pubs, abstract, etc. --&gt;
+&lt;b&gt;Casey F. Breen &lt;/b&gt; and Dennis M. Feehan. “New Data Sources for Demographic Research.” 2024. &lt;i&gt; Population and Development Review. &lt;/i&gt; 51(1):539–73. &lt;!-- Links to pubs, abstract, etc. --&gt;
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://doi.org/10.1111/padr.12671&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Publication&lt;/button&gt; &lt;/a&gt;
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://osf.io/preprints/socarxiv/ybghv&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;

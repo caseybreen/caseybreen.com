@@ -12,7 +12,7 @@ url: "/teaching/css/"
 
 **Tuesdays 16:00-18:00pm, Sociology Seminar Room**
 
-[Jointly developed and co-instruct with [Ridhi Kashyap](https://www.sociology.ox.ac.uk/people/ridhi-kashyap#tab-2366051)]
+[Jointly developed and co-instructed with [Ridhi Kashyap](https://www.sociology.ox.ac.uk/people/ridhi-kashyap#tab-2366051)]
 
 The growing availability of new streams of data, expansion of computational power and the
 digitalisation of our lives has created new questions and research opportunities for social

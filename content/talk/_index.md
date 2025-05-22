@@ -2,7 +2,6 @@
 header:
 title: Select Conference Presentations and Invited Talks 
 ---
-
 <table>
   <thead>
     <tr>
@@ -13,6 +12,18 @@ title: Select Conference Presentations and Invited Talks
     </tr>
   </thead>
   <tbody>
+   <tr>
+      <td>CenSoc: Public Linked Administrative Mortality Records for Indvidual-Level Research</td>
+      <td>Max Planck Institute for Demographic Research </td>
+      <td>April 12, 2025 &nbsp;</td>
+      <td><a href="/media/talk_slides/breen_dgg_mpidr_slides.pdf" target="_blank">Slides</a></td>
+    </tr>
+      <tr>
+      <td>CenSoc: Public Linked Administrative Mortality Records for Indvidual-Level Research</td>
+      <td>Max Planck Institute for Demographic Research </td>
+      <td>April 12, 2025 &nbsp;</td>
+      <td><a href="/media/talk_slides/censoc_rostock_workshop.pdf" target="_blank">Slides</a></td>
+    </tr>
       <tr>
       <td>Population Research with Linked Data: Guide to Inference </td>
       <td>Population Association of America</td>

@@ -13,7 +13,7 @@ title: Select Conference Presentations and Invited Talks
   </thead>
   <tbody>
    <tr>
-      <td>CenSoc: Public Linked Administrative Mortality Records for Indvidual-Level Research</td>
+      <td>Digital Gender Gaps Project: Measuring the Digital Divide and Explaining its Demographic Consequences</td>
       <td>Max Planck Institute for Demographic Research </td>
       <td>April 12, 2025 &nbsp;</td>
       <td><a href="/media/talk_slides/breen_dgg_mpidr_slides.pdf" target="_blank">Slides</a></td>

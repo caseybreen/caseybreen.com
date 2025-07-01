@@ -130,7 +130,7 @@ Each session is approximately 3 hours and includes lectures, in-class exercises,
       <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://caseybreen.github.io/teaching/css/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Tuesdays 16:00-18:00pm, Sociology Seminar Room&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;[Jointly developed and co-instruct with 
+&lt;p&gt;[Jointly developed and co-instructed with 
 &lt;a href=&#34;https://www.sociology.ox.ac.uk/people/ridhi-kashyap#tab-2366051&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ridhi Kashyap&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;The growing availability of new streams of data, expansion of computational power and the
 digitalisation of our lives has created new questions and research opportunities for social
@@ -449,7 +449,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-675948231&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-863274195&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -459,7 +459,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-675948231&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-863274195&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1017,7 +1017,12 @@ and take-home problem sets with solutions.&lt;/p&gt;
 
 
 
-&lt;p&gt;Apr 2025: I had a great time at PAA 2025 in Washington D.C. I gave two talks, chaired a panel on lessons the field of Demography learned from COVID-19 pandemic, and was a discussant for a session on historical policies and health.&lt;/p&gt;
+&lt;p&gt;May. 2025: I had an excellent (first!) visit to the Max Planck Institute for Demographic Research (MPIDR) in Rostock. I presented some recent work on measuring digital inequality [
+&lt;a href=&#34;https://caseybreen.github.io/media/talk_slides/breen_dgg_mpidr_slides.pdf&#34;&gt;Slides&lt;/a&gt;] and led a workshop on the CenSoc project [
+&lt;a href=&#34;https://caseybreen.github.io/media/talk_slides/censoc_rostock_workshop.pdf&#34;&gt;Slides&lt;/a&gt;].&lt;/p&gt;
+&lt;p&gt;Apr. 2025: I had a great time at PAA 2025 in Washington D.C. I gave two talks, chaired a panel on lessons the field of Demography learned from COVID-19 pandemic, and was a discussant for a session on historical policies and health.&lt;/p&gt;
+&lt;p&gt;Mar. 2025: I spent a wonderful research visit to NYU Abu Dhabi. I gave a seminar on estimating death rates in complex humanitarian emergencies using the network survival method. [
+&lt;a href=&#34;https://caseybreen.github.io/media/talk_slides/breen_drc_network_survival_abu_dhabi.pdf&#34;&gt;Slides&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;Dec. 2024: I had lots of fun organizing a CenSoc Users Conference. [
 &lt;a href=&#34;https://docs.google.com/document/d/1MyUOiTJTgunslsIquQ6OpIsSycRVltgYpepBiXt8Vtw/edit?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Program&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;Dec. 2024: New paper in Demography: 

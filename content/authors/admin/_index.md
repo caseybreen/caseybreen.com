@@ -26,7 +26,7 @@ social:
   link: mailto:casey.breen@austin.utexas.edu
 - icon: bluesky
   icon_pack: fab
-  link: https://bsky.app/profile/yourhandle.bsky.social
+  link: https://bsky.app/profile/caseybreen.bsky.social
 - icon: github
   icon_pack: fab
   link: https://github.com/caseybreen

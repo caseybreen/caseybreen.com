@@ -11,22 +11,22 @@ education:
   - course: BA, Economics 
     institution: Pomona College
     year: 2016
-email: "caseybreen@berkeley.edu"
+email: "casey.breen@austin.utexas.edu"
 interests:
 - Social Networks
 - Health and Mortality Disparities
 - Computational Social Science
 organizations:
-- name: University of Oxford
-  url: https://www.ox.ac.uk/
-role: Postdoctoral Scholar
+- name: University of Texas at Austin
+  url: https://www.utexas.edu/
+role: Assistant Professor
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:caseybreen@berkeley.edu
-- icon: twitter
+  link: mailto:casey.breen@austin.utexas.edu
+- icon: bluesky
   icon_pack: fab
-  link: https://twitter.com/caseyfbreen
+  link: https://bsky.app/profile/yourhandle.bsky.social
 - icon: github
   icon_pack: fab
   link: https://github.com/caseybreen

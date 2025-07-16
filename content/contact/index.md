@@ -10,9 +10,9 @@ comments: false  # Show comments?
 
 ---
 
-**Email:** &nbsp;&nbsp;&nbsp;&nbsp;<casey.breen@demography.ox.ac.uk>
+**Email:** &nbsp;&nbsp;&nbsp;&nbsp;<casey.breen@austin.utexas.edu>
 
 
-**Mail:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Leverhulme Centre for Demographic Science <br>
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Oxford, Nuffield College <br>
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 42-43 Park End Street, Oxford, OX1 1NF, UK
+**Mail:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Department of Sociology <br>
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Texas at Austin <br>
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 305 E 23rd St, Austin, Texas 78712

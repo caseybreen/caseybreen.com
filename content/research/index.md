@@ -189,7 +189,8 @@ New advances in data linkage provide mortality researchers with access to admini
 </li>
 
 <li>
-<b>Casey F. Breen</b>. 2022. ''Changes in Racial Self-Identiﬁcation for the Greatest Generation: Evidence from Social Security Administrative Data.'' <i> Population Research and Policy Review. </i>  42(1):10. <!-- Links to pubs, abstract, etc. --> <a style="white-space: nowrap" href="https://link.springer.com/article/10.1007/s11113-023-09764-4" target="_blank" rel="noopener noreferrer">
+<b>Casey F. Breen</b>. 2022. ''Late‑Life Changes in Ethnoracial Self‑identification:
+Evidence from Social Security Administrative Data.'' <i> Population Research and Policy Review. </i>  42(1):10. <!-- Links to pubs, abstract, etc. --> <a style="white-space: nowrap" href="https://link.springer.com/article/10.1007/s11113-023-09764-4" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Publication</button> </a>
 <a style="white-space: nowrap" href="/media/papers/Breen - 2023 - Late-Life Changes in Ethnoracial Self-identificati.pdf" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">PDF</button> </a> 

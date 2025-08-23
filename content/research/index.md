@@ -91,6 +91,8 @@ The digital revolution has ushered in many societal and economic benefits. Yet a
 
 <a style="white-space: nowrap" href="https://doi.org/10.1093/aje/kwaf101" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Publication</button> </a>
+<a style="white-space: nowrap" href="/media/papers/Breen et al. - 2025 - Estimating death rates in complex humanitarian eme.pdf" target="_blank" rel="noopener noreferrer">
+<button type="button" class="btn btn-outline-primary">PDF</button> </a>
 <a style="white-space: nowrap" href="https://doi.org/10.31235/osf.io/4efdt" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Open Access</button> </a> 
 <a style="white-space: nowrap" href="https://doi.org/10.17605/OSF.IO/Y6F4Q" target="_blank" rel="noopener noreferrer">
@@ -111,6 +113,8 @@ Reliable estimates of death rates in complex humanitarian emergencies are critic
 
 <a style="white-space: nowrap" href="https://doi.org/10.1215/00703370-11680975" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Publication</button> </a>
+<a style="white-space: nowrap" href="/media/papers/Breen - 2024 - The Longevity Benefits of Homeownership Evidence .pdf" target="_blank" rel="noopener noreferrer">
+<button type="button" class="btn btn-outline-primary">PDF</button> </a>
 <a style="white-space: nowrap" href="https://osf.io/preprints/socarxiv/7ya3f/" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Open Access</button> </a> 
 <a style="white-space: nowrap" href="https://osf.io/g85sv/?view_only=57f5a76035754ffabc3f7916bf6d3cd0" target="_blank" rel="noopener noreferrer">
@@ -129,6 +133,8 @@ Owning a home has long been touted as a key component of the idealized "American
 
 <a style="white-space: nowrap" href="https://doi.org/10.1111/padr.12671" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Publication</button> </a>
+<a style="white-space: nowrap" href="/media/papers/Breen and Feehan - 2025 - New Data Sources for Demographic Research.pdf" target="_blank" rel="noopener noreferrer">
+<button type="button" class="btn btn-outline-primary">PDF</button> </a>
 <a style="white-space: nowrap" href="https://osf.io/preprints/socarxiv/ybghv" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Open Access</button> </a> 
 <a href="#new-data" class="btn btn-outline-primary" data-toggle="collapse">Abstract</a>
@@ -146,8 +152,14 @@ We are in the early stages of a new, uncertain era of demographic research, driv
 <b>Casey F. Breen</b>, Maria Osborne, and Joshua R. Goldstein. 2023. “CenSoc: Public Linked Administrative Mortality Records for Individual-level Research.” <i> Scientific Data. </i> 42(3):36. <!-- Links to pubs, abstract, etc. -->
 <a style="white-space: nowrap" href="https://www.nature.com/articles/s41597-023-02713-y" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Publication</button> </a>
+<a style="white-space: nowrap" href="/media/papers/Goldstein et al. - 2023 - Mortality Modeling of Partially Observed Cohorts U.pdf" target="_blank" rel="noopener noreferrer">
+<button type="button" class="btn btn-outline-primary">PDF</button> </a>
+<a style="white-space: nowrap" href="/media/papers/Breen et al. - 2023 - CenSoc Public Linked Administrative Mortality Rec.pdf" target="_blank" rel="noopener noreferrer">
+<button type="button" class="btn btn-outline-primary">PDF</button> </a>
 <a style="white-space: nowrap" href="https://doi.org/10.17605/OSF.IO/8R349" target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-outline-primary">Replication</button> </a> 
 <a href="#abstract-censoc" class="btn btn-outline-primary" data-toggle="collapse">Abstract</a>
+
+
 
 <!-- Abstract -->
 <div id="abstract-censoc" class="collapse">
@@ -164,6 +176,8 @@ In the United States, much has been learned about the determinants of longevity 
 Joshua R. Goldstein, <b>Casey F. Breen</b>, Maria Osborne, and Serge Atherwood. 2023. “Mortality Modeling of Partially Observed Cohorts Using Administrative Death Records.” <i> Population Research and Policy Review. </i> 42(3):36. <!-- Links to pubs, abstract, etc. -->
 <a style="white-space: nowrap" href="https://link.springer.com/article/10.1007/s11113-023-09785-z" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Publication</button> </a>
+<a style="white-space: nowrap" href="/media/papers/Breen et al. - 2023 - CenSoc Public Linked Administrative Mortality Rec.pdf" target="_blank" rel="noopener noreferrer">
+<button type="button" class="btn btn-outline-primary">PDF</button> </a>
 <a style="white-space: nowrap" href="https://doi.org/10.31235/osf.io/efdzh" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Open Access</button> </a> 
 <a style="white-space: nowrap" href="https://osf.io/d6qhf/" target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-outline-primary">Replication</button> </a> 
@@ -179,10 +193,14 @@ New advances in data linkage provide mortality researchers with access to admini
 <li>
 <b>Casey F. Breen</b>. 2022. ''Changes in Racial Self-Identiﬁcation for the Greatest Generation: Evidence from Social Security Administrative Data.'' <i> Population Research and Policy Review. </i>  42(1):10. <!-- Links to pubs, abstract, etc. --> <a style="white-space: nowrap" href="https://link.springer.com/article/10.1007/s11113-023-09764-4" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Publication</button> </a>
+<a style="white-space: nowrap" href="/media/papers/Breen - 2023 - Late-Life Changes in Ethnoracial Self-identificati.pdf" target="_blank" rel="noopener noreferrer">
+<button type="button" class="btn btn-outline-primary">PDF</button> </a> 
 <a style="white-space: nowrap" href="https://osf.io/preprints/socarxiv/b9ek3/" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Open Access</button> </a> 
 <a style="white-space: nowrap" href="https://osf.io/vzyj9/" target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-outline-primary">Replication</button> </a> 
 <a href="#abstract-ethnoracial" class="btn btn-outline-primary" data-toggle="collapse">Abstract</a>
+
+
 
 <!-- Abstract -->
 <div id="abstract-ethnoracial" class="collapse">
@@ -194,6 +212,8 @@ Researchers generally recognize that ethnoracial identification may shift over t
 <li>
 <b>Casey F. Breen</b>, Dennis M. Feehan, and Ayesha S. Mahmud. 2022. ''Using Multilevel Regression with Poststratification to Estimate Subnational Contact Patterns.'' <i> PLOS Computational Biology. </i> e1010742. <!-- Links to pubs, abstract, etc. --> <a style="white-space: nowrap" href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010742" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Publication</button> </a>  
+<a style="white-space: nowrap" href="/media/papers/Breen et al. - 2022 - Novel estimates reveal subnational heterogeneities.pdf" target="_blank" rel="noopener noreferrer">
+<button type="button" class="btn btn-outline-primary">PDF</button> </a> 
 <a style="white-space: nowrap" href="https://osf.io/preprints/socarxiv/87e32/" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Open Access</button> </a> 
 <a style="white-space: nowrap" href="https://doi.org/10.17605/OSF.IO/AECWN" target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-outline-primary">Replication</button> </a> 
@@ -205,12 +225,13 @@ The spread and transmission dynamics of directly transmitted airborne pathogens,
 </div> 
 </li>
 
-
 <li>
 <b>Casey F. Breen</b> and Joshua R. Goldstein. 2022. “Berkeley Unified Numident Mortality Database: Public Administrative Records for Individual-Level Mortality Research.” <i> Demographic Research. Volume 47, Page 111-142.</i> 
 <!-- Links to pubs, abstract, etc. -->
 <a style="white-space: nowrap" href="https://doi.org/10.4054/DemRes.2022.47.5" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Publication</button> </a> 
+<a style="white-space: nowrap" href="/media/papers/Breen et al. - 2022 - Novel estimates reveal subnational heterogeneities.pdf" target="_blank" rel="noopener noreferrer">
+<button type="button" class="btn btn-outline-primary">PDF</button> </a> 
 <a style="white-space: nowrap" href="https://doi.org/10.31235/osf.io/pc294" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Open Access</button> </a> 
 <a style="white-space: nowrap" href="https://osf.io/eu63f/" target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-outline-primary">Replication</button> </a> 
@@ -229,6 +250,7 @@ While much progress has been made in understanding the demographic determinants 
 <li> <b>Casey F. Breen</b>, Elissa M. Redmiles, and Cormac Herley. 2022. “A Large-Scale Measurement of Cybercrime against Individuals.”  <i> The 2022 ACM Conference on Human Factors in Computing Systems (<b>CHI</b>) </i> Pp.1–41.
 <!-- Links to pubs, abstract, etc. -->
 <a style="white-space: nowrap" href="https://dl.acm.org/doi/10.1145/3491102.3517613" target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-outline-primary">Publication</button> </a> 
+<a style="white-space: nowrap" href="/media/papers/Breen et al. - 2022 - Novel estimates reveal subnational heterogeneities.pdf" target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-outline-primary">PDF</button> </a> 
 <a style="white-space: nowrap" href="https://doi.org/10.17605/OSF.IO/KNUFM" target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-outline-primary">Replication</button> </a> 
 <a style="white-space: nowrap" href="https://www.youtube.com/watch?v=BjrQJc11Isg" target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-outline-primary">Video</button> </a> 
 <a href="#abstract-cyber" class="btn btn-outline-primary" data-toggle="collapse">Abstract</a>

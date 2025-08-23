@@ -152,8 +152,6 @@ We are in the early stages of a new, uncertain era of demographic research, driv
 <b>Casey F. Breen</b>, Maria Osborne, and Joshua R. Goldstein. 2023. “CenSoc: Public Linked Administrative Mortality Records for Individual-level Research.” <i> Scientific Data. </i> 42(3):36. <!-- Links to pubs, abstract, etc. -->
 <a style="white-space: nowrap" href="https://www.nature.com/articles/s41597-023-02713-y" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Publication</button> </a>
-<a style="white-space: nowrap" href="/media/papers/Goldstein et al. - 2023 - Mortality Modeling of Partially Observed Cohorts U.pdf" target="_blank" rel="noopener noreferrer">
-<button type="button" class="btn btn-outline-primary">PDF</button> </a>
 <a style="white-space: nowrap" href="/media/papers/Breen et al. - 2023 - CenSoc Public Linked Administrative Mortality Rec.pdf" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">PDF</button> </a>
 <a style="white-space: nowrap" href="https://doi.org/10.17605/OSF.IO/8R349" target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-outline-primary">Replication</button> </a> 
@@ -176,7 +174,7 @@ In the United States, much has been learned about the determinants of longevity 
 Joshua R. Goldstein, <b>Casey F. Breen</b>, Maria Osborne, and Serge Atherwood. 2023. “Mortality Modeling of Partially Observed Cohorts Using Administrative Death Records.” <i> Population Research and Policy Review. </i> 42(3):36. <!-- Links to pubs, abstract, etc. -->
 <a style="white-space: nowrap" href="https://link.springer.com/article/10.1007/s11113-023-09785-z" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Publication</button> </a>
-<a style="white-space: nowrap" href="/media/papers/Breen et al. - 2023 - CenSoc Public Linked Administrative Mortality Rec.pdf" target="_blank" rel="noopener noreferrer">
+<a style="white-space: nowrap" href="/media/papers/Goldstein et al. - 2023 - Mortality Modeling of Partially Observed Cohorts U.pdf" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">PDF</button> </a>
 <a style="white-space: nowrap" href="https://doi.org/10.31235/osf.io/efdzh" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Open Access</button> </a> 

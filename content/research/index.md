@@ -61,9 +61,17 @@ There are striking disparities in longevity across sociodemographic groups in th
 </div> 
 </li>
 
+</ol>
+
+
+
+### Publications
+<hr>
+
+<ol reversed>
 
 <li>
-<b>Casey F. Breen</b>, Masoomali Fatehkia, Jiani Yan, Douglas Leasure, Ingmar Weber, and Ridhi Kashyap. “Mapping Subnational Gender Gaps in Internet and Mobile Adoption Using Social Media Data .” <!-- Links to pubs, abstract, etc. -->
+<b>Casey F. Breen</b>, Masoomali Fatehkia, Jiani Yan, Douglas Leasure, Ingmar Weber, and Ridhi Kashyap. “Mapping Subnational Gender Gaps in Internet and Mobile Adoption Using Social Media Data.” Forthcoming. <i> Proceedings of the National Academy of Science. </i> <!-- Links to pubs, abstract, etc. -->
 
 <a style="white-space: nowrap" href="https://doi.org/10.31235/osf.io/qnzsw" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Open Access</button> </a> 
@@ -78,13 +86,7 @@ There are striking disparities in longevity across sociodemographic groups in th
 The digital revolution has ushered in many societal and economic benefits. Yet access to digital technologies such as mobile phones and internet remains highly unequal, especially by gender in the context of low- and middle-income countries. While national-level estimates are increasingly available for many countries, reliable, quantitative  estimates of digital gender inequalities at the subnational level are  lacking. These estimates, however, are essential for monitoring gaps within countries and implementing targeted interventions within the  global sustainable development goals, which emphasize the need to  close inequalities both between and within countries. We develop  estimates of internet and mobile adoption by gender and digital  gender gaps at the subnational level for 2,158 regions in 118 low- and middle-income countries (LMICs), a context where digital penetration is low and national-level gender gaps disfavoring women are large. We construct these estimates by applying machine-learning algorithms to Facebook user counts, geospatial data, development indicators,and population composition data. We calibrate and assess the performance of these algorithms using ground-truth data from subnationally-representative household survey data from 31 LMICs. Our results reveal striking disparities in access to mobile and internet technologies between and within LMICs, with implications for policy formulation and infrastructure investment. These disparities contribute to a global context where women are 21% less likely to use the internet and 17% less likely to own mobile phones than men, corresponding to over 385 million more men than women owning a mobile phone and over 360 million more men than women using the internet.</div> 
 </li>
 
-</ol>
 
-
-### Publications
-<hr>
-
-<ol reversed>
 
 <li>
 <b>Casey F. Breen</b>, Saeed Rahman, Christina Kay, Joeri Smits, Steve Ahuka, and Dennis M. Feehan. “Estimating Death Rates in Complex Humanitarian Emergencies Using the Network Survival Method.” Forthcoming. <i> American Journal of Epidemiology. </i> <!-- Links to pubs, abstract, etc. -->

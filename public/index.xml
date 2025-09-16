@@ -449,7 +449,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-825361794&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-394568271&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -459,7 +459,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-825361794&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-394568271&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -720,7 +720,7 @@ You found me!
       <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;png&#34; src=&#34;./index_1_0.png&#34;&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
 &lt;/code&gt;&lt;/pre&gt;
 &lt;pre&gt;&lt;code&gt;Welcome to Academic!
@@ -823,8 +823,12 @@ The Black-White mortality crossover is well-studied demographic paradox. Black A
 There are striking disparities in longevity across sociodemographic groups in the United States. Yet, can sociodemographic characteristics meaningfully explain individual-level variation in longevity?  Here, we leverage machine-learning algorithms and large-scale administrative data to predict individual-level mortality using an array of social,economic, and demographic predictors measured in early adulthood.  We conduct two distinct analyses:  a cohort analysis, which predicts the exact age of death for individuals in the same birth cohort, and a period analysis, which predicts whether individuals aged 54–95 will die within the next 10 years.  We are not able to make accurate predictions in either our cohort analysis (&lt;i&gt;R&lt;sup&gt;2&lt;/sup&gt;&lt;/i&gt; = 0.014) or our period analysis (&lt;i&gt;R&lt;sup&gt;2&lt;/sup&gt;&lt;/i&gt; = 0.166).Together,  these analyses demonstrate that later life longevity is unpredictable using sociodemographic characteristics alone, and underscore the crucial need to account for stochastic processes in demographic theory.
 &lt;/div&gt; 
 &lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;publications&#34;&gt;Publications&lt;/h3&gt;
+&lt;hr&gt;
+&lt;ol reversed&gt;
 &lt;li&gt;
-&lt;b&gt;Casey F. Breen&lt;/b&gt;, Masoomali Fatehkia, Jiani Yan, Douglas Leasure, Ingmar Weber, and Ridhi Kashyap. “Mapping Subnational Gender Gaps in Internet and Mobile Adoption Using Social Media Data .” &lt;!-- Links to pubs, abstract, etc. --&gt;
+&lt;b&gt;Casey F. Breen&lt;/b&gt;, Masoomali Fatehkia, Jiani Yan, Douglas Leasure, Ingmar Weber, and Ridhi Kashyap. “Mapping Subnational Gender Gaps in Internet and Mobile Adoption Using Social Media Data.” Forthcoming. &lt;i&gt; Proceedings of the National Academy of Science. &lt;/i&gt; &lt;!-- Links to pubs, abstract, etc. --&gt;
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://doi.org/10.31235/osf.io/qnzsw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Open Access&lt;/button&gt; &lt;/a&gt; 
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://osf.io/5e8wf/ 
@@ -836,10 +840,6 @@ There are striking disparities in longevity across sociodemographic groups in th
 &lt;br /&gt;
 The digital revolution has ushered in many societal and economic benefits. Yet access to digital technologies such as mobile phones and internet remains highly unequal, especially by gender in the context of low- and middle-income countries. While national-level estimates are increasingly available for many countries, reliable, quantitative  estimates of digital gender inequalities at the subnational level are  lacking. These estimates, however, are essential for monitoring gaps within countries and implementing targeted interventions within the  global sustainable development goals, which emphasize the need to  close inequalities both between and within countries. We develop  estimates of internet and mobile adoption by gender and digital  gender gaps at the subnational level for 2,158 regions in 118 low- and middle-income countries (LMICs), a context where digital penetration is low and national-level gender gaps disfavoring women are large. We construct these estimates by applying machine-learning algorithms to Facebook user counts, geospatial data, development indicators,and population composition data. We calibrate and assess the performance of these algorithms using ground-truth data from subnationally-representative household survey data from 31 LMICs. Our results reveal striking disparities in access to mobile and internet technologies between and within LMICs, with implications for policy formulation and infrastructure investment. These disparities contribute to a global context where women are 21% less likely to use the internet and 17% less likely to own mobile phones than men, corresponding to over 385 million more men than women owning a mobile phone and over 360 million more men than women using the internet.&lt;/div&gt; 
 &lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&#34;publications&#34;&gt;Publications&lt;/h3&gt;
-&lt;hr&gt;
-&lt;ol reversed&gt;
 &lt;li&gt;
 &lt;b&gt;Casey F. Breen&lt;/b&gt;, Saeed Rahman, Christina Kay, Joeri Smits, Steve Ahuka, and Dennis M. Feehan. “Estimating Death Rates in Complex Humanitarian Emergencies Using the Network Survival Method.” Forthcoming. &lt;i&gt; American Journal of Epidemiology. &lt;/i&gt; &lt;!-- Links to pubs, abstract, etc. --&gt;
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://doi.org/10.1093/aje/kwaf101&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
@@ -922,7 +922,8 @@ New advances in data linkage provide mortality researchers with access to admini
 &lt;/div&gt; 
 &lt;/li&gt;
 &lt;li&gt;
-&lt;b&gt;Casey F. Breen&lt;/b&gt;. 2022. &#39;&#39;Changes in Racial Self-Identiﬁcation for the Greatest Generation: Evidence from Social Security Administrative Data.&#39;&#39; &lt;i&gt; Population Research and Policy Review. &lt;/i&gt;  42(1):10. &lt;!-- Links to pubs, abstract, etc. --&gt; &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://link.springer.com/article/10.1007/s11113-023-09764-4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
+&lt;b&gt;Casey F. Breen&lt;/b&gt;. 2022. &#39;&#39;Late‑Life Changes in Ethnoracial Self‑identification:
+Evidence from Social Security Administrative Data.&#39;&#39; &lt;i&gt; Population Research and Policy Review. &lt;/i&gt;  42(1):10. &lt;!-- Links to pubs, abstract, etc. --&gt; &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://link.springer.com/article/10.1007/s11113-023-09764-4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Publication&lt;/button&gt; &lt;/a&gt;
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://caseybreen.github.io/media/papers/Breen - 2023 - Late-Life Changes in Ethnoracial Self-identificati.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;PDF&lt;/button&gt; &lt;/a&gt; 
@@ -955,7 +956,7 @@ The spread and transmission dynamics of directly transmitted airborne pathogens,
 &lt;!-- Links to pubs, abstract, etc. --&gt;
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://doi.org/10.4054/DemRes.2022.47.5&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Publication&lt;/button&gt; &lt;/a&gt; 
-&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://caseybreen.github.io/media/papers/Breen et al. - 2022 - Novel estimates reveal subnational heterogeneities.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
+&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://caseybreen.github.io/media/papers/Breen and Goldstein - 2022 - Berkeley Unified Numident Mortality Database Publ.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;PDF&lt;/button&gt; &lt;/a&gt; 
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://doi.org/10.31235/osf.io/pc294&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Open Access&lt;/button&gt; &lt;/a&gt; 
@@ -971,7 +972,7 @@ While much progress has been made in understanding the demographic determinants 
 &lt;li&gt; &lt;b&gt;Casey F. Breen&lt;/b&gt;, Elissa M. Redmiles, and Cormac Herley. 2022. “A Large-Scale Measurement of Cybercrime against Individuals.”  &lt;i&gt; The 2022 ACM Conference on Human Factors in Computing Systems (&lt;b&gt;CHI&lt;/b&gt;) &lt;/i&gt; Pp.1–41.
 &lt;!-- Links to pubs, abstract, etc. --&gt;
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://dl.acm.org/doi/10.1145/3491102.3517613&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Publication&lt;/button&gt; &lt;/a&gt; 
-&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://caseybreen.github.io/media/papers/Breen et al. - 2022 - Novel estimates reveal subnational heterogeneities.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;PDF&lt;/button&gt; &lt;/a&gt; 
+&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://caseybreen.github.io/media/papers/Breen et al. - 2022 - A Large-Scale Measurement of Cybercrime Against In.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;PDF&lt;/button&gt; &lt;/a&gt; 
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://doi.org/10.17605/OSF.IO/KNUFM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Replication&lt;/button&gt; &lt;/a&gt; 
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://www.youtube.com/watch?v=BjrQJc11Isg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Video&lt;/button&gt; &lt;/a&gt; 
 &lt;a href=&#34;#abstract-cyber&#34; class=&#34;btn btn-outline-primary&#34; data-toggle=&#34;collapse&#34;&gt;Abstract&lt;/a&gt;
@@ -1146,7 +1147,7 @@ and take-home problem sets with solutions.&lt;/p&gt;
 &lt;li&gt;⬆️ &lt;strong&gt;Updating?&lt;/strong&gt; View the 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Guide&lt;/a&gt; and 
 &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;❤️ &lt;strong&gt;Support development&lt;/strong&gt; of Academic:
+&lt;li&gt;:heart: &lt;strong&gt;Support development&lt;/strong&gt; of Academic:
 &lt;ul&gt;
 &lt;li&gt;☕️ 
 &lt;a href=&#34;https://paypal.me/cushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Donate a coffee&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
@@ -1156,7 +1157,7 @@ and take-home problem sets with solutions.&lt;/p&gt;
 &lt;a href=&#34;https://www.redbubble.com/people/neutreno/works/34387919-academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Decorate your laptop or journal with an Academic &lt;strong&gt;sticker&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;👕 
 &lt;a href=&#34;https://academic.threadless.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wear the &lt;strong&gt;T-shirt&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;👩‍💻 
+&lt;li&gt;:woman_technologist: 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/contribute/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Contribute&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;

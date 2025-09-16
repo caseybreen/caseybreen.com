@@ -40,6 +40,8 @@ user_groups:
 - Principal Investigators
 ---
 
+# About 
+
 I am a demographer and Assistant Professor in the Department of Sociology at the University of Texas at Austin.
 I completed a Ph.D. in Demography and an M.A. in Biostatistics from UC Berkeley, and was a Postdoctoral Fellow at the University of Oxford.
 

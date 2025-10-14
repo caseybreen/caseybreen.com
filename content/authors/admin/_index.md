@@ -42,11 +42,8 @@ user_groups:
 
 # About 
 
-I am a demographer and Assistant Professor in the Department of Sociology at the University of Texas at Austin.
-I completed a Ph.D. in Demography and an M.A. in Biostatistics from UC Berkeley, and was a Postdoctoral Fellow at the University of Oxford.
+I am a demographer and Assistant Professor in the Department of Sociology at the University of Texas at Austin, affiliated with the Population Research Center and the Center for Aging and Population Studies. I completed a Ph.D. in Demography and an M.A. in Biostatistics from the University of California, Berkeley, and was a Postdoctoral Fellow at the University of Oxford.
 
-My research develops and applies computational and demographic methods to examine questions in population health and mortality. My research develops and applies computational and demographic methods to examine questions in population health. In one line of research, I investigate mortality disparities and dynamics in the United States using large-scale administrative data. In a second line of research, I develop and apply network-based methods to sample hard-to-reach populations and estimate mortality rates.
-
-My work has been published or is forthcoming in *Proceedings of the National Academy of Science*, *Demography*, *American Journal of Epidemiology*, and *Population and Development Review*, among other outlets. 
+My research develops and applies computational and demographic methods to examine questions in population health and mortality. My work has been published in *Proceedings of the National Academy of Science*, *Demography*, *American Journal of Epidemiology*, and *Population and Development Review*, among other outlets. 
 
 View my {{< staticref "media/casey_breen_cv.pdf" "newtab" >}}CV{{< /staticref >}}.

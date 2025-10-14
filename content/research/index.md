@@ -72,33 +72,43 @@ There are striking disparities in longevity across sociodemographic groups in th
 
 <li>
 <b>Casey F. Breen</b>, Masoomali Fatehkia, Jiani Yan, Douglas Leasure, Ingmar Weber, and Ridhi Kashyap. “Mapping Subnational Gender Gaps in Internet and Mobile Adoption Using Social Media Data.” Forthcoming. <i> Proceedings of the National Academy of Science. </i> <!-- Links to pubs, abstract, etc. -->
-
-<a style="white-space: nowrap" href="https://doi.org/10.31235/osf.io/qnzsw" target="_blank" rel="noopener noreferrer">
+<!-- Publication -->
+<a style="white-space: nowrap" href="https://doi.org/10.1073/pnas.2416624122" target="_blank" rel="noopener noreferrer">
+<button type="button" class="btn btn-outline-primary">Publication</button> </a>
+<!-- PDF -->
+<a style="white-space: nowrap" href="/media/papers/Breen et al. - 2025 - Mapping subnational gender gaps in internet and mobile adoption using social media data.pdf" target="_blank" rel="noopener noreferrer">
+<button type="button" class="btn btn-outline-primary">PDF</button> </a>
+<!-- Open Access -->
+<a style="white-space: nowrap" href="https://doi.org/10.31235/osf.io/qnzsw_v2" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Open Access</button> </a> 
-<a style="white-space: nowrap" href="https://osf.io/5e8wf/ 
-" target="_blank" rel="noopener noreferrer">
+<!-- Replication -->
+<a style="white-space: nowrap" href="https://doi.org/10.31235/osf.io/qnzsw" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Replication</button> </a> 
+<!-- Abstract -->
 <a href="#abstract-dgg-mapping" class="btn btn-outline-primary" data-toggle="collapse">Abstract</a>
 
 <!-- Abstract -->
 <div id="abstract-dgg-mapping" class="collapse">
 <br />
-The digital revolution has ushered in many societal and economic benefits. Yet access to digital technologies such as mobile phones and internet remains highly unequal, especially by gender in the context of low- and middle-income countries. While national-level estimates are increasingly available for many countries, reliable, quantitative  estimates of digital gender inequalities at the subnational level are  lacking. These estimates, however, are essential for monitoring gaps within countries and implementing targeted interventions within the  global sustainable development goals, which emphasize the need to  close inequalities both between and within countries. We develop  estimates of internet and mobile adoption by gender and digital  gender gaps at the subnational level for 2,158 regions in 118 low- and middle-income countries (LMICs), a context where digital penetration is low and national-level gender gaps disfavoring women are large. We construct these estimates by applying machine-learning algorithms to Facebook user counts, geospatial data, development indicators,and population composition data. We calibrate and assess the performance of these algorithms using ground-truth data from subnationally-representative household survey data from 31 LMICs. Our results reveal striking disparities in access to mobile and internet technologies between and within LMICs, with implications for policy formulation and infrastructure investment. These disparities contribute to a global context where women are 21% less likely to use the internet and 17% less likely to own mobile phones than men, corresponding to over 385 million more men than women owning a mobile phone and over 360 million more men than women using the internet.</div> 
+The digital revolution has ushered in many societal and economic benefits. Yet access to digital technologies such as mobile phones and internet remains highly unequal, especially by gender in the context of low- and middle-income countries (LMICs). While national-level estimates are increasingly available for many countries, reliable, quantitative estimates of digital gender inequalities at the subnational level are lacking. These estimates, however, are essential for monitoring gaps within countries and implementing targeted interventions within the global sustainable development goals, which emphasize the need to close inequalities both between and within countries. We develop estimates of internet and mobile adoption by gender and digital gender gaps at the subnational level for 2,075 regions in 117 LMICs from 2015 through 2025, a context where digital penetration is low and national-level gender gaps disfavoring women are large. We construct these estimates by applying machinelearning algorithms to Facebook user counts, geospatial data, development indicators, and population composition data. We calibrate and assess the performance of these algorithms using ground-truth data from subnationally representative household survey data from 33 LMICs. Our results reveal striking disparities in access to mobile and internet technologies between and within LMICs. These disparities imply that as of 2025, women are 19% less likely to use the internet and 8% less likely to own a mobile phone in LMICs, corresponding to over 190 million fewer women owning a mobile phone and over 320 million fewer women using the internet.
 </li>
-
 
 
 <li>
 <b>Casey F. Breen</b>, Saeed Rahman, Christina Kay, Joeri Smits, Steve Ahuka, and Dennis M. Feehan. “Estimating Death Rates in Complex Humanitarian Emergencies Using the Network Survival Method.” Forthcoming. <i> American Journal of Epidemiology. </i> <!-- Links to pubs, abstract, etc. -->
-
+<!-- Publication -->
 <a style="white-space: nowrap" href="https://doi.org/10.1093/aje/kwaf101" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Publication</button> </a>
+<!-- PDF -->
 <a style="white-space: nowrap" href="/media/papers/Breen et al. - 2025 - Estimating death rates in complex humanitarian eme.pdf" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">PDF</button> </a>
+<!-- Open Access -->
 <a style="white-space: nowrap" href="https://doi.org/10.31235/osf.io/4efdt" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Open Access</button> </a> 
+<!-- Replication -->
 <a style="white-space: nowrap" href="https://doi.org/10.17605/OSF.IO/Y6F4Q" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Replication</button> </a> 
+<!-- Pre-registration -->
 <a style="white-space: nowrap" href="https://osf.io/vdsjr" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Pre-registration</button> </a> 
 <a href="#abstract-network-survival" class="btn btn-outline-primary" data-toggle="collapse">Abstract</a>

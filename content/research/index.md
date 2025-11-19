@@ -30,7 +30,6 @@ I am broadly interested in the areas of population health and social networks. M
 
 <ol reversed>
 
-
 <li>
 <b>Casey F. Breen</b>. “Black-White Mortality Crossover: New Evidence from Social Security Mortality Records.” <!-- Links to pubs, abstract, etc. -->
 
@@ -71,7 +70,7 @@ There are striking disparities in longevity across sociodemographic groups in th
 <ol reversed>
 
 <li>
-<b>Casey F. Breen</b>, Masoomali Fatehkia, Jiani Yan, Douglas Leasure, Ingmar Weber, and Ridhi Kashyap. “Mapping Subnational Gender Gaps in Internet and Mobile Adoption Using Social Media Data.” Forthcoming. <i> Proceedings of the National Academy of Science. </i> <!-- Links to pubs, abstract, etc. -->
+<b>Casey F. Breen</b>, Masoomali Fatehkia, Jiani Yan, Douglas Leasure, Ingmar Weber, and Ridhi Kashyap. “Mapping Subnational Gender Gaps in Internet and Mobile Adoption Using Social Media Data.” 2025. <i> Proceedings of the National Academy of Science. 122(42):e2416624122. </i> <!-- Links to pubs, abstract, etc. -->
 <!-- Publication -->
 <a style="white-space: nowrap" href="https://doi.org/10.1073/pnas.2416624122" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Publication</button> </a>
@@ -95,7 +94,7 @@ The digital revolution has ushered in many societal and economic benefits. Yet a
 
 
 <li>
-<b>Casey F. Breen</b>, Saeed Rahman, Christina Kay, Joeri Smits, Steve Ahuka, and Dennis M. Feehan. “Estimating Death Rates in Complex Humanitarian Emergencies Using the Network Survival Method.” Forthcoming. <i> American Journal of Epidemiology. </i> <!-- Links to pubs, abstract, etc. -->
+<b>Casey F. Breen</b>, Saeed Rahman, Christina Kay, Joeri Smits, Steve Ahuka, and Dennis M. Feehan. “Estimating Death Rates in Complex Humanitarian Emergencies Using the Network Survival Method.” <i> American Journal of Epidemiology. </i> 2025. <!-- Links to pubs, abstract, etc. -->
 <!-- Publication -->
 <a style="white-space: nowrap" href="https://doi.org/10.1093/aje/kwaf101" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Publication</button> </a>

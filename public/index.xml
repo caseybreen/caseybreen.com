@@ -449,7 +449,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-817932654&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-619425378&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -459,7 +459,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-817932654&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-619425378&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -828,30 +828,41 @@ There are striking disparities in longevity across sociodemographic groups in th
 &lt;hr&gt;
 &lt;ol reversed&gt;
 &lt;li&gt;
-&lt;b&gt;Casey F. Breen&lt;/b&gt;, Masoomali Fatehkia, Jiani Yan, Douglas Leasure, Ingmar Weber, and Ridhi Kashyap. “Mapping Subnational Gender Gaps in Internet and Mobile Adoption Using Social Media Data.” Forthcoming. &lt;i&gt; Proceedings of the National Academy of Science. &lt;/i&gt; &lt;!-- Links to pubs, abstract, etc. --&gt;
+&lt;b&gt;Casey F. Breen&lt;/b&gt;, Masoomali Fatehkia, Jiani Yan, Douglas Leasure, Ingmar Weber, and Ridhi Kashyap. “Mapping Subnational Gender Gaps in Internet and Mobile Adoption Using Social Media Data.” 2025. &lt;i&gt; Proceedings of the National Academy of Science. 122(42):e2416624122. &lt;/i&gt; &lt;!-- Links to pubs, abstract, etc. --&gt;
+&lt;!-- Publication --&gt;
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://doi.org/10.1073/pnas.2416624122&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Publication&lt;/button&gt; &lt;/a&gt;
-&lt;p&gt;&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://caseybreen.github.io/media/papers/Breen et al. - 2025 - Estimating death rates in complex humanitarian eme.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://doi.org/10.31235/osf.io/qnzsw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;PDF&lt;/button&gt; &lt;/a&gt;&lt;/p&gt;
-&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://osf.io/5e8wf/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
+&lt;!-- PDF --&gt;
+&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://caseybreen.github.io/media/papers/Breen et al. - 2025 - Mapping subnational gender gaps in internet and mobile adoption using social media data.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
+&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;PDF&lt;/button&gt; &lt;/a&gt;
+&lt;!-- Open Access --&gt;
+&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://doi.org/10.31235/osf.io/qnzsw_v2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Open Access&lt;/button&gt; &lt;/a&gt; 
-&lt;p&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Replication&lt;/button&gt; &lt;/a&gt;
-&lt;a href=&#34;#abstract-dgg-mapping&#34; class=&#34;btn btn-outline-primary&#34; data-toggle=&#34;collapse&#34;&gt;Abstract&lt;/a&gt;&lt;/p&gt;
+&lt;!-- Replication --&gt;
+&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://doi.org/10.31235/osf.io/qnzsw&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
+&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Replication&lt;/button&gt; &lt;/a&gt; 
+&lt;!-- Abstract --&gt;
+&lt;a href=&#34;#abstract-dgg-mapping&#34; class=&#34;btn btn-outline-primary&#34; data-toggle=&#34;collapse&#34;&gt;Abstract&lt;/a&gt;
 &lt;!-- Abstract --&gt;
 &lt;div id=&#34;abstract-dgg-mapping&#34; class=&#34;collapse&#34;&gt;
 &lt;br /&gt;
 The digital revolution has ushered in many societal and economic benefits. Yet access to digital technologies such as mobile phones and internet remains highly unequal, especially by gender in the context of low- and middle-income countries (LMICs). While national-level estimates are increasingly available for many countries, reliable, quantitative estimates of digital gender inequalities at the subnational level are lacking. These estimates, however, are essential for monitoring gaps within countries and implementing targeted interventions within the global sustainable development goals, which emphasize the need to close inequalities both between and within countries. We develop estimates of internet and mobile adoption by gender and digital gender gaps at the subnational level for 2,075 regions in 117 LMICs from 2015 through 2025, a context where digital penetration is low and national-level gender gaps disfavoring women are large. We construct these estimates by applying machinelearning algorithms to Facebook user counts, geospatial data, development indicators, and population composition data. We calibrate and assess the performance of these algorithms using ground-truth data from subnationally representative household survey data from 33 LMICs. Our results reveal striking disparities in access to mobile and internet technologies between and within LMICs. These disparities imply that as of 2025, women are 19% less likely to use the internet and 8% less likely to own a mobile phone in LMICs, corresponding to over 190 million fewer women owning a mobile phone and over 320 million fewer women using the internet.
 &lt;/li&gt;
 &lt;li&gt;
-&lt;b&gt;Casey F. Breen&lt;/b&gt;, Saeed Rahman, Christina Kay, Joeri Smits, Steve Ahuka, and Dennis M. Feehan. “Estimating Death Rates in Complex Humanitarian Emergencies Using the Network Survival Method.” Forthcoming. &lt;i&gt; American Journal of Epidemiology. &lt;/i&gt; &lt;!-- Links to pubs, abstract, etc. --&gt;
+&lt;b&gt;Casey F. Breen&lt;/b&gt;, Saeed Rahman, Christina Kay, Joeri Smits, Steve Ahuka, and Dennis M. Feehan. “Estimating Death Rates in Complex Humanitarian Emergencies Using the Network Survival Method.” &lt;i&gt; American Journal of Epidemiology. &lt;/i&gt; 2025. &lt;!-- Links to pubs, abstract, etc. --&gt;
+&lt;!-- Publication --&gt;
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://doi.org/10.1093/aje/kwaf101&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Publication&lt;/button&gt; &lt;/a&gt;
+&lt;!-- PDF --&gt;
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://caseybreen.github.io/media/papers/Breen et al. - 2025 - Estimating death rates in complex humanitarian eme.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;PDF&lt;/button&gt; &lt;/a&gt;
+&lt;!-- Open Access --&gt;
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://doi.org/10.31235/osf.io/4efdt&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Open Access&lt;/button&gt; &lt;/a&gt; 
+&lt;!-- Replication --&gt;
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://doi.org/10.17605/OSF.IO/Y6F4Q&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Replication&lt;/button&gt; &lt;/a&gt; 
+&lt;!-- Pre-registration --&gt;
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://osf.io/vdsjr&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Pre-registration&lt;/button&gt; &lt;/a&gt; 
 &lt;a href=&#34;#abstract-network-survival&#34; class=&#34;btn btn-outline-primary&#34; data-toggle=&#34;collapse&#34;&gt;Abstract&lt;/a&gt;
@@ -1037,9 +1048,14 @@ and take-home problem sets with solutions.&lt;/p&gt;
 
 
 
-&lt;p&gt;Oct. 2025: New paper in PNAS: 
+&lt;p&gt;Nov. 2025: New paper in PNAS: 
 &lt;a href=&#34;https://www.pnas.org/doi/10.1073/pnas.2416624122&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mapping subnational gender gaps in internet and mobile adoption using social media data&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Aug. 2025: I am delighted to have the faculty at UT-Austin.&lt;/p&gt;
+&lt;p&gt;Oct. 2025: New paper in American Journal of Epidemiology: 
+&lt;a href=&#34;https://academic.oup.com/aje/advance-article/doi/10.1093/aje/kwaf101/8126368&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Estimating death rates in complex humanitarian emergencies using the network survival method&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Oct. 2025: I had an great visit to the Cornell Population Center, where I gave a talk on my crossover work: [
+&lt;a href=&#34;https://caseybreen.github.io/media/talk_slides/breen_dgg_mpidr_slides.pdf&#34;&gt;Slides&lt;/a&gt;] and led a workshop on the CenSoc project [
+&lt;a href=&#34;https://caseybreen.github.io/media/talk_slides/breen_bw_mortality_crossover_cornell.pdf&#34;&gt;Slides&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;Aug. 2025: I am delighted to have the faculty at UT-Austin, where I am affiliated with their Population Research Center and Center on Aging and Population Sciences.&lt;/p&gt;
 &lt;p&gt;May 2025: I had a enjoyed visiting the Max Planck Institute for Demographic Research (MPIDR) in Rostock. I presented some recent work on measuring digital inequality [
 &lt;a href=&#34;https://caseybreen.github.io/media/talk_slides/breen_dgg_mpidr_slides.pdf&#34;&gt;Slides&lt;/a&gt;] and led a workshop on the CenSoc project [
 &lt;a href=&#34;https://caseybreen.github.io/media/talk_slides/censoc_rostock_workshop.pdf&#34;&gt;Slides&lt;/a&gt;].&lt;/p&gt;

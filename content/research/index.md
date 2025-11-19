@@ -99,7 +99,7 @@ The digital revolution has ushered in many societal and economic benefits. Yet a
 <a style="white-space: nowrap" href="https://doi.org/10.1093/aje/kwaf101" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Publication</button> </a>
 <!-- PDF -->
-<a style="white-space: nowrap" href="/media/papers/Breen et al. - 2025 - Estimating death rates in complex humanitarian eme.pdf" target="_blank" rel="noopener noreferrer">
+<a style="white-space: nowrap" href="/media/papers/Breen et al. - 2025 - Estimating death rates in complex humanitarian emergencies using the network survival method.pdf" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">PDF</button> </a>
 <!-- Open Access -->
 <a style="white-space: nowrap" href="https://doi.org/10.31235/osf.io/4efdt" target="_blank" rel="noopener noreferrer">

@@ -125,302 +125,6 @@ Each session is approximately 3 hours and includes lectures, in-class exercises,
     </item>
     
     <item>
-      <title>Topics in Computational Social Science</title>
-      <link>https://caseybreen.github.io/teaching/css/</link>
-      <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://caseybreen.github.io/teaching/css/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Tuesdays 16:00-18:00pm, Sociology Seminar Room&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;[Jointly developed and co-instructed with 
-&lt;a href=&#34;https://www.sociology.ox.ac.uk/people/ridhi-kashyap#tab-2366051&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ridhi Kashyap&lt;/a&gt;]&lt;/p&gt;
-&lt;p&gt;The growing availability of new streams of data, expansion of computational power and the
-digitalisation of our lives has created new questions and research opportunities for social
-and population scientists. The course will introduce students to a range of methodological
-and substantive topics in computational social science. We will cover topics such as digital
-trace and big data, machine learning, non-probability sampling, social networks, and agent-based
-modelling and microsimulation. The course will consist of seminar and lab sessions (taught in R),
-where students will engage with research in computational social science and learn to apply basic
-computational methods to research problems based on existing research papers.&lt;/p&gt;
-&lt;h3 id=&#34;course-schedule&#34;&gt;Course Schedule&lt;/h3&gt;
-&lt;div style=&#34;overflow-x: auto;&#34;&gt;
-&lt;table style=&#34;min-width: 1200px; font-size: 1rem;&#34;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Week&lt;/th&gt;
-      &lt;th&gt;Topic&lt;/th&gt;
-      &lt;th&gt;Lecture Slides&lt;/th&gt;
-      &lt;th&gt;R Labs&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Week 1&lt;/td&gt;
-      &lt;td&gt;Introduction to computational social science&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/13t7LNHBYU1zrtXvAqYnapZ8Dhh-ljfMJCV-njYcD9io/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Week 2&lt;/td&gt;
-      &lt;td&gt;Social data in the digital age: opportunities and challenges&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1BQLEHZURV8CFreBzPdDz0Y1qvej34JxbbAbT2Mm_3xg/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&#34;https://github.com/caseybreen/css_course/blob/main/labs/lab1/css_lab1.qmd&#34; target=&#34;_blank&#34;&gt;Lab 1&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Week 3&lt;/td&gt;
-      &lt;td&gt;Machine learning and prediction&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1PFXmsI9tGyObkZ2bxS980XKzRWRBlpQvJ6fA3SP035Q/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Week 4&lt;/td&gt;
-      &lt;td&gt;Machine learning lab&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1K046klcdWtJbV6VSgBeQOFbY4iIgL8_ug-uFdFpAZuI/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&#34;https://github.com/caseybreen/css_course/blob/main/labs/lab2/css_lab2.qmd&#34; target=&#34;_blank&#34;&gt;Lab 2&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Week 5&lt;/td&gt;
-      &lt;td&gt;Non-probability sampling&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1b-r0yzuPmKHSp3lh2C7DZuQi5neyieX0ttnenwu5JCw/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Week 6&lt;/td&gt;
-      &lt;td&gt;Social networks&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/123FSUlKAhM_NWrwXwzZFBtA6Cj6pvlbqOF8b4qExFqs/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Week 7&lt;/td&gt;
-      &lt;td&gt;Non-probability sampling lab&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1VOwPoAcnB-_tsUAXMTceD0mt51Wy-f_Dmz9LXELABoQ/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&#34;https://github.com/caseybreen/css_course/blob/main/labs/lab3/css_lab3.qmd&#34; target=&#34;_blank&#34;&gt;Lab 3&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Week 8&lt;/td&gt;
-      &lt;td&gt;Agent-based and microsimulation modelling&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1FYl7VQy5S8khuGGXkx8VW-2OP2yqfanGS93hFbLdxaI/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/div&gt;
-&lt;h3 id=&#34;learning-outcomes&#34;&gt;Learning Outcomes:&lt;/h3&gt;
-&lt;p&gt;By the end of this course, students will be able to:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;Critically evaluate and engage with contemporary scientific debates within the area of computational social science and identify key contributions;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Apply computational social science perspectives to formulate and address relevant sociological and demographic questions;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Demonstrate proficiency in some techniques of computational social science, including methods for processing and analysing digital and unstructured data, basic methods for machine learning and addressing bias in non-probability samples;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Apply and engage with a computational social science perspective to address their own research problems and areas of interests.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&#34;teaching-arrangement&#34;&gt;Teaching arrangement:&lt;/h3&gt;
-&lt;p&gt;The teaching will be organised in a combination of lectures, discussion-based seminars, and three computer labs. All weeks will feature an introductory lecture, followed by either a discussion seminar (weeks 1, 3, 5, 7, and 8) or lab (weeks 2, 4, 6).&lt;/p&gt;
-&lt;p&gt;In discussion seminar weeks (1, 3, 5, 7 and 8), readings marked with * in the reading list will serve as core readings for that week. We are asking all participants to present one of these core readings in a max 10 minute presentation (no slides required) during the course in the format of a synthesis and peer review. The presenter for the readings for a given week will be made available on Canvas the previous week.&lt;/p&gt;
-&lt;p&gt;In presenting the paper to the group, please focus on: What is the objective of the paper, what are the main contributions, and what are its limitations? If it is an empirical paper, does the analysis/data seem convincing and does the strength of the argument match the data and evidence? If it is a theoretical/perspective paper, what questions and ideas does it generate for research in computational social science?&lt;/p&gt;
-&lt;p&gt;All participants – and not only those presenting – are expected to read, at minimum, all core papers for the week. We strongly encourage you to review all readings for a given week.&lt;/p&gt;
-&lt;h3 id=&#34;requirements&#34;&gt;Requirements:&lt;/h3&gt;
-&lt;p&gt;The course will be taught in R (using RStudio). Students are expected to have R and RStudio downloaded and be familiar with R. We recommend completing a basic introductory course in R via CodeAcademy or equivalent prior to the course. As an additional resource, we suggest the following text, which is freely available online:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Wickham, Hadley, Mine Çetinkaya-Rundel, and Garrett Grolemund. 2023. R for Data Science: Import, Tidy, Transform, Visualize, and Model Data (2nd Edition). O’Reilly.&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;course-assessment&#34;&gt;Course Assessment:&lt;/h3&gt;
-&lt;p&gt;The course will be examined by:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;Essay (max 3000 words) in response to one from a list of questions provided by instructors, provided in week 8, due on Friday, noon, week 0 Trinity term;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Problem set, involving code and markdown report, that applies computational techniques learned during the module, provided in week 8, due on Friday, noon, week 0 Trinity term.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&#34;reading-list&#34;&gt;Reading list&lt;/h3&gt;
-&lt;p&gt;Note: starred (★) papers are for presentation to the group by the assigned student for that week.
-These are the core readings for the week.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Week 1: Introduction to Computational Social Science&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Kashyap, Ridhi, R. Gordon Rinderknecht, Aliakbar Akbaritabar, Diego
-Alburez-Gutierrez, Sofia Gil-Clavel, André Grow, Jisu Kim et al. &amp;ldquo;Digital and
-computational demography.&amp;rdquo; In Research Handbook on Digital Sociology, pp. 48-86.
-Edward Elgar Publishing, 2023.★&lt;/li&gt;
-&lt;li&gt;Lazer, David, Eszter Hargittai, Deen Freelon, Sandra Gonzalez-Bailon, Kevin Munger,
-Katherine Ognyanova, and Jason Radford. 2021. ‘Meaningful Measures of Human
-Society in the Twenty-First Century’. Nature 595(7866):189–96. doi:
-10.1038/s41586-021-03660-7.★&lt;/li&gt;
-&lt;li&gt;Edelmann, Achim, Tom Wolff, Danielle Montagne, and Christopher A. Bail.
-&amp;ldquo;Computational social science and sociology.&amp;rdquo; Annual review of sociology 46, no. 1
-(2020): 61-81.★&lt;/li&gt;
-&lt;li&gt;Lazer, David M. J., Alex Pentland, Duncan J. Watts, Sinan Aral, Susan Athey, Noshir
-Contractor, Deen Freelon, Sandra Gonzalez-Bailon, Gary King, Helen Margetts, Alondra
-Nelson, Matthew J. Salganik, Markus Strohmaier, Alessandro Vespignani, and Claudia
-Wagner. 2020. ‘Computational Social Science: Obstacles and Opportunities’. Science
-369(6507):1060–62. doi: 10.1126/science.aaz8170.*&lt;/li&gt;
-&lt;li&gt;Salganik, Matthew J. 2019. Bit by Bit: Social Research in the Digital Age. Princeton
-University Press. Chapter 1.★&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Week 2: Social data in the digital age - opportunities and challenges&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Ruggles, Steven. 2014. ‘Big Microdata for Population Research’. Demography
-51(1):287–97. doi: 10.1007/s13524-013-0240-2.&lt;/li&gt;
-&lt;li&gt;Kashyap, Ridhi. 2021. ‘Has Demography Witnessed a Data Revolution? Promises and
-Pitfalls of a Changing Data Ecosystem’. Population Studies 75(sup1):47–75. doi:
-10.1080/00324728.2021.1969031.★&lt;/li&gt;
-&lt;li&gt;Salganik, Matthew J. 2019. Bit by Bit: Social Research in the Digital Age. Princeton
-University Press. Chapter 2.★&lt;/li&gt;
-&lt;li&gt;Lazer, David, Ryan Kennedy, Gary King, and Alessandro Vespignani. 2014. ‘The Parable
-of Google Flu: Traps in Big Data Analysis’. Science 343(6176):1203–5. doi:
-10.1126/science.1248506.&lt;/li&gt;
-&lt;li&gt;Ruggles, Steven, Catherine A. Fitch, and Evan Roberts. 2018. ‘Historical Census
-Record Linkage’. Annual Review of Sociology 44(1):19–37. doi:
-10.1146/annurev-soc-073117-041447.★&lt;/li&gt;
-&lt;li&gt;Chetty, Raj, Matthew O. Jackson, Theresa Kuchler, Johannes Stroebel, Nathaniel
-Hendren, Robert B. Fluegge, Sara Gong, Federico Gonzalez, Armelle Grondin, Matthew
-Jacob, Drew Johnston, Martin Koenen, Eduardo Laguna-Muggenburg, Florian&lt;/li&gt;
-&lt;li&gt;Mudekereza, Tom Rutter, Nicolaj Thor, Wilbur Townsend, Ruby Zhang, Mike Bailey,
-Pablo Barberá, Monica Bhole, and Nils Wernerfelt. 2022. ‘Social Capital I: Measurement
-and Associations with Economic Mobility’. Nature 608(7921):108–21. doi:
-10.1038/s41586-022-04996-4.&lt;/li&gt;
-&lt;li&gt;Bruch, Elizabeth E., and M. E. J. Newman. 2018. ‘Aspirational Pursuit of Mates in
-Online Dating Markets’. Science Advances 4(8):eaap9815. doi: 10.1126/sciadv.aap9815.★&lt;/li&gt;
-&lt;li&gt;Grinberg, Nir, Kenneth Joseph, Lisa Friedland, Briony Swire-Thompson, and David
-Lazer. 2019. ‘Fake News on Twitter during the 2016 U.S. Presidential Election’. Science
-363(6425):374–78. doi: 10.1126/science.aau2706.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Week 2: Collecting Facebook data using an Application Program Interface (API) [LAB 1]&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Fatehkia, Masoomali, Ridhi Kashyap, and Ingmar Weber. &amp;ldquo;Using Facebook ad data to
-track the global digital gender gap.&amp;rdquo; World Development 107 (2018): 189-209.★&lt;/li&gt;
-&lt;li&gt;Zagheni, Emilio, Ingmar Weber, and Krishna Gummadi. 2017. ‘Leveraging Facebook’s
-Advertising Platform to Monitor Stocks of Migrants’. Population and Development
-Review 43(4):721–34.&lt;/li&gt;
-&lt;li&gt;Araujo, Matheus, Yelena Mejova, Ingmar Weber, and Fabricio Benevenuto. &amp;ldquo;Using
-Facebook ads audiences for global lifestyle disease surveillance: Promises and
-limitations.&amp;rdquo; In Proceedings of the 2017 ACM on Web science conference, pp. 253-257. 2017.&lt;/li&gt;
-&lt;li&gt;Collect original data on the count of Facebook users broken down by characteristics
-using the Facebook marketing API&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Week 3: Machine learning/prediction&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Salganik, Matthew J., Ian Lundberg, …, and Sara McLanahan. 2020. ‘Measuring the
-Predictability of Life Outcomes with a Scientific Mass Collaboration’. Proceedings of the
-National Academy of Sciences 117(15):8398–8403. doi: 10.1073/pnas.1915006117.★&lt;/li&gt;
-&lt;li&gt;Lundberg, Ian, Jennie E. Brand, and Nanum Jeon. 2022. ‘Researcher Reasoning Meets
-Computational Capacity: Machine Learning for Social Science’. Social Science Research
-108:102807. doi: 10.1016/j.ssresearch.2022.102807.&lt;/li&gt;
-&lt;li&gt;Lundberg, Ian, Rachel Brown-Weinstock, Susan Clampet-Lundquist, Sarah Pachman,
-Timothy J. Nelson, Vicki Yang, Kathryn Edin, and Matthew J. Salganik. 2024. ‘The
-Origins of Unpredictability in Life Outcome Prediction Tasks’. Proceedings of the
-National Academy of Sciences 121(24):e2322973121. doi: 10.1073/pnas.2322973121.&lt;/li&gt;
-&lt;li&gt;Blumenstock, Joshua, Gabriel Cadamuro, and Robert On. 2015. ‘Predicting Poverty
-and Wealth from Mobile Phone Metadata’. Science 350(6264):1073–76. doi:
-10.1126/science.aac4420.★&lt;/li&gt;
-&lt;li&gt;Chi, Guanghua, Han Fang, Sourav Chatterjee, and Joshua E. Blumenstock. 2022.
-‘Microestimates of Wealth for All Low- and Middle-Income Countries’. Proceedings of
-the National Academy of Sciences 119(3):e2113658119. doi: 10.1073/pnas.2113658119.★&lt;/li&gt;
-&lt;li&gt;Molina, Mario, and Filiz Garip. 2019. ‘Machine Learning for Sociology’. Annual Review
-of Sociology 45(1):27–45. doi: 10.1146/annurev-soc-073117-041106.&lt;/li&gt;
-&lt;li&gt;Hofman, Jake M., Duncan J. Watts, Susan Athey, Filiz Garip, Thomas L. Griffiths, Jon
-Kleinberg, Helen Margetts, Sendhil Mullainathan, Matthew J. Salganik, Simine Vazire,
-Alessandro Vespignani, and Tal Yarkoni. 2021. ‘Integrating Explanation and Prediction in
-Computational Social Science’. Nature 595(7866):181–88. doi:
-10.1038/s41586-021s-03659-0.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Week 4: Machine learning [LAB 2]&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Breen, Casey F., Masoomali Fatehkia, Jiani Yan, Xinyi Zhao, Douglas R. Leasure,
-Ingmar Weber, and Ridhi Kashyap. 2024. ‘Mapping Subnational Gender Gaps in Internet
-and Mobile Adoption Using Social Media Data’.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Week 5: Non-probability sampling&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Stedman, Richard C., Nancy A. Connelly, Thomas A. Heberlein, Daniel J. Decker, and
-Shorna B. Allred. 2019. ‘The End of the (Research) World As We Know It?★&lt;/li&gt;
-&lt;li&gt;Understanding and Coping With Declining Response Rates to Mail Surveys’. Society &amp;amp;
-Natural Resources 32(10):1139–54. doi: 10.1080/08941920.2019.1587127.&lt;/li&gt;
-&lt;li&gt;Lehdonvirta, Vili, Atte Oksanen, Pekka Räsänen, and Grant Blank. 2021. ‘Social
-Media, Web, and Panel Surveys: Using Non-Probability Samples in Social and Policy
-Research’. Policy &amp;amp; Internet 13(1):134–55. doi: 10.1002/poi3.238.★&lt;/li&gt;
-&lt;li&gt;Elliott, Michael R., and Richard Valliant. 2017. ‘Inference for Nonprobability Samples’.
-Statistical Science 32(2):249–64.&lt;/li&gt;
-&lt;li&gt;Wang, Wei, David Rothschild, Sharad Goel, and Andrew Gelman. 2015. ‘Forecasting
-Elections with Non-Representative Polls’. International Journal of Forecasting
-31(3):980–91. doi: 10.1016/j.ijforecast.2014.06.001.★&lt;/li&gt;
-&lt;li&gt;Dutwin, David, and Trent D. Buskirk. 2017. ‘Apples to Oranges or Gala versus Golden
-Delicious?: Comparing Data Quality of Nonprobability Internet Samples to Low
-Response Rate Probability Samples’. Public Opinion Quarterly 81(S1):213–39. doi:
-10.1093/poq/nfw061.&lt;/li&gt;
-&lt;li&gt;Park, David K., Andrew Gelman, and Joseph Bafumi. 2004. ‘Bayesian Multilevel
-Estimation with Poststratification: State-Level Estimates from National Polls’. Political
-Analysis 12(4):375–85. doi: 10.1093/pan/mph024.&lt;/li&gt;
-&lt;li&gt;Breen, Casey F., Ayesha S. Mahmud, and Dennis M. Feehan. 2022. ‘Novel Estimates
-Reveal Subnational Heterogeneities in Disease-Relevant Contact Patterns in the United
-States’. PLOS Computational Biology 18(12):e1010742. doi:
-10.1371/journal.pcbi.1010742.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Week 6: Social networks&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Borgatti, Stephen P., Ajay Mehra, Daniel J. Brass, and Giuseppe Labianca. 2009.
-‘Network Analysis in the Social Sciences’. Science 323(5916):892–95. doi:
-10.1126/science.1165821.&lt;/li&gt;
-&lt;li&gt;Watts, Duncan J. 2004. ‘The “New” Science of Networks’. Annual Review of Sociology
-30(1):243–70. doi: 10.1146/annurev.soc.30.020404.104342.★&lt;/li&gt;
-&lt;li&gt;Eagle, Nathan, Alex (Sandy) Pentland, and DavThe “New” Science of Networks | Annual
-Reviewsid Lazer. 2009. ‘Inferring Friendship Network Structure by Using Mobile Phone
-Data’. Proceedings of the National Academy of Sciences 106(36):15274–78. doi:
-10.1073/pnas.0900282106.&lt;/li&gt;
-&lt;li&gt;Kossinets, Gueorgi, and Duncan J. Watts. 2006. ‘Empirical Analysis of an Evolving
-Social Network’. Science 311(5757):88–90. doi: 10.1126/science.1116869.&lt;/li&gt;
-&lt;li&gt;Feehan, Dennis M., and Curtiss Cobb. 2019. ‘Using an Online Sample to Estimate the
-Size of an Offline Population’. Demography 56(6):2377–92. doi:
-10.1007/s13524-019-00840-z.&lt;/li&gt;
-&lt;li&gt;Granovetter, Mark S. 1973. ‘The Strength of Weak Ties’. American Journal of
-Sociology 78(6):1360–80.★&lt;/li&gt;
-&lt;li&gt;Salganik, Matthew J., and Douglas D. Heckathorn. 2004. ‘Sampling and Estimation in
-Hidden Populations Using Respondent-Driven Sampling. Sociological Methodology
-34(1):193–240.★&lt;/li&gt;
-&lt;li&gt;Goel, Sharad, and Matthew J. Salganik. 2010. ‘Assessing Respondent-Driven Sampling’.
-Proceedings of the National Academy of Sciences 107(15):6743–47. doi:
-10.1073/pnas.1000261107.&lt;/li&gt;
-&lt;li&gt;Centola, Damon, and Michael Macy. 2007. ‘Complex Contagions and the Weakness of
-Long Ties’. American Journal of Sociology 113(3):702–34. doi: 10.1086/521848.*&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Week 7: Network Survival Method + non-probability Sampling [LAB 3]&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Baker, Reg, J. Michael Brick, Nancy A. Bates, Mike Battaglia, Mick P. Couper, Jill A.
-Dever, Krista J. Gile, and Roger Tourangeau. 2013. ‘Summary Report of the AAPOR
-Task Force on Non-Probability Sampling’. Journal of Survey Statistics and Methodology
-1(2):90–143. doi: 10.1093/jssam/smt008.&lt;/li&gt;
-&lt;li&gt;Breen, Casey F., Saeed Rahman, Christina Kay, Joeri Smits, Abraham Azar, Steve Ahuka-Mundeke,
-and Dennis M. Feehan. 2025. ‘Estimating Death Rates in Complex Humanitarian Emergencies Using
-the Network Survival Method’.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Week 8: Agent-based modelling and microsimulation&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Bruch, Elizabeth, and Jon Atwell. &amp;ldquo;Agent-based models in empirical social research.&amp;rdquo;
-Sociological methods &amp;amp; research. 44, no. 2 (2015): 186-221.★&lt;/li&gt;
-&lt;li&gt;Spielauer, Martin. &amp;ldquo;What is social science microsimulation?&amp;rdquo; Social Science Computer
-Review 29, no. 1 (2011): 9-20.&lt;/li&gt;
-&lt;li&gt;Zagheni, Emilio. &amp;ldquo;The impact of the HIV/AIDS epidemic on kinship resources for
-orphans in Zimbabwe.&amp;rdquo; Population and Development Review. 37, no. 4 (2011): 761-783.&lt;/li&gt;
-&lt;li&gt;Kashyap, Ridhi, and Francisco Villavicencio. &amp;ldquo;The dynamics of son preference,
-technology diffusion, and fertility decline underlying distorted sex ratios at birth: A
-simulation approach.&amp;rdquo; Demography. 53, no. 5 (2016): 1261-1281.★&lt;/li&gt;
-&lt;li&gt;Grow, André, and Jan Van Bavel. &amp;ldquo;Assortative mating and the reversal of gender
-inequality in education in Europe: An agent-based model.&amp;rdquo; PloS one 10, no. 6 (2015):
-e0127806.&lt;/li&gt;
-&lt;li&gt;Alburez‐Gutierrez, Diego, Carl Mason, and Emilio Zagheni. &amp;ldquo;The “sandwich
-generation” revisited: Global demographic drivers of care time demands.&amp;rdquo; Population
-and Development Review. 47, no. 4 (2021): 997-1023.★&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Writing technical content in Academic</title>
       <link>https://caseybreen.github.io/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
@@ -449,7 +153,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-593721486&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-459138276&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -459,7 +163,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-593721486&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-459138276&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -828,7 +532,7 @@ There are striking disparities in longevity across sociodemographic groups in th
 &lt;hr&gt;
 &lt;ol reversed&gt;
 &lt;li&gt;
-&lt;b&gt;Casey F. Breen&lt;/b&gt;, Masoomali Fatehkia, Jiani Yan, Douglas Leasure, Ingmar Weber, and Ridhi Kashyap. “Mapping Subnational Gender Gaps in Internet and Mobile Adoption Using Social Media Data.” 2025. &lt;i&gt; Proceedings of the National Academy of Science. 122(42):e2416624122. &lt;/i&gt; &lt;!-- Links to pubs, abstract, etc. --&gt;
+&lt;b&gt;Casey F. Breen&lt;/b&gt;, Masoomali Fatehkia, Jiani Yan, Douglas Leasure, Ingmar Weber, and Ridhi Kashyap. “Mapping Subnational Gender Gaps in Internet and Mobile Adoption Using Social Media Data.” 2025. &lt;i&gt; Proceedings of the National Academy of Science.&lt;/i&gt; 122(42):e2416624122.  &lt;!-- Links to pubs, abstract, etc. --&gt;
 &lt;!-- Publication --&gt;
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://doi.org/10.1073/pnas.2416624122&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Publication&lt;/button&gt; &lt;/a&gt;
@@ -849,12 +553,12 @@ There are striking disparities in longevity across sociodemographic groups in th
 The digital revolution has ushered in many societal and economic benefits. Yet access to digital technologies such as mobile phones and internet remains highly unequal, especially by gender in the context of low- and middle-income countries (LMICs). While national-level estimates are increasingly available for many countries, reliable, quantitative estimates of digital gender inequalities at the subnational level are lacking. These estimates, however, are essential for monitoring gaps within countries and implementing targeted interventions within the global sustainable development goals, which emphasize the need to close inequalities both between and within countries. We develop estimates of internet and mobile adoption by gender and digital gender gaps at the subnational level for 2,075 regions in 117 LMICs from 2015 through 2025, a context where digital penetration is low and national-level gender gaps disfavoring women are large. We construct these estimates by applying machinelearning algorithms to Facebook user counts, geospatial data, development indicators, and population composition data. We calibrate and assess the performance of these algorithms using ground-truth data from subnationally representative household survey data from 33 LMICs. Our results reveal striking disparities in access to mobile and internet technologies between and within LMICs. These disparities imply that as of 2025, women are 19% less likely to use the internet and 8% less likely to own a mobile phone in LMICs, corresponding to over 190 million fewer women owning a mobile phone and over 320 million fewer women using the internet.
 &lt;/li&gt;
 &lt;li&gt;
-&lt;b&gt;Casey F. Breen&lt;/b&gt;, Saeed Rahman, Christina Kay, Joeri Smits, Steve Ahuka, and Dennis M. Feehan. “Estimating Death Rates in Complex Humanitarian Emergencies Using the Network Survival Method.” &lt;i&gt; American Journal of Epidemiology. &lt;/i&gt; 2025. &lt;!-- Links to pubs, abstract, etc. --&gt;
+&lt;b&gt;Casey F. Breen&lt;/b&gt;, Saeed Rahman, Christina Kay, Joeri Smits, Steve Ahuka, and Dennis M. Feehan. “Estimating Death Rates in Complex Humanitarian Emergencies Using the Network Survival Method.”2025. &lt;i&gt; American Journal of Epidemiology. &lt;/i&gt; 101-00, 1–11.&lt;!-- Links to pubs, abstract, etc. --&gt;
 &lt;!-- Publication --&gt;
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://doi.org/10.1093/aje/kwaf101&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Publication&lt;/button&gt; &lt;/a&gt;
 &lt;!-- PDF --&gt;
-&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://caseybreen.github.io/media/papers/Breen et al. - 2025 - Estimating death rates in complex humanitarian eme.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
+&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://caseybreen.github.io/media/papers/Breen et al. - 2025 - Estimating death rates in complex humanitarian emergencies using the network survival method.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;PDF&lt;/button&gt; &lt;/a&gt;
 &lt;!-- Open Access --&gt;
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://doi.org/10.31235/osf.io/4efdt&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
@@ -1018,11 +722,12 @@ We know surprisingly little about the prevalence and severity of cybercrime in t
 &lt;p&gt;&lt;b&gt;Topics in Computational Social Science&lt;/b&gt;
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://caseybreen.github.io/teaching/css/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Course Materials&lt;/button&gt;
-&lt;/a&gt;
-&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://caseybreen.github.io/media/teaching_materials/css_reading_list.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Reading List&lt;/button&gt;
 &lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The growing availability of new streams of data, expansion of computational power and the digitalisation of our lives has created new questions and research opportunities for social and population scientists. The course will introduce students to a range of methodological and substantive topics in computational social science. We will cover topics such as digital trace and big data, machine learning, non-probability sampling, social networks, and agent-based modelling and microsimulation. The course will consist of seminar and lab sessions (taught in R), where students will engage with research in computational social science and learn to apply basic computational methods to research problems based on existing research papers.&lt;/p&gt;
+&lt;p&gt;The growing availability of new streams of data, expansion of computational power and the digitalisation of our lives has created
+new questions and research opportunities for social and population scientists. The course will introduce students to a range of methodological
+and substantive topics in computational social science. We will cover topics such as digital trace and big data, machine learning, non-probability
+sampling, social networks, and agent-based modelling and microsimulation. The course will consist of seminar and lab sessions (taught in R), where
+students will engage with research in computational social science and learn to apply basic computational methods to research problems based on existing research papers.&lt;/p&gt;
 &lt;h3 id=&#34;workshops&#34;&gt;Workshops&lt;/h3&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;b&gt;Introduction to R and modern workflow&lt;/b&gt;  &lt;!-- Links to pubs, abstract, etc. --&gt;
@@ -1052,10 +757,9 @@ and take-home problem sets with solutions.&lt;/p&gt;
 &lt;a href=&#34;https://www.pnas.org/doi/10.1073/pnas.2416624122&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mapping subnational gender gaps in internet and mobile adoption using social media data&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Oct. 2025: New paper in American Journal of Epidemiology: 
 &lt;a href=&#34;https://academic.oup.com/aje/advance-article/doi/10.1093/aje/kwaf101/8126368&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Estimating death rates in complex humanitarian emergencies using the network survival method&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Oct. 2025: I had an great visit to the Cornell Population Center, where I gave a talk on my crossover work: [
-&lt;a href=&#34;https://caseybreen.github.io/media/talk_slides/breen_dgg_mpidr_slides.pdf&#34;&gt;Slides&lt;/a&gt;] and led a workshop on the CenSoc project [
+&lt;p&gt;Oct. 2025: I had an great visit to the Cornell Population Center, where I gave a talk on the Black-White Mortality Crossover [
 &lt;a href=&#34;https://caseybreen.github.io/media/talk_slides/breen_bw_mortality_crossover_cornell.pdf&#34;&gt;Slides&lt;/a&gt;]&lt;/p&gt;
-&lt;p&gt;Aug. 2025: I am delighted to have the faculty at UT-Austin, where I am affiliated with their Population Research Center and Center on Aging and Population Sciences.&lt;/p&gt;
+&lt;p&gt;Aug. 2025: I am delighted to have joined the faculty at UT-Austin, where I am affiliated with their Population Research Center and Center on Aging and Population Sciences.&lt;/p&gt;
 &lt;p&gt;May 2025: I had a enjoyed visiting the Max Planck Institute for Demographic Research (MPIDR) in Rostock. I presented some recent work on measuring digital inequality [
 &lt;a href=&#34;https://caseybreen.github.io/media/talk_slides/breen_dgg_mpidr_slides.pdf&#34;&gt;Slides&lt;/a&gt;] and led a workshop on the CenSoc project [
 &lt;a href=&#34;https://caseybreen.github.io/media/talk_slides/censoc_rostock_workshop.pdf&#34;&gt;Slides&lt;/a&gt;].&lt;/p&gt;
@@ -1375,6 +1079,271 @@ Figure 1: A fancy pie chart.
 &lt;/div&gt;
 &lt;p&gt;Supplementary notes can be added here, including 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://caseybreen.github.io/page/css/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://caseybreen.github.io/page/css/</guid>
+      <description>&lt;h1 id=&#34;topics-in-computational-social-science&#34;&gt;Topics in Computational Social Science&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Thursday 3:30pm–6:30pm&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Location:&lt;/strong&gt; RLP 3.106&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Course Instructor:&lt;/strong&gt;&lt;br&gt;
+Casey Breen (Email: 
+&lt;a href=&#34;mailto:casey.breen@austin.utexas.edu&#34;&gt;casey.breen@austin.utexas.edu&lt;/a&gt;)&lt;br&gt;
+🕒 Office Hours Sign-up (Tuesdays from 11:00am–2:00pm): 
+&lt;a href=&#34;#&#34;&gt;Book Link&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;The growing availability of new streams of data, expansion of computational power and the digitalisation of our lives has created new questions and research opportunities for social and population scientists. The course will introduce students to a range of methodological and substantive topics in computational social science. We will cover topics such as digital trace and big data, machine learning, non-probability sampling, social networks, and agent-based modelling and microsimulation. The course will consist of seminar and lab sessions (taught in R), where students will engage with research in computational social science and learn to apply basic computational methods to research problems based on existing research papers.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;course-schedule-tentative&#34;&gt;Course Schedule [Tentative]&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:right&#34;&gt;Week&lt;/th&gt;
+&lt;th&gt;Date&lt;/th&gt;
+&lt;th&gt;Format&lt;/th&gt;
+&lt;th&gt;Topic&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;1&lt;/td&gt;
+&lt;td&gt;Thurs, January 15&lt;/td&gt;
+&lt;td&gt;Lecture&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;#week-1&#34;&gt;Intro CSS Lecture&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;2&lt;/td&gt;
+&lt;td&gt;Thurs, January 22&lt;/td&gt;
+&lt;td&gt;Lab&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;#week-2&#34;&gt;Lab 1 – Intro to R sessions&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;3&lt;/td&gt;
+&lt;td&gt;Thurs, January 29&lt;/td&gt;
+&lt;td&gt;Lecture&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;#week-3&#34;&gt;Social Data in the Digital Age&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;4&lt;/td&gt;
+&lt;td&gt;Thurs, February 5&lt;/td&gt;
+&lt;td&gt;Lab&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;#week-4&#34;&gt;Lab 2 – Social Data Collection&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;5&lt;/td&gt;
+&lt;td&gt;Thurs, February 12&lt;/td&gt;
+&lt;td&gt;Lecture&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;#week-5&#34;&gt;Machine Learning + Prediction I&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;6&lt;/td&gt;
+&lt;td&gt;Thurs, February 19&lt;/td&gt;
+&lt;td&gt;Lecture&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;#week-6&#34;&gt;Machine Learning + Prediction II&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;7&lt;/td&gt;
+&lt;td&gt;Thurs, February 26&lt;/td&gt;
+&lt;td&gt;Lab&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;#week-7&#34;&gt;Lab 3 – Machine Learning&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;8&lt;/td&gt;
+&lt;td&gt;Thurs, March 5&lt;/td&gt;
+&lt;td&gt;Lecture&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;#week-8&#34;&gt;Non-probability sampling&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;9&lt;/td&gt;
+&lt;td&gt;Thurs, March 12&lt;/td&gt;
+&lt;td&gt;Lecture&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;#week-9&#34;&gt;Social Networks&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;10&lt;/td&gt;
+&lt;td&gt;Thurs, March 19&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Spring Break — No Class&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;11&lt;/td&gt;
+&lt;td&gt;Thurs, March 26&lt;/td&gt;
+&lt;td&gt;Lecture&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;#week-11&#34;&gt;Final Paper Topic Pitches&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;12&lt;/td&gt;
+&lt;td&gt;Thurs, April 2&lt;/td&gt;
+&lt;td&gt;Lab&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;#week-12&#34;&gt;Lab 4 – Non-probability sampling&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;13&lt;/td&gt;
+&lt;td&gt;Thurs, April 9&lt;/td&gt;
+&lt;td&gt;Lecture&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;#week-13&#34;&gt;Agent Based Models&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;14&lt;/td&gt;
+&lt;td&gt;Thurs, April 16&lt;/td&gt;
+&lt;td&gt;Lecture&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;#week-14&#34;&gt;Text as Data / Large Language Models&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;15&lt;/td&gt;
+&lt;td&gt;Thurs, April 23&lt;/td&gt;
+&lt;td&gt;Lecture&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;#week-15&#34;&gt;Final Presentations&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;weekly-schedule&#34;&gt;Weekly Schedule&lt;/h2&gt;
+&lt;h3 id=&#34;week-1&#34;&gt;Week 1 — Introduction to Computational Social Science&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lazer, David, Eszter Hargittai, Deen Freelon, Sandra Gonzalez-Bailon, Kevin Munger, Katherine Ognyanova, and Jason Radford. 2021. ‘Meaningful Measures of Human Society in the Twenty-First Century’. Nature 595(7866):189–96. doi: 10.1038/s41586-021-03660-7.★&lt;/li&gt;
+&lt;li&gt;Edelmann, Achim, Tom Wolff, Danielle Montagne, and Christopher A. Bail. &amp;ldquo;Computational social science and sociology.&amp;rdquo; Annual review of sociology 46, no. 1 (2020): 61-81.★&lt;/li&gt;
+&lt;li&gt;Salganik, Matthew J. 2019. Bit by Bit: Social Research in the Digital Age. Princeton University Press. Chapter 1.★&lt;/li&gt;
+&lt;li&gt;Kashyap, Ridhi, R. Gordon Rinderknecht, Aliakbar Akbaritabar, Diego Alburez-Gutierrez, Sofia Gil-Clavel, André Grow, Jisu Kim et al. &amp;ldquo;Digital and computational demography.&amp;rdquo; In Research Handbook on Digital Sociology, pp. 48-86. Edward Elgar Publishing, 2023.&lt;/li&gt;
+&lt;li&gt;Lazer, David M. J., Alex Pentland, Duncan J. Watts, Sinan Aral, Susan Athey, Noshir Contractor, Deen Freelon, Sandra Gonzalez-Bailon, Gary King, Helen Margetts, Alondra Nelson, Matthew J. Salganik, Markus Strohmaier, Alessandro Vespignani, and Claudia Wagner. 2020. ‘Computational Social Science: Obstacles and Opportunities’. Science 369(6507):1060–62. doi: 10.1126/science.aaz8170.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;week-2&#34;&gt;Week 2 — Intro to R Session [LAB]&lt;/h3&gt;
+&lt;p&gt;R for Data Science 
+&lt;a href=&#34;https://r4ds.hadley.nz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;
+Data Visualization: A practical introduction 
+&lt;a href=&#34;https://socviz.co/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;week-3&#34;&gt;Week 3 — Social data in the digital age&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Kashyap, Ridhi. 2021. ‘Has Demography Witnessed a Data Revolution? Promises and Pitfalls of a Changing Data Ecosystem’. Population Studies 75(sup1):47–75. doi: 10.1080/00324728.2021.1969031.★&lt;/li&gt;
+&lt;li&gt;Salganik, Matthew J. 2019. Bit by Bit: Social Research in the Digital Age. Princeton University Press. Chapter 2.★&lt;/li&gt;
+&lt;li&gt;Bruch, Elizabeth E., and M. E. J. Newman. 2018. ‘Aspirational Pursuit of Mates in Online Dating Markets’. Science Advances 4(8):eaap9815. doi: 10.1126/sciadv.aap9815.★&lt;/li&gt;
+&lt;li&gt;Lazer, David, Ryan Kennedy, Gary King, and Alessandro Vespignani. 2014. ‘The Parable of Google Flu: Traps in Big Data Analysis’. Science 343(6176):1203–5. doi: 10.1126/science.1248506.★&lt;/li&gt;
+&lt;li&gt;Ruggles, Steven. 2014. ‘Big Microdata for Population Research’. Demography 51(1):287–97. doi: 10.1007/s13524-013-0240-2.&lt;/li&gt;
+&lt;li&gt;Ruggles, Steven, Catherine A. Fitch, and Evan Roberts. 2018. ‘Historical Census Record Linkage’. Annual Review of Sociology 44(1):19–37. doi: 10.1146/annurev-soc-073117-041447.&lt;/li&gt;
+&lt;li&gt;Chetty, Raj, Matthew O. Jackson, Theresa Kuchler, Johannes Stroebel, Nathaniel Hendren, Robert B. Fluegge, Sara Gong, Federico Gonzalez, Armelle Grondin, Matthew Jacob, Drew Johnston, Martin Koenen, Eduardo Laguna-Muggenburg, Florian Mudekereza, Tom Rutter, Nicolaj Thor, Wilbur Townsend, Ruby Zhang, Mike Bailey, Pablo Barberá, Monica Bhole, and Nils Wernerfelt. 2022. ‘Social Capital I: Measurement and Associations with Economic Mobility’. Nature 608(7921):108–21. doi: 10.1038/s41586-022-04996-4.&lt;/li&gt;
+&lt;li&gt;Grinberg, Nir, Kenneth Joseph, Lisa Friedland, Briony Swire-Thompson, and David Lazer. 2019. ‘Fake News on Twitter during the 2016 U.S. Presidential Election’. Science 363(6425):374–78. doi: 10.1126/science.aau2706.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;week-4&#34;&gt;Week 4 — Social data in the digital age [LAB]&lt;/h3&gt;
+&lt;p&gt;Collect original data on the count of Facebook users broken down by characteristics using the Facebook marketing API&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fatehkia, Masoomali, Ridhi Kashyap, and Ingmar Weber. &amp;ldquo;Using Facebook ad data to track the global digital gender gap.&amp;rdquo; World Development 107 (2018): 189-209.&lt;/li&gt;
+&lt;li&gt;Zagheni, Emilio, Ingmar Weber, and Krishna Gummadi. 2017. ‘Leveraging Facebook’s Advertising Platform to Monitor Stocks of Migrants’. Population and Development Review 43(4):721–34.&lt;/li&gt;
+&lt;li&gt;Araujo, Matheus, Yelena Mejova, Ingmar Weber, and Fabricio Benevenuto. &amp;ldquo;Using Facebook ads audiences for global lifestyle disease surveillance: Promises and limitations.&amp;rdquo; In Proceedings of the 2017 ACM on Web science conference, pp. 253-257. 2017.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;week-5&#34;&gt;Week 5 — Machine Learning I&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Hofman, Jake M., Duncan J. Watts, Susan Athey, Filiz Garip, Thomas L. Griffiths, Jon Kleinberg, Helen Margetts, Sendhil Mullainathan, Matthew J. Salganik, Simine Vazire, Alessandro Vespignani, and Tal Yarkoni. 2021. ‘Integrating Explanation and Prediction in Computational Social Science’. Nature 595(7866):181–88. doi: 10.1038/s41586-021s-03659-0.★&lt;/li&gt;
+&lt;li&gt;Blumenstock, Joshua, Gabriel Cadamuro, and Robert On. 2015. ‘Predicting Poverty and Wealth from Mobile Phone Metadata’. Science 350(6264):1073–76. doi: 10.1126/science.aac4420.★&lt;/li&gt;
+&lt;li&gt;Chi, Guanghua, Han Fang, Sourav Chatterjee, and Joshua E. Blumenstock. 2022. ‘Microestimates of Wealth for All Low- and Middle-Income Countries’. Proceedings of the National Academy of Sciences 119(3):e2113658119. doi: 10.1073/pnas.2113658119.★&lt;/li&gt;
+&lt;li&gt;Molina, Mario, and Filiz Garip. 2019. ‘Machine Learning for Sociology’. Annual Review of Sociology 45(1):27–45. doi: 10.1146/annurev-soc-073117-041106.★&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;week-6&#34;&gt;Week 6 — Machine Learning II&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Salganik, Matthew J., Ian Lundberg, …, and Sara McLanahan. 2020. ‘Measuring the Predictability of Life Outcomes with a Scientific Mass Collaboration’. Proceedings of the National Academy of Sciences 117(15):8398–8403. doi: 10.1073/pnas.1915006117. ★&lt;/li&gt;
+&lt;li&gt;Lundberg, Ian, Jennie E. Brand, and Nanum Jeon. 2022. ‘Researcher Reasoning Meets Computational Capacity: Machine Learning for Social Science’. Social Science Research 108:102807. doi: 10.1016/j.ssresearch.2022.102807.&lt;/li&gt;
+&lt;li&gt;Lundberg, Ian, Rachel Brown-Weinstock, Susan Clampet-Lundquist, Sarah Pachman, Timothy J. Nelson, Vicki Yang, Kathryn Edin, and Matthew J. Salganik. 2024. ‘The Origins of Unpredictability in Life Outcome Prediction Tasks’. Proceedings of the National Academy of Sciences 121(24):e2322973121. doi: 10.1073/pnas.2322973121.★&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;week-7&#34;&gt;Week 7 — Lab 3, Machine Learning&lt;/h3&gt;
+&lt;p&gt;Apply machine learning algorithms and Facebook user counts to predict overall levels of internet adoption and digital divisions&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Breen, Casey F., Masoomali Fatehkia, Jiani Yan, Xinyi Zhao, Douglas R. Leasure, Ingmar Weber, and Ridhi Kashyap. 2024. ‘Mapping Subnational Gender Gaps in Internet and Mobile Adoption Using Social Media Data’.★&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;week-8&#34;&gt;Week 8 — Probability and Non-Probability Sampling&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Stedman, Richard C., Nancy A. Connelly, Thomas A. Heberlein, Daniel J. Decker, and Shorna B. Allred. 2019. ‘The End of the (Research) World As We Know It? Understanding and Coping With Declining Response Rates to Mail Surveys’. Society &amp;amp; Natural Resources 32(10):1139–54. doi: 10.1080/08941920.2019.1587127.★&lt;/li&gt;
+&lt;li&gt;Lehdonvirta, Vili, Atte Oksanen, Pekka Räsänen, and Grant Blank. 2021. ‘Social Media, Web, and Panel Surveys: Using Non-Probability Samples in Social and Policy Research’. Policy &amp;amp; Internet 13(1):134–55. doi: 10.1002/poi3.238.&lt;/li&gt;
+&lt;li&gt;Elliott, Michael R., and Richard Valliant. 2017. ‘Inference for Nonprobability Samples’. Statistical Science 32(2):249–64.&lt;/li&gt;
+&lt;li&gt;Wang, Wei, David Rothschild, Sharad Goel, and Andrew Gelman. 2015. ‘Forecasting Elections with Non-Representative Polls’. International Journal of Forecasting 31(3):980–91. doi: 10.1016/j.ijforecast.2014.06.001.★&lt;/li&gt;
+&lt;li&gt;Dutwin, David, and Trent D. Buskirk. 2017. ‘Apples to Oranges or Gala versus Golden Delicious?: Comparing Data Quality of Nonprobability Internet Samples to Low Response Rate Probability Samples’. Public Opinion Quarterly 81(S1):213–39. doi: 10.1093/poq/nfw061.★&lt;/li&gt;
+&lt;li&gt;Park, David K., Andrew Gelman, and Joseph Bafumi. 2004. ‘Bayesian Multilevel Estimation with Poststratification: State-Level Estimates from National Polls’. Political Analysis 12(4):375–85. doi: 10.1093/pan/mph024.&lt;/li&gt;
+&lt;li&gt;Breen, Casey F., Ayesha S. Mahmud, and Dennis M. Feehan. 2022. ‘Novel Estimates Reveal Subnational Heterogeneities in Disease-Relevant Contact Patterns in the United States’. PLOS Computational Biology 18(12):e1010742. doi: 10.1371/journal.pcbi.1010742.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;week-9&#34;&gt;Week 9 — Social Networks&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Borgatti, Stephen P., Ajay Mehra, Daniel J. Brass, and Giuseppe Labianca. 2009. ‘Network Analysis in the Social Sciences’. Science 323(5916):892–95. doi: 10.1126/science.1165821.★&lt;/li&gt;
+&lt;li&gt;Watts, Duncan J. 2004. ‘The “New” Science of Networks’. Annual Review of Sociology 30(1):243–70. doi: 10.1146/annurev.soc.30.020404.104342.★&lt;/li&gt;
+&lt;li&gt;Eagle, Nathan, Alex (Sandy) Pentland, and David Lazer. 2009. ‘Inferring Friendship Network Structure by Using Mobile Phone Data’. Proceedings of the National Academy of Sciences 106(36):15274–78. doi: 10.1073/pnas.0900282106.★&lt;/li&gt;
+&lt;li&gt;Kossinets, Gueorgi, and Duncan J. Watts. 2006. ‘Empirical Analysis of an Evolving Social Network’. Science 311(5757):88–90. doi: 10.1126/science.1116869.&lt;/li&gt;
+&lt;li&gt;Feehan, Dennis M., and Curtiss Cobb. 2019. ‘Using an Online Sample to Estimate the Size of an Offline Population’. Demography 56(6):2377–92. doi: 10.1007/s13524-019-00840-z.&lt;/li&gt;
+&lt;li&gt;Granovetter, Mark S. 1973. ‘The Strength of Weak Ties’. American Journal of Sociology 78(6):1360–80.&lt;/li&gt;
+&lt;li&gt;Salganik, Matthew J., and Douglas D. Heckathorn. 2004. ‘Sampling and Estimation in Hidden Populations Using Respondent-Driven Sampling. Sociological Methodology 34(1):193–240.★&lt;/li&gt;
+&lt;li&gt;Goel, Sharad, and Matthew J. Salganik. 2010. ‘Assessing Respondent-Driven Sampling’. Proceedings of the National Academy of Sciences 107(15):6743–47. doi: 10.1073/pnas.1000261107.&lt;/li&gt;
+&lt;li&gt;Centola, Damon, and Michael Macy. 2007. ‘Complex Contagions and the Weakness of Long Ties’. American Journal of Sociology 113(3):702–34. doi: 10.1086/521848.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;week-11&#34;&gt;Week 11 — Paper Topic Pitches&lt;/h3&gt;
+&lt;p&gt;Students will give short presentations outlining their proposed final projects. Each pitch should clearly state the research question, explain its substantive importance, and describe the data and computational methods to be used.&lt;/p&gt;
+&lt;p&gt;The session will focus on constructive feedback (be kind!) to help refine questions, assess feasibility, and ensure projects are well scoped.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;week-12&#34;&gt;Week 12 — Lab 4&lt;/h3&gt;
+&lt;p&gt;Apply poststratification and inverse-probability weighting to a non-probability sample to estimate mortality rates using network survival method&lt;/p&gt;
+&lt;p&gt;Baker, Reg, J. Michael Brick, Nancy A. Bates, Mike Battaglia, Mick P. Couper, Jill A. Dever, Krista J. Gile, and Roger Tourangeau. 2013. ‘Summary Report of the AAPOR Task Force on Non-Probability Sampling’. Journal of Survey Statistics and Methodology 1(2):90–143. doi: 10.1093/jssam/smt008.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;week-13&#34;&gt;Week 13 — Agent Based Models&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Bruch, Elizabeth, and Jon Atwell. &amp;ldquo;Agent-based models in empirical social research.&amp;rdquo; Sociological methods &amp;amp; research44, no. 2 (2015): 186-221.★&lt;/li&gt;
+&lt;li&gt;Spielauer, Martin. &amp;ldquo;What is social science microsimulation?&amp;rdquo; Social Science Computer Review 29, no. 1 (2011): 9-20.&lt;/li&gt;
+&lt;li&gt;Zagheni, Emilio. &amp;ldquo;The impact of the HIV/AIDS epidemic on kinship resources for orphans in Zimbabwe.&amp;rdquo; Population and Development Review 37, no. 4 (2011): 761-783.&lt;/li&gt;
+&lt;li&gt;Kashyap, Ridhi, and Francisco Villavicencio. &amp;ldquo;The dynamics of son preference, technology diffusion, and fertility decline underlying distorted sex ratios at birth: A simulation approach.&amp;rdquo; Demography 53, no. 5 (2016): 1261-1281.&lt;/li&gt;
+&lt;li&gt;Grow, André, and Jan Van Bavel. &amp;ldquo;Assortative mating and the reversal of gender inequality in education in Europe: An agent-based model.&amp;rdquo; PloS one 10, no. 6 (2015): e0127806.&lt;/li&gt;
+&lt;li&gt;Alburez‐Gutierrez, Diego, Carl Mason, and Emilio Zagheni. &amp;ldquo;The “sandwich generation” revisited: Global demographic drivers of care time demands.&amp;rdquo; Population and Development Review 47, no. 4 (2021): 997-1023.★&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;week-14&#34;&gt;Week 14 — Text as Data / Large Language Models in Social Science Research&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Grimmer, Justin, and Brandon M. Stewart. 2013. “Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts.” Political Analysis 21(3):267–97. doi:10.1093/pan/mps028.★&lt;/li&gt;
+&lt;li&gt;Waight, Hannah, Yin Yuan, Margaret E. Roberts, and Brandon M. Stewart. 2025. “The Decade-Long Growth of Government-Authored News Media in China under Xi Jinping.” Proceedings of the National Academy of Sciences 122(11):e2408260122. doi:10.1073/pnas.2408260122.★&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;week-15&#34;&gt;Week 15 — Final Presentations&lt;/h3&gt;
+&lt;p&gt;Students will deliver 10-minute presentations of their final projects.
+Presentations should clearly communicate the research question, data, methods, and main findings, with special attention to the computational approach applied.
+Each presentation will be followed by brief Q&amp;amp;A.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;learning-outcomes&#34;&gt;Learning Outcomes&lt;/h2&gt;
+&lt;p&gt;By the end of this course, students will be able to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Critically evaluate and engage with contemporary scientific debates within the area of computational social science and identify key contributions&lt;/li&gt;
+&lt;li&gt;Apply computational social science perspectives to formulate and address relevant sociological and demographic questions&lt;/li&gt;
+&lt;li&gt;Demonstrate proficiency in some techniques of computational social science, including methods for processing and analysing digital and unstructured data, basic methods for machine learning and addressing bias in non-probability samples&lt;/li&gt;
+&lt;li&gt;Apply and engage with a computational social science perspective to address their own research problems and areas of interests&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;teaching-arrangement&#34;&gt;Teaching Arrangement&lt;/h2&gt;
+&lt;p&gt;The teaching will be organised in a combination of lectures, discussion-based seminars, and four computer labs. In presenting the paper to the group, please focus on: What is the objective of the paper, what are the main contributions, and what are its limitations? If it is an empirical paper, does the analysis/data seem convincing and does the strength of the argument match the data and evidence? If it is a theoretical/perspective paper, what questions and ideas does it generate for research in computational social science?&lt;/p&gt;
+&lt;p&gt;All participants – and not only those presenting – are expected to read, at minimum, all core papers for the week. We strongly encourage you to review all readings for a given week.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;p&gt;The course will be taught in R (using RStudio). Students are expected to have R and RStudio downloaded and be familiar with R. As an additional resource, we suggest the following text, which is freely available online:&lt;/p&gt;
+&lt;p&gt;Wickham, Hadley, Mine Çetinkaya-Rundel, and Garrett Grolemund. 2023. &lt;em&gt;R for Data Science: Import, Tidy, Transform, Visualize, and Model Data&lt;/em&gt; (2nd Edition). O’Reilly.&lt;/p&gt;
+&lt;hr&gt;
 </description>
     </item>
     

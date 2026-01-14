@@ -228,3 +228,11 @@ Wickham, Hadley, Mine Çetinkaya-Rundel, and Garrett Grolemund. 2023. *R for Dat
 
 ---
 
+
+## Acknowledgements 
+
+The first iteration of this course was originally co-developed and co-taught with the wonderful [Ridhi Kashyap](https://www.sociology.ox.ac.uk/people/ridhi-kashyap) at the University of Oxford.
+Many elements of this course build directly on that collaboration.
+
+---
+

@@ -21,7 +21,13 @@ Casey Breen (Email: [casey.breen@austin.utexas.edu](mailto:casey.breen@austin.ut
 
 ## Overview
 
-The growing availability of new streams of data, expansion of computational power and the digitalisation of our lives has created new questions and research opportunities for social and population scientists. The course will introduce students to a range of methodological and substantive topics in computational social science. We will cover topics such as digital trace and big data, machine learning, non-probability sampling, social networks, and agent-based modelling and microsimulation. The course will consist of seminar and lab sessions (taught in R), where students will engage with research in computational social science and learn to apply basic computational methods to research problems based on existing research papers.
+The growing availability of new streams of data, expansion of computational power and the digitalisation of
+our lives has created new questions and research opportunities for social and population scientists. 
+The course will introduce students to a range of methodological and substantive topics in computational
+social science. We will cover topics such as digital trace and big data, machine learning, non-probability sampling, 
+social networks, and agent-based modelling and microsimulation. The course will consist of seminar and lab sessions (taught in R),
+where students will engage with research in computational social science and learn to apply basic computational methods to research
+problems based on existing research papers.
 
 ---
 
@@ -49,6 +55,8 @@ The growing availability of new streams of data, expansion of computational powe
 
 ## Weekly Schedule
 
+We will discuss readings marked with a star (★) in class. 
+
 ### Week 1 — Introduction to Computational Social Science {#week-1}
 
 * Lazer, David, Eszter Hargittai, Deen Freelon, Sandra Gonzalez-Bailon, Kevin Munger, Katherine Ognyanova, and Jason Radford. 2021. ‘Meaningful Measures of Human Society in the Twenty-First Century’. Nature 595(7866):189–96. doi: 10.1038/s41586-021-03660-7.★
@@ -57,9 +65,20 @@ The growing availability of new streams of data, expansion of computational powe
 * Kashyap, Ridhi, R. Gordon Rinderknecht, Aliakbar Akbaritabar, Diego Alburez-Gutierrez, Sofia Gil-Clavel, André Grow, Jisu Kim et al. "Digital and computational demography." In Research Handbook on Digital Sociology, pp. 48-86. Edward Elgar Publishing, 2023.  
 * Lazer, David M. J., Alex Pentland, Duncan J. Watts, Sinan Aral, Susan Athey, Noshir Contractor, Deen Freelon, Sandra Gonzalez-Bailon, Gary King, Helen Margetts, Alondra Nelson, Matthew J. Salganik, Markus Strohmaier, Alessandro Vespignani, and Claudia Wagner. 2020. ‘Computational Social Science: Obstacles and Opportunities’. Science 369(6507):1060–62. doi: 10.1126/science.aaz8170.
 
+<div style="position:relative; padding-top:56.25%;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vTEMs8wP9GBd0nbYprVN5hCQ9zJLHChSFIYuIW2hfrVI-7GunLGeJvq0skI5fO2o9TOrwo-v2EvVtHx/pubembed?start=false&loop=false&delayms=60000"
+    frameborder="0"
+    allowfullscreen
+    style="position:absolute; top:0; left:0; width:100%; height:100%;"
+  ></iframe>
+</div>
+
 ---
 
 ### Week 2 — Intro to R Session [LAB] {#week-2}
+
+3-hour introduction to R session
 
 R for Data Science [Link](https://r4ds.hadley.nz/) 
 Data Visualization: A practical introduction [Link](https://socviz.co/)

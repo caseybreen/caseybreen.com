@@ -83,21 +83,26 @@ Each session is approximately 3 hours and includes lectures, in-class exercises,
     </item>
     
     <item>
-      <title></title>
-      <link>https://caseybreen.github.io/page/css/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://caseybreen.github.io/page/css/</guid>
-      <description>&lt;h1 id=&#34;topics-in-computational-social-science&#34;&gt;Topics in Computational Social Science&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;Thursday 3:30pm–6:30pm&lt;/strong&gt;&lt;br&gt;
+      <title>Topics in Computational Social Science</title>
+      <link>https://caseybreen.github.io/teaching/css/</link>
+      <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://caseybreen.github.io/teaching/css/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Thursday 3:30pm–6:30pm&lt;/strong&gt;&lt;br&gt;
 &lt;strong&gt;Location:&lt;/strong&gt; RLP 3.106&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Course Instructor:&lt;/strong&gt;&lt;br&gt;
 Casey Breen (Email: 
 &lt;a href=&#34;mailto:casey.breen@austin.utexas.edu&#34;&gt;casey.breen@austin.utexas.edu&lt;/a&gt;)&lt;br&gt;
 🕒 Office Hours Sign-up (Tuesdays from 11:00am–2:00pm): 
-&lt;a href=&#34;#&#34;&gt;Book Link&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://outlook.office.com/bookwithme/user/1980bdc73dae4f878e7a706d170fbd71@eid.utexas.edu/meetingtype/t0EPQaqRKkeIfsN843-J9A2?bookingcode=05d60240-2c1f-4a72-9c31-00358ea6e815&amp;amp;anonymous&amp;amp;ismsaljsauthenabled&amp;amp;ep=mlink&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Book Link&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;The growing availability of new streams of data, expansion of computational power and the digitalisation of our lives has created new questions and research opportunities for social and population scientists. The course will introduce students to a range of methodological and substantive topics in computational social science. We will cover topics such as digital trace and big data, machine learning, non-probability sampling, social networks, and agent-based modelling and microsimulation. The course will consist of seminar and lab sessions (taught in R), where students will engage with research in computational social science and learn to apply basic computational methods to research problems based on existing research papers.&lt;/p&gt;
+&lt;p&gt;The growing availability of new streams of data, expansion of computational power and the digitalisation of
+our lives has created new questions and research opportunities for social and population scientists.
+The course will introduce students to a range of methodological and substantive topics in computational
+social science. We will cover topics such as digital trace and big data, machine learning, non-probability sampling,
+social networks, and agent-based modelling and microsimulation. The course will consist of seminar and lab sessions (taught in R),
+where students will engage with research in computational social science and learn to apply basic computational methods to research
+problems based on existing research papers.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;course-schedule-tentative&#34;&gt;Course Schedule [Tentative]&lt;/h2&gt;
 &lt;table&gt;
@@ -218,6 +223,7 @@ Casey Breen (Email:
 &lt;/table&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;weekly-schedule&#34;&gt;Weekly Schedule&lt;/h2&gt;
+&lt;p&gt;We will discuss readings marked with a star (★) in class.&lt;/p&gt;
 &lt;h3 id=&#34;week-1&#34;&gt;Week 1 — Introduction to Computational Social Science&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Lazer, David, Eszter Hargittai, Deen Freelon, Sandra Gonzalez-Bailon, Kevin Munger, Katherine Ognyanova, and Jason Radford. 2021. ‘Meaningful Measures of Human Society in the Twenty-First Century’. Nature 595(7866):189–96. doi: 10.1038/s41586-021-03660-7.★&lt;/li&gt;
@@ -226,8 +232,19 @@ Casey Breen (Email:
 &lt;li&gt;Kashyap, Ridhi, R. Gordon Rinderknecht, Aliakbar Akbaritabar, Diego Alburez-Gutierrez, Sofia Gil-Clavel, André Grow, Jisu Kim et al. &amp;ldquo;Digital and computational demography.&amp;rdquo; In Research Handbook on Digital Sociology, pp. 48-86. Edward Elgar Publishing, 2023.&lt;/li&gt;
 &lt;li&gt;Lazer, David M. J., Alex Pentland, Duncan J. Watts, Sinan Aral, Susan Athey, Noshir Contractor, Deen Freelon, Sandra Gonzalez-Bailon, Gary King, Helen Margetts, Alondra Nelson, Matthew J. Salganik, Markus Strohmaier, Alessandro Vespignani, and Claudia Wagner. 2020. ‘Computational Social Science: Obstacles and Opportunities’. Science 369(6507):1060–62. doi: 10.1126/science.aaz8170.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;div style=&#34;position:relative;padding-top:56.25%;&#34;&gt;
+  &lt;iframe
+    src=&#34;https://docs.google.com/presentation/d/1WdGgPyHEn8IBOg1qCNPB2Vpd9nNgqN5Nf9y1eOOPfNw/edit?usp=sharing&#34;
+    frameborder=&#34;0&#34;
+    width=&#34;100%&#34;
+    height=&#34;100%&#34;
+    style=&#34;position:absolute;top:0;left:0;width:100%;height:100%;&#34;
+    allowfullscreen
+  &gt;&lt;/iframe&gt;
+&lt;/div&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;week-2&#34;&gt;Week 2 — Intro to R Session [LAB]&lt;/h3&gt;
+&lt;p&gt;3-hour introduction to R session&lt;/p&gt;
 &lt;p&gt;R for Data Science 
 &lt;a href=&#34;https://r4ds.hadley.nz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;
 Data Visualization: A practical introduction 

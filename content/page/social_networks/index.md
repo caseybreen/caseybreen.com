@@ -32,6 +32,27 @@ and hands-on data analysis to build a foundational understanding of social netwo
 
 ---
 
+## Learning Outcomes
+
+At the conclusion of this course, students will be able to:
+
+- Understand the components and properties of social networks  
+- Critically engage with classic and contemporary social network research  
+- Evaluate how social networks structure the social world and shape life outcomes  
+
+---
+
+## Assignments and weight
+
+- Exam 1 — 20%  
+- Exam 2 — 20%  
+- Homeworks — 15%  
+- Labs — 15%  
+- Final Podcast Project — 20%  
+- Attendance — 10%  
+
+---
+
 ## Class Schedule
 
 | Date | Type | Topic | Due |
@@ -264,3 +285,57 @@ https://r4ds.hadley.nz/intro.html
 
 ### April 23 — Presentations {#apr-23}
 **Mini–conference — Final Presentation**
+
+---
+
+
+## Class Attendance
+
+In this course, attendance at these meetings is mandatory and part of your grade.  
+Every student is allowed four (4) free absences with no questions asked. In other words, you do  
+not have to inform me (or your TA) that you are missing class. For every absence after the  
+allotted four (4), you lose 2.5% of the possible 10% for attendance/participation. You will receive a  
+0% for class attendance/participation after eight (8) absences.  
+
+**Please do not email us if you are using a free absence from lecture “just to let us know.” You  
+can just not show up!**
+
+---
+
+## Religious Holy Days
+
+By UT Austin policy, you must notify me of your pending absence for a religious holy day as far in  
+advance as possible of the date of observance. If you must miss a class, an examination, a work  
+assignment, or a project in order to observe a religious holy day, you will be given an opportunity to  
+complete the missed work within a reasonable time after the absence. For questions regarding  
+religious accommodations, please contact the Office of the Dean of Students  
+
+---
+
+## Academic Integrity
+
+Academic integrity is foundational to scholarly work. To learn more about academic integrity  
+standards, tips for avoiding a potential academic misconduct violation and the overall conduct  
+process, please visit the Student Conduct and Academic Integrity website. I have a 0-tolerance policy  
+towards any type of academic misconduct.  
+
+---
+
+## Letter Grade Percentage
+
+Final grades will be based on the standard UT grading scale. Grades will use +/-. Grades will not  
+be curved.
+
+A 93% & above; A- 90% – 92.9%; B+ 87% – 89.9%; B 83% – 86.9%; B- 80% – 82.9%;  
+C+ 77% – 79.9%; C 73% – 76.9%; C- 70% – 72.9%; D+ 67% – 69.9%; D 63% – 66.9%;  
+D- 60% – 62.9%; F 59.9% and below  
+
+---
+
+## Incompletes
+
+Incompletes (I) are given only when a student is unable to complete a segment of the course  
+because of circumstances beyond the student’s control. To be considered for an incomplete a  
+student must have completed two-thirds of all course work with at least a satisfactory grade. An  
+‘incomplete’ is never granted automatically and each request is carefully reviewed by both the  
+Professor and the Teaching Assistant.

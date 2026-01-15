@@ -128,6 +128,17 @@ At the conclusion of this course, students will be able to:
 **Personal networks; social connectedness and social isolation in America**  
 — McPherson, Miller, Lynn Smith-Lovin, and Matthew E. Brashears. 2006. “Social Isolation in America: Changes in Core Discussion Networks over Two Decades.” *American Sociological Review*.
 
+
+<div style="position:relative; padding-top:56.25%;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vRbx4IH2eUrV8Ai4OJErG7UDoKfosVq7j6aWaIBtoxAJkLxnsMaJiqTOMqubtWiyh7HVBOvTs5sGgjJ/pubembed?start=false&loop=false&delayms=3000"
+    frameborder="0"
+    allowfullscreen
+    style="position:absolute; top:0; left:0; width:100%; height:100%;"
+  ></iframe>
+</div>
+
+*Note: Please install R and RStudio in advance of next sesion, which is an R lab.*
 ---
 
 ### January 22 — Lab 1 {#jan-22}

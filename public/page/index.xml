@@ -367,7 +367,15 @@ and hands-on data analysis to build a foundational understanding of social netwo
 &lt;h3 id=&#34;jan-20&#34;&gt;January 20 — Lecture 3&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Personal networks; social connectedness and social isolation in America&lt;/strong&gt;&lt;br&gt;
 — McPherson, Miller, Lynn Smith-Lovin, and Matthew E. Brashears. 2006. “Social Isolation in America: Changes in Core Discussion Networks over Two Decades.” &lt;em&gt;American Sociological Review&lt;/em&gt;.&lt;/p&gt;
-&lt;hr&gt;
+&lt;div style=&#34;position:relative; padding-top:56.25%;&#34;&gt;
+  &lt;iframe
+    src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vRbx4IH2eUrV8Ai4OJErG7UDoKfosVq7j6aWaIBtoxAJkLxnsMaJiqTOMqubtWiyh7HVBOvTs5sGgjJ/pubembed?start=false&amp;loop=false&amp;delayms=3000&#34;
+    frameborder=&#34;0&#34;
+    allowfullscreen
+    style=&#34;position:absolute; top:0; left:0; width:100%; height:100%;&#34;
+  &gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;note-please-install-r-and-rstudio-in-advance-of-next-sesion-which-is-an-r-lab&#34;&gt;&lt;em&gt;Note: Please install R and RStudio in advance of next sesion, which is an R lab.&lt;/em&gt;&lt;/h2&gt;
 &lt;h3 id=&#34;jan-22&#34;&gt;January 22 — Lab 1&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Intro to R and iGraph package&lt;/strong&gt;&lt;br&gt;
 — Textbook: &lt;em&gt;R for Data Science&lt;/em&gt; [For reference; not required reading]&lt;br&gt;
@@ -683,10 +691,21 @@ problems based on existing research papers.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;week-2&#34;&gt;Week 2 — Intro to R Session [LAB]&lt;/h3&gt;
 &lt;p&gt;3-hour introduction to R session&lt;/p&gt;
-&lt;p&gt;R for Data Science 
-&lt;a href=&#34;https://r4ds.hadley.nz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;
-Data Visualization: A practical introduction 
-&lt;a href=&#34;https://socviz.co/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Helpful Resources:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;R for Data Science 
+&lt;a href=&#34;https://r4ds.hadley.nz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Data Visualization: A practical introduction 
+&lt;a href=&#34;https://socviz.co/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&#34;position:relative; padding-top:56.25%;&#34;&gt;
+  &lt;iframe
+    src=&#34;https://raw.githack.com/caseybreen/intro_r/main/slides_1day/full_session.html&#34;
+    frameborder=&#34;0&#34;
+    allowfullscreen
+    style=&#34;position:absolute; top:0; left:0; width:100%; height:100%;&#34;
+  &gt;&lt;/iframe&gt;
+&lt;/div&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;week-3&#34;&gt;Week 3 — Social data in the digital age&lt;/h3&gt;
 &lt;ul&gt;

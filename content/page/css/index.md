@@ -78,10 +78,22 @@ We will discuss readings marked with a star (★) in class.
 
 ### Week 2 — Intro to R Session [LAB] {#week-2}
 
-3-hour introduction to R session
+Please bring your laptop to class with R and RStudio installed; also install the `tidyverse` package. 
+
+Helpful Resources: 
 
 - R for Data Science [Link](https://r4ds.hadley.nz/) 
 - Data Visualization: A practical introduction [Link](https://socviz.co/)
+
+
+<div style="position:relative; padding-top:56.25%;">
+  <iframe
+    src="https://raw.githack.com/caseybreen/intro_r/main/slides_1day/full_session.html"
+    frameborder="0"
+    allowfullscreen
+    style="position:absolute; top:0; left:0; width:100%; height:100%;"
+  ></iframe>
+</div>
 
 ---
 
@@ -95,6 +107,16 @@ We will discuss readings marked with a star (★) in class.
 * Ruggles, Steven, Catherine A. Fitch, and Evan Roberts. 2018. ‘Historical Census Record Linkage’. Annual Review of Sociology 44(1):19–37. doi: 10.1146/annurev-soc-073117-041447.
 * Chetty, Raj, Matthew O. Jackson, Theresa Kuchler, Johannes Stroebel, Nathaniel Hendren, Robert B. Fluegge, Sara Gong, Federico Gonzalez, Armelle Grondin, Matthew Jacob, Drew Johnston, Martin Koenen, Eduardo Laguna-Muggenburg, Florian Mudekereza, Tom Rutter, Nicolaj Thor, Wilbur Townsend, Ruby Zhang, Mike Bailey, Pablo Barberá, Monica Bhole, and Nils Wernerfelt. 2022. ‘Social Capital I: Measurement and Associations with Economic Mobility’. Nature 608(7921):108–21. doi: 10.1038/s41586-022-04996-4.
 * Grinberg, Nir, Kenneth Joseph, Lisa Friedland, Briony Swire-Thompson, and David Lazer. 2019. ‘Fake News on Twitter during the 2016 U.S. Presidential Election’. Science 363(6425):374–78. doi: 10.1126/science.aau2706.
+
+
+<div style="position:relative; padding-top:56.25%;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vRqcPJThxnXXab1c7qdjSy8SV1bUP125-R62cWrNPoRvhhWVhB34boZhynq8EI6WInDK3WKoU-z7eqY/pubembed?start=false&loop=false&delayms=60000"
+    frameborder="0"
+    allowfullscreen
+    style="position:absolute; top:0; left:0; width:100%; height:100%;"
+  ></iframe>
+</div>
 
 ---
 

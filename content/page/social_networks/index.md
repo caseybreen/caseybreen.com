@@ -23,11 +23,16 @@ url: "/teaching/social_networks/"
 
 ## Course Overview
 
-This course introduces the science of social networks—how people are connected and how those connections shape social behavior, opportunities, and outcomes. We will use concepts and methods from the social, natural, and mathematical sciences to define networks, analyze network data, and examine how networks are applied in both academic research and practice. The course draws on examples from public health (e.g., HIV prevention at CDC and UNAIDS), sociology (e.g., how friendship networks influence educational outcomes), and technology (e.g., the rise and diffusion of social media platforms in Silicon Valley). We will combine theory, empirical research, and hands-on data analysis to build a foundational understanding of social networks.
+This course introduces the science of social networks—how people are connected and how those connections shape social behavior, 
+opportunities, and outcomes. We will use concepts and methods from the social, natural, and mathematical sciences to define networks,
+analyze network data, and examine how networks are applied in both academic research and practice. The course draws on examples from 
+public health (e.g., HIV prevention at CDC and UNAIDS), sociology (e.g., how friendship networks influence educational outcomes), 
+and technology (e.g., the rise and diffusion of social media platforms in Silicon Valley). We will combine theory, empirical research, 
+and hands-on data analysis to build a foundational understanding of social networks.
 
 ---
 
-## Class Schedule (Jump to Day)
+## Class Schedule
 
 | Date | Type | Topic | Due |
 |------|------|-------|-----|
@@ -77,8 +82,6 @@ This course introduces the science of social networks—how people are connected
     style="position:absolute; top:0; left:0; width:100%; height:100%;"
   ></iframe>
 </div>
-
-
 
 
 ---

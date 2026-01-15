@@ -137,6 +137,15 @@ https://r4ds.hadley.nz/intro.html
 
 **Lab 1 Due**
 
+<div style="position:relative; padding-top:56.25%;">
+  <iframe
+    src="https://raw.githack.com/caseybreen/intro_r/main/slides_1day/session1_slides.html#/solutions-q3"
+    frameborder="0"
+    allowfullscreen
+    style="position:absolute; top:0; left:0; width:100%; height:100%;"
+  ></iframe>
+</div>
+
 ---
 
 ### January 27 — Lecture 4 {#jan-27}
@@ -339,3 +348,12 @@ because of circumstances beyond the student’s control. To be considered for an
 student must have completed two-thirds of all course work with at least a satisfactory grade. An  
 ‘incomplete’ is never granted automatically and each request is carefully reviewed by both the  
 Professor and the Teaching Assistant.
+
+---
+
+## Acknowledgements 
+
+This course is largely based on a course originally developed by the wonderful Prof. Dennis Feehan at UC Berkeley.
+I am grateful for his generosity in sharing materials and pedagogical approaches that informed the structure and 
+content of this class.
+

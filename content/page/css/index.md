@@ -80,8 +80,8 @@ We will discuss readings marked with a star (★) in class.
 
 3-hour introduction to R session
 
-R for Data Science [Link](https://r4ds.hadley.nz/) 
-Data Visualization: A practical introduction [Link](https://socviz.co/)
+- R for Data Science [Link](https://r4ds.hadley.nz/) 
+- Data Visualization: A practical introduction [Link](https://socviz.co/)
 
 ---
 

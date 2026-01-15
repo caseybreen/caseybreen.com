@@ -125,6 +125,446 @@ Each session is approximately 3 hours and includes lectures, in-class exercises,
     </item>
     
     <item>
+      <title>Introduction to Social Networks</title>
+      <link>https://caseybreen.github.io/teaching/social_networks/</link>
+      <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://caseybreen.github.io/teaching/social_networks/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Casey Breen&lt;br&gt;
+&lt;strong&gt;Email:&lt;/strong&gt; 
+&lt;a href=&#34;mailto:casey.breen@austin.utexas.edu&#34;&gt;casey.breen@austin.utexas.edu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Instructional Mode:&lt;/strong&gt; Face-to-face&lt;br&gt;
+&lt;strong&gt;Meeting Times:&lt;/strong&gt; Tue/Thu 09:30 AM – 11:00 AM&lt;br&gt;
+&lt;strong&gt;Meeting Location:&lt;/strong&gt; RLP 0.102&lt;br&gt;
+&lt;strong&gt;Unique Number:&lt;/strong&gt; 44970&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;course-overview&#34;&gt;Course Overview&lt;/h2&gt;
+&lt;p&gt;This course introduces the science of social networks—how people are connected and how those connections shape social behavior,
+opportunities, and outcomes. We will use concepts and methods from the social, natural, and mathematical sciences to define networks,
+analyze network data, and examine how networks are applied in both academic research and practice. The course draws on examples from
+public health (e.g., HIV prevention at CDC and UNAIDS), sociology (e.g., how friendship networks influence educational outcomes),
+and technology (e.g., the rise and diffusion of social media platforms in Silicon Valley). We will combine theory, empirical research,
+and hands-on data analysis to build a foundational understanding of social networks.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;learning-outcomes&#34;&gt;Learning Outcomes&lt;/h2&gt;
+&lt;p&gt;At the conclusion of this course, students will be able to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Understand the components and properties of social networks&lt;/li&gt;
+&lt;li&gt;Critically engage with classic and contemporary social network research&lt;/li&gt;
+&lt;li&gt;Evaluate how social networks structure the social world and shape life outcomes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;assignments-and-weight&#34;&gt;Assignments and weight&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Exam 1 — 20%&lt;/li&gt;
+&lt;li&gt;Exam 2 — 20%&lt;/li&gt;
+&lt;li&gt;Homeworks — 15%&lt;/li&gt;
+&lt;li&gt;Labs — 15%&lt;/li&gt;
+&lt;li&gt;Final Podcast Project — 20%&lt;/li&gt;
+&lt;li&gt;Attendance — 10%&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;class-schedule&#34;&gt;Class Schedule&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Date&lt;/th&gt;
+&lt;th&gt;Type&lt;/th&gt;
+&lt;th&gt;Topic&lt;/th&gt;
+&lt;th&gt;Due&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Jan 13&lt;/td&gt;
+&lt;td&gt;Lecture 1&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;#jan-13&#34;&gt;Introduction to course + syllabus&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Jan 15&lt;/td&gt;
+&lt;td&gt;Lecture 2&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;#jan-15&#34;&gt;Basic graph theory / giant component / degree distributions&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Jan 20&lt;/td&gt;
+&lt;td&gt;Lecture 3&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;#jan-20&#34;&gt;Personal networks &amp;amp; social isolation&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Jan 22&lt;/td&gt;
+&lt;td&gt;Lab 1&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;#jan-22&#34;&gt;Intro to R and iGraph&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Lab 1 due&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Jan 27&lt;/td&gt;
+&lt;td&gt;Lecture 4&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;#jan-27&#34;&gt;Graph theory &amp;amp; triadic closure&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Jan 29&lt;/td&gt;
+&lt;td&gt;Lecture 5&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;#jan-29&#34;&gt;Strength of weak ties / social capital&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Feb 3&lt;/td&gt;
+&lt;td&gt;Lecture 6&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;#feb-3&#34;&gt;Structural balance&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Feb 10&lt;/td&gt;
+&lt;td&gt;Lecture 8&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;#feb-10&#34;&gt;Friendship paradox &amp;amp; centrality&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Homework 1 due&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Feb 12&lt;/td&gt;
+&lt;td&gt;Review&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;#feb-12&#34;&gt;Exam 1 review&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Feb 17&lt;/td&gt;
+&lt;td&gt;Exam&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;#feb-17&#34;&gt;Exam 1&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Exam 1&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Feb 19&lt;/td&gt;
+&lt;td&gt;Lecture 9&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;#feb-19&#34;&gt;Homophily&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Feb 24&lt;/td&gt;
+&lt;td&gt;Lecture 10&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;#feb-24&#34;&gt;Contagions I&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Feb 26&lt;/td&gt;
+&lt;td&gt;Lecture 11&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;#feb-26&#34;&gt;Contagions II&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Mar 3&lt;/td&gt;
+&lt;td&gt;Lecture 12&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;#mar-3&#34;&gt;Social influence, herding &amp;amp; cascades&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Mar 5&lt;/td&gt;
+&lt;td&gt;Lab 2&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;#mar-5&#34;&gt;Network visualization &amp;amp; homophily indices&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Lab 2 due&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Mar 10&lt;/td&gt;
+&lt;td&gt;Lecture 13&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;#mar-10&#34;&gt;Community detection&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Mar 12&lt;/td&gt;
+&lt;td&gt;Lecture 14&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;#mar-12&#34;&gt;Respondent-driven sampling&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Mar 17&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;#mar-17&#34;&gt;Spring break — no class&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Mar 19&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;#mar-19&#34;&gt;Spring break — no class&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Mar 24&lt;/td&gt;
+&lt;td&gt;Lecture 15&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;#mar-24&#34;&gt;Network scale-up method&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Homework 2 due&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Mar 26&lt;/td&gt;
+&lt;td&gt;Review&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;#mar-26&#34;&gt;Exam 2 review&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Mar 31&lt;/td&gt;
+&lt;td&gt;Exam&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;#mar-31&#34;&gt;Exam 2&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Exam 2&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Apr 2&lt;/td&gt;
+&lt;td&gt;Lecture 16&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;#apr-2&#34;&gt;Final project overview &amp;amp; meet-up&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Apr 7&lt;/td&gt;
+&lt;td&gt;Lecture 17&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;#apr-7&#34;&gt;Networks in practice: suicide networks&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Homework 3 due&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Apr 9&lt;/td&gt;
+&lt;td&gt;Lecture 18&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;#apr-9&#34;&gt;Networks in practice: experiments&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Apr 14&lt;/td&gt;
+&lt;td&gt;Lab 3&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;#apr-14&#34;&gt;Network scale-up method&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Lab 3 due&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Apr 16&lt;/td&gt;
+&lt;td&gt;Flex&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;#apr-16&#34;&gt;Final project preparation&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Apr 21&lt;/td&gt;
+&lt;td&gt;Presentation&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;#apr-21&#34;&gt;Final presentations&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Apr 23&lt;/td&gt;
+&lt;td&gt;Presentation&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;#apr-23&#34;&gt;Final presentations&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;daily-schedule&#34;&gt;Daily Schedule&lt;/h2&gt;
+&lt;h3 id=&#34;jan-13&#34;&gt;January 13 — Lecture 1&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Welcome! Introduction to course + syllabus; examples of social network research&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;— Course syllabus&lt;/p&gt;
+&lt;div style=&#34;position:relative; padding-top:56.25%;&#34;&gt;
+  &lt;iframe
+    src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vQj-X9r6WgSOq8ByGZI3i-xx-jQWL6ZCSrCn65yd0KGRb_2cijPFTKyec4ogpul6zP8QhKVF6QAf7_D/pubembed?start=false&amp;loop=false&amp;delayms=60000&#34;
+    frameborder=&#34;0&#34;
+    allowfullscreen
+    style=&#34;position:absolute; top:0; left:0; width:100%; height:100%;&#34;
+  &gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;jan-15&#34;&gt;January 15 — Lecture 2&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Basic graph theory / giant component / degree distributions&lt;/strong&gt;&lt;br&gt;
+— Easley and Kleinberg Ch 1, Ch 2&lt;br&gt;
+— Borgatti, Stephen P., Ajay Mehra, Daniel J. Brass, and Giuseppe Labianca. 2009. “Network Analysis in the Social Sciences.” &lt;em&gt;Science&lt;/em&gt;.&lt;/p&gt;
+&lt;div style=&#34;position:relative; padding-top:56.25%;&#34;&gt;
+  &lt;iframe
+    src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vRUaPvvOV5VcbMblLTEDHP-lkO5zz8IqT6yp0_gfLYOF5H5b8t9nQBqcM41trulNvK7u2Vbk_ONqJn-/pubembed?start=false&amp;loop=false&amp;delayms=3000&#34;
+    frameborder=&#34;0&#34;
+    allowfullscreen
+    style=&#34;position:absolute; top:0; left:0; width:100%; height:100%;&#34;
+  &gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;jan-20&#34;&gt;January 20 — Lecture 3&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Personal networks; social connectedness and social isolation in America&lt;/strong&gt;&lt;br&gt;
+— McPherson, Miller, Lynn Smith-Lovin, and Matthew E. Brashears. 2006. “Social Isolation in America: Changes in Core Discussion Networks over Two Decades.” &lt;em&gt;American Sociological Review&lt;/em&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;jan-22&#34;&gt;January 22 — Lab 1&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Intro to R and iGraph package&lt;/strong&gt;&lt;br&gt;
+— Textbook: &lt;em&gt;R for Data Science&lt;/em&gt; [For reference; not required reading]&lt;br&gt;
+
+&lt;a href=&#34;https://r4ds.hadley.nz/intro.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://r4ds.hadley.nz/intro.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lab 1 Due&lt;/strong&gt;&lt;/p&gt;
+&lt;div style=&#34;position:relative; padding-top:56.25%;&#34;&gt;
+  &lt;iframe
+    src=&#34;https://raw.githack.com/caseybreen/intro_r/main/slides_1day/session1_slides.html#/solutions-q3&#34;
+    frameborder=&#34;0&#34;
+    allowfullscreen
+    style=&#34;position:absolute; top:0; left:0; width:100%; height:100%;&#34;
+  &gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;jan-27&#34;&gt;January 27 — Lecture 4&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Overview of graph theory; triadic closure&lt;/strong&gt;&lt;br&gt;
+— Easley and Kleinberg, Ch. 3.1–3.3&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;jan-29&#34;&gt;January 29 — Lecture 5&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Strength of weak ties / structural holes / social capital&lt;/strong&gt;&lt;br&gt;
+— Easley and Kleinberg, Ch. 3.2&lt;br&gt;
+— Granovetter, Mark S. 1973. “The Strength of Weak Ties.” &lt;em&gt;American Journal of Sociology&lt;/em&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;feb-3&#34;&gt;February 3 — Lecture 6&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Structural Balance&lt;/strong&gt;&lt;br&gt;
+— Easley and Kleinberg, Ch. 5.1–5.2&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;feb-10&#34;&gt;February 10 — Lecture 8&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;The friendship paradox and node centrality&lt;/strong&gt;&lt;br&gt;
+— Feld, Scott L. 1991. “Why Your Friends Have More Friends Than You Do.” &lt;em&gt;American Journal of Sociology&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Homework 1 Due&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;feb-12&#34;&gt;February 12 — Exam 1 Review&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Exam Review&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;feb-17&#34;&gt;February 17 — Exam 1&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Exam 1&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;feb-19&#34;&gt;February 19 — Lecture 9&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Homophily&lt;/strong&gt;&lt;br&gt;
+— Easley and Kleinberg, Ch. 4.1 and 4.2&lt;br&gt;
+— Currarini, Sergio, Matthew O. Jackson, and Paolo Pin. 2010. “Identifying the Roles of Race-Based Choice and Chance in High School Friendship Network Formation.” &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;feb-24&#34;&gt;February 24 — Lecture 10&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Contagions Part I&lt;/strong&gt;&lt;br&gt;
+— Easley and Kleinberg, Ch. 21.1–21.3&lt;br&gt;
+— Watts Ch. 6&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;feb-26&#34;&gt;February 26 — Lecture 11&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Contagions Part II&lt;/strong&gt;&lt;br&gt;
+— Easley and Kleinberg, Ch. 19.1–19.6&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;mar-3&#34;&gt;March 3 — Lecture 12&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Social influence, herding, and cascades&lt;/strong&gt;&lt;br&gt;
+— Watts Ch. 8&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;mar-5&#34;&gt;March 5 — Lab 2&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Visualizing network data and calculating homophily indices&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lab 2 Due&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;mar-10&#34;&gt;March 10 — Lecture 13&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Community Detection&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;mar-12&#34;&gt;March 12 — Lecture 14&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Respondent-Driven Sampling&lt;/strong&gt;&lt;br&gt;
+— Salganik, Matthew J., and Douglas D. Heckathorn. 2004. “Sampling and Estimation in Hidden Populations Using Respondent-Driven Sampling.” &lt;em&gt;Sociological Methodology&lt;/em&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;mar-17&#34;&gt;March 17 — Spring Break&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;No Class&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;mar-19&#34;&gt;March 19 — Spring Break&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;No Class&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;mar-24&#34;&gt;March 24 — Lecture 15&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Network Scale-up Method&lt;/strong&gt;&lt;br&gt;
+— Breen, Casey F., et al. 2025. “Estimating Death Rates in Complex Humanitarian Emergencies Using the Network Survival Method.” &lt;em&gt;American Journal of Epidemiology&lt;/em&gt;.&lt;br&gt;
+— Feehan, Dennis M., and Matthew J. Salganik. 2016. “Generalizing the Network Scale-up Method.” &lt;em&gt;Sociological Methodology&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Homework 2 Due&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;mar-26&#34;&gt;March 26 — Exam 2 Review&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Exam Review&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;mar-31&#34;&gt;March 31 — Exam 2&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Exam 2&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;apr-2&#34;&gt;April 2 — Lecture 16&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Final Project Overview + Class Project Meet-up Day&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;apr-7&#34;&gt;April 7 — Lecture 17&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Social Network Research in practice: Suicide Networks&lt;/strong&gt;&lt;br&gt;
+— Pescosolido, Bernice A., and Sharon Georgianna. 1989. “Durkheim, Suicide, and Religion.” &lt;em&gt;American Sociological Review&lt;/em&gt;.&lt;br&gt;
+— Centola, Damon, and Michael Macy. 2007. “Complex Contagions and the Weakness of Long Ties.” &lt;em&gt;American Journal of Sociology&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Homework 3 Due&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;apr-9&#34;&gt;April 9 — Lecture 18&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Social Network Research in practice: Network Experiments&lt;/strong&gt;&lt;br&gt;
+— Centola, Damon. 2010. “The Spread of Behavior in an Online Social Network Experiment.” &lt;em&gt;Science&lt;/em&gt;.&lt;br&gt;
+— Rand, David G., Samuel Arbesman, and Nicholas A. Christakis. 2011. “Dynamic Social Networks Promote Cooperation in Experiments with Humans.” &lt;em&gt;PNAS&lt;/em&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;apr-14&#34;&gt;April 14 — Lab 3&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Network scale-up method&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lab 3 Due&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;apr-16&#34;&gt;April 16 — Presentation Prep&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Final Project Prep (Flex Day)&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;apr-21&#34;&gt;April 21 — Presentations&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Mini–conference — Final Presentation&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;apr-23&#34;&gt;April 23 — Presentations&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Mini–conference — Final Presentation&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;class-attendance&#34;&gt;Class Attendance&lt;/h2&gt;
+&lt;p&gt;In this course, attendance at these meetings is mandatory and part of your grade.&lt;br&gt;
+Every student is allowed four (4) free absences with no questions asked. In other words, you do&lt;br&gt;
+not have to inform me (or your TA) that you are missing class. For every absence after the&lt;br&gt;
+allotted four (4), you lose 2.5% of the possible 10% for attendance/participation. You will receive a&lt;br&gt;
+0% for class attendance/participation after eight (8) absences.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Please do not email us if you are using a free absence from lecture “just to let us know.” You&lt;br&gt;
+can just not show up!&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;religious-holy-days&#34;&gt;Religious Holy Days&lt;/h2&gt;
+&lt;p&gt;By UT Austin policy, you must notify me of your pending absence for a religious holy day as far in&lt;br&gt;
+advance as possible of the date of observance. If you must miss a class, an examination, a work&lt;br&gt;
+assignment, or a project in order to observe a religious holy day, you will be given an opportunity to&lt;br&gt;
+complete the missed work within a reasonable time after the absence. For questions regarding&lt;br&gt;
+religious accommodations, please contact the Office of the Dean of Students&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;academic-integrity&#34;&gt;Academic Integrity&lt;/h2&gt;
+&lt;p&gt;Academic integrity is foundational to scholarly work. To learn more about academic integrity&lt;br&gt;
+standards, tips for avoiding a potential academic misconduct violation and the overall conduct&lt;br&gt;
+process, please visit the Student Conduct and Academic Integrity website. I have a 0-tolerance policy&lt;br&gt;
+towards any type of academic misconduct.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;letter-grade-percentage&#34;&gt;Letter Grade Percentage&lt;/h2&gt;
+&lt;p&gt;Final grades will be based on the standard UT grading scale. Grades will use +/-. Grades will not&lt;br&gt;
+be curved.&lt;/p&gt;
+&lt;p&gt;A 93% &amp;amp; above; A- 90% – 92.9%; B+ 87% – 89.9%; B 83% – 86.9%; B- 80% – 82.9%;&lt;br&gt;
+C+ 77% – 79.9%; C 73% – 76.9%; C- 70% – 72.9%; D+ 67% – 69.9%; D 63% – 66.9%;&lt;br&gt;
+D- 60% – 62.9%; F 59.9% and below&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;incompletes&#34;&gt;Incompletes&lt;/h2&gt;
+&lt;p&gt;Incompletes (I) are given only when a student is unable to complete a segment of the course&lt;br&gt;
+because of circumstances beyond the student’s control. To be considered for an incomplete a&lt;br&gt;
+student must have completed two-thirds of all course work with at least a satisfactory grade. An&lt;br&gt;
+‘incomplete’ is never granted automatically and each request is carefully reviewed by both the&lt;br&gt;
+Professor and the Teaching Assistant.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h2&gt;
+&lt;p&gt;This course is largely based on a course originally developed by the wonderful Prof. Dennis Feehan at UC Berkeley.
+I am grateful for his generosity in sharing materials and pedagogical approaches that informed the structure and
+content of this class.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Topics in Computational Social Science</title>
       <link>https://caseybreen.github.io/teaching/css/</link>
       <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
@@ -438,7 +878,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-987642153&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-247356891&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -448,7 +888,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-987642153&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-247356891&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1007,33 +1447,24 @@ We know surprisingly little about the prevalence and severity of cybercrime in t
 &lt;p&gt;&lt;b&gt;Topics in Computational Social Science&lt;/b&gt;
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://caseybreen.github.io/teaching/css/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Course Page&lt;/button&gt;
-&lt;/a&gt;
-&lt;a href=&#34;#abstract-bw_crossover&#34; class=&#34;btn btn-outline-primary&#34; data-toggle=&#34;collapse&#34;&gt;Abstract&lt;/a&gt;&lt;/p&gt;
-&lt;!-- Abstract --&gt;
-&lt;div id=&#34;abstract-bw_crossover&#34; class=&#34;collapse&#34;&gt;
-  &lt;br /&gt;
-  The growing availability of new streams of data, expansion of computational power and the digitalisation of our lives has created
-  new questions and research opportunities for social and population scientists. The course will introduce students to a range of methodological 
-  and substantive topics in computational social science. We will cover topics such as digital trace and big data, machine learning, non-probability 
-  sampling, social networks, and agent-based modelling and microsimulation. The course will consist of seminar and lab sessions (taught in R), where
-  students will engage with research in computational social science and learn to apply basic computational methods to research problems based on existing research papers.
-&lt;/div&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The growing availability of new streams of data, expansion of computational power and the digitalisation of our lives has created
+new questions and research opportunities for social and population scientists. The course will introduce students to a range of methodological
+and substantive topics in computational social science. We will cover topics such as digital trace and big data, machine learning, non-probability
+sampling, social networks, and agent-based modelling and microsimulation. The course will consist of seminar and lab sessions (taught in R), where
+students will engage with research in computational social science and learn to apply basic computational methods to research problems based on existing research papers.&lt;/p&gt;
 &lt;h3 id=&#34;undergraduate-courses&#34;&gt;Undergraduate Courses&lt;/h3&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;b&gt;Introduction to Social Networks &lt;/b&gt;
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://caseybreen.github.io/teaching/social_networks/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Course Page&lt;/button&gt;
-&lt;/a&gt;
-&lt;a href=&#34;#abstract-bw_crossover&#34; class=&#34;btn btn-outline-primary&#34; data-toggle=&#34;collapse&#34;&gt;Abstract&lt;/a&gt;&lt;/p&gt;
-&lt;!-- Abstract --&gt;
-&lt;div id=&#34;abstract-bw_crossover&#34; class=&#34;collapse&#34;&gt;
-  &lt;br /&gt;
-  The growing availability of new streams of data, expansion of computational power and the digitalisation of our lives has created
-  new questions and research opportunities for social and population scientists. The course will introduce students to a range of methodological 
-  and substantive topics in computational social science. We will cover topics such as digital trace and big data, machine learning, non-probability 
-  sampling, social networks, and agent-based modelling and microsimulation. The course will consist of seminar and lab sessions (taught in R), where
-  students will engage with research in computational social science and learn to apply basic computational methods to research problems based on existing research papers.
-&lt;/div&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This course introduces the science of social networks—how people are connected and how those connections shape social behavior,
+opportunities, and outcomes. We will use concepts and methods from the social, natural, and mathematical sciences to define networks,
+analyze network data, and examine how networks are applied in both academic research and practice. The course draws on examples from
+public health (e.g., HIV prevention at CDC and UNAIDS), sociology (e.g., how friendship networks influence educational outcomes),
+and technology (e.g., the rise and diffusion of social media platforms in Silicon Valley). We will combine theory, empirical research,
+and hands-on data analysis to build a foundational understanding of social networks.&lt;/p&gt;
 &lt;h3 id=&#34;workshops&#34;&gt;Workshops&lt;/h3&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;b&gt;Introduction to R and modern workflow&lt;/b&gt;  &lt;!-- Links to pubs, abstract, etc. --&gt;
@@ -1390,205 +1821,6 @@ Figure 1: A fancy pie chart.
 &lt;/div&gt;
 &lt;p&gt;Supplementary notes can be added here, including 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://caseybreen.github.io/page/social_networks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://caseybreen.github.io/page/social_networks/</guid>
-      <description>&lt;h1 id=&#34;soc-321k--intro-to-social-networks&#34;&gt;SOC 321K — Intro to Social Networks&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;Spring 2026&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Casey Breen&lt;br&gt;
-&lt;strong&gt;Email:&lt;/strong&gt; 
-&lt;a href=&#34;mailto:casey.breen@austin.utexas.edu&#34;&gt;casey.breen@austin.utexas.edu&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Instructional Mode:&lt;/strong&gt; Face-to-face&lt;br&gt;
-&lt;strong&gt;Meeting Times:&lt;/strong&gt; Tue/Thu 09:30 AM – 11:00 AM&lt;br&gt;
-&lt;strong&gt;Meeting Location:&lt;/strong&gt; RLP 0.102&lt;br&gt;
-&lt;strong&gt;Unique Number:&lt;/strong&gt; 44970&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;course-overview&#34;&gt;Course Overview&lt;/h2&gt;
-&lt;p&gt;This course introduces the science of social networks—how people are connected and how those connections shape social behavior, opportunities, and outcomes. We will use concepts and methods from the social, natural, and mathematical sciences to define networks, analyze network data, and examine how networks are applied in both academic research and practice. The course draws on examples from public health (e.g., HIV prevention at CDC and UNAIDS), sociology (e.g., how friendship networks influence educational outcomes), and technology (e.g., the rise and diffusion of social media platforms in Silicon Valley). We will combine theory, empirical research, and hands-on data analysis to build a foundational understanding of social networks.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;class-schedule-jump-to-day&#34;&gt;Class Schedule (Jump to Day)&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;#jan-13&#34;&gt;Jan 13 — Lecture 1&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;#jan-15&#34;&gt;Jan 15 — Lecture 2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;#jan-20&#34;&gt;Jan 20 — Lecture 3&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;#jan-22&#34;&gt;Jan 22 — Lab 1&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;#jan-27&#34;&gt;Jan 27 — Lecture 4&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;#jan-29&#34;&gt;Jan 29 — Lecture 5&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;#feb-3&#34;&gt;Feb 3 — Lecture 6&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;#feb-10&#34;&gt;Feb 10 — Lecture 8&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;#feb-12&#34;&gt;Feb 12 — Exam 1 Review&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;#feb-17&#34;&gt;Feb 17 — Exam 1&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;#feb-19&#34;&gt;Feb 19 — Lecture 9&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;#feb-24&#34;&gt;Feb 24 — Lecture 10&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;#feb-26&#34;&gt;Feb 26 — Lecture 11&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;#mar-3&#34;&gt;Mar 3 — Lecture 12&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;#mar-5&#34;&gt;Mar 5 — Lab 2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;#mar-10&#34;&gt;Mar 10 — Lecture 13&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;#mar-12&#34;&gt;Mar 12 — Lecture 14&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;#mar-17&#34;&gt;Mar 17 — Spring Break&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;#mar-19&#34;&gt;Mar 19 — Spring Break&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;#mar-24&#34;&gt;Mar 24 — Lecture 15&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;#mar-26&#34;&gt;Mar 26 — Exam 2 Review&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;#mar-31&#34;&gt;Mar 31 — Exam 2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;#apr-2&#34;&gt;Apr 2 — Lecture 16&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;#apr-7&#34;&gt;Apr 7 — Lecture 17&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;#apr-9&#34;&gt;Apr 9 — Lecture 18&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;#apr-14&#34;&gt;Apr 14 — Lab 3&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;#apr-16&#34;&gt;Apr 16 — Presentation Prep&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;#apr-21&#34;&gt;Apr 21 — Final Presentations&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;#apr-23&#34;&gt;Apr 23 — Final Presentations&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;daily-schedule&#34;&gt;Daily Schedule&lt;/h2&gt;
-&lt;h3 id=&#34;jan-13&#34;&gt;January 13 — Lecture 1&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Welcome! Introduction to course + syllabus; examples of social network research&lt;/strong&gt;&lt;br&gt;
-— Course syllabus&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;jan-15&#34;&gt;January 15 — Lecture 2&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Basic graph theory / giant component / degree distributions&lt;/strong&gt;&lt;br&gt;
-— Easley and Kleinberg Ch 1, Ch 2&lt;br&gt;
-— Borgatti, Stephen P., Ajay Mehra, Daniel J. Brass, and Giuseppe Labianca. 2009. “Network Analysis in the Social Sciences.” &lt;em&gt;Science&lt;/em&gt;.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;jan-20&#34;&gt;January 20 — Lecture 3&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Personal networks; social connectedness and social isolation in America&lt;/strong&gt;&lt;br&gt;
-— McPherson, Miller, Lynn Smith-Lovin, and Matthew E. Brashears. 2006. “Social Isolation in America: Changes in Core Discussion Networks over Two Decades.” &lt;em&gt;American Sociological Review&lt;/em&gt;.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;jan-22&#34;&gt;January 22 — Lab 1&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Intro to R and iGraph package&lt;/strong&gt;&lt;br&gt;
-— Textbook: &lt;em&gt;R for Data Science&lt;/em&gt; [For reference; not required reading]&lt;br&gt;
-
-&lt;a href=&#34;https://r4ds.hadley.nz/intro.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://r4ds.hadley.nz/intro.html&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lab 1 Due&lt;/strong&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;jan-27&#34;&gt;January 27 — Lecture 4&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Overview of graph theory; triadic closure&lt;/strong&gt;&lt;br&gt;
-— Easley and Kleinberg, Ch. 3.1–3.3&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;jan-29&#34;&gt;January 29 — Lecture 5&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Strength of weak ties / structural holes / social capital&lt;/strong&gt;&lt;br&gt;
-— Easley and Kleinberg, Ch. 3.2&lt;br&gt;
-— Granovetter, Mark S. 1973. “The Strength of Weak Ties.” &lt;em&gt;American Journal of Sociology&lt;/em&gt;.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;feb-3&#34;&gt;February 3 — Lecture 6&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Structural Balance&lt;/strong&gt;&lt;br&gt;
-— Easley and Kleinberg, Ch. 5.1–5.2&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;feb-10&#34;&gt;February 10 — Lecture 8&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;The friendship paradox and node centrality&lt;/strong&gt;&lt;br&gt;
-— Feld, Scott L. 1991. “Why Your Friends Have More Friends Than You Do.” &lt;em&gt;American Journal of Sociology&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Homework 1 Due&lt;/strong&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;feb-12&#34;&gt;February 12 — Exam 1 Review&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Exam Review&lt;/strong&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;feb-17&#34;&gt;February 17 — Exam 1&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Exam 1&lt;/strong&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;feb-19&#34;&gt;February 19 — Lecture 9&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Homophily&lt;/strong&gt;&lt;br&gt;
-— Easley and Kleinberg, Ch. 4.1 and 4.2&lt;br&gt;
-— Currarini, Sergio, Matthew O. Jackson, and Paolo Pin. 2010. “Identifying the Roles of Race-Based Choice and Chance in High School Friendship Network Formation.” &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt;.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;feb-24&#34;&gt;February 24 — Lecture 10&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Contagions Part I&lt;/strong&gt;&lt;br&gt;
-— Easley and Kleinberg, Ch. 21.1–21.3&lt;br&gt;
-— Watts Ch. 6&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;feb-26&#34;&gt;February 26 — Lecture 11&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Contagions Part II&lt;/strong&gt;&lt;br&gt;
-— Easley and Kleinberg, Ch. 19.1–19.6&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;mar-3&#34;&gt;March 3 — Lecture 12&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Social influence, herding, and cascades&lt;/strong&gt;&lt;br&gt;
-— Watts Ch. 8&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;mar-5&#34;&gt;March 5 — Lab 2&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Visualizing network data and calculating homophily indices&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lab 2 Due&lt;/strong&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;mar-10&#34;&gt;March 10 — Lecture 13&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Community Detection&lt;/strong&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;mar-12&#34;&gt;March 12 — Lecture 14&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Respondent-Driven Sampling&lt;/strong&gt;&lt;br&gt;
-— Salganik, Matthew J., and Douglas D. Heckathorn. 2004. “Sampling and Estimation in Hidden Populations Using Respondent-Driven Sampling.” &lt;em&gt;Sociological Methodology&lt;/em&gt;.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;mar-17&#34;&gt;March 17 — Spring Break&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;No Class&lt;/strong&gt;&lt;/p&gt;
-&lt;h3 id=&#34;mar-19&#34;&gt;March 19 — Spring Break&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;No Class&lt;/strong&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;mar-24&#34;&gt;March 24 — Lecture 15&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Network Scale-up Method&lt;/strong&gt;&lt;br&gt;
-— Breen, Casey F., et al. 2025. “Estimating Death Rates in Complex Humanitarian Emergencies Using the Network Survival Method.” &lt;em&gt;American Journal of Epidemiology&lt;/em&gt;.&lt;br&gt;
-— Feehan, Dennis M., and Matthew J. Salganik. 2016. “Generalizing the Network Scale-up Method.” &lt;em&gt;Sociological Methodology&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Homework 2 Due&lt;/strong&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;mar-26&#34;&gt;March 26 — Exam 2 Review&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Exam Review&lt;/strong&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;mar-31&#34;&gt;March 31 — Exam 2&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Exam 2&lt;/strong&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;apr-2&#34;&gt;April 2 — Lecture 16&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Midterm review, Final Project Overview + Class Project Meet-up Day&lt;/strong&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;apr-7&#34;&gt;April 7 — Lecture 17&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Social Network Research in practice: Suicide Networks&lt;/strong&gt;&lt;br&gt;
-— Pescosolido, Bernice A., and Sharon Georgianna. 1989. “Durkheim, Suicide, and Religion.” &lt;em&gt;American Sociological Review&lt;/em&gt;.&lt;br&gt;
-— Centola, Damon, and Michael Macy. 2007. “Complex Contagions and the Weakness of Long Ties.” &lt;em&gt;American Journal of Sociology&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Homework 3 Due&lt;/strong&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;apr-9&#34;&gt;April 9 — Lecture 18&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Social Network Research in practice: Network Experiments&lt;/strong&gt;&lt;br&gt;
-— Centola, Damon. 2010. “The Spread of Behavior in an Online Social Network Experiment.” &lt;em&gt;Science&lt;/em&gt;.&lt;br&gt;
-— Rand, David G., Samuel Arbesman, and Nicholas A. Christakis. 2011. “Dynamic Social Networks Promote Cooperation in Experiments with Humans.” &lt;em&gt;PNAS&lt;/em&gt;.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;apr-14&#34;&gt;April 14 — Lab 3&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Network scale-up method&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lab 3 Due&lt;/strong&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;apr-16&#34;&gt;April 16 — Presentation Prep&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Final Project Prep (Flex Day)&lt;/strong&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;apr-21&#34;&gt;April 21 — Presentations&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Mini–conference — Final Presentation&lt;/strong&gt;&lt;/p&gt;
-&lt;h3 id=&#34;apr-23&#34;&gt;April 23 — Presentations&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Mini–conference — Final Presentation&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     

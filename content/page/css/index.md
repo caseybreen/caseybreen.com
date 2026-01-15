@@ -137,6 +137,15 @@ Collect original data on the count of Facebook users broken down by characterist
 * Chi, Guanghua, Han Fang, Sourav Chatterjee, and Joshua E. Blumenstock. 2022. ‘Microestimates of Wealth for All Low- and Middle-Income Countries’. Proceedings of the National Academy of Sciences 119(3):e2113658119. doi: 10.1073/pnas.2113658119.★
 * Molina, Mario, and Filiz Garip. 2019. ‘Machine Learning for Sociology’. Annual Review of Sociology 45(1):27–45. doi: 10.1146/annurev-soc-073117-041106.★
 
+
+<div style="position:relative; padding-top:56.25%;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vQa5Xtxs88g3PCPcEkTDcT3kJBjjQ43mxM8XFosr2tjBBbmcCd7ro1Uo57ylHp6cqdfim8NANTW_hxK/pubembed?start=false&loop=false&delayms=60000"
+    frameborder="0"
+    allowfullscreen
+    style="position:absolute; top:0; left:0; width:100%; height:100%;"
+  ></iframe>
+</div>
 ---
 
 ### Week 6 — Machine Learning II {#week-6}

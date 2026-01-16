@@ -147,13 +147,22 @@ https://r4ds.hadley.nz/intro.html
 
 **Lab 1 Due**
 
-<div style="position:relative; padding-top:56.25%;">
-  <iframe
-    src="https://raw.githack.com/caseybreen/intro_r/main/slides_1day/session1_slides.html#/solutions-q3"
-    frameborder="0"
-    allowfullscreen
-    style="position:absolute; top:0; left:0; width:100%; height:100%;"
-  ></iframe>
+<div style="
+  max-width: 1200px;
+  margin: 2rem auto;
+  padding: 0.75rem;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.08);
+  background: #fff;
+">
+  <div style="width:100%; height:45vh;">
+    <iframe
+      src="/media/teaching_materials/session1_slides.html"
+      style="width:100%; height:100%; border:0; border-radius:6px;"
+      allowfullscreen>
+    </iframe>
+  </div>
 </div>
 
 ---

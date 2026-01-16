@@ -125,17 +125,17 @@ Each session is approximately 3 hours and includes lectures, in-class exercises,
     </item>
     
     <item>
-      <title>Introduction to Social Networks</title>
+      <title>Introduction to Social Networks (SOC 321K)</title>
       <link>https://caseybreen.github.io/teaching/social_networks/</link>
       <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://caseybreen.github.io/teaching/social_networks/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Casey Breen&lt;br&gt;
-&lt;strong&gt;Email:&lt;/strong&gt; 
-&lt;a href=&#34;mailto:casey.breen@austin.utexas.edu&#34;&gt;casey.breen@austin.utexas.edu&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Instructional Mode:&lt;/strong&gt; Face-to-face&lt;br&gt;
-&lt;strong&gt;Meeting Times:&lt;/strong&gt; Tue/Thu 09:30 AM – 11:00 AM&lt;br&gt;
-&lt;strong&gt;Meeting Location:&lt;/strong&gt; RLP 0.102&lt;br&gt;
-&lt;strong&gt;Unique Number:&lt;/strong&gt; 44970&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Meeting Times:&lt;/strong&gt; Tue/Thu 09:30 AM – 11:00 AM&lt;br&gt;
+&lt;strong&gt;Meeting Location:&lt;/strong&gt; RLP 0.102&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Course Instructor:&lt;/strong&gt;&lt;br&gt;
+Casey Breen (Email: 
+&lt;a href=&#34;mailto:casey.breen@austin.utexas.edu&#34;&gt;casey.breen@austin.utexas.edu&lt;/a&gt;)&lt;br&gt;
+🕒 Office Hours Sign-up (Tuesdays from 11:30am–2:00pm): 
+&lt;a href=&#34;https://outlook.office.com/bookwithme/user/1980bdc73dae4f878e7a706d170fbd71@eid.utexas.edu/meetingtype/t0EPQaqRKkeIfsN843-J9A2?bookingcode=05d60240-2c1f-4a72-9c31-00358ea6e815&amp;amp;anonymous&amp;amp;ismsaljsauthenabled&amp;amp;ep=mlink&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Book Link&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;course-overview&#34;&gt;Course Overview&lt;/h2&gt;
 &lt;p&gt;This course introduces the science of social networks—how people are connected and how those connections shape social behavior,
@@ -424,13 +424,12 @@ and hands-on data analysis to build a foundational understanding of social netwo
 
 &lt;a href=&#34;https://r4ds.hadley.nz/intro.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://r4ds.hadley.nz/intro.html&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Lab 1 Due&lt;/strong&gt;&lt;/p&gt;
-&lt;div style=&#34;position:relative; padding-top:56.25%;&#34;&gt;
+&lt;div style=&#34;width:100%; height:80vh;&#34;&gt;
   &lt;iframe
-    src=&#34;https://raw.githack.com/caseybreen/intro_r/main/slides_1day/session1_slides.html#/solutions-q3&#34;
-    frameborder=&#34;0&#34;
-    allowfullscreen
-    style=&#34;position:absolute; top:0; left:0; width:100%; height:100%;&#34;
-  &gt;&lt;/iframe&gt;
+    src=&#34;https://caseybreen.github.io/media/teaching_materials/full_session.html&#34;
+    style=&#34;width:100%; height:100%; border:0;&#34;
+    allowfullscreen&gt;
+  &lt;/iframe&gt;
 &lt;/div&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;jan-27&#34;&gt;January 27 — Lecture 4&lt;/h3&gt;
@@ -582,7 +581,7 @@ content of this class.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Course Instructor:&lt;/strong&gt;&lt;br&gt;
 Casey Breen (Email: 
 &lt;a href=&#34;mailto:casey.breen@austin.utexas.edu&#34;&gt;casey.breen@austin.utexas.edu&lt;/a&gt;)&lt;br&gt;
-🕒 Office Hours Sign-up (Tuesdays from 11:00am–2:00pm): 
+🕒 Office Hours Sign-up (Tuesdays from 11:30am–2:00pm): 
 &lt;a href=&#34;https://outlook.office.com/bookwithme/user/1980bdc73dae4f878e7a706d170fbd71@eid.utexas.edu/meetingtype/t0EPQaqRKkeIfsN843-J9A2?bookingcode=05d60240-2c1f-4a72-9c31-00358ea6e815&amp;amp;anonymous&amp;amp;ismsaljsauthenabled&amp;amp;ep=mlink&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Book Link&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
@@ -714,7 +713,7 @@ problems based on existing research papers.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;weekly-schedule&#34;&gt;Weekly Schedule&lt;/h2&gt;
 &lt;p&gt;We will discuss readings marked with a star (★) in class.&lt;/p&gt;
-&lt;h3 id=&#34;week-1&#34;&gt;Week 1 — Introduction to Computational Social Science&lt;/h3&gt;
+&lt;h3 id=&#34;week-1&#34;&gt;Thurs, January 15	 — Introduction to Computational Social Science&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Lazer, David, Eszter Hargittai, Deen Freelon, Sandra Gonzalez-Bailon, Kevin Munger, Katherine Ognyanova, and Jason Radford. 2021. ‘Meaningful Measures of Human Society in the Twenty-First Century’. Nature 595(7866):189–96. doi: 10.1038/s41586-021-03660-7.★&lt;/li&gt;
 &lt;li&gt;Edelmann, Achim, Tom Wolff, Danielle Montagne, and Christopher A. Bail. &amp;ldquo;Computational social science and sociology.&amp;rdquo; Annual review of sociology 46, no. 1 (2020): 61-81.★&lt;/li&gt;
@@ -725,14 +724,29 @@ problems based on existing research papers.&lt;/p&gt;
 &lt;div style=&#34;position:relative; padding-top:56.25%;&#34;&gt;
   &lt;iframe
     src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vTEMs8wP9GBd0nbYprVN5hCQ9zJLHChSFIYuIW2hfrVI-7GunLGeJvq0skI5fO2o9TOrwo-v2EvVtHx/pubembed?start=false&amp;loop=false&amp;delayms=60000&#34;
-    frameborder=&#34;0&#34;
-    allowfullscreen
-    style=&#34;position:absolute; top:0; left:0; width:100%; height:100%;&#34;
-  &gt;&lt;/iframe&gt;
+    style=&#34;position:absolute; inset:0; width:100%; height:100%; border:0;&#34;
+    allowfullscreen&gt;
+  &lt;/iframe&gt;
+  &lt;!-- invisible click layer --&gt;
+&lt;p&gt;&lt;a
+href=&#34;https://docs.google.com/presentation/d/1WdGgPyHEn8IBOg1qCNPB2Vpd9nNgqN5Nf9y1eOOPfNw/edit?usp=sharing&#34;
+target=&#34;_blank&#34;
+style=&#34;
+position:absolute;
+bottom:0;
+right:0;
+width:160px;
+height:44px;
+z-index:5;
+text-indent:-9999px;
+pointer-events:auto;
+&#34;&gt;
+Open
+&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;week-2&#34;&gt;Week 2 — Intro to R Session [LAB]&lt;/h3&gt;
-&lt;p&gt;3-hour introduction to R session&lt;/p&gt;
+---
+&lt;h3 id=&#34;week-2&#34;&gt;Thurs, January 22 — Intro to R Session [LAB]&lt;/h3&gt;
+&lt;p&gt;Please bring your laptop to class with R and RStudio installed; also install the &lt;code&gt;tidyverse&lt;/code&gt; package.&lt;/p&gt;
 &lt;p&gt;Helpful Resources:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;R for Data Science 
@@ -740,16 +754,15 @@ problems based on existing research papers.&lt;/p&gt;
 &lt;li&gt;Data Visualization: A practical introduction 
 &lt;a href=&#34;https://socviz.co/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div style=&#34;position:relative; padding-top:56.25%;&#34;&gt;
+&lt;div style=&#34;width:100%; height:80vh;&#34;&gt;
   &lt;iframe
-    src=&#34;https://raw.githack.com/caseybreen/intro_r/main/slides_1day/full_session.html&#34;
-    frameborder=&#34;0&#34;
-    allowfullscreen
-    style=&#34;position:absolute; top:0; left:0; width:100%; height:100%;&#34;
-  &gt;&lt;/iframe&gt;
+    src=&#34;https://caseybreen.github.io/media/teaching_materials/full_session.html&#34;
+    style=&#34;width:100%; height:100%; border:0;&#34;
+    allowfullscreen&gt;
+  &lt;/iframe&gt;
 &lt;/div&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;week-3&#34;&gt;Week 3 — Social data in the digital age&lt;/h3&gt;
+&lt;h3 id=&#34;week-3&#34;&gt;Thurs, Jan 29th — Social data in the digital age&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Kashyap, Ridhi. 2021. ‘Has Demography Witnessed a Data Revolution? Promises and Pitfalls of a Changing Data Ecosystem’. Population Studies 75(sup1):47–75. doi: 10.1080/00324728.2021.1969031.★&lt;/li&gt;
 &lt;li&gt;Salganik, Matthew J. 2019. Bit by Bit: Social Research in the Digital Age. Princeton University Press. Chapter 2.★&lt;/li&gt;
@@ -760,8 +773,33 @@ problems based on existing research papers.&lt;/p&gt;
 &lt;li&gt;Chetty, Raj, Matthew O. Jackson, Theresa Kuchler, Johannes Stroebel, Nathaniel Hendren, Robert B. Fluegge, Sara Gong, Federico Gonzalez, Armelle Grondin, Matthew Jacob, Drew Johnston, Martin Koenen, Eduardo Laguna-Muggenburg, Florian Mudekereza, Tom Rutter, Nicolaj Thor, Wilbur Townsend, Ruby Zhang, Mike Bailey, Pablo Barberá, Monica Bhole, and Nils Wernerfelt. 2022. ‘Social Capital I: Measurement and Associations with Economic Mobility’. Nature 608(7921):108–21. doi: 10.1038/s41586-022-04996-4.&lt;/li&gt;
 &lt;li&gt;Grinberg, Nir, Kenneth Joseph, Lisa Friedland, Briony Swire-Thompson, and David Lazer. 2019. ‘Fake News on Twitter during the 2016 U.S. Presidential Election’. Science 363(6425):374–78. doi: 10.1126/science.aau2706.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;div style=&#34;position:relative; padding-top:56.25%;&#34;&gt;
+  &lt;iframe
+    src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vRqcPJThxnXXab1c7qdjSy8SV1bUP125-R62cWrNPoRvhhWVhB34boZhynq8EI6WInDK3WKoU-z7eqY/pubembed?start=false&amp;loop=false&amp;delayms=60000&#34;
+    frameborder=&#34;0&#34;
+    allowfullscreen
+    style=&#34;position:absolute; top:0; left:0; width:100%; height:100%;&#34;
+  &gt;&lt;/iframe&gt;
+ &lt;!-- overlay only on Google Slides bar --&gt;
+&lt;p&gt;&lt;a
+href=&#34;https://docs.google.com/presentation/d/1vYT0QQc-bapC_MfDyb9dzuMJhbLH_WLX1trKrZ4tmQY/edit?usp=sharing&#34;
+target=&#34;_blank&#34;
+aria-label=&#34;Open in Google Slides&#34;
+style=&#34;
+position:absolute;
+bottom:0;
+right:0;
+width:160px;
+height:44px;
+z-index:5;
+text-indent:-9999px;
+pointer-events:auto;
+&#34;&gt;
+Open
+&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;week-4&#34;&gt;Week 4 — Social data in the digital age [LAB]&lt;/h3&gt;
+&lt;h3 id=&#34;week-4&#34;&gt;Thurs, Feb 5 — Social data in the digital age [LAB]&lt;/h3&gt;
 &lt;p&gt;Collect original data on the count of Facebook users broken down by characteristics using the Facebook marketing API&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Fatehkia, Masoomali, Ridhi Kashyap, and Ingmar Weber. &amp;ldquo;Using Facebook ad data to track the global digital gender gap.&amp;rdquo; World Development 107 (2018): 189-209.&lt;/li&gt;
@@ -769,28 +807,80 @@ problems based on existing research papers.&lt;/p&gt;
 &lt;li&gt;Araujo, Matheus, Yelena Mejova, Ingmar Weber, and Fabricio Benevenuto. &amp;ldquo;Using Facebook ads audiences for global lifestyle disease surveillance: Promises and limitations.&amp;rdquo; In Proceedings of the 2017 ACM on Web science conference, pp. 253-257. 2017.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;week-5&#34;&gt;Week 5 — Machine Learning I&lt;/h3&gt;
+&lt;h3 id=&#34;week-5&#34;&gt;Thurs, Feb 12 — Machine Learning I&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Hofman, Jake M., Duncan J. Watts, Susan Athey, Filiz Garip, Thomas L. Griffiths, Jon Kleinberg, Helen Margetts, Sendhil Mullainathan, Matthew J. Salganik, Simine Vazire, Alessandro Vespignani, and Tal Yarkoni. 2021. ‘Integrating Explanation and Prediction in Computational Social Science’. Nature 595(7866):181–88. doi: 10.1038/s41586-021s-03659-0.★&lt;/li&gt;
 &lt;li&gt;Blumenstock, Joshua, Gabriel Cadamuro, and Robert On. 2015. ‘Predicting Poverty and Wealth from Mobile Phone Metadata’. Science 350(6264):1073–76. doi: 10.1126/science.aac4420.★&lt;/li&gt;
 &lt;li&gt;Chi, Guanghua, Han Fang, Sourav Chatterjee, and Joshua E. Blumenstock. 2022. ‘Microestimates of Wealth for All Low- and Middle-Income Countries’. Proceedings of the National Academy of Sciences 119(3):e2113658119. doi: 10.1073/pnas.2113658119.★&lt;/li&gt;
 &lt;li&gt;Molina, Mario, and Filiz Garip. 2019. ‘Machine Learning for Sociology’. Annual Review of Sociology 45(1):27–45. doi: 10.1146/annurev-soc-073117-041106.★&lt;/li&gt;
 &lt;/ul&gt;
+&lt;div style=&#34;position:relative; padding-top:56.25%;&#34;&gt;
+  &lt;iframe
+    src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vQa5Xtxs88g3PCPcEkTDcT3kJBjjQ43mxM8XFosr2tjBBbmcCd7ro1Uo57ylHp6cqdfim8NANTW_hxK/pubembed?start=false&amp;loop=false&amp;delayms=60000&#34;
+    frameborder=&#34;0&#34;
+    allowfullscreen
+    style=&#34;position:absolute; top:0; left:0; width:100%; height:100%;&#34;
+  &gt;&lt;/iframe&gt;
+   &lt;!-- overlay only on Google Slides bar --&gt;
+&lt;p&gt;&lt;a
+href=&#34;https://docs.google.com/presentation/d/1Lqr5rJWb3NX-mBcSmzZf_vS4vUMHbm3ZU4xQWdSCedU/edit?usp=sharing&#34;
+target=&#34;_blank&#34;
+aria-label=&#34;Open in Google Slides&#34;
+style=&#34;
+position:absolute;
+bottom:0;
+right:0;
+width:160px;
+height:44px;
+z-index:5;
+text-indent:-9999px;
+pointer-events:auto;
+&#34;&gt;
+Open
+&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;week-6&#34;&gt;Week 6 — Machine Learning II&lt;/h3&gt;
+&lt;h3 id=&#34;week-6&#34;&gt;Thurs, Feb 19 — Machine Learning II&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Salganik, Matthew J., Ian Lundberg, …, and Sara McLanahan. 2020. ‘Measuring the Predictability of Life Outcomes with a Scientific Mass Collaboration’. Proceedings of the National Academy of Sciences 117(15):8398–8403. doi: 10.1073/pnas.1915006117. ★&lt;/li&gt;
 &lt;li&gt;Lundberg, Ian, Jennie E. Brand, and Nanum Jeon. 2022. ‘Researcher Reasoning Meets Computational Capacity: Machine Learning for Social Science’. Social Science Research 108:102807. doi: 10.1016/j.ssresearch.2022.102807.&lt;/li&gt;
 &lt;li&gt;Lundberg, Ian, Rachel Brown-Weinstock, Susan Clampet-Lundquist, Sarah Pachman, Timothy J. Nelson, Vicki Yang, Kathryn Edin, and Matthew J. Salganik. 2024. ‘The Origins of Unpredictability in Life Outcome Prediction Tasks’. Proceedings of the National Academy of Sciences 121(24):e2322973121. doi: 10.1073/pnas.2322973121.★&lt;/li&gt;
 &lt;/ul&gt;
+&lt;div style=&#34;position:relative; padding-top:56.25%;&#34;&gt;
+  &lt;!-- Embedded (view-only) Slides --&gt;
+  &lt;iframe
+    src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vQLP_5i6OrJ5Rp6-g-Z2EEvTZHohgWaTcIU5Hpf4zAlJ1ELegJVGhqaJO7r5YKcQ7tzrlaW9DwIAJlc/pubembed?start=false&amp;loop=false&amp;delayms=60000&#34;
+    style=&#34;position:absolute; inset:0; width:100%; height:100%; border:0;&#34;
+    allowfullscreen
+    mozallowfullscreen
+    webkitallowfullscreen&gt;
+  &lt;/iframe&gt;
+  &lt;!-- Clickable overlay on Google Slides control area --&gt;
+&lt;p&gt;&lt;a
+href=&#34;https://docs.google.com/presentation/d/1V6LCvbGIChzqsGZqag4NVct5hnDg_dW6hRRo3DTCxeQ/edit?usp=sharing&#34;
+target=&#34;_blank&#34;
+aria-label=&#34;Open in Google Slides&#34;
+style=&#34;
+position:absolute;
+bottom:0;
+right:0;
+width:160px;
+height:44px;
+z-index:5;
+text-indent:-9999px;
+pointer-events:auto;
+&#34;&gt;
+Open
+&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;week-7&#34;&gt;Week 7 — Lab 3, Machine Learning&lt;/h3&gt;
+&lt;h3 id=&#34;week-7&#34;&gt;Thurs, Feb 26 — Lab 3, Machine Learning&lt;/h3&gt;
 &lt;p&gt;Apply machine learning algorithms and Facebook user counts to predict overall levels of internet adoption and digital divisions&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Breen, Casey F., Masoomali Fatehkia, Jiani Yan, Xinyi Zhao, Douglas R. Leasure, Ingmar Weber, and Ridhi Kashyap. 2024. ‘Mapping Subnational Gender Gaps in Internet and Mobile Adoption Using Social Media Data’.★&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;week-8&#34;&gt;Week 8 — Probability and Non-Probability Sampling&lt;/h3&gt;
+&lt;h3 id=&#34;week-8&#34;&gt;Thurs, March 5 — Probability and Non-Probability Sampling&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Stedman, Richard C., Nancy A. Connelly, Thomas A. Heberlein, Daniel J. Decker, and Shorna B. Allred. 2019. ‘The End of the (Research) World As We Know It? Understanding and Coping With Declining Response Rates to Mail Surveys’. Society &amp;amp; Natural Resources 32(10):1139–54. doi: 10.1080/08941920.2019.1587127.★&lt;/li&gt;
 &lt;li&gt;Lehdonvirta, Vili, Atte Oksanen, Pekka Räsänen, and Grant Blank. 2021. ‘Social Media, Web, and Panel Surveys: Using Non-Probability Samples in Social and Policy Research’. Policy &amp;amp; Internet 13(1):134–55. doi: 10.1002/poi3.238.&lt;/li&gt;
@@ -800,8 +890,35 @@ problems based on existing research papers.&lt;/p&gt;
 &lt;li&gt;Park, David K., Andrew Gelman, and Joseph Bafumi. 2004. ‘Bayesian Multilevel Estimation with Poststratification: State-Level Estimates from National Polls’. Political Analysis 12(4):375–85. doi: 10.1093/pan/mph024.&lt;/li&gt;
 &lt;li&gt;Breen, Casey F., Ayesha S. Mahmud, and Dennis M. Feehan. 2022. ‘Novel Estimates Reveal Subnational Heterogeneities in Disease-Relevant Contact Patterns in the United States’. PLOS Computational Biology 18(12):e1010742. doi: 10.1371/journal.pcbi.1010742.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;div style=&#34;position:relative; padding-top:56.25%;&#34;&gt;
+  &lt;!-- Embedded (view-only) Google Slides --&gt;
+  &lt;iframe
+    src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vTfbeLffkvwyGHokaFcvSvzBEQ8HC1X89ekrQ6O7yn1nMALJgGfa4QxJd-I4rNuY6GHE9yhsfes_rDF/pubembed?start=false&amp;loop=false&amp;delayms=60000&#34;
+    style=&#34;position:absolute; inset:0; width:100%; height:100%; border:0;&#34;
+    allowfullscreen
+    mozallowfullscreen
+    webkitallowfullscreen&gt;
+  &lt;/iframe&gt;
+  &lt;!-- Overlay link on Google Slides control area --&gt;
+&lt;p&gt;&lt;a
+href=&#34;https://docs.google.com/presentation/d/18TpmjG1xHiEsCvKSXDeFYYnKchVQVS9E_eJ6peYdpFg/edit?usp=sharing&#34;
+target=&#34;_blank&#34;
+aria-label=&#34;Open in Google Slides&#34;
+style=&#34;
+position:absolute;
+bottom:0;
+right:0;
+width:160px;
+height:44px;
+z-index:5;
+text-indent:-9999px;
+pointer-events:auto;
+&#34;&gt;
+Open
+&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;week-9&#34;&gt;Week 9 — Social Networks&lt;/h3&gt;
+&lt;h3 id=&#34;week-9&#34;&gt;Thurs, March 12 — Social Networks&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Borgatti, Stephen P., Ajay Mehra, Daniel J. Brass, and Giuseppe Labianca. 2009. ‘Network Analysis in the Social Sciences’. Science 323(5916):892–95. doi: 10.1126/science.1165821.★&lt;/li&gt;
 &lt;li&gt;Watts, Duncan J. 2004. ‘The “New” Science of Networks’. Annual Review of Sociology 30(1):243–70. doi: 10.1146/annurev.soc.30.020404.104342.★&lt;/li&gt;
@@ -813,16 +930,45 @@ problems based on existing research papers.&lt;/p&gt;
 &lt;li&gt;Goel, Sharad, and Matthew J. Salganik. 2010. ‘Assessing Respondent-Driven Sampling’. Proceedings of the National Academy of Sciences 107(15):6743–47. doi: 10.1073/pnas.1000261107.&lt;/li&gt;
 &lt;li&gt;Centola, Damon, and Michael Macy. 2007. ‘Complex Contagions and the Weakness of Long Ties’. American Journal of Sociology 113(3):702–34. doi: 10.1086/521848.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;div style=&#34;position:relative; padding-top:56.25%;&#34;&gt;
+  &lt;!-- Embedded (view-only) Google Slides --&gt;
+  &lt;iframe
+    src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vQ6mXmY2iV54Y5gRwdpjS8K0fTUxISfq2KhMRA1-tIOXAfv9ASOd07usahBFXtaPOVrjvou2d2LVZsy/pubembed?start=false&amp;loop=false&amp;delayms=60000&#34;
+    style=&#34;position:absolute; inset:0; width:100%; height:100%; border:0;&#34;
+    allowfullscreen
+    mozallowfullscreen
+    webkitallowfullscreen&gt;
+  &lt;/iframe&gt;
+  &lt;!-- Overlay link on Google Slides control area --&gt;
+&lt;p&gt;&lt;a
+href=&#34;https://docs.google.com/presentation/d/1RvKF-Z9dZsGHYS8wcHUl0o5PgzeqpFXfFgfW5e89pkg/edit?usp=sharing&#34;
+target=&#34;_blank&#34;
+aria-label=&#34;Open in Google Slides&#34;
+style=&#34;
+position:absolute;
+bottom:0;
+right:0;
+width:160px;
+height:44px;
+z-index:5;
+text-indent:-9999px;
+pointer-events:auto;
+&#34;&gt;
+Open
+&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;week-11&#34;&gt;Week 11 — Paper Topic Pitches&lt;/h3&gt;
+&lt;h3 id=&#34;week-11&#34;&gt;Thurs, March 26 — Paper Topic Pitches&lt;/h3&gt;
 &lt;p&gt;Students will give short presentations outlining their proposed final projects. Each pitch should clearly state the research question, explain its substantive importance, and describe the data and computational methods to be used.&lt;/p&gt;
 &lt;p&gt;The session will focus on constructive feedback (be kind!) to help refine questions, assess feasibility, and ensure projects are well scoped.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;week-12&#34;&gt;Week 12 — Lab 4&lt;/h3&gt;
+&lt;h3 id=&#34;week-12&#34;&gt;Thurs, April 2 — Lab 4&lt;/h3&gt;
 &lt;p&gt;Apply poststratification and inverse-probability weighting to a non-probability sample to estimate mortality rates using network survival method&lt;/p&gt;
-&lt;p&gt;Baker, Reg, J. Michael Brick, Nancy A. Bates, Mike Battaglia, Mick P. Couper, Jill A. Dever, Krista J. Gile, and Roger Tourangeau. 2013. ‘Summary Report of the AAPOR Task Force on Non-Probability Sampling’. Journal of Survey Statistics and Methodology 1(2):90–143. doi: 10.1093/jssam/smt008.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Baker, Reg, J. Michael Brick, Nancy A. Bates, Mike Battaglia, Mick P. Couper, Jill A. Dever, Krista J. Gile, and Roger Tourangeau. 2013. ‘Summary Report of the AAPOR Task Force on Non-Probability Sampling’. Journal of Survey Statistics and Methodology 1(2):90–143. doi: 10.1093/jssam/smt008.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;week-13&#34;&gt;Week 13 — Agent Based Models&lt;/h3&gt;
+&lt;h3 id=&#34;week-13&#34;&gt;Thurs, April 9 — Agent Based Models&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Bruch, Elizabeth, and Jon Atwell. &amp;ldquo;Agent-based models in empirical social research.&amp;rdquo; Sociological methods &amp;amp; research44, no. 2 (2015): 186-221.★&lt;/li&gt;
 &lt;li&gt;Spielauer, Martin. &amp;ldquo;What is social science microsimulation?&amp;rdquo; Social Science Computer Review 29, no. 1 (2011): 9-20.&lt;/li&gt;
@@ -831,14 +977,43 @@ problems based on existing research papers.&lt;/p&gt;
 &lt;li&gt;Grow, André, and Jan Van Bavel. &amp;ldquo;Assortative mating and the reversal of gender inequality in education in Europe: An agent-based model.&amp;rdquo; PloS one 10, no. 6 (2015): e0127806.&lt;/li&gt;
 &lt;li&gt;Alburez‐Gutierrez, Diego, Carl Mason, and Emilio Zagheni. &amp;ldquo;The “sandwich generation” revisited: Global demographic drivers of care time demands.&amp;rdquo; Population and Development Review 47, no. 4 (2021): 997-1023.★&lt;/li&gt;
 &lt;/ul&gt;
+&lt;div style=&#34;position:relative; padding-top:56.25%;&#34;&gt;
+  &lt;!-- Embedded (view-only) Google Slides --&gt;
+  &lt;iframe
+    src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vR1WjxeTSY1FCPZiL9h4DwIdPY5chgA8VVP23BjI0w0gAzpc5UKba1Iz65IqnaruoFPOBZbPljo1gjk/pubembed?start=false&amp;loop=false&amp;delayms=60000&#34;
+    style=&#34;position:absolute; inset:0; width:100%; height:100%; border:0;&#34;
+    allowfullscreen
+    mozallowfullscreen
+    webkitallowfullscreen&gt;
+  &lt;/iframe&gt;
+  &lt;!-- Overlay link on Google Slides control area --&gt;
+&lt;p&gt;&lt;a
+href=&#34;https://docs.google.com/presentation/d/1fnIVegQ63boJ7i1_dFDpxlzQfoR3uJy1d2uUupNoF4g/edit?usp=sharing&#34;
+target=&#34;_blank&#34;
+aria-label=&#34;Open in Google Slides&#34;
+style=&#34;
+position:absolute;
+bottom:0;
+right:0;
+width:160px;
+height:44px;
+z-index:5;
+text-indent:-9999px;
+pointer-events:auto;
+&#34;&gt;
+Open
+&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;week-14&#34;&gt;Week 14 — Text as Data / Large Language Models in Social Science Research&lt;/h3&gt;
+&lt;h3 id=&#34;week-14&#34;&gt;Thurs, April 16 — Text as Data / Large Language Models in Social Science Research&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Grimmer, Justin, and Brandon M. Stewart. 2013. “Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts.” Political Analysis 21(3):267–97. doi:10.1093/pan/mps028.★&lt;/li&gt;
 &lt;li&gt;Waight, Hannah, Yin Yuan, Margaret E. Roberts, and Brandon M. Stewart. 2025. “The Decade-Long Growth of Government-Authored News Media in China under Xi Jinping.” Proceedings of the National Academy of Sciences 122(11):e2408260122. doi:10.1073/pnas.2408260122.★&lt;/li&gt;
+&lt;li&gt;Hastings, Orestes P. and Luca Maria Pesando. 2024. “What’s a Parent to do? Measuring Cultural Logics of Parenting with Computational Text Analysis.” Social Science Research 124:103074.&lt;/li&gt;
+&lt;li&gt;Bail Christopher A. 2024. “Can Generative AI Improve Social Science?” Proceedings of the National Academy of Sciences. 121(21):e2314021121.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;week-15&#34;&gt;Week 15 — Final Presentations&lt;/h3&gt;
+&lt;h3 id=&#34;week-15&#34;&gt;Thurs, April 23 — Final Presentations&lt;/h3&gt;
 &lt;p&gt;Students will deliver 10-minute presentations of their final projects.
 Presentations should clearly communicate the research question, data, methods, and main findings, with special attention to the computational approach applied.
 Each presentation will be followed by brief Q&amp;amp;A.&lt;/p&gt;
@@ -897,7 +1072,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-765134982&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-978326145&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -907,7 +1082,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-765134982&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-978326145&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

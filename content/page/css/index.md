@@ -57,7 +57,7 @@ problems based on existing research papers.
 
 We will discuss readings marked with a star (★) in class. 
 
-### Week 1 — Introduction to Computational Social Science {#week-1}
+### Thurs, January 15	 — Introduction to Computational Social Science {#week-1}
 
 * Lazer, David, Eszter Hargittai, Deen Freelon, Sandra Gonzalez-Bailon, Kevin Munger, Katherine Ognyanova, and Jason Radford. 2021. ‘Meaningful Measures of Human Society in the Twenty-First Century’. Nature 595(7866):189–96. doi: 10.1038/s41586-021-03660-7.★
 * Edelmann, Achim, Tom Wolff, Danielle Montagne, and Christopher A. Bail. "Computational social science and sociology." Annual review of sociology 46, no. 1 (2020): 61-81.★
@@ -66,17 +66,33 @@ We will discuss readings marked with a star (★) in class.
 * Lazer, David M. J., Alex Pentland, Duncan J. Watts, Sinan Aral, Susan Athey, Noshir Contractor, Deen Freelon, Sandra Gonzalez-Bailon, Gary King, Helen Margetts, Alondra Nelson, Matthew J. Salganik, Markus Strohmaier, Alessandro Vespignani, and Claudia Wagner. 2020. ‘Computational Social Science: Obstacles and Opportunities’. Science 369(6507):1060–62. doi: 10.1126/science.aaz8170.
 
 <div style="position:relative; padding-top:56.25%;">
+
   <iframe
     src="https://docs.google.com/presentation/d/e/2PACX-1vTEMs8wP9GBd0nbYprVN5hCQ9zJLHChSFIYuIW2hfrVI-7GunLGeJvq0skI5fO2o9TOrwo-v2EvVtHx/pubembed?start=false&loop=false&delayms=60000"
-    frameborder="0"
-    allowfullscreen
-    style="position:absolute; top:0; left:0; width:100%; height:100%;"
-  ></iframe>
-</div>
+    style="position:absolute; inset:0; width:100%; height:100%; border:0;"
+    allowfullscreen>
+  </iframe>
 
+  <!-- invisible click layer -->
+  <a
+    href="https://docs.google.com/presentation/d/1WdGgPyHEn8IBOg1qCNPB2Vpd9nNgqN5Nf9y1eOOPfNw/edit?usp=sharing"
+    target="_blank"
+    style="
+      position:absolute;
+      bottom:0;
+      right:0;
+      width:160px;
+      height:44px;
+      z-index:5;
+      text-indent:-9999px;
+      pointer-events:auto;
+    ">
+    Open
+  </a>
+</div>
 ---
 
-### Week 2 — Intro to R Session [LAB] {#week-2}
+### Thurs, January 22 — Intro to R Session [LAB] {#week-2}
 
 Please bring your laptop to class with R and RStudio installed; also install the `tidyverse` package. 
 
@@ -97,7 +113,7 @@ Helpful Resources:
 
 ---
 
-### Week 3 — Social data in the digital age {#week-3}
+### Thurs, Jan 29th — Social data in the digital age {#week-3}
 
 * Kashyap, Ridhi. 2021. ‘Has Demography Witnessed a Data Revolution? Promises and Pitfalls of a Changing Data Ecosystem’. Population Studies 75(sup1):47–75. doi: 10.1080/00324728.2021.1969031.★
 * Salganik, Matthew J. 2019. Bit by Bit: Social Research in the Digital Age. Princeton University Press. Chapter 2.★
@@ -116,11 +132,33 @@ Helpful Resources:
     allowfullscreen
     style="position:absolute; top:0; left:0; width:100%; height:100%;"
   ></iframe>
+  
+ <!-- overlay only on Google Slides bar -->
+  <a
+    href="https://docs.google.com/presentation/d/1vYT0QQc-bapC_MfDyb9dzuMJhbLH_WLX1trKrZ4tmQY/edit?usp=sharing"
+    target="_blank"
+    aria-label="Open in Google Slides"
+    style="
+      position:absolute;
+      bottom:0;
+      right:0;
+      width:160px;
+      height:44px;
+      z-index:5;
+      text-indent:-9999px;
+      pointer-events:auto;
+    ">
+    Open
+  </a>
+  
+  
 </div>
+
 
 ---
 
-### Week 4 — Social data in the digital age [LAB] {#week-4}
+
+### Thurs, Feb 5 — Social data in the digital age [LAB] {#week-4}
 
 Collect original data on the count of Facebook users broken down by characteristics using the Facebook marketing API
 
@@ -130,7 +168,7 @@ Collect original data on the count of Facebook users broken down by characterist
 
 ---
 
-### Week 5 — Machine Learning I {#week-5}
+### Thurs, Feb 12 — Machine Learning I {#week-5}
 
 * Hofman, Jake M., Duncan J. Watts, Susan Athey, Filiz Garip, Thomas L. Griffiths, Jon Kleinberg, Helen Margetts, Sendhil Mullainathan, Matthew J. Salganik, Simine Vazire, Alessandro Vespignani, and Tal Yarkoni. 2021. ‘Integrating Explanation and Prediction in Computational Social Science’. Nature 595(7866):181–88. doi: 10.1038/s41586-021s-03659-0.★
 * Blumenstock, Joshua, Gabriel Cadamuro, and Robert On. 2015. ‘Predicting Poverty and Wealth from Mobile Phone Metadata’. Science 350(6264):1073–76. doi: 10.1126/science.aac4420.★
@@ -145,18 +183,71 @@ Collect original data on the count of Facebook users broken down by characterist
     allowfullscreen
     style="position:absolute; top:0; left:0; width:100%; height:100%;"
   ></iframe>
+  
+  
+   <!-- overlay only on Google Slides bar -->
+  <a
+    href="https://docs.google.com/presentation/d/1Lqr5rJWb3NX-mBcSmzZf_vS4vUMHbm3ZU4xQWdSCedU/edit?usp=sharing"
+    target="_blank"
+    aria-label="Open in Google Slides"
+    style="
+      position:absolute;
+      bottom:0;
+      right:0;
+      width:160px;
+      height:44px;
+      z-index:5;
+      text-indent:-9999px;
+      pointer-events:auto;
+    ">
+    Open
+  </a>
+  
 </div>
+
 ---
 
-### Week 6 — Machine Learning II {#week-6}
+### Thurs, Feb 19 — Machine Learning II {#week-6}
 
 * Salganik, Matthew J., Ian Lundberg, …, and Sara McLanahan. 2020. ‘Measuring the Predictability of Life Outcomes with a Scientific Mass Collaboration’. Proceedings of the National Academy of Sciences 117(15):8398–8403. doi: 10.1073/pnas.1915006117. ★ 
 * Lundberg, Ian, Jennie E. Brand, and Nanum Jeon. 2022. ‘Researcher Reasoning Meets Computational Capacity: Machine Learning for Social Science’. Social Science Research 108:102807. doi: 10.1016/j.ssresearch.2022.102807.  
 * Lundberg, Ian, Rachel Brown-Weinstock, Susan Clampet-Lundquist, Sarah Pachman, Timothy J. Nelson, Vicki Yang, Kathryn Edin, and Matthew J. Salganik. 2024. ‘The Origins of Unpredictability in Life Outcome Prediction Tasks’. Proceedings of the National Academy of Sciences 121(24):e2322973121. doi: 10.1073/pnas.2322973121.★
 
+<div style="position:relative; padding-top:56.25%;">
+
+  <!-- Embedded (view-only) Slides -->
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vQLP_5i6OrJ5Rp6-g-Z2EEvTZHohgWaTcIU5Hpf4zAlJ1ELegJVGhqaJO7r5YKcQ7tzrlaW9DwIAJlc/pubembed?start=false&loop=false&delayms=60000"
+    style="position:absolute; inset:0; width:100%; height:100%; border:0;"
+    allowfullscreen
+    mozallowfullscreen
+    webkitallowfullscreen>
+  </iframe>
+
+  <!-- Clickable overlay on Google Slides control area -->
+  <a
+    href="https://docs.google.com/presentation/d/1V6LCvbGIChzqsGZqag4NVct5hnDg_dW6hRRo3DTCxeQ/edit?usp=sharing"
+    target="_blank"
+    aria-label="Open in Google Slides"
+    style="
+      position:absolute;
+      bottom:0;
+      right:0;
+      width:160px;
+      height:44px;
+      z-index:5;
+      text-indent:-9999px;
+      pointer-events:auto;
+    ">
+    Open
+  </a>
+
+</div>
+
+
 ---
 
-### Week 7 — Lab 3, Machine Learning {#week-7}
+### Thurs, Feb 26 — Lab 3, Machine Learning {#week-7}
 
 Apply machine learning algorithms and Facebook user counts to predict overall levels of internet adoption and digital divisions
 
@@ -164,7 +255,7 @@ Apply machine learning algorithms and Facebook user counts to predict overall le
 
 ---
 
-### Week 8 — Probability and Non-Probability Sampling {#week-8}
+### Thurs, March 5 — Probability and Non-Probability Sampling {#week-8}
 
 * Stedman, Richard C., Nancy A. Connelly, Thomas A. Heberlein, Daniel J. Decker, and Shorna B. Allred. 2019. ‘The End of the (Research) World As We Know It? Understanding and Coping With Declining Response Rates to Mail Surveys’. Society & Natural Resources 32(10):1139–54. doi: 10.1080/08941920.2019.1587127.★
 * Lehdonvirta, Vili, Atte Oksanen, Pekka Räsänen, and Grant Blank. 2021. ‘Social Media, Web, and Panel Surveys: Using Non-Probability Samples in Social and Policy Research’. Policy & Internet 13(1):134–55. doi: 10.1002/poi3.238.
@@ -174,9 +265,41 @@ Apply machine learning algorithms and Facebook user counts to predict overall le
 * Park, David K., Andrew Gelman, and Joseph Bafumi. 2004. ‘Bayesian Multilevel Estimation with Poststratification: State-Level Estimates from National Polls’. Political Analysis 12(4):375–85. doi: 10.1093/pan/mph024.
 * Breen, Casey F., Ayesha S. Mahmud, and Dennis M. Feehan. 2022. ‘Novel Estimates Reveal Subnational Heterogeneities in Disease-Relevant Contact Patterns in the United States’. PLOS Computational Biology 18(12):e1010742. doi: 10.1371/journal.pcbi.1010742.
 
+
+<div style="position:relative; padding-top:56.25%;">
+
+  <!-- Embedded (view-only) Google Slides -->
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vTfbeLffkvwyGHokaFcvSvzBEQ8HC1X89ekrQ6O7yn1nMALJgGfa4QxJd-I4rNuY6GHE9yhsfes_rDF/pubembed?start=false&loop=false&delayms=60000"
+    style="position:absolute; inset:0; width:100%; height:100%; border:0;"
+    allowfullscreen
+    mozallowfullscreen
+    webkitallowfullscreen>
+  </iframe>
+
+  <!-- Overlay link on Google Slides control area -->
+  <a
+    href="https://docs.google.com/presentation/d/18TpmjG1xHiEsCvKSXDeFYYnKchVQVS9E_eJ6peYdpFg/edit?usp=sharing"
+    target="_blank"
+    aria-label="Open in Google Slides"
+    style="
+      position:absolute;
+      bottom:0;
+      right:0;
+      width:160px;
+      height:44px;
+      z-index:5;
+      text-indent:-9999px;
+      pointer-events:auto;
+    ">
+    Open
+  </a>
+
+</div>
+
 ---
 
-### Week 9 — Social Networks {#week-9}
+### Thurs, March 12 — Social Networks {#week-9}
 
 * Borgatti, Stephen P., Ajay Mehra, Daniel J. Brass, and Giuseppe Labianca. 2009. ‘Network Analysis in the Social Sciences’. Science 323(5916):892–95. doi: 10.1126/science.1165821.★  
 * Watts, Duncan J. 2004. ‘The “New” Science of Networks’. Annual Review of Sociology 30(1):243–70. doi: 10.1146/annurev.soc.30.020404.104342.★  
@@ -188,9 +311,41 @@ Apply machine learning algorithms and Facebook user counts to predict overall le
 * Goel, Sharad, and Matthew J. Salganik. 2010. ‘Assessing Respondent-Driven Sampling’. Proceedings of the National Academy of Sciences 107(15):6743–47. doi: 10.1073/pnas.1000261107.  
 * Centola, Damon, and Michael Macy. 2007. ‘Complex Contagions and the Weakness of Long Ties’. American Journal of Sociology 113(3):702–34. doi: 10.1086/521848.
 
+
+<div style="position:relative; padding-top:56.25%;">
+
+  <!-- Embedded (view-only) Google Slides -->
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vQ6mXmY2iV54Y5gRwdpjS8K0fTUxISfq2KhMRA1-tIOXAfv9ASOd07usahBFXtaPOVrjvou2d2LVZsy/pubembed?start=false&loop=false&delayms=60000"
+    style="position:absolute; inset:0; width:100%; height:100%; border:0;"
+    allowfullscreen
+    mozallowfullscreen
+    webkitallowfullscreen>
+  </iframe>
+
+  <!-- Overlay link on Google Slides control area -->
+  <a
+    href="https://docs.google.com/presentation/d/1RvKF-Z9dZsGHYS8wcHUl0o5PgzeqpFXfFgfW5e89pkg/edit?usp=sharing"
+    target="_blank"
+    aria-label="Open in Google Slides"
+    style="
+      position:absolute;
+      bottom:0;
+      right:0;
+      width:160px;
+      height:44px;
+      z-index:5;
+      text-indent:-9999px;
+      pointer-events:auto;
+    ">
+    Open
+  </a>
+
+</div>
+
 ---
 
-### Week 11 — Paper Topic Pitches {#week-11}
+### Thurs, March 26 — Paper Topic Pitches {#week-11}
 
 Students will give short presentations outlining their proposed final projects. Each pitch should clearly state the research question, explain its substantive importance, and describe the data and computational methods to be used. 
 
@@ -198,15 +353,15 @@ The session will focus on constructive feedback (be kind!) to help refine questi
 
 ---
 
-### Week 12 — Lab 4 {#week-12}
+### Thurs, April 2 — Lab 4 {#week-12}
 
 Apply poststratification and inverse-probability weighting to a non-probability sample to estimate mortality rates using network survival method
 
-Baker, Reg, J. Michael Brick, Nancy A. Bates, Mike Battaglia, Mick P. Couper, Jill A. Dever, Krista J. Gile, and Roger Tourangeau. 2013. ‘Summary Report of the AAPOR Task Force on Non-Probability Sampling’. Journal of Survey Statistics and Methodology 1(2):90–143. doi: 10.1093/jssam/smt008.
+* Baker, Reg, J. Michael Brick, Nancy A. Bates, Mike Battaglia, Mick P. Couper, Jill A. Dever, Krista J. Gile, and Roger Tourangeau. 2013. ‘Summary Report of the AAPOR Task Force on Non-Probability Sampling’. Journal of Survey Statistics and Methodology 1(2):90–143. doi: 10.1093/jssam/smt008.
 
 ---
 
-### Week 13 — Agent Based Models {#week-13}
+### Thurs, April 9 — Agent Based Models {#week-13}
 
 * Bruch, Elizabeth, and Jon Atwell. "Agent-based models in empirical social research." Sociological methods & research44, no. 2 (2015): 186-221.★  
 * Spielauer, Martin. "What is social science microsimulation?" Social Science Computer Review 29, no. 1 (2011): 9-20.  
@@ -215,17 +370,49 @@ Baker, Reg, J. Michael Brick, Nancy A. Bates, Mike Battaglia, Mick P. Couper, Ji
 * Grow, André, and Jan Van Bavel. "Assortative mating and the reversal of gender inequality in education in Europe: An agent-based model." PloS one 10, no. 6 (2015): e0127806.  
 * Alburez‐Gutierrez, Diego, Carl Mason, and Emilio Zagheni. "The “sandwich generation” revisited: Global demographic drivers of care time demands." Population and Development Review 47, no. 4 (2021): 997-1023.★
 
+
+<div style="position:relative; padding-top:56.25%;">
+
+  <!-- Embedded (view-only) Google Slides -->
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vR1WjxeTSY1FCPZiL9h4DwIdPY5chgA8VVP23BjI0w0gAzpc5UKba1Iz65IqnaruoFPOBZbPljo1gjk/pubembed?start=false&loop=false&delayms=60000"
+    style="position:absolute; inset:0; width:100%; height:100%; border:0;"
+    allowfullscreen
+    mozallowfullscreen
+    webkitallowfullscreen>
+  </iframe>
+
+  <!-- Overlay link on Google Slides control area -->
+  <a
+    href="https://docs.google.com/presentation/d/1fnIVegQ63boJ7i1_dFDpxlzQfoR3uJy1d2uUupNoF4g/edit?usp=sharing"
+    target="_blank"
+    aria-label="Open in Google Slides"
+    style="
+      position:absolute;
+      bottom:0;
+      right:0;
+      width:160px;
+      height:44px;
+      z-index:5;
+      text-indent:-9999px;
+      pointer-events:auto;
+    ">
+    Open
+  </a>
+
+</div>
+
 ---
 
-### Week 14 — Text as Data / Large Language Models in Social Science Research {#week-14}
+### Thurs, April 16 — Text as Data / Large Language Models in Social Science Research {#week-14}
 
 * Grimmer, Justin, and Brandon M. Stewart. 2013. “Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts.” Political Analysis 21(3):267–97. doi:10.1093/pan/mps028.★  
 * Waight, Hannah, Yin Yuan, Margaret E. Roberts, and Brandon M. Stewart. 2025. “The Decade-Long Growth of Government-Authored News Media in China under Xi Jinping.” Proceedings of the National Academy of Sciences 122(11):e2408260122. doi:10.1073/pnas.2408260122.★
 * Hastings, Orestes P. and Luca Maria Pesando. 2024. “What’s a Parent to do? Measuring Cultural Logics of Parenting with Computational Text Analysis.” Social Science Research 124:103074.
-Bail Christopher A. 2024. “Can Generative AI Improve Social Science?” Proceedings of the National Academy of Sciences 121(21):e2314021121.
+* Bail Christopher A. 2024. “Can Generative AI Improve Social Science?” Proceedings of the National Academy of Sciences. 121(21):e2314021121.
 ---
 
-### Week 15 — Final Presentations {#week-15}
+### Thurs, April 23 — Final Presentations {#week-15}
 
 Students will deliver 10-minute presentations of their final projects.
 Presentations should clearly communicate the research question, data, methods, and main findings, with special attention to the computational approach applied. 

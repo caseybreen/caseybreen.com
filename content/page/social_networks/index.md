@@ -17,7 +17,6 @@ url: "/teaching/social_networks/"
 Casey Breen (Email: [casey.breen@austin.utexas.edu](mailto:casey.breen@austin.utexas.edu))  
 🕒 Office Hours Sign-up (Tuesdays from 11:30am–2:00pm): [Book Link](https://outlook.office.com/bookwithme/user/1980bdc73dae4f878e7a706d170fbd71@eid.utexas.edu/meetingtype/t0EPQaqRKkeIfsN843-J9A2?bookingcode=05d60240-2c1f-4a72-9c31-00358ea6e815&anonymous&ismsaljsauthenabled&ep=mlink)
 
-
 ---
 
 ## Course Overview
@@ -60,7 +59,7 @@ At the conclusion of this course, students will be able to:
 | Jan 15 | Lecture 2 | [Basic graph theory / giant component / degree distributions](#jan-15) | — |
 | Jan 20 | Lecture 3 | [Personal networks & social isolation](#jan-20) | — |
 | Jan 22 | Lab 1 | [Intro to R and iGraph](#jan-22) | **Lab 1 due** |
-| Jan 27 | Lecture 4 | [Graph theory & triadic closure](#jan-27) | — |
+| Jan 27 | Lecture 4 | [Personal networks (cont.) & triadic closure](#jan-27) | — |
 | Jan 29 | Lecture 5 | [Strength of weak ties / social capital](#jan-29) | — |
 | Feb 3 | Lecture 6 | [Structural balance](#feb-3) | — |
 | Feb 10 | Lecture 8 | [Friendship paradox & centrality](#feb-10) | **Homework 1 due** |
@@ -101,6 +100,21 @@ At the conclusion of this course, students will be able to:
     allowfullscreen
     style="position:absolute; top:0; left:0; width:100%; height:100%;"
   ></iframe>
+  
+ <!-- click-capture only on the lower-right "Google Slides" area -->
+  <a href="https://drive.google.com/drive/folders/1-xt639Jn8B6Ak4wxSVg5JOFG5SerQSHo?usp=sharing"
+     target="_blank" rel="noopener noreferrer"
+     aria-label="Open course folder"
+     style="
+       position:absolute;
+       right:8px;
+       bottom:8px;
+       width:170px;
+       height:56px;
+       z-index:10;
+       background:transparent;
+     ">
+  </a>
 </div>
 
 
@@ -112,13 +126,28 @@ At the conclusion of this course, students will be able to:
 — Borgatti, Stephen P., Ajay Mehra, Daniel J. Brass, and Giuseppe Labianca. 2009. “Network Analysis in the Social Sciences.” *Science*.
 
 
-<div style="position:relative; padding-top:56.25%;">
+<div style="position:relative; padding-top:56.25%; border-radius:8px; overflow:hidden;">
   <iframe
     src="https://docs.google.com/presentation/d/e/2PACX-1vRUaPvvOV5VcbMblLTEDHP-lkO5zz8IqT6yp0_gfLYOF5H5b8t9nQBqcM41trulNvK7u2Vbk_ONqJn-/pubembed?start=false&loop=false&delayms=3000"
     frameborder="0"
     allowfullscreen
-    style="position:absolute; top:0; left:0; width:100%; height:100%;"
+    style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;"
   ></iframe>
+
+  <!-- click-capture only on the lower-right "Google Slides" area -->
+  <a href="https://drive.google.com/drive/folders/1-xt639Jn8B6Ak4wxSVg5JOFG5SerQSHo?usp=sharing"
+     target="_blank" rel="noopener noreferrer"
+     aria-label="Open course folder"
+     style="
+       position:absolute;
+       right:8px;
+       bottom:8px;
+       width:170px;
+       height:56px;
+       z-index:10;
+       background:transparent;
+     ">
+  </a>
 </div>
 
 ---
@@ -135,6 +164,22 @@ At the conclusion of this course, students will be able to:
     allowfullscreen
     style="position:absolute; top:0; left:0; width:100%; height:100%;"
   ></iframe>
+  
+   <!-- click-capture only on the lower-right "Google Slides" area -->
+  <a href="https://drive.google.com/drive/folders/1-xt639Jn8B6Ak4wxSVg5JOFG5SerQSHo?usp=sharing"
+     target="_blank" rel="noopener noreferrer"
+     aria-label="Open course folder"
+     style="
+       position:absolute;
+       right:8px;
+       bottom:8px;
+       width:170px;
+       height:56px;
+       z-index:10;
+       background:transparent;
+     ">
+  </a>
+</div>
 </div>
 
 *Note: Please install R and RStudio in advance of next sesion, which is an R lab.*
@@ -142,8 +187,8 @@ At the conclusion of this course, students will be able to:
 
 ### January 22 — Lab 1 {#jan-22}
 **Intro to R and iGraph package**  
-— Textbook: *R for Data Science* [For reference; not required reading]  
-https://r4ds.hadley.nz/intro.html  
+— Textbook: [R for Data Science](https://r4ds.hadley.nz/intro.html) [For reference; not required reading]  
+
 
 **Lab 1 Due**
 

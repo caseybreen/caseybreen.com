@@ -213,7 +213,7 @@ At the conclusion of this course, students will be able to:
 ---
 
 ### January 27 — Lecture 4 {#jan-27}
-**Overview of graph theory; triadic closure**  
+**Personal networks (cont); triadic closure**  
 — Easley and Kleinberg, Ch. 3.1–3.3
 
 ---

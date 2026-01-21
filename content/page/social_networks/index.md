@@ -62,6 +62,7 @@ At the conclusion of this course, students will be able to:
 | Jan 27 | Lecture 4 | [Personal networks (cont.) & triadic closure](#jan-27) | — |
 | Jan 29 | Lecture 5 | [Strength of weak ties / social capital](#jan-29) | — |
 | Feb 3 | Lecture 6 | [Structural balance](#feb-3) | — |
+| Feb 5 | Lecture 7 | [Network models](#feb-5) | — |
 | Feb 10 | Lecture 8 | [Friendship paradox & centrality](#feb-10) | **Homework 1 due** |
 | Feb 12 | Review | [Exam 1 review](#feb-12) | — |
 | Feb 17 | Exam | [Exam 1](#feb-17) | **Exam 1** |
@@ -216,6 +217,31 @@ At the conclusion of this course, students will be able to:
 **Personal networks (cont); triadic closure**  
 — Easley and Kleinberg, Ch. 3.1–3.3
 
+
+<div style="position:relative; padding-top:56.25%;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vRbx4IH2eUrV8Ai4OJErG7UDoKfosVq7j6aWaIBtoxAJkLxnsMaJiqTOMqubtWiyh7HVBOvTs5sGgjJ/pubembed?start=false&loop=false&delayms=3000"
+    frameborder="0"
+    allowfullscreen
+    style="position:absolute; top:0; left:0; width:100%; height:100%;"
+  ></iframe>
+  
+   <!-- click-capture only on the lower-right "Google Slides" area -->
+  <a href="https://drive.google.com/drive/folders/1-xt639Jn8B6Ak4wxSVg5JOFG5SerQSHo?usp=sharing"
+     target="_blank" rel="noopener noreferrer"
+     aria-label="Open course folder"
+     style="
+       position:absolute;
+       right:8px;
+       bottom:8px;
+       width:170px;
+       height:56px;
+       z-index:10;
+       background:transparent;
+     ">
+  </a>
+</div>
+
 ---
 
 ### January 29 — Lecture 5 {#jan-29}
@@ -223,11 +249,91 @@ At the conclusion of this course, students will be able to:
 — Easley and Kleinberg, Ch. 3.2  
 — Granovetter, Mark S. 1973. “The Strength of Weak Ties.” *American Journal of Sociology*.
 
+
+<div style="position:relative; padding-top:56.25%;">
+  <iframe
+src="https://docs.google.com/presentation/d/e/2PACX-1vR5GjwHtDSSvxQ5ebPP6YNbz8Pj6CkOMJMNDvkauSx7wAhhDtK5HdNrgYGbt-O2q29nM58ZiPN6Exbb/pubembed?start=false&loop=false&delayms=60000"
+frameborder="0"
+    allowfullscreen
+    style="position:absolute; top:0; left:0; width:100%; height:100%;"
+  ></iframe>
+  
+   <!-- click-capture only on the lower-right "Google Slides" area -->
+  <a href="https://drive.google.com/drive/folders/1-xt639Jn8B6Ak4wxSVg5JOFG5SerQSHo?usp=sharing"
+     target="_blank" rel="noopener noreferrer"
+     aria-label="Open course folder"
+     style="
+       position:absolute;
+       right:8px;
+       bottom:8px;
+       width:170px;
+       height:56px;
+       z-index:10;
+       background:transparent;
+     ">
+  </a>
+</div>
+
 ---
 
 ### February 3 — Lecture 6 {#feb-3}
 **Structural Balance**  
 — Easley and Kleinberg, Ch. 5.1–5.2
+
+<div style="position:relative; padding-top:56.25%;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vQq0UIAacsV8vYylUk0eXciNB85ryO_FaOtrAMmM0s1K5vSTz4u4wiUINX0lkTwaxxYhQI1NKsa5dd7/pubembed?start=false&loop=false&delayms=60000"
+    frameborder="0"
+    allowfullscreen
+    style="position:absolute; top:0; left:0; width:100%; height:100%;"
+  ></iframe>
+  
+   <!-- click-capture only on the lower-right "Google Slides" area -->
+  <a href="https://drive.google.com/drive/folders/1-xt639Jn8B6Ak4wxSVg5JOFG5SerQSHo?usp=sharing"
+     target="_blank" rel="noopener noreferrer"
+     aria-label="Open course folder"
+     style="
+       position:absolute;
+       right:8px;
+       bottom:8px;
+       width:170px;
+       height:56px;
+       z-index:10;
+       background:transparent;
+     ">
+  </a>
+</div>
+
+---
+
+### February 5 — Lecture 7 {#feb-5}
+**Network Models and Small Worlds**  
+— Easley and Kleinberg, Ch. 20.1-20.2
+— Watts Ch. 2 (Random networks), Ch. 3 (Small worlds)
+
+<div style="position:relative; padding-top:56.25%;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vTQLHhrMZD8zhmABqvu0765RKqxes2Zz5l4scCPb9S7EALdE_bBdIdMxY7AX6okNzzf0wRK2TnQM1_Q/pubembed?start=false&loop=false&delayms=60000"
+    frameborder="0"
+    allowfullscreen
+    style="position:absolute; top:0; left:0; width:100%; height:100%;"
+  ></iframe>
+  
+   <!-- click-capture only on the lower-right "Google Slides" area -->
+  <a href="https://drive.google.com/drive/folders/1-xt639Jn8B6Ak4wxSVg5JOFG5SerQSHo?usp=sharing"
+     target="_blank" rel="noopener noreferrer"
+     aria-label="Open course folder"
+     style="
+       position:absolute;
+       right:8px;
+       bottom:8px;
+       width:170px;
+       height:56px;
+       z-index:10;
+       background:transparent;
+     ">
+  </a>
+</div>
 
 ---
 

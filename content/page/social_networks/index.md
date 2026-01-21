@@ -343,6 +343,33 @@ frameborder="0"
 
 **Homework 1 Due**
 
+
+
+<div style="position:relative; padding-top:56.25%;">
+  <iframe
+src="https://docs.google.com/presentation/d/e/2PACX-1vQsBx2-j4utltJokAFWstE7XqMmFD0-bZg2rcZf266jaSva-CThSSynVZHXle22Zqxvau-MIUHtWrzM/pubembed?start=false&loop=false&delayms=60000"
+    frameborder="0"
+    allowfullscreen
+    style="position:absolute; top:0; left:0; width:100%; height:100%;"
+  ></iframe>
+  
+   <!-- click-capture only on the lower-right "Google Slides" area -->
+  <a href="https://drive.google.com/drive/folders/1-xt639Jn8B6Ak4wxSVg5JOFG5SerQSHo?usp=sharing"
+     target="_blank" rel="noopener noreferrer"
+     aria-label="Open course folder"
+     style="
+       position:absolute;
+       right:8px;
+       bottom:8px;
+       width:170px;
+       height:56px;
+       z-index:10;
+       background:transparent;
+     ">
+  </a>
+</div>
+
+
 ---
 
 ### February 12 — Exam 1 Review {#feb-12}
@@ -360,6 +387,31 @@ frameborder="0"
 — Easley and Kleinberg, Ch. 4.1 and 4.2  
 — Currarini, Sergio, Matthew O. Jackson, and Paolo Pin. 2010. “Identifying the Roles of Race-Based Choice and Chance in High School Friendship Network Formation.” *Proceedings of the National Academy of Sciences*.
 
+<div style="position:relative; padding-top:56.25%;">
+  <iframe
+src="https://docs.google.com/presentation/d/e/2PACX-1vR-268ylldEo5HNZSPMQqNz0zOSwj2FDcbrZTpR5ko5YE89mHMmsGYtu12oCYdqWvnIdgjCeSkHyhVK/pubembed?start=false&loop=false&delayms=60000"
+    frameborder="0"
+    allowfullscreen
+    style="position:absolute; top:0; left:0; width:100%; height:100%;"
+  ></iframe>
+  
+   <!-- click-capture only on the lower-right "Google Slides" area -->
+  <a href="https://drive.google.com/drive/folders/1-xt639Jn8B6Ak4wxSVg5JOFG5SerQSHo?usp=sharing"
+     target="_blank" rel="noopener noreferrer"
+     aria-label="Open course folder"
+     style="
+       position:absolute;
+       right:8px;
+       bottom:8px;
+       width:170px;
+       height:56px;
+       z-index:10;
+       background:transparent;
+     ">
+  </a>
+</div>
+
+
 ---
 
 ### February 24 — Lecture 10 {#feb-24}
@@ -367,17 +419,88 @@ frameborder="0"
 — Easley and Kleinberg, Ch. 21.1–21.3  
 — Watts Ch. 6
 
+
+<div style="position:relative; padding-top:56.25%;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vQZQqPSMu1S5eQTm4DzbbLZggd0XKU3FvpOc9n0vSu7VJL_-vHG0IlweUkTtnXInkNccEL-GB4xpvNa/pubembed?start=false&loop=false&delayms=60000"    frameborder="0"
+    allowfullscreen
+    style="position:absolute; top:0; left:0; width:100%; height:100%;"
+  ></iframe>
+  
+   <!-- click-capture only on the lower-right "Google Slides" area -->
+  <a href="https://drive.google.com/drive/folders/1-xt639Jn8B6Ak4wxSVg5JOFG5SerQSHo?usp=sharing"
+     target="_blank" rel="noopener noreferrer"
+     aria-label="Open course folder"
+     style="
+       position:absolute;
+       right:8px;
+       bottom:8px;
+       width:170px;
+       height:56px;
+       z-index:10;
+       background:transparent;
+     ">
+  </a>
+</div>
+
 ---
 
 ### February 26 — Lecture 11 {#feb-26}
 **Contagions Part II**  
 — Easley and Kleinberg, Ch. 19.1–19.6
 
+<div style="position:relative; padding-top:56.25%;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vQ2t0dPUvu4eFpqvsgKR6QC6YsyvjKAfb2loy6NRpFDJQbjpN-VIw5TQMWii1O5bLJryG7py4j84IGp/pubembed?start=false&loop=false&delayms=60000"
+    allowfullscreen
+    style="position:absolute; top:0; left:0; width:100%; height:100%;"
+  ></iframe>
+  
+   <!-- click-capture only on the lower-right "Google Slides" area -->
+  <a href="https://drive.google.com/drive/folders/1-xt639Jn8B6Ak4wxSVg5JOFG5SerQSHo?usp=sharing"
+     target="_blank" rel="noopener noreferrer"
+     aria-label="Open course folder"
+     style="
+       position:absolute;
+       right:8px;
+       bottom:8px;
+       width:170px;
+       height:56px;
+       z-index:10;
+       background:transparent;
+     ">
+  </a>
+</div>
+
 ---
 
 ### March 3 — Lecture 12 {#mar-3}
 **Social influence, herding, and cascades**  
 — Watts Ch. 8
+
+
+<div style="position:relative; padding-top:56.25%;">
+  <iframe
+src="https://docs.google.com/presentation/d/e/2PACX-1vTumk6LKYLK5asBWaJy-gE1f68zrf7Olow0KhRxN9RSm1Sz7RCMhNqDTY3j2AC2KTI1BtPUsH2-ervP/pubembed?start=false&loop=false&delayms=60000" 
+allowfullscreen
+    style="position:absolute; top:0; left:0; width:100%; height:100%;"
+  ></iframe>
+  
+   <!-- click-capture only on the lower-right "Google Slides" area -->
+  <a href="https://drive.google.com/drive/folders/1-xt639Jn8B6Ak4wxSVg5JOFG5SerQSHo?usp=sharing"
+     target="_blank" rel="noopener noreferrer"
+     aria-label="Open course folder"
+     style="
+       position:absolute;
+       right:8px;
+       bottom:8px;
+       width:170px;
+       height:56px;
+       z-index:10;
+       background:transparent;
+     ">
+  </a>
+</div>
 
 ---
 
@@ -390,6 +513,28 @@ frameborder="0"
 
 ### March 10 — Lecture 13 {#mar-10}
 **Community Detection**
+
+<div style="position:relative; padding-top:56.25%;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vQsOVDjrpK89t98YYJBfRLPM9SyB6bmvsW1xJqdXOkQKPN2cYBUJIsKkZIfaSGxVay7Aij3YzycSskj/pubembed?start=false&loop=false&delayms=60000"allowfullscreen
+    style="position:absolute; top:0; left:0; width:100%; height:100%;"
+  ></iframe>
+  
+   <!-- click-capture only on the lower-right "Google Slides" area -->
+  <a href="https://drive.google.com/drive/folders/1-xt639Jn8B6Ak4wxSVg5JOFG5SerQSHo?usp=sharing"
+     target="_blank" rel="noopener noreferrer"
+     aria-label="Open course folder"
+     style="
+       position:absolute;
+       right:8px;
+       bottom:8px;
+       width:170px;
+       height:56px;
+       z-index:10;
+       background:transparent;
+     ">
+  </a>
+</div>
 
 ---
 

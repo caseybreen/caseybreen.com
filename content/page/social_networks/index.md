@@ -60,8 +60,8 @@ At the conclusion of this course, students will be able to:
 | Jan 20 | Lecture 3 | [Personal networks & social isolation](#jan-20) | — |
 | Jan 22 | Lab 1 | [Intro to R and iGraph](#jan-22) | **Lab 1 due** |
 | Jan 27 | Lecture 4 | [Personal networks (cont.) & triadic closure](#jan-27) | — |
-| Jan 29 | Lecture 5 | [Strength of weak ties / social capital](#jan-29) | — |
-| Feb 3 | Lecture 6 | [Structural balance](#feb-3) | — |
+| Jan 29 | Lecture 5 | [Structural balance](#jan-29) | — |
+| Feb 3 | Lecture 6 | [Strength of weak ties / social capital](#feb-3) | — |
 | Feb 5 | Lecture 7 | [Network models](#feb-5) | — |
 | Feb 10 | Lecture 8 | [Friendship paradox & centrality](#feb-10) | **Homework 1 due** |
 | Feb 12 | Review | [Exam 1 review](#feb-12) | — |
@@ -245,38 +245,7 @@ At the conclusion of this course, students will be able to:
 ---
 
 ### January 29 — Lecture 5 {#jan-29}
-**Strength of weak ties / structural holes / social capital**  
-— Easley and Kleinberg, Ch. 3.2  
-— Granovetter, Mark S. 1973. “The Strength of Weak Ties.” *American Journal of Sociology*.
 
-
-<div style="position:relative; padding-top:56.25%;">
-  <iframe
-src="https://docs.google.com/presentation/d/e/2PACX-1vR5GjwHtDSSvxQ5ebPP6YNbz8Pj6CkOMJMNDvkauSx7wAhhDtK5HdNrgYGbt-O2q29nM58ZiPN6Exbb/pubembed?start=false&loop=false&delayms=60000"
-frameborder="0"
-    allowfullscreen
-    style="position:absolute; top:0; left:0; width:100%; height:100%;"
-  ></iframe>
-  
-   <!-- click-capture only on the lower-right "Google Slides" area -->
-  <a href="https://drive.google.com/drive/folders/1-xt639Jn8B6Ak4wxSVg5JOFG5SerQSHo?usp=sharing"
-     target="_blank" rel="noopener noreferrer"
-     aria-label="Open course folder"
-     style="
-       position:absolute;
-       right:8px;
-       bottom:8px;
-       width:170px;
-       height:56px;
-       z-index:10;
-       background:transparent;
-     ">
-  </a>
-</div>
-
----
-
-### February 3 — Lecture 6 {#feb-3}
 **Structural Balance**  
 — Easley and Kleinberg, Ch. 5.1–5.2
 
@@ -304,6 +273,36 @@ frameborder="0"
   </a>
 </div>
 
+---
+
+### February 3 — Lecture 6 {#feb-3}
+**Strength of weak ties / structural holes / social capital**  
+— Easley and Kleinberg, Ch. 3.2  
+— Granovetter, Mark S. 1973. “The Strength of Weak Ties.” *American Journal of Sociology*.
+
+<div style="position:relative; padding-top:56.25%;">
+  <iframe
+src="https://docs.google.com/presentation/d/e/2PACX-1vR5GjwHtDSSvxQ5ebPP6YNbz8Pj6CkOMJMNDvkauSx7wAhhDtK5HdNrgYGbt-O2q29nM58ZiPN6Exbb/pubembed?start=false&loop=false&delayms=60000"
+frameborder="0"
+    allowfullscreen
+    style="position:absolute; top:0; left:0; width:100%; height:100%;"
+  ></iframe>
+  
+   <!-- click-capture only on the lower-right "Google Slides" area -->
+  <a href="https://drive.google.com/drive/folders/1-xt639Jn8B6Ak4wxSVg5JOFG5SerQSHo?usp=sharing"
+     target="_blank" rel="noopener noreferrer"
+     aria-label="Open course folder"
+     style="
+       position:absolute;
+       right:8px;
+       bottom:8px;
+       width:170px;
+       height:56px;
+       z-index:10;
+       background:transparent;
+     ">
+  </a>
+</div>
 ---
 
 ### February 5 — Lecture 7 {#feb-5}

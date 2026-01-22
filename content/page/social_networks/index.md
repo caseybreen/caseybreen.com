@@ -220,7 +220,7 @@ At the conclusion of this course, students will be able to:
 
 <div style="position:relative; padding-top:56.25%;">
   <iframe
-    src="https://docs.google.com/presentation/d/e/2PACX-1vRbx4IH2eUrV8Ai4OJErG7UDoKfosVq7j6aWaIBtoxAJkLxnsMaJiqTOMqubtWiyh7HVBOvTs5sGgjJ/pubembed?start=false&loop=false&delayms=3000"
+    src="https://docs.google.com/presentation/d/e/2PACX-1vS5gymUpD-KDietH9XxZdHr1cdV3E16V5UDWcpiBuRB-1yugOdEU0OBuhqHD0eni3vpCXFoKp_1_f6I/pubembed?start=false&loop=false&delayms=60000"
     frameborder="0"
     allowfullscreen
     style="position:absolute; top:0; left:0; width:100%; height:100%;"

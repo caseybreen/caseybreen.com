@@ -128,6 +128,7 @@ Helpful Resources:
 * Salganik, Matthew J. 2019. Bit by Bit: Social Research in the Digital Age. Princeton University Press. Chapter 2.★
 * Bruch, Elizabeth E., and M. E. J. Newman. 2018. ‘Aspirational Pursuit of Mates in Online Dating Markets’. Science Advances 4(8):eaap9815. doi: 10.1126/sciadv.aap9815.★
 * Lazer, David, Ryan Kennedy, Gary King, and Alessandro Vespignani. 2014. ‘The Parable of Google Flu: Traps in Big Data Analysis’. Science 343(6176):1203–5. doi: 10.1126/science.1248506.★
+* Breen, Casey F., and Dennis M. Feehan. 2024. “New Data Sources for Demographic Research.” Population and Development Review 51(1):539–73. doi:10.1111/padr.12671.★
 * Ruggles, Steven. 2014. ‘Big Microdata for Population Research’. Demography 51(1):287–97. doi: 10.1007/s13524-013-0240-2.
 * Ruggles, Steven, Catherine A. Fitch, and Evan Roberts. 2018. ‘Historical Census Record Linkage’. Annual Review of Sociology 44(1):19–37. doi: 10.1146/annurev-soc-073117-041447.
 * Chetty, Raj, Matthew O. Jackson, Theresa Kuchler, Johannes Stroebel, Nathaniel Hendren, Robert B. Fluegge, Sara Gong, Federico Gonzalez, Armelle Grondin, Matthew Jacob, Drew Johnston, Martin Koenen, Eduardo Laguna-Muggenburg, Florian Mudekereza, Tom Rutter, Nicolaj Thor, Wilbur Townsend, Ruby Zhang, Mike Bailey, Pablo Barberá, Monica Bhole, and Nils Wernerfelt. 2022. ‘Social Capital I: Measurement and Associations with Economic Mobility’. Nature 608(7921):108–21. doi: 10.1038/s41586-022-04996-4.

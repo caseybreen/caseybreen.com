@@ -303,11 +303,13 @@ frameborder="0"
      ">
   </a>
 </div>
+
 ---
 
 ### February 5 — Lecture 7 {#feb-5}
 **Network Models and Small Worlds**  
 — Easley and Kleinberg, Ch. 20.1-20.2
+
 — Watts Ch. 2 (Random networks), Ch. 3 (Small worlds)
 
 <div style="position:relative; padding-top:56.25%;">

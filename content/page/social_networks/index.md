@@ -63,7 +63,7 @@ At the conclusion of this course, students will be able to:
 | Jan 29 | Lecture 5 | [Structural balance](#jan-29) | — |
 | Feb 3 | Lecture 6 | [Strength of weak ties / social capital](#feb-3) | — |
 | Feb 5 | Lecture 7 | [Network models](#feb-5) | — |
-| Feb 10 | Lecture 8 | [Friendship paradox & centrality](#feb-10) | **Homework 1 due** |
+| Feb 10 | Lecture 8 | [Friendship paradox & centrality](#feb-10) | **[Homework 1 due](https://docs.google.com/document/d/1rMdfLTb9pjhHBU06YGHw6fJeMUPZTpm3QPw2FMq6im8/edit?usp=sharing)** |
 | Feb 12 | Review | [Exam 1 review](#feb-12) | — |
 | Feb 17 | Exam | [Exam 1](#feb-17) | **Exam 1** |
 | Feb 19 | Lecture 9 | [Homophily](#feb-19) | — |
@@ -342,7 +342,7 @@ frameborder="0"
 **The friendship paradox and node centrality**  
 — Feld, Scott L. 1991. “Why Your Friends Have More Friends Than You Do.” *American Journal of Sociology*.  
 
-**Homework 1 Due**
+ **[Homework 1 due](https://docs.google.com/document/d/1rMdfLTb9pjhHBU06YGHw6fJeMUPZTpm3QPw2FMq6im8/edit?usp=sharing)**
 
 
 

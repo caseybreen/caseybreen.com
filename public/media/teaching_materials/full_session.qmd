@@ -3,7 +3,7 @@ title: |
     | Introduction to R
 subtitle: "Department of Sociology | University of Texas at Austin"
 author: "Casey Breen"
-date: "`r format(Sys.time(), '%d %B, %Y')`"
+date: 2026-01-22
 format:
   revealjs:
     slide-number: true

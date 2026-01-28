@@ -72,10 +72,10 @@ At the conclusion of this course, students will be able to:
 | Mar 3 | Lecture 12 | [Social influence, herding & cascades](#mar-3) | — |
 | Mar 5 | Lab 2 | [Network visualization & homophily indices](#mar-5) | **Lab 2 due** |
 | Mar 10 | Lecture 13 | [Community detection](#mar-10) | — |
-| Mar 12 | Lecture 14 | [Respondent-driven sampling](#mar-12) | — |
+| Mar 12 | Lecture 14 | [Network scale-up method, respondent-driven sampling](#mar-12) | **Homework 2 due**  |
 | Mar 17 | — | [Spring break — no class](#mar-17) | — |
 | Mar 19 | — | [Spring break — no class](#mar-19) | — |
-| Mar 24 | Lecture 15 | [Network scale-up method](#mar-24) | **Homework 2 due** |
+| Mar 24 | Lecture 15 | [Guest Lecture](#mar-24) | — |
 | Mar 26 | Review | [Exam 2 review](#mar-26) | — |
 | Mar 31 | Exam | [Exam 2](#mar-31) | **Exam 2** |
 | Apr 2 | Lecture 16 | [Final project overview & meet-up](#apr-2) | — |
@@ -540,8 +540,11 @@ allowfullscreen
 ---
 
 ### March 12 — Lecture 14 {#mar-12}
-**Respondent-Driven Sampling**  
-— Salganik, Matthew J., and Douglas D. Heckathorn. 2004. “Sampling and Estimation in Hidden Populations Using Respondent-Driven Sampling.” *Sociological Methodology*.
+**Network Scale-up, Respondent-Driven Sampling**  
+— Breen, Casey F., et al. 2025. “Estimating Death Rates in Complex Humanitarian Emergencies Using the Network Survival Method.” *American Journal of Epidemiology*.  
+— Feehan, Dennis M., and Matthew J. Salganik. 2016. “Generalizing the Network Scale-up Method.” *Sociological Methodology*.  
+
+**Homework 2 Due**
 
 ---
 
@@ -554,11 +557,8 @@ allowfullscreen
 ---
 
 ### March 24 — Lecture 15 {#mar-24}
-**Network Scale-up Method**  
-— Breen, Casey F., et al. 2025. “Estimating Death Rates in Complex Humanitarian Emergencies Using the Network Survival Method.” *American Journal of Epidemiology*.  
-— Feehan, Dennis M., and Matthew J. Salganik. 2016. “Generalizing the Network Scale-up Method.” *Sociological Methodology*.  
-
-**Homework 2 Due**
+**Guest Lecture: RDS in Practice**  
+— Salganik, Matthew J., and Douglas D. Heckathorn. 2004. “Sampling and Estimation in Hidden Populations Using Respondent-Driven Sampling.” *Sociological Methodology*.
 
 ---
 

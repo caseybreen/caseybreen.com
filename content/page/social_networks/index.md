@@ -75,7 +75,7 @@ At the conclusion of this course, students will be able to:
 | Mar 12 | Lecture 14 | [Network scale-up method, respondent-driven sampling](#mar-12) | **Homework 2 due**  |
 | Mar 17 | — | [Spring break — no class](#mar-17) | — |
 | Mar 19 | — | [Spring break — no class](#mar-19) | — |
-| Mar 24 | Lecture 15 | [Guest Lecture](#mar-24) | — |
+| Mar 24 | Lecture 15 | [RDS: Guest Lecture](#mar-24) | — |
 | Mar 26 | Review | [Exam 2 review](#mar-26) | — |
 | Mar 31 | Exam | [Exam 2](#mar-31) | **Exam 2** |
 | Apr 2 | Lecture 16 | [Final project overview & meet-up](#apr-2) | — |

@@ -31,22 +31,22 @@ problems based on existing research papers.
 
 ---
 
-## Course Schedule [Tentative]
+## Course Schedule
 
 | Week | Date | Format | Topic |
 |-----:|------|--------|-------|
 | 1 | Thurs, January 15 | Lecture | [Intro CSS Lecture](#week-1) |
-| 2 | Thurs, January 22 | Lab | [Lab 1 – Intro to R sessions](#week-2) |
+| 2 | Thurs, January 22 | Lab | [Lab 0 – Intro to R sessions](#week-2) |
 | 3 | Thurs, January 29 | Lecture | [Social Data in the Digital Age](#week-3) |
-| 4 | Thurs, February 5 | Lab | [Lab 2 – Social Data Collection](#week-4) |
+| 4 | Thurs, February 5 | Lab | [Lab 1 – Social Data Collection](#week-4) \| [Quarto Doc](https://github.com/caseybreen/css_course/blob/main/labs/lab1/css_lab1.qmd) |
 | 5 | Thurs, February 12 | Lecture | [Machine Learning + Prediction I](#week-5) |
 | 6 | Thurs, February 19 | Lecture | [Machine Learning + Prediction II](#week-6) |
-| 7 | Thurs, February 26 | Lab | [Lab 3 – Machine Learning](#week-7) |
+| 7 | Thurs, February 26 | Lab | [Lab 2 – Machine Learning](#week-7) \| [Quarto Doc](https://github.com/caseybreen/css_course/blob/main/labs/lab2/css_lab2.qmd)|
 | 8 | Thurs, March 5 | Lecture | [Non-probability sampling](#week-8) |
 | 9 | Thurs, March 12 | Lecture | [Social Networks](#week-9) |
 | 10 | Thurs, March 19 | — | *Spring Break — No Class* |
 | 11 | Thurs, March 26 | Lecture | [Final Paper Topic Pitches](#week-11) |
-| 12 | Thurs, April 2 | Lab | [Lab 4 – Non-probability sampling](#week-12) |
+| 12 | Thurs, April 2 | Lab | [Lab 3 – Non-probability sampling](#week-12) \| [Quarto Doc](https://github.com/caseybreen/css_course/blob/main/labs/lab3/css_lab3.qmd)|
 | 13 | Thurs, April 9 | Lecture | [Agent Based Models](#week-13) |
 | 14 | Thurs, April 16 | Lecture | [Text as Data / Large Language Models](#week-14) |
 | 15 | Thurs, April 23 | Lecture | [Final Presentations](#week-15) |
@@ -170,6 +170,8 @@ Helpful Resources:
 
 ### Thurs, Feb 5 — Social data in the digital age [LAB] {#week-4}
 
+[Quarto Doc](https://github.com/caseybreen/css_course/blob/main/labs/lab1/css_lab1.qmd)
+ 
 Collect original data on the count of Facebook users broken down by characteristics using the Facebook marketing API
 
 * Fatehkia, Masoomali, Ridhi Kashyap, and Ingmar Weber. "Using Facebook ad data to track the global digital gender gap." World Development 107 (2018): 189-209.  
@@ -257,7 +259,10 @@ Collect original data on the count of Facebook users broken down by characterist
 
 ---
 
-### Thurs, Feb 26 — Lab 3, Machine Learning {#week-7}
+### Thurs, Feb 26 — Lab 2, Machine Learning {#week-7}
+
+[Quarto Doc](https://github.com/caseybreen/css_course/blob/main/labs/lab2/css_lab2.qmd)
+
 
 Apply machine learning algorithms and Facebook user counts to predict overall levels of internet adoption and digital divisions
 
@@ -363,7 +368,9 @@ The session will focus on constructive feedback (be kind!) to help refine questi
 
 ---
 
-### Thurs, April 2 — Lab 4 {#week-12}
+### Thurs, April 2 — Lab 3 {#week-12}
+
+[Quarto Doc](https://github.com/caseybreen/css_course/blob/main/labs/lab3/css_lab3.qmd)
 
 Apply poststratification and inverse-probability weighting to a non-probability sample to estimate mortality rates using network survival method
 

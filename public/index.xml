@@ -298,7 +298,7 @@ and hands-on data analysis to build a foundational understanding of social netwo
 &lt;td&gt;Mar 12&lt;/td&gt;
 &lt;td&gt;Lecture 14&lt;/td&gt;
 &lt;td&gt;
-&lt;a href=&#34;#mar-12&#34;&gt;Network scale-up method, respondent-driven sampling&lt;/a&gt;&lt;/td&gt;
+&lt;a href=&#34;#mar-12&#34;&gt;Empirical Studies of Contagion&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;strong&gt;Homework 2 due&lt;/strong&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -324,38 +324,38 @@ and hands-on data analysis to build a foundational understanding of social netwo
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Mar 26&lt;/td&gt;
-&lt;td&gt;Review&lt;/td&gt;
+&lt;td&gt;Lecture 16&lt;/td&gt;
 &lt;td&gt;
-&lt;a href=&#34;#mar-26&#34;&gt;Exam 2 review&lt;/a&gt;&lt;/td&gt;
+&lt;a href=&#34;#mar-26&#34;&gt;Concurrency and the HIV Epidemic&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;—&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Mar 31&lt;/td&gt;
-&lt;td&gt;Exam&lt;/td&gt;
+&lt;td&gt;Review&lt;/td&gt;
 &lt;td&gt;
-&lt;a href=&#34;#mar-31&#34;&gt;Exam 2&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;Exam 2&lt;/strong&gt;&lt;/td&gt;
+&lt;a href=&#34;#mar-31&#34;&gt;Exam 2 review&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Apr 2&lt;/td&gt;
-&lt;td&gt;Lecture 16&lt;/td&gt;
+&lt;td&gt;Exam&lt;/td&gt;
 &lt;td&gt;
-&lt;a href=&#34;#apr-2&#34;&gt;Final project overview &amp;amp; meet-up&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;—&lt;/td&gt;
+&lt;a href=&#34;#apr-2&#34;&gt;Exam 2&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Exam 2&lt;/strong&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Apr 7&lt;/td&gt;
 &lt;td&gt;Lecture 17&lt;/td&gt;
 &lt;td&gt;
-&lt;a href=&#34;#apr-7&#34;&gt;Networks in practice: suicide networks&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;Homework 3 due&lt;/strong&gt;&lt;/td&gt;
+&lt;a href=&#34;#apr-7&#34;&gt;Final project overview &amp;amp; meet-up&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Apr 9&lt;/td&gt;
 &lt;td&gt;Lecture 18&lt;/td&gt;
 &lt;td&gt;
-&lt;a href=&#34;#apr-9&#34;&gt;Networks in practice: experiments&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;—&lt;/td&gt;
+&lt;a href=&#34;#apr-9&#34;&gt;Class Wrap-Up&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Homework 3 due&lt;/strong&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Apr 14&lt;/td&gt;
@@ -763,9 +763,28 @@ background:transparent;
 &lt;/div&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;mar-12&#34;&gt;March 12 — Lecture 14&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Network Scale-up, Respondent-Driven Sampling&lt;/strong&gt;&lt;br&gt;
-— Breen, Casey F., et al. 2025. “Estimating Death Rates in Complex Humanitarian Emergencies Using the Network Survival Method.” &lt;em&gt;American Journal of Epidemiology&lt;/em&gt;.&lt;br&gt;
-— Feehan, Dennis M., and Matthew J. Salganik. 2016. “Generalizing the Network Scale-up Method.” &lt;em&gt;Sociological Methodology&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Empirical Studies of Contagion&lt;/strong&gt;&lt;br&gt;
+— Centola, Damon. 2010. “The Spread of Behavior in an Online Social Network Experiment.” &lt;em&gt;Science&lt;/em&gt;.&lt;/p&gt;
+&lt;div style=&#34;position:relative; padding-top:56.25%;&#34;&gt;
+  &lt;iframe
+    src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vTxUUF09qqfjv9yQ6CvIXsALncRZejC0FAEZt2sdQmUElrQWofo12pLEpp7oh3Ae4t1P-q2ms4X_G-b/pubembed?start=false&amp;loop=false&amp;delayms=60000&#34;allowfullscreen
+    style=&#34;position:absolute; top:0; left:0; width:100%; height:100%;&#34;
+  &gt;&lt;/iframe&gt;
+   &lt;!-- click-capture only on the lower-right &#34;Google Slides&#34; area --&gt;
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/drive/folders/1-xt639Jn8B6Ak4wxSVg5JOFG5SerQSHo?usp=sharing&#34;
+target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;
+aria-label=&#34;Open course folder&#34;
+style=&#34;
+position:absolute;
+right:8px;
+bottom:8px;
+width:170px;
+height:56px;
+z-index:10;
+background:transparent;
+&#34;&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
 &lt;p&gt;&lt;strong&gt;Homework 2 Due&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;mar-17&#34;&gt;March 17 — Spring Break&lt;/h3&gt;
@@ -775,30 +794,49 @@ background:transparent;
 &lt;hr&gt;
 &lt;h3 id=&#34;mar-24&#34;&gt;March 24 — Lecture 15&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Guest Lecture: RDS in Practice&lt;/strong&gt;&lt;br&gt;
-— Salganik, Matthew J., and Douglas D. Heckathorn. 2004. “Sampling and Estimation in Hidden Populations Using Respondent-Driven Sampling.” &lt;em&gt;Sociological Methodology&lt;/em&gt;.&lt;/p&gt;
+— Salganik, Matthew J., and Douglas D. Heckathorn. 2004. “Sampling and Estimation in Hidden Populations Using Respondent-Driven Sampling.” &lt;em&gt;Sociological Methodology&lt;/em&gt;.
+— Breen, Casey F., et al. 2025. “Estimating Death Rates in Complex Humanitarian Emergencies Using the Network Survival Method.” &lt;em&gt;American Journal of Epidemiology&lt;/em&gt;.&lt;br&gt;
+— Feehan, Dennis M., and Matthew J. Salganik. 2016. “Generalizing the Network Scale-up Method.” &lt;em&gt;Sociological Methodology&lt;/em&gt;.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;mar-26&#34;&gt;March 26 — Exam 2 Review&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Exam Review&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;mar-26&#34;&gt;March 26 — Concurrency and the HIV Epidemic&lt;/h3&gt;
+&lt;div style=&#34;position:relative; padding-top:56.25%;&#34;&gt;
+  &lt;iframe
+    src= &#34;src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vQi5k__ZsxfqvRLnOCy4ekysrfnH5pm58G4ufVYDe-xz3ZUMoZlwwZDd247fYLmE7XfTS7pjyHn531_/pubembed?start=false&amp;loop=false&amp;delayms=60000&#34;allowfullscreen
+    style=&#34;position:absolute; top:0; left:0; width:100%; height:100%;&#34;
+  &gt;&lt;/iframe&gt;
+   &lt;!-- click-capture only on the lower-right &#34;Google Slides&#34; area --&gt;
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/drive/folders/1-xt639Jn8B6Ak4wxSVg5JOFG5SerQSHo?usp=sharing&#34;
+target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;
+aria-label=&#34;Open course folder&#34;
+style=&#34;
+position:absolute;
+right:8px;
+bottom:8px;
+width:170px;
+height:56px;
+z-index:10;
+background:transparent;
+&#34;&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;mar-31&#34;&gt;March 31 — Exam 2&lt;/h3&gt;
+&lt;h3 id=&#34;mar-31&#34;&gt;March 31 — Exam 2 Review&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Exam 2&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;apr-2&#34;&gt;April 2 — Lecture 16&lt;/h3&gt;
+&lt;h3 id=&#34;apr-2&#34;&gt;April 2 — Exam 2&lt;/h3&gt;
+&lt;h2 id=&#34;exam-2&#34;&gt;Exam 2&lt;/h2&gt;
+&lt;h3 id=&#34;apr-7&#34;&gt;April 7 — Lecture 17&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Final Project Overview + Class Project Meet-up Day&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;apr-7&#34;&gt;April 7 — Lecture 17&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Social Network Research in practice: Suicide Networks&lt;/strong&gt;&lt;br&gt;
-— Pescosolido, Bernice A., and Sharon Georgianna. 1989. “Durkheim, Suicide, and Religion.” &lt;em&gt;American Sociological Review&lt;/em&gt;.&lt;br&gt;
-— Centola, Damon, and Michael Macy. 2007. “Complex Contagions and the Weakness of Long Ties.” &lt;em&gt;American Journal of Sociology&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Homework 3 Due&lt;/strong&gt;&lt;/p&gt;
-&lt;hr&gt;
 &lt;h3 id=&#34;apr-9&#34;&gt;April 9 — Lecture 18&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Social Network Research in practice: Network Experiments&lt;/strong&gt;&lt;br&gt;
-— Centola, Damon. 2010. “The Spread of Behavior in an Online Social Network Experiment.” &lt;em&gt;Science&lt;/em&gt;.&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;Class Wrap-up&lt;/strong&gt;&lt;br&gt;
 — Rand, David G., Samuel Arbesman, and Nicholas A. Christakis. 2011. “Dynamic Social Networks Promote Cooperation in Experiments with Humans.” &lt;em&gt;PNAS&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Homework 3 Due&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;apr-14&#34;&gt;April 14 — Lab 3&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Network scale-up method&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;— Breen, Casey F., et al. 2025. “Estimating Death Rates in Complex Humanitarian Emergencies Using the Network Survival Method.” American Journal of Epidemiology.
+— Feehan, Dennis M., and Matthew J. Salganik. 2016. “Generalizing the Network Scale-up Method.” Sociological Methodology.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Lab 3 Due&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;apr-16&#34;&gt;April 16 — Presentation Prep&lt;/h3&gt;
@@ -874,7 +912,7 @@ social networks, and agent-based modelling and microsimulation. The course will 
 where students will engage with research in computational social science and learn to apply basic computational methods to research
 problems based on existing research papers.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;course-schedule-tentative&#34;&gt;Course Schedule [Tentative]&lt;/h2&gt;
+&lt;h2 id=&#34;course-schedule&#34;&gt;Course Schedule&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -1373,7 +1411,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-681752349&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-418957362&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -1383,7 +1421,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-681752349&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-418957362&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

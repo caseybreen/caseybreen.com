@@ -72,27 +72,29 @@ At the conclusion of this course, students will be able to:
 | Mar 3 | Lecture 12 | [Social influence, herding & cascades](#mar-3) | — |
 | Mar 5 | Lab 2 | [Network visualization & homophily indices](#mar-5) | **Lab 2 due** |
 | Mar 10 | Lecture 13 | [Community detection](#mar-10) | — |
-| Mar 12 | Lecture 14 | [Network scale-up method, respondent-driven sampling](#mar-12) | **Homework 2 due**  |
+| Mar 12 | Lecture 14 | [Empirical Studies of Contagion](#mar-12) | **Homework 2 due**  |
 | Mar 17 | — | [Spring break — no class](#mar-17) | — |
 | Mar 19 | — | [Spring break — no class](#mar-19) | — |
 | Mar 24 | Lecture 15 | [RDS: Guest Lecture](#mar-24) | — |
-| Mar 26 | Review | [Exam 2 review](#mar-26) | — |
-| Mar 31 | Exam | [Exam 2](#mar-31) | **Exam 2** |
-| Apr 2 | Lecture 16 | [Final project overview & meet-up](#apr-2) | — |
-| Apr 7 | Lecture 17 | [Networks in practice: suicide networks](#apr-7) | **Homework 3 due** |
-| Apr 9 | Lecture 18 | [Networks in practice: experiments](#apr-9) | — |
+| Mar 26 | Lecture 16 | [Concurrency and the HIV Epidemic](#mar-26) | — |
+| Mar 31 | Review | [Exam 2 review](#mar-31) | — |
+| Apr 2  | Exam   | [Exam 2](#apr-2) | **Exam 2** |
+| Apr 7  | Lecture 17 | [Final project overview & meet-up](#apr-7) | — |
+| Apr 9  | Lecture 18 | [Class Wrap-Up](#apr-9) | **Homework 3 due** |
 | Apr 14 | Lab 3 | [Network scale-up method](#apr-14) | **Lab 3 due** |
 | Apr 16 | Flex | [Final project preparation](#apr-16) | — |
 | Apr 21 | Presentation | [Final presentations](#apr-21) | — |
 | Apr 23 | Presentation | [Final presentations](#apr-23) | — |
 ---
 
+
+
 ## Daily Schedule
 
 ### January 13 — Lecture 1 {#jan-13}
 **Welcome! Introduction to course + syllabus; examples of social network research**  
 
-— Course syllabus
+* Course syllabus
 
 <div style="position:relative; padding-top:56.25%;">
   <iframe
@@ -123,8 +125,8 @@ At the conclusion of this course, students will be able to:
 
 ### January 15 — Lecture 2 {#jan-15}
 **Basic graph theory / giant component / degree distributions**  
-— Easley and Kleinberg Ch 1, Ch 2  
-— Borgatti, Stephen P., Ajay Mehra, Daniel J. Brass, and Giuseppe Labianca. 2009. “Network Analysis in the Social Sciences.” *Science*.
+* Easley and Kleinberg Ch 1, Ch 2  
+* Borgatti, Stephen P., Ajay Mehra, Daniel J. Brass, and Giuseppe Labianca. 2009. “Network Analysis in the Social Sciences.” *Science*.
 
 
 <div style="position:relative; padding-top:56.25%; border-radius:8px; overflow:hidden;">
@@ -155,7 +157,7 @@ At the conclusion of this course, students will be able to:
 
 ### January 20 — Lecture 3 {#jan-20}
 **Personal networks; social connectedness and social isolation in America**  
-— McPherson, Miller, Lynn Smith-Lovin, and Matthew E. Brashears. 2006. “Social Isolation in America: Changes in Core Discussion Networks over Two Decades.” *American Sociological Review*.
+* McPherson, Miller, Lynn Smith-Lovin, and Matthew E. Brashears. 2006. “Social Isolation in America: Changes in Core Discussion Networks over Two Decades.” *American Sociological Review*.
 
 
 <div style="position:relative; padding-top:56.25%;">
@@ -188,7 +190,7 @@ At the conclusion of this course, students will be able to:
 
 ### January 22 — Lab 1 {#jan-22}
 **Intro to R and iGraph package**  
-— Textbook: [R for Data Science](https://r4ds.hadley.nz/intro.html) [For reference; not required reading]  
+* Textbook: [R for Data Science](https://r4ds.hadley.nz/intro.html) [For reference; not required reading]  
 
 
 **Lab 1 Due**
@@ -215,7 +217,7 @@ At the conclusion of this course, students will be able to:
 
 ### January 27 — Lecture 4 {#jan-27}
 **Personal networks (cont); triadic closure**  
-— Easley and Kleinberg, Ch. 3.1–3.3
+* Easley and Kleinberg, Ch. 3.1–3.3
 
 
 <div style="position:relative; padding-top:56.25%;">
@@ -247,7 +249,7 @@ At the conclusion of this course, students will be able to:
 ### January 29 — Lecture 5 {#jan-29}
 
 **Structural Balance**  
-— Easley and Kleinberg, Ch. 5.1–5.2
+* Easley and Kleinberg, Ch. 5.1–5.2
 
 <div style="position:relative; padding-top:56.25%;">
   <iframe
@@ -277,8 +279,8 @@ At the conclusion of this course, students will be able to:
 
 ### February 3 — Lecture 6 {#feb-3}
 **Strength of weak ties / structural holes / social capital**  
-— Easley and Kleinberg, Ch. 3.2  
-— Granovetter, Mark S. 1973. “The Strength of Weak Ties.” *American Journal of Sociology*.
+* Easley and Kleinberg, Ch. 3.2  
+* Granovetter, Mark S. 1973. “The Strength of Weak Ties.” *American Journal of Sociology*.
 
 <div style="position:relative; padding-top:56.25%;">
   <iframe
@@ -308,9 +310,9 @@ frameborder="0"
 
 ### February 5 — Lecture 7 {#feb-5}
 **Network Models and Small Worlds**  
-— Easley and Kleinberg, Ch. 20.1-20.2
+* Easley and Kleinberg, Ch. 20.1-20.2
 
-— Watts Ch. 2 (Random networks), Ch. 3 (Small worlds)
+* Watts Ch. 2 (Random networks), Ch. 3 (Small worlds)
 
 <div style="position:relative; padding-top:56.25%;">
   <iframe
@@ -340,7 +342,7 @@ frameborder="0"
 
 ### February 10 — Lecture 8 {#feb-10}
 **The friendship paradox and node centrality**  
-— Feld, Scott L. 1991. “Why Your Friends Have More Friends Than You Do.” *American Journal of Sociology*.  
+* Feld, Scott L. 1991. “Why Your Friends Have More Friends Than You Do.” *American Journal of Sociology*.  
 
  **[Homework 1 due](https://docs.google.com/document/d/1rMdfLTb9pjhHBU06YGHw6fJeMUPZTpm3QPw2FMq6im8/edit?usp=sharing)**
 
@@ -385,8 +387,8 @@ src="https://docs.google.com/presentation/d/e/2PACX-1vQsBx2-j4utltJokAFWstE7XqMm
 
 ### February 19 — Lecture 9 {#feb-19}
 **Homophily**  
-— Easley and Kleinberg, Ch. 4.1 and 4.2  
-— Currarini, Sergio, Matthew O. Jackson, and Paolo Pin. 2010. “Identifying the Roles of Race-Based Choice and Chance in High School Friendship Network Formation.” *Proceedings of the National Academy of Sciences*.
+* Easley and Kleinberg, Ch. 4.1 and 4.2  
+* Currarini, Sergio, Matthew O. Jackson, and Paolo Pin. 2010. “Identifying the Roles of Race-Based Choice and Chance in High School Friendship Network Formation.” *Proceedings of the National Academy of Sciences*.
 
 <div style="position:relative; padding-top:56.25%;">
   <iframe
@@ -417,8 +419,8 @@ src="https://docs.google.com/presentation/d/e/2PACX-1vR-268ylldEo5HNZSPMQqNz0zOS
 
 ### February 24 — Lecture 10 {#feb-24}
 **Contagions Part I**  
-— Easley and Kleinberg, Ch. 21.1–21.3  
-— Watts Ch. 6
+* Easley and Kleinberg, Ch. 21.1–21.3  
+* Watts Ch. 6
 
 
 <div style="position:relative; padding-top:56.25%;">
@@ -448,7 +450,7 @@ src="https://docs.google.com/presentation/d/e/2PACX-1vR-268ylldEo5HNZSPMQqNz0zOS
 
 ### February 26 — Lecture 11 {#feb-26}
 **Contagions Part II**  
-— Easley and Kleinberg, Ch. 19.1–19.6
+* Easley and Kleinberg, Ch. 19.1–19.6
 
 <div style="position:relative; padding-top:56.25%;">
   <iframe
@@ -477,7 +479,7 @@ src="https://docs.google.com/presentation/d/e/2PACX-1vR-268ylldEo5HNZSPMQqNz0zOS
 
 ### March 3 — Lecture 12 {#mar-3}
 **Social influence, herding, and cascades**  
-— Watts Ch. 8
+* Watts Ch. 8
 
 
 <div style="position:relative; padding-top:56.25%;">
@@ -540,9 +542,31 @@ allowfullscreen
 ---
 
 ### March 12 — Lecture 14 {#mar-12}
-**Network Scale-up, Respondent-Driven Sampling**  
-— Breen, Casey F., et al. 2025. “Estimating Death Rates in Complex Humanitarian Emergencies Using the Network Survival Method.” *American Journal of Epidemiology*.  
-— Feehan, Dennis M., and Matthew J. Salganik. 2016. “Generalizing the Network Scale-up Method.” *Sociological Methodology*.  
+**Empirical Studies of Contagion**  
+* Centola, Damon. 2010. “The Spread of Behavior in an Online Social Network Experiment.” *Science*.  
+
+<div style="position:relative; padding-top:56.25%;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vTxUUF09qqfjv9yQ6CvIXsALncRZejC0FAEZt2sdQmUElrQWofo12pLEpp7oh3Ae4t1P-q2ms4X_G-b/pubembed?start=false&loop=false&delayms=60000"allowfullscreen
+    style="position:absolute; top:0; left:0; width:100%; height:100%;"
+  ></iframe>
+  
+   <!-- click-capture only on the lower-right "Google Slides" area -->
+  <a href="https://drive.google.com/drive/folders/1-xt639Jn8B6Ak4wxSVg5JOFG5SerQSHo?usp=sharing"
+     target="_blank" rel="noopener noreferrer"
+     aria-label="Open course folder"
+     style="
+       position:absolute;
+       right:8px;
+       bottom:8px;
+       width:170px;
+       height:56px;
+       z-index:10;
+       background:transparent;
+     ">
+  </a>
+</div>
+
 
 **Homework 2 Due**
 
@@ -558,43 +582,67 @@ allowfullscreen
 
 ### March 24 — Lecture 15 {#mar-24}
 **Guest Lecture: RDS in Practice**  
-— Salganik, Matthew J., and Douglas D. Heckathorn. 2004. “Sampling and Estimation in Hidden Populations Using Respondent-Driven Sampling.” *Sociological Methodology*.
+* Salganik, Matthew J., and Douglas D. Heckathorn. 2004. “Sampling and Estimation in Hidden Populations Using Respondent-Driven Sampling.” *Sociological Methodology*. 
+* Breen, Casey F., et al. 2025. “Estimating Death Rates in Complex Humanitarian Emergencies Using the Network Survival Method.” *American Journal of Epidemiology*.  
+* Feehan, Dennis M., and Matthew J. Salganik. 2016. “Generalizing the Network Scale-up Method.” *Sociological Methodology*.  
 
 ---
 
-### March 26 — Exam 2 Review {#mar-26}
-**Exam Review**
+### March 26 — Concurrency and the HIV Epidemic {#mar-26}
+
+<div style="position:relative; padding-top:56.25%;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vQi5k__ZsxfqvRLnOCy4ekysrfnH5pm58G4ufVYDe-xz3ZUMoZlwwZDd247fYLmE7XfTS7pjyHn531_/pubembed?start=false&loop=false&delayms=60000"allowfullscreen
+    style="position:absolute; top:0; left:0; width:100%; height:100%;"
+  ></iframe>
+  
+   <!-- click-capture only on the lower-right "Google Slides" area -->
+  <a href="https://drive.google.com/drive/folders/1-xt639Jn8B6Ak4wxSVg5JOFG5SerQSHo?usp=sharing"
+     target="_blank" rel="noopener noreferrer"
+     aria-label="Open course folder"
+     style="
+       position:absolute;
+       right:8px;
+       bottom:8px;
+       width:170px;
+       height:56px;
+       z-index:10;
+       background:transparent;
+     ">
+  </a>
+</div>
 
 ---
 
-### March 31 — Exam 2 {#mar-31}
-**Exam 2**
+### March 31 — Exam 2 Review {#mar-31}
+**Exam 2 Review**
 
 ---
 
-### April 2 — Lecture 16 {#apr-2}
-**Final Project Overview + Class Project Meet-up Day**
+### April 2 — Exam 2 {#apr-2}
+
+**Exam 2**  
 
 ---
 
 ### April 7 — Lecture 17 {#apr-7}
-**Social Network Research in practice: Suicide Networks**  
-— Pescosolido, Bernice A., and Sharon Georgianna. 1989. “Durkheim, Suicide, and Religion.” *American Sociological Review*.  
-— Centola, Damon, and Michael Macy. 2007. “Complex Contagions and the Weakness of Long Ties.” *American Journal of Sociology*.  
+**Final Project Overview + Class Project Meet-up Day**
+
+---
+
+### April 9 — Lecture 18 {#apr-9}
+**Class Wrap-up**  
+* Rand, David G., Samuel Arbesman, and Nicholas A. Christakis. 2011. “Dynamic Social Networks Promote Cooperation in Experiments with Humans.” *PNAS*.
 
 **Homework 3 Due**
 
 ---
 
-### April 9 — Lecture 18 {#apr-9}
-**Social Network Research in practice: Network Experiments**  
-— Centola, Damon. 2010. “The Spread of Behavior in an Online Social Network Experiment.” *Science*.  
-— Rand, David G., Samuel Arbesman, and Nicholas A. Christakis. 2011. “Dynamic Social Networks Promote Cooperation in Experiments with Humans.” *PNAS*.
-
----
-
 ### April 14 — Lab 3 {#apr-14}
 **Network scale-up method**  
+
+* Breen, Casey F., et al. 2025. “Estimating Death Rates in Complex Humanitarian Emergencies Using the Network Survival Method.” American Journal of Epidemiology.
+* Feehan, Dennis M., and Matthew J. Salganik. 2016. “Generalizing the Network Scale-up Method.” Sociological Methodology.
 
 **Lab 3 Due**
 

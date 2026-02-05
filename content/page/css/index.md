@@ -35,22 +35,21 @@ problems based on existing research papers.
 
 | Week | Date | Format | Topic |
 |-----:|------|--------|-------|
-| 1 | Thurs, January 15 | Lecture | [Intro CSS Lecture](#week-1) |
-| 2 | Thurs, January 22 | Lab | [Lab 0 – Intro to R sessions](#week-2) |
-| 3 | Thurs, January 29 | Lecture | [Social Data in the Digital Age](#week-3) |
-| 4 | Thurs, February 5 | Lab | [Lab 1 – Social Data Collection](#week-4) \| [Quarto Doc](https://github.com/caseybreen/css_course/blob/main/labs/lab1/css_lab1.qmd) |
-| 5 | Thurs, February 12 | Lecture | [Machine Learning + Prediction I](#week-5) |
-| 6 | Thurs, February 19 | Lecture | [Machine Learning + Prediction II](#week-6) |
-| 7 | Thurs, February 26 | Lab | [Lab 2 – Machine Learning](#week-7) \| [Quarto Doc](https://github.com/caseybreen/css_course/blob/main/labs/lab2/css_lab2.qmd)|
-| 8 | Thurs, March 5 | Lecture | [Non-probability sampling](#week-8) |
-| 9 | Thurs, March 12 | Lecture | [Social Networks](#week-9) |
-| 10 | Thurs, March 19 | — | *Spring Break — No Class* |
-| 11 | Thurs, March 26 | Lecture | [Final Paper Topic Pitches](#week-11) |
+| 1  | Thurs, January 15 | Lecture | [Intro CSS Lecture](#week-1) |
+| 2  | Thurs, January 22 | Lab | [Lab 0 – Intro to R sessions](#week-2) |
+| 3  | Thurs, January 29 | Lecture | [Social Data in the Digital Age](#week-3) |
+| 4  | Thurs, February 5 | Lab | [Lab 1 – Social Data Collection](#week-4) \| [Quarto Doc](https://github.com/caseybreen/css_course/blob/main/labs/lab1/css_lab1.qmd) |
+| 5  | Thurs, February 12 | Lecture | [Machine Learning + Prediction I](#week-5) |
+| 6  | Thurs, February 19 | Lecture | [Final Paper Topic Pitches](#week-11) |
+| 7  | Thurs, February 26 | Lecture | [Machine Learning + Prediction II](#week-6) |
+| 8  | Thurs, March 5 | Lab | [Lab 2 – Machine Learning](#week-7) \| [Quarto Doc](https://github.com/caseybreen/css_course/blob/main/labs/lab2/css_lab2.qmd)|
+| 9  | Thurs, March 12 | Lecture | [Non-probability sampling](#week-8) |
+| 10 | Thurs, March 19 | — | *Spring Break — No Class* | 
+| 11 | Thurs, March 26 | Lecture | [Social Networks](#week-9) |
 | 12 | Thurs, April 2 | Lab | [Lab 3 – Non-probability sampling](#week-12) \| [Quarto Doc](https://github.com/caseybreen/css_course/blob/main/labs/lab3/css_lab3.qmd)|
 | 13 | Thurs, April 9 | Lecture | [Agent Based Models](#week-13) |
 | 14 | Thurs, April 16 | Lecture | [Text as Data / Large Language Models](#week-14) |
 | 15 | Thurs, April 23 | Lecture | [Final Presentations](#week-15) |
-
 ---
 
 ## Weekly Schedule
@@ -219,7 +218,15 @@ Collect original data on the count of Facebook users broken down by characterist
 
 ---
 
-### Thurs, Feb 19 — Machine Learning II {#week-6}
+### Thurs, Feb 19 — Paper Topic Pitches {#week-11}
+
+Students will give short presentations outlining their proposed final projects. Each pitch should clearly state the research question, explain its substantive importance, and describe the data and computational methods to be used. 
+
+The session will focus on constructive feedback (be kind!) to help refine questions, assess feasibility, and ensure projects are well scoped.  
+
+---
+
+### Thurs, Feb 26 — Machine Learning II {#week-6}
 
 * Salganik, Matthew J., Ian Lundberg, …, and Sara McLanahan. 2020. ‘Measuring the Predictability of Life Outcomes with a Scientific Mass Collaboration’. Proceedings of the National Academy of Sciences 117(15):8398–8403. doi: 10.1073/pnas.1915006117. ★ 
 * Lundberg, Ian, Jennie E. Brand, and Nanum Jeon. 2022. ‘Researcher Reasoning Meets Computational Capacity: Machine Learning for Social Science’. Social Science Research 108:102807. doi: 10.1016/j.ssresearch.2022.102807.  
@@ -259,7 +266,7 @@ Collect original data on the count of Facebook users broken down by characterist
 
 ---
 
-### Thurs, Feb 26 — Lab 2, Machine Learning {#week-7}
+### Thurs, March 5 — Lab 2, Machine Learning {#week-7}
 
 [Quarto Doc](https://github.com/caseybreen/css_course/blob/main/labs/lab2/css_lab2.qmd)
 
@@ -270,7 +277,7 @@ Apply machine learning algorithms and Facebook user counts to predict overall le
 
 ---
 
-### Thurs, March 5 — Probability and Non-Probability Sampling {#week-8}
+### Thurs, March 12 — Probability and Non-Probability Sampling {#week-8}
 
 * Stedman, Richard C., Nancy A. Connelly, Thomas A. Heberlein, Daniel J. Decker, and Shorna B. Allred. 2019. ‘The End of the (Research) World As We Know It? Understanding and Coping With Declining Response Rates to Mail Surveys’. Society & Natural Resources 32(10):1139–54. doi: 10.1080/08941920.2019.1587127.★
 * Lehdonvirta, Vili, Atte Oksanen, Pekka Räsänen, and Grant Blank. 2021. ‘Social Media, Web, and Panel Surveys: Using Non-Probability Samples in Social and Policy Research’. Policy & Internet 13(1):134–55. doi: 10.1002/poi3.238.
@@ -314,7 +321,7 @@ Apply machine learning algorithms and Facebook user counts to predict overall le
 
 ---
 
-### Thurs, March 12 — Social Networks {#week-9}
+### Thurs, March 26 — Social Networks {#week-9}
 
 * Borgatti, Stephen P., Ajay Mehra, Daniel J. Brass, and Giuseppe Labianca. 2009. ‘Network Analysis in the Social Sciences’. Science 323(5916):892–95. doi: 10.1126/science.1165821.★  
 * Watts, Duncan J. 2004. ‘The “New” Science of Networks’. Annual Review of Sociology 30(1):243–70. doi: 10.1146/annurev.soc.30.020404.104342.★  
@@ -360,13 +367,6 @@ Apply machine learning algorithms and Facebook user counts to predict overall le
 
 ---
 
-### Thurs, March 26 — Paper Topic Pitches {#week-11}
-
-Students will give short presentations outlining their proposed final projects. Each pitch should clearly state the research question, explain its substantive importance, and describe the data and computational methods to be used. 
-
-The session will focus on constructive feedback (be kind!) to help refine questions, assess feasibility, and ensure projects are well scoped.  
-
----
 
 ### Thurs, April 2 — Lab 3 {#week-12}
 

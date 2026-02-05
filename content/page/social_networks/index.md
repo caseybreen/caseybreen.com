@@ -717,7 +717,7 @@ Professor and the Teaching Assistant.
 
 ## Acknowledgements 
 
-This course is largely based on a course originally developed by the wonderful Prof. Dennis Feehan at UC Berkeley.
-I am grateful for his generosity in sharing materials and pedagogical approaches that informed the structure and 
-content of this class.
+This course is largely based on an undergraduate [course](https://dennisfeehan.org/teaching/2025fa_demog180/) originally developed by the wonderful Prof. Dennis Feehan at UC Berkeley.
+I am grateful for his generosity in sharing materials (especially lecture slides) and pedagogical approaches that informed the structure and content of this class. I greatly benefitted from this course,
+and it inspired me to create a 
 

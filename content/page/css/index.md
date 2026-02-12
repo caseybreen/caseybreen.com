@@ -224,6 +224,24 @@ Students will give short presentations outlining their proposed final projects. 
 
 The session will focus on constructive feedback (be kind!) to help refine questions, assess feasibility, and ensure projects are well scoped.  
 
+<div style="
+  max-width: 1200px;
+  margin: 2rem auto;
+  padding: 0.75rem;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.08);
+  background: #fff;
+">
+  <div style="width:100%; height:45vh;">
+    <iframe
+      src="/media/teaching_materials/workflow_slides.png"
+      style="width:100%; height:100%; border:0; border-radius:6px;"
+      allowfullscreen>
+    </iframe>
+  </div>
+</div>
+
 ---
 
 ### Thurs, Feb 26 — Machine Learning II {#week-6}

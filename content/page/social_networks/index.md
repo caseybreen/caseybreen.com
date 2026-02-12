@@ -384,7 +384,7 @@ src="https://docs.google.com/presentation/d/e/2PACX-1vQsBx2-j4utltJokAFWstE7XqMm
 
 <div style="position:relative; padding-top:56.25%;">
   <iframe
-src="src="https://docs.google.com/presentation/d/e/2PACX-1vS9yVTVujo8LdzEVPEFNzz-iEKmV6RtfyvVCMXyOTQBFJAOxT-ojR7ou30lvK0Td8SfCV3cmZEjvcVv/pubembed?start=false&loop=false&delayms=60000"
+    src="https://docs.google.com/presentation/d/e/2PACX-1vS9yVTVujo8LdzEVPEFNzz-iEKmV6RtfyvVCMXyOTQBFJAOxT-ojR7ou30lvK0Td8SfCV3cmZEjvcVv/pubembed?start=false&loop=false&delayms=60000"
     frameborder="0"
     allowfullscreen
     style="position:absolute; top:0; left:0; width:100%; height:100%;"

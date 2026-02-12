@@ -314,6 +314,9 @@ frameborder="0"
 
 * Watts Ch. 2 (Random networks), Ch. 3 (Small worlds)
 
+* Stanley, Milgram. 1967. “The Small-World Problem.” Psychology Today.
+
+
 <div style="position:relative; padding-top:56.25%;">
   <iframe
     src="https://docs.google.com/presentation/d/e/2PACX-1vTQLHhrMZD8zhmABqvu0765RKqxes2Zz5l4scCPb9S7EALdE_bBdIdMxY7AX6okNzzf0wRK2TnQM1_Q/pubembed?start=false&loop=false&delayms=60000"
@@ -377,6 +380,31 @@ src="https://docs.google.com/presentation/d/e/2PACX-1vQsBx2-j4utltJokAFWstE7XqMm
 
 ### February 12 — Exam 1 Review {#feb-12}
 **Exam Review**
+
+
+<div style="position:relative; padding-top:56.25%;">
+  <iframe
+src="src="https://docs.google.com/presentation/d/e/2PACX-1vS9yVTVujo8LdzEVPEFNzz-iEKmV6RtfyvVCMXyOTQBFJAOxT-ojR7ou30lvK0Td8SfCV3cmZEjvcVv/pubembed?start=false&loop=false&delayms=60000"
+    frameborder="0"
+    allowfullscreen
+    style="position:absolute; top:0; left:0; width:100%; height:100%;"
+  ></iframe>
+  
+   <!-- click-capture only on the lower-right "Google Slides" area -->
+  <a href="https://drive.google.com/drive/folders/1-xt639Jn8B6Ak4wxSVg5JOFG5SerQSHo?usp=sharing"
+     target="_blank" rel="noopener noreferrer"
+     aria-label="Open course folder"
+     style="
+       position:absolute;
+       right:8px;
+       bottom:8px;
+       width:170px;
+       height:56px;
+       z-index:10;
+       background:transparent;
+     ">
+  </a>
+</div>
 
 ---
 

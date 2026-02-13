@@ -110,7 +110,7 @@ Helpful Resources:
   box-shadow: 0 4px 14px rgba(0,0,0,0.08);
   background: #fff;
 ">
-  <div style="width:100%; height:45vh;">
+  <div style="width:100%; height:35vh;">
     <iframe
       src="/media/teaching_materials/full_session.html"
       style="width:100%; height:100%; border:0; border-radius:6px;"
@@ -219,6 +219,24 @@ Collect original data on the count of Facebook users broken down by characterist
 ---
 
 ### Thurs, Feb 19 — Paper Topic Pitches {#week-11}
+
+<div style="
+  max-width: 1200px;
+  margin: 2rem auto;
+  padding: 0.75rem;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.08);
+  background: #fff;
+">
+  <div style="width:100%; height:35vh;">
+    <iframe
+      src="/media/teaching_materials/session3_workflow/session3_workflow.html"
+      style="width:100%; height:100%; border:0; border-radius:6px;"
+      allowfullscreen>
+    </iframe>
+  </div>
+</div>
 
 Students will give short presentations outlining their proposed final projects. Each pitch should clearly state the research question, explain its substantive importance, and describe the data and computational methods to be used. 
 

@@ -17,7 +17,7 @@ format:
 library(tidyverse)
 library(here)
 
-censoc <- read_csv(here("data/censoc_numident_demo_v2.1.csv"))
+censoc <- read_csv(here("static/media/data/censoc_numident_demo_v2.1.csv"))
 ```
 
 -   Course website (if you want to learn more):
@@ -132,15 +132,14 @@ knitr::include_graphics(here("static/media/teaching_materials/session1_slides_fi
 
 ## Quarto documents {.smaller}
 
-:::::: columns
+:::: {.columns}
+
 ::: {.column width="40%"}
 -   "Notebook" Style: supports interactive code and text
 
     -   Code cells: segments for code execution
 
     -   Text chunks: annotations or explanations in Markdown format.
-
-<!-- -->
 
 -   Inline output: figures and code output display directly below the corresponding code cell
 :::
@@ -155,11 +154,11 @@ knitr::include_graphics(here("static/media/teaching_materials/session1_slides_fi
 
 ```
 :::
-::::::
+::::
 
 ## Installing packages {.smaller}
 
-::::: columns
+:::: {.columns}
 ::: {.column width="40%"}
 -   Packages: pre-built code and functions.
 
@@ -187,7 +186,7 @@ library(tidyverse)
 knitr::include_graphics(here("static/media/teaching_materials/session1_slides_files/figs/lightbulb_analogy.png"))
 ```
 :::
-:::::
+::::
 
 ## Running code {.smaller}
 
@@ -803,7 +802,7 @@ Learning objectives
 
 ## Tidyverse
 
-::::: columns
+:::::: columns
 ::: {.column width="50%"}
 -   Packages: Collection of R packages designed for data science.
 -   Data manipulation: Simplifies data cleaning and transformation with `dplyr`.
@@ -815,7 +814,7 @@ Learning objectives
 knitr::include_graphics(here("static/media/teaching_materials/session2_slides_files/figs/tidyverse_fig.png"))
 ```
 :::
-:::::
+::::::
 
 ## Data Manipulation using `dplyr` {.smaller}
 

@@ -17,3 +17,10 @@
 #### Additional Files
 - List of talks: content/talk/_index.md 
 
+
+If quarto is giving a hard time: 
+
+quarto::quarto_render(
+    input = "static/media/teaching_materials/session3_workflow/session3_workflow.qmd"
+)
+

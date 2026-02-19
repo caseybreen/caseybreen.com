@@ -250,6 +250,7 @@ The session will focus on constructive feedback (be kind!) to help refine questi
 * Salganik, Matthew J., Ian Lundberg, …, and Sara McLanahan. 2020. ‘Measuring the Predictability of Life Outcomes with a Scientific Mass Collaboration’. Proceedings of the National Academy of Sciences 117(15):8398–8403. doi: 10.1073/pnas.1915006117. ★ 
 * Lundberg, Ian, Jennie E. Brand, and Nanum Jeon. 2022. ‘Researcher Reasoning Meets Computational Capacity: Machine Learning for Social Science’. Social Science Research 108:102807. doi: 10.1016/j.ssresearch.2022.102807.  
 * Lundberg, Ian, Rachel Brown-Weinstock, Susan Clampet-Lundquist, Sarah Pachman, Timothy J. Nelson, Vicki Yang, Kathryn Edin, and Matthew J. Salganik. 2024. ‘The Origins of Unpredictability in Life Outcome Prediction Tasks’. Proceedings of the National Academy of Sciences 121(24):e2322973121. doi: 10.1073/pnas.2322973121.★
+* Phillips, Rachael V., Mark J. van der Laan, Hana Lee, and Susan Gruber. 2023. “Practical Considerations for Specifying a Super Learner.” International Journal of Epidemiology 52(4):1276–85. doi:10.1093/ije/dyad023.
 
 <div style="position:relative; padding-top:56.25%;">
 

@@ -72,11 +72,11 @@ At the conclusion of this course, students will be able to:
 | Mar 3 | Lecture 12 | [Social influence, herding & cascades](#mar-3) | — |
 | Mar 5 | Lab 2 | [Network visualization & homophily indices](#mar-5) | **Lab 2 due** |
 | Mar 10 | Lecture 13 | [Community detection](#mar-10) | — |
-| Mar 12 | Lecture 14 | [Empirical Studies of Contagion](#mar-12) | **Homework 2 due**  |
+| Mar 12 | Lecture 14 | [Empirical Studies of Contagion](#mar-12) |  |
 | Mar 17 | — | [Spring break — no class](#mar-17) | — |
 | Mar 19 | — | [Spring break — no class](#mar-19) | — |
 | Mar 24 | Lecture 15 | [RDS: Guest Lecture](#mar-24) | — |
-| Mar 26 | Lecture 16 | [Concurrency and the HIV Epidemic](#mar-26) | — |
+| Mar 26 | Lecture 16 | [Concurrency and the HIV Epidemic](#mar-26) | **Homework 2 due** |
 | Mar 31 | Review | [Exam 2 review](#mar-31) | — |
 | Apr 2  | Exam   | [Exam 2](#apr-2) | **Exam 2** |
 | Apr 7  | Lecture 17 | [Final project overview & meet-up](#apr-7) | — |
@@ -595,9 +595,6 @@ allowfullscreen
   </a>
 </div>
 
-
-**Homework 2 Due**
-
 ---
 
 ### March 17 — Spring Break {#mar-17}
@@ -617,6 +614,9 @@ allowfullscreen
 ---
 
 ### March 26 — Concurrency and the HIV Epidemic {#mar-26}
+
+**Homework 2 Due**
+
 
 <div style="position:relative; padding-top:56.25%;">
   <iframe

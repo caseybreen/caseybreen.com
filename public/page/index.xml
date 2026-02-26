@@ -257,7 +257,7 @@ and hands-on data analysis to build a foundational understanding of social netwo
 &lt;td&gt;Lecture 14&lt;/td&gt;
 &lt;td&gt;
 &lt;a href=&#34;#mar-12&#34;&gt;Empirical Studies of Contagion&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;Homework 2 due&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Mar 17&lt;/td&gt;
@@ -285,7 +285,7 @@ and hands-on data analysis to build a foundational understanding of social netwo
 &lt;td&gt;Lecture 16&lt;/td&gt;
 &lt;td&gt;
 &lt;a href=&#34;#mar-26&#34;&gt;Concurrency and the HIV Epidemic&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Homework 2 due&lt;/strong&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Mar 31&lt;/td&gt;
@@ -800,7 +800,6 @@ background:transparent;
 &#34;&gt;
 &lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;strong&gt;Homework 2 Due&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;mar-17&#34;&gt;March 17 — Spring Break&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;No Class&lt;/strong&gt;&lt;/p&gt;
@@ -816,6 +815,7 @@ background:transparent;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;mar-26&#34;&gt;March 26 — Concurrency and the HIV Epidemic&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Homework 2 Due&lt;/strong&gt;&lt;/p&gt;
 &lt;div style=&#34;position:relative; padding-top:56.25%;&#34;&gt;
   &lt;iframe
     src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vQi5k__ZsxfqvRLnOCy4ekysrfnH5pm58G4ufVYDe-xz3ZUMoZlwwZDd247fYLmE7XfTS7pjyHn531_/pubembed?start=false&amp;loop=false&amp;delayms=60000&#34;allowfullscreen
@@ -993,7 +993,8 @@ problems based on existing research papers.&lt;/p&gt;
 &lt;td&gt;Thurs, February 26&lt;/td&gt;
 &lt;td&gt;Lecture&lt;/td&gt;
 &lt;td&gt;
-&lt;a href=&#34;#week-6&#34;&gt;Machine Learning + Prediction II&lt;/a&gt;&lt;/td&gt;
+&lt;a href=&#34;#week-6&#34;&gt;Machine Learning + Prediction II&lt;/a&gt; |  
+&lt;a href=&#34;https://github.com/caseybreen/css_course/blob/main/labs/in_class_exercises/03_pdf_ocr.Rmd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quarto Doc&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;8&lt;/td&gt;
@@ -1107,7 +1108,7 @@ Open
   box-shadow: 0 4px 14px rgba(0,0,0,0.08);
   background: #fff;
 &#34;&gt;
-  &lt;div style=&#34;width:100%; height:45vh;&#34;&gt;
+  &lt;div style=&#34;width:100%; height:35vh;&#34;&gt;
     &lt;iframe
       src=&#34;https://caseybreen.github.io/media/teaching_materials/full_session.html&#34;
       style=&#34;width:100%; height:100%; border:0; border-radius:6px;&#34;
@@ -1207,7 +1208,7 @@ Open
   box-shadow: 0 4px 14px rgba(0,0,0,0.08);
   background: #fff;
 &#34;&gt;
-  &lt;div style=&#34;width:100%; height:45vh;&#34;&gt;
+  &lt;div style=&#34;width:100%; height:35vh;&#34;&gt;
     &lt;iframe
       src=&#34;https://caseybreen.github.io/media/teaching_materials/session3_workflow/session3_workflow.html&#34;
       style=&#34;width:100%; height:100%; border:0; border-radius:6px;&#34;
@@ -1223,6 +1224,7 @@ Open
 &lt;li&gt;Salganik, Matthew J., Ian Lundberg, …, and Sara McLanahan. 2020. ‘Measuring the Predictability of Life Outcomes with a Scientific Mass Collaboration’. Proceedings of the National Academy of Sciences 117(15):8398–8403. doi: 10.1073/pnas.1915006117. ★&lt;/li&gt;
 &lt;li&gt;Lundberg, Ian, Jennie E. Brand, and Nanum Jeon. 2022. ‘Researcher Reasoning Meets Computational Capacity: Machine Learning for Social Science’. Social Science Research 108:102807. doi: 10.1016/j.ssresearch.2022.102807.&lt;/li&gt;
 &lt;li&gt;Lundberg, Ian, Rachel Brown-Weinstock, Susan Clampet-Lundquist, Sarah Pachman, Timothy J. Nelson, Vicki Yang, Kathryn Edin, and Matthew J. Salganik. 2024. ‘The Origins of Unpredictability in Life Outcome Prediction Tasks’. Proceedings of the National Academy of Sciences 121(24):e2322973121. doi: 10.1073/pnas.2322973121.★&lt;/li&gt;
+&lt;li&gt;Phillips, Rachael V., Mark J. van der Laan, Hana Lee, and Susan Gruber. 2023. “Practical Considerations for Specifying a Super Learner.” International Journal of Epidemiology 52(4):1276–85. doi:10.1093/ije/dyad023.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div style=&#34;position:relative; padding-top:56.25%;&#34;&gt;
   &lt;!-- Embedded (view-only) Slides --&gt;

@@ -38,7 +38,7 @@ problems based on existing research papers.
 | 1  | Thurs, January 15 | Lecture | [Intro CSS Lecture](#week-1) | | 
 | 2  | Thurs, January 22 | Lab | [Lab 0 – Intro to R sessions](#week-2) | [PS1](https://github.com/caseybreen/intro_r/blob/main/problem_sets/problem_set1_solutions.qmd); [PS2](https://github.com/caseybreen/intro_r/blob/main/problem_sets/problem_set2_solutions.qmd) | 
 | 3  | Thurs, January 29 | Lecture | [Social Data in the Digital Age](#week-3) | | 
-| 4  | Thurs, February 5 | Lab | [Lab 1 – Social Data Collection](#week-4) | [Lab 1 Quarto](https://github.com/caseybreen/css_course/blob/main/labs/lab1/css_lab1.qmd) |
+| 4  | Thurs, February 5 | Lab | [Lab 1 – Social Data Collection](#week-4) | [Lab 1](https://github.com/caseybreen/css_course/blob/main/labs/lab1/css_lab1.qmd) |
 | 5  | Thurs, February 12 | Lecture | [Machine Learning + Prediction I](#week-5) | [Demo — DHS data](https://github.com/caseybreen/css_course/blob/main/labs/in_class_exercises/01_dhs_data_example.Rmd)| 
 | 6  | Thurs, February 19 | Lecture | [Final Paper Topic Pitches](#week-11) | [Demo — Data Visualization](https://github.com/caseybreen/css_course/blob/main/labs/in_class_exercises/02_data_viz.Rmd)| 
 | 7  | Thurs, February 26 | Lecture | [Machine Learning + Prediction II](#week-6) |  [Demo — OCR](https://github.com/caseybreen/css_course/blob/main/labs/in_class_exercises/03_pdf_ocr.Rmd)|

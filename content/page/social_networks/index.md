@@ -76,7 +76,7 @@ At the conclusion of this course, students will be able to:
 | Mar 17 | — | [Spring break — no class](#mar-17) | — |
 | Mar 19 | — | [Spring break — no class](#mar-19) | — |
 | Mar 24 | Lecture 15 | [RDS: Guest Lecture](#mar-24) | — |
-| Mar 26 | Lecture 16 | [Concurrency and the HIV Epidemic](#mar-26) | **Homework 2 due** |
+| Mar 26 | Lecture 16 | [Concurrency and the HIV Epidemic](#mar-26) | **[Homework 2 due](https://docs.google.com/document/d/1ql3A8bqiCrDi_2KA389NJwxp3S58zNVjM0mS7zQw_1Q/edit?usp=sharing)** |
 | Mar 31 | Review | [Exam 2 review](#mar-31) | — |
 | Apr 2  | Exam   | [Exam 2](#apr-2) | **Exam 2** |
 | Apr 7  | Lecture 17 | [Final project overview & meet-up](#apr-7) | — |

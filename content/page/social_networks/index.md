@@ -538,12 +538,48 @@ allowfullscreen
 ### March 5 — Lab 2 {#mar-5}
 **Visualizing network data and calculating homophily indices**  
 
-**Lab 2 Due**
+<div style="
+  max-width:1200px;
+  margin:2rem auto;
+  padding:0.75rem;
+  border:1px solid #ddd;
+  border-radius:10px;
+  box-shadow:0 4px 14px rgba(0,0,0,0.08);
+  background:#fff;
+">
+
+  <div style="text-align:right; margin-bottom:0.5rem;">
+    <a href="/media/teaching_materials/lab2_solutions.html"
+       target="_blank"
+       style="
+         text-decoration:none;
+         padding:6px 10px;
+         border-radius:6px;
+         background:#f3f4f6;
+         border:1px solid #ddd;
+         font-size:0.9rem;
+       ">
+       Open in new tab
+    </a>
+  </div>
+
+  <div style="width:100%; height:45vh; border-radius:6px; overflow:hidden;">
+    <iframe
+      src="/media/teaching_materials/lab2_solutions.html"
+      style="width:100%; height:100%; border:0;"
+      allowfullscreen>
+    </iframe>
+  </div>
+
+</div>
 
 ---
 
 ### March 10 — Lecture 13 {#mar-10}
 **Community Detection**
+
+**Lab 2 Due**
+
 
 <div style="position:relative; padding-top:56.25%;">
   <iframe

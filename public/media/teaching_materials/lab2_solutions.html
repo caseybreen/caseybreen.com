@@ -1,0 +1,1169 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.8.25">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Casey Breen">
+<meta name="dcterms.date" content="2026-03-05">
+
+<title>Lab 2</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+</style>
+
+
+<script src="lab2_solutions_files/libs/clipboard/clipboard.min.js"></script>
+<script src="lab2_solutions_files/libs/quarto-html/quarto.js" type="module"></script>
+<script src="lab2_solutions_files/libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="lab2_solutions_files/libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="lab2_solutions_files/libs/quarto-html/popper.min.js"></script>
+<script src="lab2_solutions_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="lab2_solutions_files/libs/quarto-html/anchor.min.js"></script>
+<link href="lab2_solutions_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="lab2_solutions_files/libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="lab2_solutions_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="lab2_solutions_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="lab2_solutions_files/libs/bootstrap/bootstrap-d6a003b94517c951b2d65075d42fb01b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+</head>
+
+<body class="fullcontent quarto-light">
+
+<div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
+
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Lab 2</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Casey Breen </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">March 5, 2026</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="overview-of-lab-2" class="level1">
+<h1>Overview of Lab 2</h1>
+<p>Welcome to R Lab 2! In this lab, we will complete two different exercises:</p>
+<ol type="1">
+<li>Explore how to analyze and visualize network data with the package <code>tidygraph</code>, using a historical Renaissance marriage network dataset.</li>
+<li>Investigate how much homophily there is in our class’s discussion networks using the survey data we collected in class</li>
+</ol>
+<p>Each exercise will have a few questions at the end for you to complete. Please complete these questions and upload the .qmd file to the corresponding lab assignment to Canvas to receive full credit for the lab.</p>
+</section>
+<section id="exercise-1-analyze-network-data" class="level1">
+<h1>Exercise 1: Analyze network data</h1>
+<p>We will use the Florentine Family Marriage dataset as a running example for network analysis. Before we start, we need to install and load required <code>R</code> packages. An <code>R</code> package is a collection of functions (e.g., functions to plot networks) that will help us with our analysis.</p>
+<ul>
+<li><p><code>tidygraph</code> includes tools for network analysis.</p></li>
+<li><p><code>ggraph</code> is used for visualizing networks.</p></li>
+<li><p><code>networkdata</code> contains network datasets, including the Florentine marriage network we will use.</p></li>
+</ul>
+<p>Recall that to install a package, we need to use the function: <code>install.packages()</code>. Delete the hashtags (#) from the bottom three lines to install the packages. If prompted, update all other packages.</p>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co"># install packages</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="co"># install.packages("tidygraph")</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="co"># install.packages("ggraph")</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="co"># devtools::install_github("schochastics/networkdata")</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</div>
+<p>Next, we’ll need to library the packages with the function <code>library()</code>. This allows us to use the packages for this session. We only need to install packages once, but load with <code>library()</code> every time we start a new session.</p>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="co"># load packages</span></span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(tidyverse)</span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(tidygraph)</span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(networkdata)</span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(ggraph)</span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a><span class="co"># set theme for plots </span></span>
+<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a><span class="fu">theme_set</span>(<span class="fu">theme_bw</span>(<span class="at">base_size =</span> <span class="dv">17</span>))</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</div>
+<p>Now we load the Florentine Family Marriage dataset <code>flo_marriage</code> into the current R session with the function <code>data()</code>. This data is from the <code>networkdata</code> package.</p>
+<p>The data originate from research on social relations among Renaissance Florentine families collected by John Padgett from historical documents. Breiger and Pattison (1986) later used this subset of the data in their analysis of social roles.</p>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="fu">data</span>(<span class="st">"flo_marriage"</span>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</div>
+<p>The <code>flo_marriage</code> is stored as a network igraph object. To use <code>tidygraph</code>, we need to convert this network object into a tidygraph object using <code>as_tbl_graph</code> so we can analyze it using the functions in the <code>tidygraph</code> package. We store the result in an object named <code>flo_tbl</code>.</p>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb4"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a>flo_tbl <span class="ot">&lt;-</span> <span class="fu">as_tbl_graph</span>(flo_marriage)</span>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a>flo_tbl</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output cell-output-stdout">
+<pre><code># A tbl_graph: 16 nodes and 20 edges
+#
+# An undirected simple graph with 2 components
+#
+# Node Data: 16 × 4 (active)
+   name         wealth `#priors` `#ties`
+   &lt;chr&gt;         &lt;dbl&gt;     &lt;dbl&gt;   &lt;dbl&gt;
+ 1 Acciaiuoli       10        53       2
+ 2 Albizzi          36        65       3
+ 3 Barbadori        55         0      14
+ 4 Bischeri         44        12       9
+ 5 Castellani       20        22      18
+ 6 Ginori           32         0       9
+ 7 Guadagni          8        21      14
+ 8 Lamberteschi     42         0      14
+ 9 Medici          103        53      54
+10 Pazzi            48         0       7
+11 Peruzzi          49        42      32
+12 Pucci             3         0       1
+13 Ridolfi          27        38       4
+14 Salviati         10        35       5
+15 Strozzi         146        74      29
+16 Tornabuoni       48         0       7
+#
+# Edge Data: 20 × 2
+   from    to
+  &lt;int&gt; &lt;int&gt;
+1     1     9
+2     2     6
+3     2     7
+# ℹ 17 more rows</code></pre>
+</div>
+</div>
+<p>The dataset contains two components, a node table and an edge table. Each node represents a Florentine family in the early 15th century, and each edge represents a marriage tie between two families.</p>
+<p>There are four columns (variables) in the node table:</p>
+<ul>
+<li><code>name</code>: the names of Florentine Families.</li>
+<li><code>wealth</code>: each family’s net wealth in 1427 (reported assets minus deductions, including business loans) from 1427 catasto (in thousands of lira).</li>
+<li><code>#priors</code>: the number of priorates (seats on the civic council) held between 1282-1344, reflecting the family influence.</li>
+<li><code>ties</code>: the total number of business or marriage ties in the total dataset of 116 families.</li>
+</ul>
+<p>There are two columns (variables) in the edge table:</p>
+<ul>
+<li><code>from</code>: the node ID that the edge starts from</li>
+<li><code>to</code>: the node ID that the edge connects to</li>
+</ul>
+<p>The edge table gives us the information on which nodes are connected as marriage ties. Node IDs are used instead of family names because numerical IDs are more efficient for a computer to work with.</p>
+<p>You can find more information about how this dataset was generated from this paper:</p>
+<p>Breiger R. and Pattison P. (1986). Cumulated social roles: The duality of persons and their algebras. <em>Social Networks</em>, 8, 215-256. https://doi.org/10.1016/0378-8733(86)90006-7</p>
+<p>Overall, we can learn from the output that:</p>
+<ul>
+<li><p>The network has 16 families (nodes) and 20 marriage ties (edges).</p></li>
+<li><p>It is undirected (marriage is mutual). If someone in family A is married to someone in family B, someone in family B is married to someone in family A.</p></li>
+</ul>
+<p>If you want to check explicitly the number of nodes and edges, use the following two functions from the <code>tidygraph</code> package. This takes a few steps.</p>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb6"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Number of nodes</span></span>
+<span id="cb6-2"><a href="#cb6-2" aria-hidden="true" tabindex="-1"></a>flo_tbl <span class="sc">%&gt;%</span> </span>
+<span id="cb6-3"><a href="#cb6-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">activate</span>(nodes) <span class="sc">%&gt;%</span></span>
+<span id="cb6-4"><a href="#cb6-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">as_tibble</span>() <span class="sc">%&gt;%</span></span>
+<span id="cb6-5"><a href="#cb6-5" aria-hidden="true" tabindex="-1"></a>  <span class="fu">count</span>(<span class="at">name =</span> <span class="st">"n_nodes"</span>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output cell-output-stdout">
+<pre><code># A tibble: 1 × 1
+  n_nodes
+    &lt;int&gt;
+1      16</code></pre>
+</div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb8"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Number of edges</span></span>
+<span id="cb8-2"><a href="#cb8-2" aria-hidden="true" tabindex="-1"></a>flo_tbl <span class="sc">%&gt;%</span> </span>
+<span id="cb8-3"><a href="#cb8-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">activate</span>(edges) <span class="sc">%&gt;%</span> </span>
+<span id="cb8-4"><a href="#cb8-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">as_tibble</span>() <span class="sc">%&gt;%</span></span>
+<span id="cb8-5"><a href="#cb8-5" aria-hidden="true" tabindex="-1"></a>  <span class="fu">count</span>(<span class="at">name =</span> <span class="st">"n_edges"</span>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output cell-output-stdout">
+<pre><code># A tibble: 1 × 1
+  n_edges
+    &lt;int&gt;
+1      20</code></pre>
+</div>
+</div>
+<p>In the code chunk above, let’s focus on the nodes-related lines first:</p>
+<p><code>%&gt;%</code> is the pipe operator that lets us chain operations together without creating intermediate objects. It works by taking the object on the left-hand side and passing it as the first argument to the next function.</p>
+<p><code>activate()</code> tells <code>tidygraph</code> to apply subsequent manipulations to the nodes, since the tbl_graph objects hold two separate, linked tables (nodes and edges).</p>
+<p><code>as_tibble()</code> converts the tbl_graph object into a regular table so that standard data-frame functions like <code>count()</code> can work. A tbl_graph is not a regular data frame.</p>
+<p><code>count(name = "n_nodes")</code> counts the number of rows and assigns the number to a column <code>n_nodes</code>.</p>
+<section id="the-medici-family" class="level2">
+<h2 class="anchored" data-anchor-id="the-medici-family">The Medici Family</h2>
+<p>Now that we have a basic understanding of the network, we can do some basic analysis of the network. The Medici family was a powerful banking dynasty in Florence that produced renowned patrons of the arts, four popes, and two French queens, leaving a lasting impact on European economy, culture, and politics.</p>
+<p><em>Can we observe the Medici family’s influence from the family marriage network structure?</em></p>
+<p>Let’s visualize the network first using the <code>ggraph</code> package.</p>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb10"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a><span class="co"># fix randomness so that our results can be reproduced</span></span>
+<span id="cb10-2"><a href="#cb10-2" aria-hidden="true" tabindex="-1"></a><span class="fu">set.seed</span>(<span class="dv">8287</span>) </span>
+<span id="cb10-3"><a href="#cb10-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb10-4"><a href="#cb10-4" aria-hidden="true" tabindex="-1"></a><span class="do">## visualize the graph </span></span>
+<span id="cb10-5"><a href="#cb10-5" aria-hidden="true" tabindex="-1"></a><span class="fu">ggraph</span>(flo_tbl, <span class="at">layout =</span> <span class="st">"stress"</span>) <span class="sc">+</span></span>
+<span id="cb10-6"><a href="#cb10-6" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_edge_link</span>(<span class="at">alpha =</span> <span class="fl">0.4</span>) <span class="sc">+</span></span>
+<span id="cb10-7"><a href="#cb10-7" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_node_point</span>(<span class="at">size =</span> <span class="dv">3</span>) <span class="sc">+</span></span>
+<span id="cb10-8"><a href="#cb10-8" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_node_text</span>(<span class="fu">aes</span>(<span class="at">label =</span> name), <span class="at">repel =</span> <span class="cn">TRUE</span>) <span class="sc">+</span></span>
+<span id="cb10-9"><a href="#cb10-9" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme_void</span>()</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="lab2_solutions_files/figure-html/unnamed-chunk-6-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+</div>
+<p>In the code chunk above:</p>
+<p><code>set.seed()</code>: fix the starting point of R’s random number generator. Without setting a seed (e.g., 8287), layout algorithms in <code>ggraph</code> that rely on randomness may produce slightly different network visualizations each time the code is executed.</p>
+<p><code>ggraph(flo_tbl, layout = "stress")</code>: a function used to visualize networks. <code>flo_tbl</code> is the network object being plotted, and <code>layout = "stress"</code> specifies a force-directed layout algorithm that positions nodes so that connected nodes appear closer together in the visualization.</p>
+<p><code>+</code>: the syntax allows us to add layers to the plot.</p>
+<p><code>geom_edge_link(alpha = 0.4)</code>: a function used to draw the edges of the network, so that each row in the edge table becomes a connection (tie) in the visualization. The argument <code>alpha = 0.4</code> controls the transparency of the edge lines, where 0 is fully transparent and 1 is fully opaque. Setting it to 0.4 makes the edges lighter, which helps reduce visual clutter and makes the nodes easier to distinguish.</p>
+<p><code>geom_node_point(size = 3)</code>: a function used to draw the nodes as points (circles), so that each row in the node table corresponds to one node in the visualization. The argument <code>size = 3</code> controls how large the nodes appear in the plot.</p>
+<p><code>geom_node_text(aes(label = name), repel = TRUE)</code>: a function used to add text labels to nodes. <code>aes()</code> stands for aesthetic mapping, and it tells R to use the variable name from the node table as the label. <code>repel = TRUE</code> prevents labels from overlapping and makes the plot more readable.</p>
+<p><code>theme_void()</code>: a function that removes axes, ticks, and background grid to make the plot cleaner.</p>
+<p><strong>Note</strong>: Graphs can be visualized in different ways. In the code above, try changing the <code>layout = "stress"</code> in the code block above to something like <code>layout = "circle"</code> or <code>layout = "fr"</code>. How did this change the plot?</p>
+<section id="comprehension-check" class="level4">
+<h4 class="anchored" data-anchor-id="comprehension-check">[Comprehension check]</h4>
+<p>Based on the visualization above, what families appear to be the most important to this network?</p>
+<p><em>Answer: The Medici and Strozzi families appear to be the most important in this network.</em></p>
+</section>
+<section id="centrality-measures" class="level3">
+<h3 class="anchored" data-anchor-id="centrality-measures">Centrality Measures</h3>
+<p>Now we move to measurements for centrality. We will calculate two types of centrality: degree centrality and betweenness centrality.</p>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb11"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb11-1"><a href="#cb11-1" aria-hidden="true" tabindex="-1"></a><span class="do">## calculate centrality measures </span></span>
+<span id="cb11-2"><a href="#cb11-2" aria-hidden="true" tabindex="-1"></a>flo_tbl <span class="ot">&lt;-</span> flo_tbl <span class="sc">%&gt;%</span></span>
+<span id="cb11-3"><a href="#cb11-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">activate</span>(nodes) <span class="sc">%&gt;%</span></span>
+<span id="cb11-4"><a href="#cb11-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="at">degree =</span> <span class="fu">centrality_degree</span>(),</span>
+<span id="cb11-5"><a href="#cb11-5" aria-hidden="true" tabindex="-1"></a>         <span class="at">betweenness =</span> <span class="fu">centrality_betweenness</span>()) </span>
+<span id="cb11-6"><a href="#cb11-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb11-7"><a href="#cb11-7" aria-hidden="true" tabindex="-1"></a><span class="do">## print out centrality </span></span>
+<span id="cb11-8"><a href="#cb11-8" aria-hidden="true" tabindex="-1"></a>flo_tbl <span class="sc">%&gt;%</span> </span>
+<span id="cb11-9"><a href="#cb11-9" aria-hidden="true" tabindex="-1"></a>  <span class="fu">as_tibble</span>() <span class="sc">%&gt;%</span></span>
+<span id="cb11-10"><a href="#cb11-10" aria-hidden="true" tabindex="-1"></a>  <span class="fu">select</span>(name, degree, betweenness)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output cell-output-stdout">
+<pre><code># A tibble: 16 × 3
+   name         degree betweenness
+   &lt;chr&gt;         &lt;dbl&gt;       &lt;dbl&gt;
+ 1 Acciaiuoli        1        0   
+ 2 Albizzi           3       19.3 
+ 3 Barbadori         2        8.5 
+ 4 Bischeri          3        9.5 
+ 5 Castellani        3        5   
+ 6 Ginori            1        0   
+ 7 Guadagni          4       23.2 
+ 8 Lamberteschi      1        0   
+ 9 Medici            6       47.5 
+10 Pazzi             1        0   
+11 Peruzzi           3        2   
+12 Pucci             0        0   
+13 Ridolfi           3       10.3 
+14 Salviati          2       13   
+15 Strozzi           4        9.33
+16 Tornabuoni        3        8.33</code></pre>
+</div>
+</div>
+<p>In the code chunk above, we first tell R to apply subsequent manipulations to the nodes using <code>activate(nodes)</code>. Then we have the following functions:</p>
+<p><code>mutate()</code>: add new columns to the active table (which is currently the node table).</p>
+<p><code>centrality_degree()</code>: calculate the degree centrality (the number of connections) for each node. The result is stored in a new column called <code>degree</code>.</p>
+<p><code>centrality_betweenness()</code>: calculate the betweenness centrality (how many times a node lies on the shortest path between other nodes) for each node. The result is stored in a new column called <code>betweenness</code>.</p>
+<p>With <code>as_tibble()</code>, we again convert the tbl_graph object into a regular table.</p>
+<p><code>select()</code>: chooses only the columns we want to display. Here, we want to display only the family names, degree centrality, and betweenness centrality values.</p>
+<p>Now let’s combine the two centrality measures into one visualization:</p>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb13"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb13-1"><a href="#cb13-1" aria-hidden="true" tabindex="-1"></a><span class="fu">set.seed</span>(<span class="dv">8287</span>)</span>
+<span id="cb13-2"><a href="#cb13-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb13-3"><a href="#cb13-3" aria-hidden="true" tabindex="-1"></a>flo_tbl <span class="sc">%&gt;%</span> </span>
+<span id="cb13-4"><a href="#cb13-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">ggraph</span>(<span class="at">layout =</span> <span class="st">"stress"</span>) <span class="sc">+</span> </span>
+<span id="cb13-5"><a href="#cb13-5" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_edge_link0</span>(<span class="at">alpha =</span> <span class="fl">0.4</span>) <span class="sc">+</span></span>
+<span id="cb13-6"><a href="#cb13-6" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_node_point</span>(</span>
+<span id="cb13-7"><a href="#cb13-7" aria-hidden="true" tabindex="-1"></a>    <span class="fu">aes</span>(<span class="at">size =</span> degree, <span class="at">fill =</span> betweenness),</span>
+<span id="cb13-8"><a href="#cb13-8" aria-hidden="true" tabindex="-1"></a>    <span class="at">shape =</span> <span class="dv">21</span></span>
+<span id="cb13-9"><a href="#cb13-9" aria-hidden="true" tabindex="-1"></a>  ) <span class="sc">+</span></span>
+<span id="cb13-10"><a href="#cb13-10" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_node_text</span>(</span>
+<span id="cb13-11"><a href="#cb13-11" aria-hidden="true" tabindex="-1"></a>    <span class="fu">aes</span>(<span class="at">label =</span> name), <span class="at">repel =</span> <span class="cn">TRUE</span>, <span class="at">size =</span> <span class="fl">3.5</span>) <span class="sc">+</span></span>
+<span id="cb13-12"><a href="#cb13-12" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scale_fill_viridis_c</span>( <span class="at">option =</span> <span class="st">"cividis"</span>, <span class="at">name =</span> <span class="st">"Betweenness"</span>) <span class="sc">+</span></span>
+<span id="cb13-13"><a href="#cb13-13" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scale_size</span>(<span class="at">range =</span> <span class="fu">c</span>(<span class="dv">5</span>, <span class="dv">10</span>), <span class="at">name =</span> <span class="st">"Degree"</span>) <span class="sc">+</span></span>
+<span id="cb13-14"><a href="#cb13-14" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme_graph</span>() <span class="sc">+</span></span>
+<span id="cb13-15"><a href="#cb13-15" aria-hidden="true" tabindex="-1"></a>  <span class="fu">labs</span>(<span class="at">title =</span> <span class="st">"Florentine Marriage Network"</span>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="lab2_solutions_files/figure-html/unnamed-chunk-8-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+</div>
+<p>In the code chunk above, we first set the seed to 8287 to ensure reproducibility. We then tell <code>tidygraph</code> to apply subsequent operations to the node table using <code>activate("nodes")</code>, and add the computed degree and betweenness centrality using <code>mutate()</code>.</p>
+<p>Next, we use <code>ggraph()</code> to create the network visualization and add layers step by step.</p>
+<p><code>geom_edge_link0(alpha = 0.4)</code>: This draws the edges (connections) between nodes. As in the previous visualization, we set <code>alpha = 0.4</code> to make the edges slightly transparent, which reduces visual clutter and makes the nodes easier to see.</p>
+<p><code>geom_node_point()</code>: This draws the nodes as points. Inside <code>aes()</code> (aesthetic mapping), we specify <code>size = degree</code> and <code>fill = betweenness</code>, meaning that node size represents degree centrality and node color represents betweenness centrality. This allows us to compare the two measures visually. The argument <code>shape = 21</code> enables both fill color and border color for the nodes, which is necessary when mapping fill aesthetics.</p>
+<p><code>geom_node_text()</code>: This adds labels to each node. We specify <code>label = name</code> to display each family’s name, use <code>repel = TRUE</code> to prevent text overlap, and control the text size with <code>size = 3.5</code>.</p>
+<p><code>scale_fill_viridis_c(option = "cividis", name = "Betweenness")</code>: This defines the color scale for betweenness centrality. We use the colorblind-friendly “cividis” palette and label the legend as “Betweenness.”</p>
+<p><code>scale_size(range = c(5, 10), name = "Degree")</code>: This controls the visual size range of the nodes, scaling them between 5 and 10, and labels the legend as “Degree.”</p>
+<p><code>theme_graph()</code>: This removes axes and background elements to create a cleaner network visualization.</p>
+<p><code>labs(title = "Florentine Marriage Network")</code>: This allows us to add or modify labels in a plot. Here, we add a title for the plot with <code>title = "Florentine Marriage Network"</code>.</p>
+<section id="exercise-questions-1.1---1.4" class="level4">
+<h4 class="anchored" data-anchor-id="exercise-questions-1.1---1.4">Exercise Questions (1.1 - 1.4)</h4>
+<p>1.1 What does each centrality measure reveal about the Medici family’s influence, and what does this imply about its power in the network?</p>
+<p><em>Answer: The Medici family has both high degree centrality and high network centrality. This suggests that the Medici family is very powerful within this network.</em></p>
+<p>1.2 What would happen if we remove Medici from the network? Run the code below and describe how the network has changed. Now which family appears to be the most important? Is the network more fragmented (i.e., contain more components)?</p>
+<p><em>Answer: If we drop the Medici family, this the network becomes much more fragmented (number of components increase). The most important family now appears to be the Guadagni family.</em></p>
+<p>1.3 Based on your answers to 1.1 and 1.2, describe two types of social capital theorized by Robert Putnam that the Medici family likely has. How do you know?</p>
+<p><em>Answer: The Medici family has both bonding and bridging social capital. It has <strong>bonding social capital</strong> because it is well connected to several families in its immediate neighborhood, and has many direct ties. It also has <strong>bridging social capital</strong> because it has high <strong>betweenness centrality</strong>, meaning it lies on many of the shortest paths connecting different parts of the network. As a result, removing the Medici node would fragment the network into more components, showing that it connects otherwise separate groups of families.</em></p>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb14"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb14-1"><a href="#cb14-1" aria-hidden="true" tabindex="-1"></a><span class="do">## First, drop the Medici family and recalculate centrality measures </span></span>
+<span id="cb14-2"><a href="#cb14-2" aria-hidden="true" tabindex="-1"></a>flo_tbl_no_medici <span class="ot">&lt;-</span> flo_tbl <span class="sc">%&gt;%</span> </span>
+<span id="cb14-3"><a href="#cb14-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">filter</span>(name <span class="sc">!=</span> <span class="st">"Medici"</span>) <span class="sc">%&gt;%</span> <span class="do">## filter to drop Medici family</span></span>
+<span id="cb14-4"><a href="#cb14-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">activate</span>(nodes) <span class="sc">%&gt;%</span> </span>
+<span id="cb14-5"><a href="#cb14-5" aria-hidden="true" tabindex="-1"></a>  <span class="fu">mutate</span>(</span>
+<span id="cb14-6"><a href="#cb14-6" aria-hidden="true" tabindex="-1"></a>    <span class="at">degree =</span> <span class="fu">centrality_degree</span>(),</span>
+<span id="cb14-7"><a href="#cb14-7" aria-hidden="true" tabindex="-1"></a>    <span class="at">betweenness =</span> <span class="fu">centrality_betweenness</span>()</span>
+<span id="cb14-8"><a href="#cb14-8" aria-hidden="true" tabindex="-1"></a>  ) </span>
+<span id="cb14-9"><a href="#cb14-9" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb14-10"><a href="#cb14-10" aria-hidden="true" tabindex="-1"></a><span class="do">## Replot without Medici family </span></span>
+<span id="cb14-11"><a href="#cb14-11" aria-hidden="true" tabindex="-1"></a>flo_tbl_no_medici <span class="sc">%&gt;%</span> </span>
+<span id="cb14-12"><a href="#cb14-12" aria-hidden="true" tabindex="-1"></a>  <span class="fu">ggraph</span>(<span class="at">layout =</span> <span class="st">"stress"</span>) <span class="sc">+</span> </span>
+<span id="cb14-13"><a href="#cb14-13" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_edge_link0</span>(<span class="at">alpha =</span> <span class="fl">0.4</span>) <span class="sc">+</span></span>
+<span id="cb14-14"><a href="#cb14-14" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_node_point</span>(</span>
+<span id="cb14-15"><a href="#cb14-15" aria-hidden="true" tabindex="-1"></a>    <span class="fu">aes</span>(<span class="at">size =</span> degree, <span class="at">fill =</span> betweenness),</span>
+<span id="cb14-16"><a href="#cb14-16" aria-hidden="true" tabindex="-1"></a>    <span class="at">shape =</span> <span class="dv">21</span></span>
+<span id="cb14-17"><a href="#cb14-17" aria-hidden="true" tabindex="-1"></a>  ) <span class="sc">+</span></span>
+<span id="cb14-18"><a href="#cb14-18" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_node_text</span>(</span>
+<span id="cb14-19"><a href="#cb14-19" aria-hidden="true" tabindex="-1"></a>    <span class="fu">aes</span>(<span class="at">label =</span> name), <span class="at">repel =</span> <span class="cn">TRUE</span>, <span class="at">size =</span> <span class="fl">3.5</span>) <span class="sc">+</span></span>
+<span id="cb14-20"><a href="#cb14-20" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scale_fill_viridis_c</span>( <span class="at">option =</span> <span class="st">"cividis"</span>, <span class="at">name =</span> <span class="st">"Betweenness"</span>) <span class="sc">+</span></span>
+<span id="cb14-21"><a href="#cb14-21" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scale_size</span>(<span class="at">range =</span> <span class="fu">c</span>(<span class="dv">5</span>, <span class="dv">10</span>), <span class="at">name =</span> <span class="st">"Degree"</span>) <span class="sc">+</span></span>
+<span id="cb14-22"><a href="#cb14-22" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme_graph</span>() <span class="sc">+</span></span>
+<span id="cb14-23"><a href="#cb14-23" aria-hidden="true" tabindex="-1"></a>  <span class="fu">labs</span>(<span class="at">title =</span> <span class="st">"Florentine Marriage Network (Medici Removed)"</span>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="lab2_solutions_files/figure-html/unnamed-chunk-9-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+</div>
+<p>1.4. Run the code below. Based on the number of priors, which family appears the most important? Based on wealth? Reflect: What does a network perspective add?</p>
+<p><em>Answer: The Medici family did not have the most wealth nor did it have the most priors (a measure of how many times they held office). If we just looked at these measures, we would assume it wasn’t the most important family. This means they have both bridging and bonding social capital, allowing them to exert influence even though they were not the wealthiest or most politically dominant family by traditional measures.</em></p>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb15"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb15-1"><a href="#cb15-1" aria-hidden="true" tabindex="-1"></a>flo_tbl <span class="sc">%&gt;%</span> </span>
+<span id="cb15-2"><a href="#cb15-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">activate</span>(nodes) <span class="sc">%&gt;%</span></span>
+<span id="cb15-3"><a href="#cb15-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">as_tibble</span>() <span class="sc">%&gt;%</span> </span>
+<span id="cb15-4"><a href="#cb15-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">arrange</span>(<span class="fu">desc</span>(<span class="st">`</span><span class="at">#priors</span><span class="st">`</span>)) </span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output cell-output-stdout">
+<pre><code># A tibble: 16 × 6
+   name         wealth `#priors` `#ties` degree betweenness
+   &lt;chr&gt;         &lt;dbl&gt;     &lt;dbl&gt;   &lt;dbl&gt;  &lt;dbl&gt;       &lt;dbl&gt;
+ 1 Strozzi         146        74      29      4        9.33
+ 2 Albizzi          36        65       3      3       19.3 
+ 3 Acciaiuoli       10        53       2      1        0   
+ 4 Medici          103        53      54      6       47.5 
+ 5 Peruzzi          49        42      32      3        2   
+ 6 Ridolfi          27        38       4      3       10.3 
+ 7 Salviati         10        35       5      2       13   
+ 8 Castellani       20        22      18      3        5   
+ 9 Guadagni          8        21      14      4       23.2 
+10 Bischeri         44        12       9      3        9.5 
+11 Barbadori        55         0      14      2        8.5 
+12 Ginori           32         0       9      1        0   
+13 Lamberteschi     42         0      14      1        0   
+14 Pazzi            48         0       7      1        0   
+15 Pucci             3         0       1      0        0   
+16 Tornabuoni       48         0       7      3        8.33</code></pre>
+</div>
+</div>
+</section>
+</section>
+</section>
+</section>
+<section id="exercise-2-homophily-survey" class="level1">
+<h1>Exercise 2: Homophily Survey</h1>
+<p>Now we’ll turn to analyzing data from our homophily survey. In this survey, we collected information about an ego and five of their discussion partners (alters). All nonsensical responses and missing data have been dropped. We’ll read this file in from where it is stored (on Github) using the <code>read_csv()</code> function.</p>
+<p>The data is formatted in <code>long</code> format, where each row represents a different alter. This means that we will have 5 rows for each ego.</p>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb17"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb17-1"><a href="#cb17-1" aria-hidden="true" tabindex="-1"></a><span class="do">## read in survey responses </span></span>
+<span id="cb17-2"><a href="#cb17-2" aria-hidden="true" tabindex="-1"></a>responses <span class="ot">&lt;-</span> <span class="fu">read_csv</span>(<span class="st">"https://raw.githubusercontent.com/caseybreen/networks_course/main/data/homophily_survey.csv"</span>)</span>
+<span id="cb17-3"><a href="#cb17-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb17-4"><a href="#cb17-4" aria-hidden="true" tabindex="-1"></a><span class="do">## print out survey responses </span></span>
+<span id="cb17-5"><a href="#cb17-5" aria-hidden="true" tabindex="-1"></a>responses</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output cell-output-stdout">
+<pre><code># A tibble: 75 × 13
+   ego_id date      ego_gender ego_age ego_classyear ego_origin ego_ai alter_id
+    &lt;dbl&gt; &lt;chr&gt;     &lt;chr&gt;        &lt;dbl&gt; &lt;chr&gt;         &lt;chr&gt;      &lt;chr&gt;     &lt;dbl&gt;
+ 1      1 2/26/2026 F               19 Sophomore     Austin     No            1
+ 2      1 2/26/2026 F               19 Sophomore     Austin     No            2
+ 3      1 2/26/2026 F               19 Sophomore     Austin     No            3
+ 4      1 2/26/2026 F               19 Sophomore     Austin     No            4
+ 5      1 2/26/2026 F               19 Sophomore     Austin     No            5
+ 6      2 2/26/2026 M               20 Junior        Rest of US No            1
+ 7      2 2/26/2026 M               20 Junior        Rest of US No            2
+ 8      2 2/26/2026 M               20 Junior        Rest of US No            3
+ 9      2 2/26/2026 M               20 Junior        Rest of US No            4
+10      2 2/26/2026 M               20 Junior        Rest of US No            5
+# ℹ 65 more rows
+# ℹ 5 more variables: alter_classyear &lt;chr&gt;, alter_gender &lt;chr&gt;,
+#   alter_origin &lt;chr&gt;, alter_age &lt;dbl&gt;, alter_ai &lt;chr&gt;</code></pre>
+</div>
+</div>
+<p>First, let’s look at the columns:</p>
+<p><code>ego_id</code>: A unique identifier for each survey respondent (the ego in the ego network). Each respondent will appear five times in the dataset, once for each person they listed.</p>
+<p><code>date</code>: The date the survey response was submitted.</p>
+<p><code>ego_gender</code>: The gender of the respondent completing the survey.</p>
+<p><code>ego_age</code>: The age of the respondent.</p>
+<p><code>ego_classyear</code>: The respondent’s class year (Freshman, Sophomore, Junior, or Senior).</p>
+<p><code>ego_origin</code>: Where the respondent is from (e.g., Austin, Rest of Texas, Rest of the United States, or Rest of the world).</p>
+<p><code>ego_ai</code>: Whether the respondent reports having used AI (e.g., ChatGPT) on coursework in a way that violated course rules in the past 12 months.</p>
+<p><code>alter_id</code>: A numeric identifier for each discussion partner listed by the respondent. Each respondent could list up to five people, so this variable ranges from 1 to 5.</p>
+<p><code>alter_classyear</code>: The class year of the discussion partner listed by the respondent (if they are a student).</p>
+<p><code>alter_gender</code>: The gender of the discussion partner listed by the respondent.</p>
+<p><code>alter_origin</code>: Where the discussion partner listed by the respondent is from.</p>
+<p><code>alter_age</code>: The age of the discussion partner listed by the respondent.</p>
+<p><code>alter_ai</code>: Whether the respondent believes that the discussion partner person has used AI (e.g., ChatGPT) on coursework in a way that violated course rules in the past 12 months.</p>
+<section id="simple-explorations" class="level3">
+<h3 class="anchored" data-anchor-id="simple-explorations">Simple explorations</h3>
+<p>First, let’s look at the average age of discussion partners. To do this, we will need to use the <code>summarize()</code> function with the <code>mean()</code> function. The <code>summarise()</code> function collapses a table into a summary and produces one row with summary statistics (e.g, <code>mean()</code> or <code>median()</code>).</p>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb19"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb19-1"><a href="#cb19-1" aria-hidden="true" tabindex="-1"></a><span class="do">## calculate mean age of discussion partners</span></span>
+<span id="cb19-2"><a href="#cb19-2" aria-hidden="true" tabindex="-1"></a>responses <span class="sc">%&gt;%</span> </span>
+<span id="cb19-3"><a href="#cb19-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">summarize</span>(<span class="fu">mean</span>(alter_age))</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output cell-output-stdout">
+<pre><code># A tibble: 1 × 1
+  `mean(alter_age)`
+              &lt;dbl&gt;
+1              26.5</code></pre>
+</div>
+</div>
+<p>Does the average age of discussion partners vary by gender? Here, we can use the <code>group_by(ego_gender)</code> function to calculate the mean age of alters by gender.</p>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb21"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb21-1"><a href="#cb21-1" aria-hidden="true" tabindex="-1"></a><span class="do">## mean age of discussion partners by gender </span></span>
+<span id="cb21-2"><a href="#cb21-2" aria-hidden="true" tabindex="-1"></a>responses <span class="sc">%&gt;%</span> </span>
+<span id="cb21-3"><a href="#cb21-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">group_by</span>(ego_gender) <span class="sc">%&gt;%</span> </span>
+<span id="cb21-4"><a href="#cb21-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">summarize</span>(<span class="fu">mean</span>(alter_age))</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output cell-output-stdout">
+<pre><code># A tibble: 2 × 2
+  ego_gender `mean(alter_age)`
+  &lt;chr&gt;                  &lt;dbl&gt;
+1 F                       26.3
+2 M                       26.8</code></pre>
+</div>
+</div>
+<p>We can also look at the age of the youngest and oldest discussion partner, using the <code>summarize()</code> function along with <code>min()</code> and <code>max().</code></p>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb23"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb23-1"><a href="#cb23-1" aria-hidden="true" tabindex="-1"></a><span class="do">## calculate min and max age of discussion partner</span></span>
+<span id="cb23-2"><a href="#cb23-2" aria-hidden="true" tabindex="-1"></a>responses <span class="sc">%&gt;%</span> </span>
+<span id="cb23-3"><a href="#cb23-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">summarize</span>(<span class="fu">min</span>(alter_age), <span class="fu">max</span>(alter_age))</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output cell-output-stdout">
+<pre><code># A tibble: 1 × 2
+  `min(alter_age)` `max(alter_age)`
+             &lt;dbl&gt;            &lt;dbl&gt;
+1               16               56</code></pre>
+</div>
+</div>
+<p>Finally, we can also make a histogram plot of the ages of our discussion partners:</p>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb25"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb25-1"><a href="#cb25-1" aria-hidden="true" tabindex="-1"></a><span class="do">## calculate histogram plot of ages of our discussion partners</span></span>
+<span id="cb25-2"><a href="#cb25-2" aria-hidden="true" tabindex="-1"></a>responses <span class="sc">%&gt;%</span> </span>
+<span id="cb25-3"><a href="#cb25-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">ggplot</span>(<span class="fu">aes</span>(<span class="at">x =</span> alter_age)) <span class="sc">+</span> </span>
+<span id="cb25-4"><a href="#cb25-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_histogram</span>(<span class="at">color =</span> <span class="st">"black"</span>, <span class="at">fill =</span> <span class="st">"grey"</span>)  </span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="lab2_solutions_files/figure-html/unnamed-chunk-15-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+</div>
+<p>The above code:</p>
+<p>Uses the pipe <code>%&gt;%</code> to pass the <code>responses</code> dataframe into the next function. Then, it uses <code>ggplot(aes(x = alter_age))</code> to initialize a plot with alter_age on the x-axis. Finally, the <code>geom_histogram</code> function creates a histogram plot, where each bar is outlined in black and filled in with grey.</p>
+<p><strong>Interpret:</strong> why do you think discussion partners are clustered in the range of 18-25 and 45-60, with no discussion partners between 28 and 44?</p>
+<p><em>Answer: This is likely due to students interacting and having lots of discussion partners with other people around their age (e.g., other students) and then having discussion partners with their parents (45-60).</em></p>
+</section>
+<section id="homophily" class="level3">
+<h3 class="anchored" data-anchor-id="homophily">Homophily</h3>
+<p>Now, let’s examine homophily in our survey data. First, we will look at whether discussion networks in our class are homophilous with respect to gender.</p>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb26"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb26-1"><a href="#cb26-1" aria-hidden="true" tabindex="-1"></a><span class="do">## tabulate discussion partners gender </span></span>
+<span id="cb26-2"><a href="#cb26-2" aria-hidden="true" tabindex="-1"></a>gender_tabulated <span class="ot">&lt;-</span> responses <span class="sc">%&gt;%</span> </span>
+<span id="cb26-3"><a href="#cb26-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">count</span>(ego_gender, alter_gender)</span>
+<span id="cb26-4"><a href="#cb26-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb26-5"><a href="#cb26-5" aria-hidden="true" tabindex="-1"></a><span class="do">## plot discussion partners gender </span></span>
+<span id="cb26-6"><a href="#cb26-6" aria-hidden="true" tabindex="-1"></a>gender_tabulated <span class="sc">%&gt;%</span> </span>
+<span id="cb26-7"><a href="#cb26-7" aria-hidden="true" tabindex="-1"></a>  <span class="fu">ggplot</span>(<span class="fu">aes</span>(<span class="at">x =</span> alter_gender, <span class="at">y =</span> ego_gender, <span class="at">fill =</span> n)) <span class="sc">+</span></span>
+<span id="cb26-8"><a href="#cb26-8" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_tile</span>() <span class="sc">+</span></span>
+<span id="cb26-9"><a href="#cb26-9" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_text</span>(<span class="fu">aes</span>(<span class="at">label =</span> n), <span class="at">size =</span> <span class="dv">7</span>) <span class="sc">+</span></span>
+<span id="cb26-10"><a href="#cb26-10" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scale_fill_viridis_c</span>(<span class="at">option =</span> <span class="st">"cividis"</span>) <span class="sc">+</span></span>
+<span id="cb26-11"><a href="#cb26-11" aria-hidden="true" tabindex="-1"></a>  <span class="fu">labs</span>(</span>
+<span id="cb26-12"><a href="#cb26-12" aria-hidden="true" tabindex="-1"></a>    <span class="at">x =</span> <span class="st">"Alter Gender"</span>,</span>
+<span id="cb26-13"><a href="#cb26-13" aria-hidden="true" tabindex="-1"></a>    <span class="at">y =</span> <span class="st">"Ego Gender"</span>,</span>
+<span id="cb26-14"><a href="#cb26-14" aria-hidden="true" tabindex="-1"></a>    <span class="at">fill =</span> <span class="st">"Count"</span></span>
+<span id="cb26-15"><a href="#cb26-15" aria-hidden="true" tabindex="-1"></a>  ) </span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="lab2_solutions_files/figure-html/unnamed-chunk-16-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+</div>
+<p>Let’s break down the above code. First, <code>count(ego_gender, alter_gender)</code> applies the function <code>count()</code> to count the number of rows for each combination of the variables <code>ego_gender</code> and <code>alter_gender</code>. Each row in the resulting table represents the number of discussion ties reported between these two gender groups. We store this summarized table in a new object called <code>gender_tabulated</code>.</p>
+<p>Next, we visualize this information using <code>ggplot</code>.</p>
+<p>The <code>ggplot()</code> function initializes a plot using the summarized dataset, which we pass to it using the <code>%&gt;%</code> operator. Inside the <code>aes()</code> (aesthetic mapping), we specify how variables should appear in the visualization. Here, <code>alter_gender</code> is mapped to the x-axis, <code>ego_gender</code> to the y-axis, and the variable <code>n</code> (the count of ties) to the fill color.</p>
+<p><code>geom_tile()</code>: the function <code>geom_tile()</code> draws a heatmap where each square (tile) represents a combination of ego gender and alter gender. The color of the tile corresponds to the number of discussion ties between those groups.</p>
+<p><code>geom_text(aes(label = n), size = 7)</code>: the function <code>geom_text()</code> adds text labels to each tile. Inside <code>aes()</code>, we specify that the label should display the value of <code>n</code>, which shows the exact number of ties in each cell.</p>
+<p><code>scale_fill_viridis_c(option = "cividis")</code>: this function defines the color scale used for the tiles. The “cividis” palette is colorblind-friendly and makes it easier to distinguish different counts.</p>
+<p>Now let’s investigate homophily with respect to class year (e.g, “Freshman”, “Sophomore”, “Junior”, “Senior”).</p>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb27"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb27-1"><a href="#cb27-1" aria-hidden="true" tabindex="-1"></a><span class="do">## calculate data fot plot  </span></span>
+<span id="cb27-2"><a href="#cb27-2" aria-hidden="true" tabindex="-1"></a>class_year_tabulated <span class="ot">&lt;-</span> responses <span class="sc">%&gt;%</span> </span>
+<span id="cb27-3"><a href="#cb27-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">filter</span>(alter_classyear <span class="sc">%in%</span> <span class="fu">c</span>(<span class="st">"Freshman"</span>, <span class="st">"Sophomore"</span>, <span class="st">"Junior"</span>, <span class="st">"Senior"</span>)) <span class="sc">%&gt;%</span> </span>
+<span id="cb27-4"><a href="#cb27-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">mutate</span>(</span>
+<span id="cb27-5"><a href="#cb27-5" aria-hidden="true" tabindex="-1"></a>    <span class="at">ego_classyear =</span> <span class="fu">factor</span>(ego_classyear, <span class="at">levels =</span> <span class="fu">c</span>(<span class="st">"Freshman"</span>, <span class="st">"Sophomore"</span>, <span class="st">"Junior"</span>, <span class="st">"Senior"</span>)),</span>
+<span id="cb27-6"><a href="#cb27-6" aria-hidden="true" tabindex="-1"></a>    <span class="at">alter_classyear =</span> <span class="fu">factor</span>(alter_classyear, <span class="at">levels =</span> <span class="fu">c</span>(<span class="st">"Freshman"</span>, <span class="st">"Sophomore"</span>, <span class="st">"Junior"</span>, <span class="st">"Senior"</span>))</span>
+<span id="cb27-7"><a href="#cb27-7" aria-hidden="true" tabindex="-1"></a>  ) <span class="sc">%&gt;%</span> </span>
+<span id="cb27-8"><a href="#cb27-8" aria-hidden="true" tabindex="-1"></a>  <span class="fu">count</span>(ego_classyear, alter_classyear) </span>
+<span id="cb27-9"><a href="#cb27-9" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb27-10"><a href="#cb27-10" aria-hidden="true" tabindex="-1"></a><span class="do">## make visualization </span></span>
+<span id="cb27-11"><a href="#cb27-11" aria-hidden="true" tabindex="-1"></a>class_year_tabulated <span class="sc">%&gt;%</span> </span>
+<span id="cb27-12"><a href="#cb27-12" aria-hidden="true" tabindex="-1"></a>  <span class="fu">ggplot</span>(<span class="fu">aes</span>(<span class="at">x =</span> ego_classyear , <span class="at">y =</span> alter_classyear, <span class="at">fill =</span> n)) <span class="sc">+</span></span>
+<span id="cb27-13"><a href="#cb27-13" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_tile</span>(<span class="at">color =</span> <span class="st">"white"</span>) <span class="sc">+</span></span>
+<span id="cb27-14"><a href="#cb27-14" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_text</span>(<span class="fu">aes</span>(<span class="at">label =</span> n), <span class="at">size =</span> <span class="dv">4</span>) <span class="sc">+</span></span>
+<span id="cb27-15"><a href="#cb27-15" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scale_fill_viridis_c</span>(<span class="at">option =</span> <span class="st">"cividis"</span>) <span class="sc">+</span></span>
+<span id="cb27-16"><a href="#cb27-16" aria-hidden="true" tabindex="-1"></a>  <span class="fu">labs</span>(</span>
+<span id="cb27-17"><a href="#cb27-17" aria-hidden="true" tabindex="-1"></a>    <span class="at">x =</span> <span class="st">"Ego Class Year"</span>,</span>
+<span id="cb27-18"><a href="#cb27-18" aria-hidden="true" tabindex="-1"></a>    <span class="at">y =</span> <span class="st">"Alter Class Year"</span>,</span>
+<span id="cb27-19"><a href="#cb27-19" aria-hidden="true" tabindex="-1"></a>    <span class="at">fill =</span> <span class="st">"Count"</span></span>
+<span id="cb27-20"><a href="#cb27-20" aria-hidden="true" tabindex="-1"></a>  ) </span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="lab2_solutions_files/figure-html/unnamed-chunk-17-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+</div>
+<p>Interesting… nobody in our class listed a Freshman as one of their top five discussion partners.</p>
+<p>The code above is nearly identical to the previous chunk that examined gender. However, we add an additional step that converts the class year variables into ordered factor variables: <code>factor(ego_classyear, levels = c("Freshman", "Sophomore", "Junior", "Senior"))</code>.</p>
+<p>This ensures that the plot displays the class years in a meaningful order (Freshman → Sophomore → Junior → Senior), rather than the default alphabetical order.</p>
+<section id="exercise-questions-2.1-2.5" class="level4">
+<h4 class="anchored" data-anchor-id="exercise-questions-2.1-2.5">Exercise Questions (2.1-2.5)</h4>
+<p>2.1 Looking at the tile visualization of ego gender and discussion partner gender, do you see evidence of gender homophily? Why or why not?</p>
+<p><em>Yes, we see strong evidence of gender homophily. People are much more likely to have discussion aprtners</em></p>
+<p>2.2 What percentage of cross-gender ties (men → women or women → men) do we observe in the data? Use the information in <code>gender_tabulated</code> to calculate this value (or use R code to calculate directly).</p>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb28"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb28-1"><a href="#cb28-1" aria-hidden="true" tabindex="-1"></a>gender_tabulated </span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output cell-output-stdout">
+<pre><code># A tibble: 4 × 3
+  ego_gender alter_gender     n
+  &lt;chr&gt;      &lt;chr&gt;        &lt;int&gt;
+1 F          F               36
+2 F          M                9
+3 M          F                6
+4 M          M               24</code></pre>
+</div>
+</div>
+<p>Assume that men and women are equally represented in the our class. In a world with no homophily and approximately equal numbers of men and women, what percentage of ties would we expect to be cross-gender (using <span class="math inline">\(2pq\)</span> formula)? How does this compare to what we observed? Is this evidence for or against homophily?</p>
+<p><em>Answer:</em></p>
+<p><em>Observed: (9 + 6) / (36 + 24 + 9 + 6) = 0.2</em></p>
+<p><em>Expected (no homophily) = 2pq = 2 * 0.5 * 0.5 = 0.5</em></p>
+<p><em>Because the observed proportion of cross-gender ties (0.20) is much lower than the expected proportion under random mixing (0.50), this provides clear evidence of <strong>gender homophily</strong>. Individuals form discussion ties with people of the same gender much more often than we would expect if partners were chosen randomly with respect to gender.</em></p>
+<p>2.3 What percentage of ties are between people of the same class year? Hint: update the summarize function below to calculate the mean number of times that <code>alter_classyear</code> is equal to the <code>ego_classyear</code>. Note that in R, equality is tested using two equal signs (==).</p>
+<p><em>Answer: Approximately 73% of ties are between people of the same class year.</em></p>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb30"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb30-1"><a href="#cb30-1" aria-hidden="true" tabindex="-1"></a><span class="do">## test equivalency in R </span></span>
+<span id="cb30-2"><a href="#cb30-2" aria-hidden="true" tabindex="-1"></a> responses <span class="sc">%&gt;%</span> </span>
+<span id="cb30-3"><a href="#cb30-3" aria-hidden="true" tabindex="-1"></a>   <span class="fu">filter</span>(alter_classyear <span class="sc">%in%</span> <span class="fu">c</span>(<span class="st">"Freshman"</span>, <span class="st">"Sophomore"</span>, <span class="st">"Junior"</span>, <span class="st">"Senior"</span>)) <span class="sc">%&gt;%</span> </span>
+<span id="cb30-4"><a href="#cb30-4" aria-hidden="true" tabindex="-1"></a>   <span class="fu">summarize</span>(<span class="fu">mean</span>(alter_classyear <span class="sc">==</span> ego_classyear))</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output cell-output-stdout">
+<pre><code># A tibble: 1 × 1
+  `mean(alter_classyear == ego_classyear)`
+                                     &lt;dbl&gt;
+1                                    0.727</code></pre>
+</div>
+</div>
+<p>2.4 Which mechanisms do you think are most responsible for the finding you observed in 2.3?</p>
+<p><em>Answer:</em></p>
+<ul>
+<li><p><em>Opportunity: students are more likely to have the opportunity to meet and become discussion partners with other students who are between the age of 18–25.</em></p></li>
+<li><p><em>Selection: Students may prefer to become discussion partners with others of the same year, as they may share similar experiences, interests, and communication styles.</em></p></li>
+</ul>
+<p>2.5. Revisit our survey data. Use the <code>filter()</code> function and the <code>alter_age</code> variable to restrict the data to discussion partners older than 40.</p>
+<p>Among these ties, what percentage are cross-gender ties (men → women or women → men)? Does this look different from the percentage of cross-gender ties when we use all discussion partners without filtering by age? Does this pattern surprise you, and why or why not?</p>
+<p>Create a new code chunk to do this. Copy and paste code from above, but include a line to <code>filter()</code> to alters over age 40.</p>
+<p><em>Answer: Restricting to discussion partners over the age of 40, both male and female respondents appear to report more <strong>female</strong> discussion partners than <strong>male</strong> discussion partners. However, the number of ties involving individuals over age 40 is small, so this pattern should be interpreted cautiously. One possible explanation is that older women may be more likely to serve as confidants or discussion partners in personal networks.</em></p>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb32"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb32-1"><a href="#cb32-1" aria-hidden="true" tabindex="-1"></a><span class="do">## tabulate discussion partners gender </span></span>
+<span id="cb32-2"><a href="#cb32-2" aria-hidden="true" tabindex="-1"></a>gender_tabulated <span class="ot">&lt;-</span> responses <span class="sc">%&gt;%</span> </span>
+<span id="cb32-3"><a href="#cb32-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">filter</span>(alter_age <span class="sc">&gt;</span> <span class="dv">40</span>) <span class="sc">%&gt;%</span> </span>
+<span id="cb32-4"><a href="#cb32-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">count</span>(ego_gender, alter_gender)</span>
+<span id="cb32-5"><a href="#cb32-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb32-6"><a href="#cb32-6" aria-hidden="true" tabindex="-1"></a><span class="do">## plot discussion partners gender </span></span>
+<span id="cb32-7"><a href="#cb32-7" aria-hidden="true" tabindex="-1"></a>gender_tabulated <span class="sc">%&gt;%</span> </span>
+<span id="cb32-8"><a href="#cb32-8" aria-hidden="true" tabindex="-1"></a>  <span class="fu">ggplot</span>(<span class="fu">aes</span>(<span class="at">x =</span> alter_gender, <span class="at">y =</span> ego_gender, <span class="at">fill =</span> n)) <span class="sc">+</span></span>
+<span id="cb32-9"><a href="#cb32-9" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_tile</span>() <span class="sc">+</span></span>
+<span id="cb32-10"><a href="#cb32-10" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_text</span>(<span class="fu">aes</span>(<span class="at">label =</span> n), <span class="at">size =</span> <span class="dv">7</span>) <span class="sc">+</span></span>
+<span id="cb32-11"><a href="#cb32-11" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scale_fill_viridis_c</span>(<span class="at">option =</span> <span class="st">"cividis"</span>) <span class="sc">+</span></span>
+<span id="cb32-12"><a href="#cb32-12" aria-hidden="true" tabindex="-1"></a>  <span class="fu">labs</span>(</span>
+<span id="cb32-13"><a href="#cb32-13" aria-hidden="true" tabindex="-1"></a>    <span class="at">x =</span> <span class="st">"Alter Gender"</span>,</span>
+<span id="cb32-14"><a href="#cb32-14" aria-hidden="true" tabindex="-1"></a>    <span class="at">y =</span> <span class="st">"Ego Gender"</span>,</span>
+<span id="cb32-15"><a href="#cb32-15" aria-hidden="true" tabindex="-1"></a>    <span class="at">fill =</span> <span class="st">"Count"</span></span>
+<span id="cb32-16"><a href="#cb32-16" aria-hidden="true" tabindex="-1"></a>  ) </span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="lab2_solutions_files/figure-html/unnamed-chunk-20-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+</div>
+</section>
+</section>
+</section>
+<section id="optional-exercise-sir-models-on-networks" class="level1">
+<h1>Optional Exercise: SIR Models on Networks</h1>
+<p>If you are curious about how network structure shapes disease spread, you can explore a Shiny app demo’d in class called SimNetwork developed by Alison Wu:</p>
+<p>https://github.com/alisonswu/shiny-SimNetwork</p>
+<p>This interactive app allows you to:</p>
+<ul>
+<li><p>Select different network structures</p></li>
+<li><p>Adjust disease parameters (e.g., transmission rate, recovery rate)</p></li>
+<li><p>Visualize SIR-like infectious disease dynamics on networks</p></li>
+</ul>
+<p>You may run this on your own time if you’d like to experiment with dynamic processes on networks. To launch the app locally, you will need to run this code:</p>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb33"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb33-1"><a href="#cb33-1" aria-hidden="true" tabindex="-1"></a><span class="do">## uncomment lines below to install and run the shiny app</span></span>
+<span id="cb33-2"><a href="#cb33-2" aria-hidden="true" tabindex="-1"></a><span class="co"># install.packages("shiny")</span></span>
+<span id="cb33-3"><a href="#cb33-3" aria-hidden="true" tabindex="-1"></a><span class="co"># library(shiny)</span></span>
+<span id="cb33-4"><a href="#cb33-4" aria-hidden="true" tabindex="-1"></a><span class="co"># </span></span>
+<span id="cb33-5"><a href="#cb33-5" aria-hidden="true" tabindex="-1"></a><span class="co"># runGitHub("shiny-SimNetwork", "alisonswu")</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</div>
+<p><code>runGitHub()</code> is a function from the <code>shiny</code> package that allows us to run a Shiny app directly from a GitHub repository.</p>
+<p>This app is divided into three main steps:</p>
+<ol type="1">
+<li>Choose a network structure</li>
+</ol>
+<p>Under “Step 1: Choose Network”, you select</p>
+<ul>
+<li><p>A network type among options <code>Scale Free</code>, <code>Small World</code>, <code>Scale Free</code>, and <code>Lattice</code> from the dropdown menu.</p></li>
+<li><p><code>Population size</code>, which determines how many individuals (nodes) are included in the network.</p></li>
+</ul>
+<ol start="2" type="1">
+<li>Choose disease parameters</li>
+</ol>
+<p>Under “Step 2: Choose disease dynamic”, you can alter the following parameters:</p>
+<ul>
+<li><p><code>Number of Initial Infections</code>: the number of individuals who are infected at time t = 1.</p></li>
+<li><p><code>Infection Probability</code>: the probability (ranging from 0 to 1) that the infection transmits across a connection.</p></li>
+<li><p><code>Infection Duration</code>: how long an individual remains infected before transitioning to the recovered state.</p></li>
+</ul>
+<ol start="3" type="1">
+<li>Run the simulation</li>
+</ol>
+<p>Click the <code>simulate</code> button to begin the simulation.</p>
+<p>The output is displayed in two main tabs:</p>
+<ul>
+<li>Network visualization</li>
+</ul>
+<p>This shows nodes (individuals), edges (connections), color-coded health status including susceptible (green), infected (red), recovered (yellow).</p>
+<p>You can move the time slider to observe how the infection spreads step by step. You can also click <code>start/pause animation</code> (Step 4) to automatically play or pause the dynamic process.</p>
+<ul>
+<li>SIR plots (line plot and stacked area plot)</li>
+</ul>
+<p>They show the population-level dynamics over time: the percentage of Susceptible (S), the percentage of Infected (I), the percentage of Recovered (R). The line plot emphasizes trends and infection peaks, while the stacked area plot shows how the population composition changes over time.</p>
+<section id="exercises" class="level2">
+<h2 class="anchored" data-anchor-id="exercises">Exercises</h2>
+<p><strong>3.1</strong>: Run the simulation using different network structures. Keep all disease settings the same. Which network structure produced the largest outbreak? What features of that network’s structure might make disease spread more easily?</p>
+<p><strong>3.2</strong>: Choose two disease parameters and experiment with them. Change one parameter at a time while keeping the network type set to “small world” and all other settings the same. After each change, run the simulation and observe the results. Which parameters, when increased or decreased, make it more likely that the entire population becomes infected? List each parameters and briefly explain why increasing/decreasing them leads to a larger outbreak.</p>
+</section>
+</section>
+
+</main>
+<!-- /main column -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

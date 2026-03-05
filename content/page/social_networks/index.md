@@ -70,7 +70,7 @@ At the conclusion of this course, students will be able to:
 | Feb 24 | Lecture 10 | [Contagions I](#feb-24) | — |
 | Feb 26 | Lecture 11 | [Contagions II](#feb-26) | — |
 | Mar 3 | Lecture 12 | [Social influence, herding & cascades](#mar-3) | — |
-| Mar 5 | Lab 2 | [Network visualization & homophily indices](#mar-5) | **Lab 2 due** |
+| Mar 5 | Lab 2 | [Network visualization & homophily indices](#mar-5) | **[Lab 2 due](https://github.com/caseybreen/networks_course/blob/main/labs/lab2.qmd)** |
 | Mar 10 | Lecture 13 | [Community detection](#mar-10) | — |
 | Mar 12 | Lecture 14 | [Empirical Studies of Contagion](#mar-12) |  |
 | Mar 17 | — | [Spring break — no class](#mar-17) | — |

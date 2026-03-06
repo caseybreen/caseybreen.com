@@ -31,7 +31,7 @@ I am broadly interested in the areas of population health and social networks. M
 <ol reversed>
 
 <li>
-<b>Casey F. Breen</b>. “Black-White Mortality Crossover: New Evidence from Social Security Mortality Records.” <!-- Links to pubs, abstract, etc. -->
+<b>Casey F. Breen</b>. “The Black-White Mortality Crossover: New Evidence from Social Security Mortality Records.” <!-- Links to pubs, abstract, etc. -->
 
 <a style="white-space: nowrap" href="https://osf.io/preprints/socarxiv/ax9u3_v2" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Open Access</button> </a> 
@@ -45,7 +45,7 @@ The Black-White mortality crossover is well-studied demographic paradox. Black A
 </li>
 
 <li>
-<b>Casey F. Breen</b> and Nathan Seltzer. “Demographic Perspectives on Predicting Individual-level Mortality.” <!-- Links to pubs, abstract, etc. -->
+<b>Casey F. Breen</b> and Nathan Seltzer. “Structured Inequality, Uncertain Lifespans: Demographic Perspectives on Predicting Individual-level Longevity.” <!-- Links to pubs, abstract, etc. -->
 
 <a style="white-space: nowrap" href="https://osf.io/preprints/socarxiv/znsqg_v2" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Open Access</button> </a> 

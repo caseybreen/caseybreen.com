@@ -71,8 +71,8 @@ At the conclusion of this course, students will be able to:
 | Feb 26 | Lecture 11 | [Contagions II](#feb-26) | — |
 | Mar 3 | Lecture 12 | [Social influence, herding & cascades](#mar-3) | — |
 | Mar 5 | Lab 2 | [Network visualization & homophily indices](#mar-5) | **[Lab 2 due](https://github.com/caseybreen/networks_course/blob/main/labs/lab2.qmd)** |
-| Mar 10 | Lecture 13 | [Community detection](#mar-10) | — |
-| Mar 12 | Lecture 14 | [Empirical Studies of Contagion](#mar-12) |  |
+| Mar 10 | Lecture 13 | [Coordination Cascades](#mar-10) | — |
+| Mar 12 | Lecture 14 | [Community Detection + Empirical Studies](#mar-12) |  |
 | Mar 17 | — | [Spring break — no class](#mar-17) | — |
 | Mar 19 | — | [Spring break — no class](#mar-19) | — |
 | Mar 24 | Lecture 15 | [RDS: Guest Lecture](#mar-24) | — |
@@ -576,10 +576,9 @@ allowfullscreen
 ---
 
 ### March 10 — Lecture 13 {#mar-10}
-**Community Detection**
+**Coordination Cascades**
 
 **Lab 2 Due**
-
 
 <div style="position:relative; padding-top:56.25%;">
   <iframe
@@ -606,7 +605,7 @@ allowfullscreen
 ---
 
 ### March 12 — Lecture 14 {#mar-12}
-**Empirical Studies of Contagion**  
+**Community Detection + Empirical Studies of Contagion**  
 * Centola, Damon. 2010. “The Spread of Behavior in an Online Social Network Experiment.” *Science*.  
 
 <div style="position:relative; padding-top:56.25%;">
@@ -644,8 +643,6 @@ allowfullscreen
 ### March 24 — Lecture 15 {#mar-24}
 **Guest Lecture: RDS in Practice**  
 * Salganik, Matthew J., and Douglas D. Heckathorn. 2004. “Sampling and Estimation in Hidden Populations Using Respondent-Driven Sampling.” *Sociological Methodology*. 
-* Breen, Casey F., et al. 2025. “Estimating Death Rates in Complex Humanitarian Emergencies Using the Network Survival Method.” *American Journal of Epidemiology*.  
-* Feehan, Dennis M., and Matthew J. Salganik. 2016. “Generalizing the Network Scale-up Method.” *Sociological Methodology*.  
 
 ---
 

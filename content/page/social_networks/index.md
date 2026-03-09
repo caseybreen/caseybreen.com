@@ -72,8 +72,8 @@ At the conclusion of this course, students will be able to:
 | Feb 26 | Lecture 11 | [Contagions II](#feb-26) | — |
 | Mar 3 | Lecture 12 | [Social influence, herding & cascades](#mar-3) | — |
 | Mar 5 | Lab 2 | [Network visualization & homophily indices](#mar-5) | **[Lab 2 due](https://github.com/caseybreen/networks_course/blob/main/labs/lab2.qmd)** |
-| Mar 10 | Lecture 13 | [Coordination Cascades](#mar-10) | — |
-| Mar 12 | Lecture 14 | [Community Detection + Empirical Studies](#mar-12) | **[Optional Advanced Problems](https://docs.google.com/document/d/1Wl0O9kz9ZrklmcbXIeBNexFdOHgfT5iJbijj7fF4pAU/edit?usp=sharing)** |
+| Mar 10 | Lecture 13 | [Coordination Cascades](#mar-10) | **[Optional Advanced Problems](https://docs.google.com/document/d/1Wl0O9kz9ZrklmcbXIeBNexFdOHgfT5iJbijj7fF4pAU/edit?usp=sharing)**|
+| Mar 12 | Lecture 14 | [Community Detection + Empirical Studies](#mar-12) | — |
 | Mar 17 | — | [Spring break — no class](#mar-17) | — |
 | Mar 19 | — | [Spring break — no class](#mar-19) | — |
 | Mar 24 | Lecture 15 | [RDS: Guest Lecture](#mar-24) | — |
@@ -604,6 +604,8 @@ allowfullscreen
      ">
   </a>
 </div>
+
+**[Optional Advanced Problems](https://docs.google.com/document/d/1Wl0O9kz9ZrklmcbXIeBNexFdOHgfT5iJbijj7fF4pAU/edit?usp=sharing)**
 
 ---
 

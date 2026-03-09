@@ -55,7 +55,8 @@ At the conclusion of this course, students will be able to:
 
 | Date | Type | Topic | Due |
 |------|------|-------|-----|
-| Jan 13 | Lecture 1 | [Introduction to course + syllabus](#jan-13) | — |
+| Jan 13 | Lecture 1 | [Introduction to course + syllabus](#jan-13) | [Key terminology](https://docs.google.com/document/d/1730gUAAAE_79An5Ghy0dXV3-8zVtJ73Oj6dr0FlkcTU/edit?usp=sharing)
+ |
 | Jan 15 | Lecture 2 | [Basic graph theory / giant component / degree distributions](#jan-15) | — |
 | Jan 20 | Lecture 3 | [Personal networks & social isolation](#jan-20) | — |
 | Jan 22 | Lab 1 | [Intro to R and iGraph](#jan-22) | **Lab 1 due** |
@@ -79,12 +80,14 @@ At the conclusion of this course, students will be able to:
 | Mar 26 | Lecture 16 | [Concurrency and the HIV Epidemic](#mar-26) | **[Homework 2 due](https://docs.google.com/document/d/1ql3A8bqiCrDi_2KA389NJwxp3S58zNVjM0mS7zQw_1Q/edit?usp=sharing)** |
 | Mar 31 | Review | [Exam 2 review](#mar-31) | — |
 | Apr 2  | Exam   | [Exam 2](#apr-2) | **Exam 2** |
-| Apr 7  | Lecture 17 | [Final project overview & meet-up](#apr-7) | — |
-| Apr 9  | Lecture 18 | [Class Wrap-Up](#apr-9) | **Homework 3 due** |
-| Apr 14 | Lab 3 | [Network scale-up method](#apr-14) | **Lab 3 due** |
-| Apr 16 | Flex | [Final project preparation](#apr-16) | — |
-| Apr 21 | Presentation | [Final presentations](#apr-21) | — |
+| Apr 7  | Final Project | [Final project overview & meet-up](#apr-7) | — |
+| Apr 9  | Lab 3 | [Network scale-up method](#apr-9) |**Lab 3 due** |
+| Apr 14 | Final Project | [Final project preparation](#apr-14) | **Homework 3 due**  |
+| Apr 16 | Lecture 18 | [Class Wrap-Up ](#apr-16) | — |
+| Apr 21 | Presentation | [Final presentations](#apr-21) | **[Podcast Project due](https://docs.google.com/document/d/1u8zsuRGVLHfjkab6lYLb9v8uBvgw-6cru2UuDukYhRA/edit?usp=sharing)**|
 | Apr 23 | Presentation | [Final presentations](#apr-23) | — |
+
+
 ---
 
 
@@ -692,14 +695,6 @@ allowfullscreen
 ---
 
 ### April 9 — Lecture 18 {#apr-9}
-**Class Wrap-up**  
-* Rand, David G., Samuel Arbesman, and Nicholas A. Christakis. 2011. “Dynamic Social Networks Promote Cooperation in Experiments with Humans.” *PNAS*.
-
-**Homework 3 Due**
-
----
-
-### April 14 — Lab 3 {#apr-14}
 **Network scale-up method**  
 
 * Breen, Casey F., et al. 2025. “Estimating Death Rates in Complex Humanitarian Emergencies Using the Network Survival Method.” American Journal of Epidemiology.
@@ -709,13 +704,20 @@ allowfullscreen
 
 ---
 
-### April 16 — Presentation Prep {#apr-16}
-**Final Project Prep (Flex Day)**
+### April 14 —Final Project Preparation {#apr-14}
+
+
+---
+
+### April 16 — Class Wrap-up {#apr-16}
+
 
 ---
 
 ### April 21 — Presentations {#apr-21}
 **Mini–conference — Final Presentation**
+
+**[Podcast Project Due](https://docs.google.com/document/d/1u8zsuRGVLHfjkab6lYLb9v8uBvgw-6cru2UuDukYhRA/edit?usp=sharing)**
 
 ### April 23 — Presentations {#apr-23}
 **Mini–conference — Final Presentation**

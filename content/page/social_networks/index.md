@@ -73,7 +73,7 @@ At the conclusion of this course, students will be able to:
 | Mar 3 | Lecture 12 | [Social influence, herding & cascades](#mar-3) | — |
 | Mar 5 | Lab 2 | [Network visualization & homophily indices](#mar-5) | **[Lab 2 due](https://github.com/caseybreen/networks_course/blob/main/labs/lab2.qmd)** |
 | Mar 10 | Lecture 13 | [Coordination Cascades](#mar-10) | — |
-| Mar 12 | Lecture 14 | [Community Detection + Empirical Studies](#mar-12) |  |
+| Mar 12 | Lecture 14 | [Community Detection + Empirical Studies](#mar-12) | **[Optional Advanced Problems](https://docs.google.com/document/d/1Wl0O9kz9ZrklmcbXIeBNexFdOHgfT5iJbijj7fF4pAU/edit?usp=sharing)** |
 | Mar 17 | — | [Spring break — no class](#mar-17) | — |
 | Mar 19 | — | [Spring break — no class](#mar-19) | — |
 | Mar 24 | Lecture 15 | [RDS: Guest Lecture](#mar-24) | — |
@@ -82,7 +82,7 @@ At the conclusion of this course, students will be able to:
 | Apr 2  | Exam   | [Exam 2](#apr-2) | **Exam 2** |
 | Apr 7  | Final Project | [Final project overview & meet-up](#apr-7) | — |
 | Apr 9  | Lab 3 | [Network scale-up method](#apr-9) |**Lab 3 due** |
-| Apr 14 | Final Project | [Final project preparation](#apr-14) | **Homework 3 due**  |
+| Apr 14 | Final Project | [Final project preparation](#apr-14) | **[Homework 3 due](https://docs.google.com/document/d/1CmLGWYMnHnq6O3NL1f1LCJ5FKFZAMN4HLRRC5LPSeoY/edit?usp=sharing)**  |
 | Apr 16 | Lecture 18 | [Class Wrap-Up ](#apr-16) | — |
 | Apr 21 | Presentation | [Final presentations](#apr-21) | **[Podcast Project due](https://docs.google.com/document/d/1u8zsuRGVLHfjkab6lYLb9v8uBvgw-6cru2UuDukYhRA/edit?usp=sharing)**|
 | Apr 23 | Presentation | [Final presentations](#apr-23) | — |
@@ -690,7 +690,8 @@ allowfullscreen
 ---
 
 ### April 7 — Lecture 17 {#apr-7}
-**Final Project Overview + Class Project Meet-up Day**
+
+**Final Project Overview + Meet-up Day**
 
 ---
 
@@ -704,12 +705,18 @@ allowfullscreen
 
 ---
 
-### April 14 —Final Project Preparation {#apr-14}
+### April 14 — Final Project Preparation {#apr-14}
 
+**Final Project Meet-up Day**
 
 ---
 
 ### April 16 — Class Wrap-up {#apr-16}
+
+**Recap and synthesis of class material; Course evaluations**
+
+* Watts, Duncan J., and Steven H. Strogatz. 1998. “Collective Dynamics of ‘Small-World’ Networks.” Nature 393(6684):440–42. doi:10.1038/30918.
+
 
 
 ---

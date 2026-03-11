@@ -300,6 +300,7 @@ Apply machine learning algorithms and Facebook user counts to predict overall le
 ### Thurs, March 12 — Probability and Non-Probability Sampling {#week-8}
 
 * Stedman, Richard C., Nancy A. Connelly, Thomas A. Heberlein, Daniel J. Decker, and Shorna B. Allred. 2019. ‘The End of the (Research) World As We Know It? Understanding and Coping With Declining Response Rates to Mail Surveys’. Society & Natural Resources 32(10):1139–54. doi: 10.1080/08941920.2019.1587127.★
+* Schneider, Daniel, and Kristen Harknett. 2022. “What’s to Like? Facebook as a Tool for Survey Data Collection.” Sociological Methods & Research 51(1):108–40. doi:10.1177/0049124119882477.★
 * Lehdonvirta, Vili, Atte Oksanen, Pekka Räsänen, and Grant Blank. 2021. ‘Social Media, Web, and Panel Surveys: Using Non-Probability Samples in Social and Policy Research’. Policy & Internet 13(1):134–55. doi: 10.1002/poi3.238.
 * Elliott, Michael R., and Richard Valliant. 2017. ‘Inference for Nonprobability Samples’. Statistical Science 32(2):249–64.
 * Wang, Wei, David Rothschild, Sharad Goel, and Andrew Gelman. 2015. ‘Forecasting Elections with Non-Representative Polls’. International Journal of Forecasting 31(3):980–91. doi: 10.1016/j.ijforecast.2014.06.001.★

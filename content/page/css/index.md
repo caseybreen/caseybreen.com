@@ -41,9 +41,9 @@ problems based on existing research papers.
 | 4  | Thurs, February 5 | Lab | [Lab 1 – Social Data Collection](#week-4) | [Lab 1](https://github.com/caseybreen/css_course/blob/main/labs/lab1/css_lab1.qmd) |
 | 5  | Thurs, February 12 | Lecture | [Machine Learning + Prediction I](#week-5) | [Demo — DHS data](https://github.com/caseybreen/css_course/blob/main/labs/in_class_exercises/01_dhs_data_example.Rmd)| 
 | 6  | Thurs, February 19 | Lecture | [Final Paper Topic Pitches](#week-11) | [Demo — Data Visualization](https://github.com/caseybreen/css_course/blob/main/labs/in_class_exercises/02_data_viz.Rmd)| 
-| 7  | Thurs, February 26 | Lecture | [Machine Learning + Prediction II](#week-6) |  [Demo — OCR](https://github.com/caseybreen/css_course/blob/main/labs/in_class_exercises/03_pdf_ocr.Rmd)|
+| 7  | Thurs, February 26 | Lecture | [Machine Learning + Prediction II](#week-6) | [Demo — OCR](https://github.com/caseybreen/css_course/blob/main/labs/in_class_exercises/03_pdf_ocr.Rmd)|
 | 8  | Thurs, March 5 | Lab | [Lab 2 – Machine Learning](#week-7) | [Lab 2](https://github.com/caseybreen/css_course/blob/main/labs/lab2/css_lab2.qmd)|
-| 9  | Thurs, March 12 | Lecture | [Non-probability sampling](#week-8) | | 
+| 9  | Thurs, March 12 | Lecture | [Non-probability sampling](#week-8) | [Demo - Google Trends](https://github.com/caseybreen/css_course/blob/main/labs/in_class_exercises/04_google_trends.Rmd)  | 
 | 10 | Thurs, March 19 | — | *Spring Break — No Class* | | 
 | 11 | Thurs, March 26 | Lecture | [Social Networks](#week-9) | | 
 | 12 | Thurs, April 2 | Lab | [Lab 3 – Non-probability sampling](#week-12) | [Lab 3](https://github.com/caseybreen/css_course/blob/main/labs/lab3/css_lab3.qmd)|

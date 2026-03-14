@@ -27,7 +27,6 @@ analyze network data, and examine how networks are applied in both academic rese
 public health (e.g., HIV prevention at CDC and UNAIDS), sociology (e.g., how friendship networks influence educational outcomes), 
 and technology (e.g., the rise and diffusion of social media platforms in Silicon Valley). We will combine theory, empirical research, 
 and hands-on data analysis to build a foundational understanding of social networks.
-
 ---
 
 ## Learning Outcomes
@@ -648,13 +647,11 @@ allowfullscreen
 ### March 24 — Lecture 15 {#mar-24}
 **Guest Lecture: RDS in Practice**  
 * Salganik, Matthew J., and Douglas D. Heckathorn. 2004. “Sampling and Estimation in Hidden Populations Using Respondent-Driven Sampling.” *Sociological Methodology*. 
-
 ---
 
 ### March 26 — Concurrency and the HIV Epidemic {#mar-26}
 
 **Homework 2 Due**
-
 
 <div style="position:relative; padding-top:56.25%;">
   <iframe
@@ -791,3 +788,6 @@ Professor and the Teaching Assistant.
 
 This course is largely based on an undergraduate [course](https://dennisfeehan.org/teaching/2025fa_demog180/) originally developed by the wonderful Prof. Dennis Feehan at UC Berkeley.
 I am grateful for his generosity in sharing materials (especially lecture slides) and pedagogical approaches that informed the structure and content of this class. 
+
+
+

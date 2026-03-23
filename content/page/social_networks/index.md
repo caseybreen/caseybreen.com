@@ -649,6 +649,30 @@ allowfullscreen
 ### March 24 — Lecture 15 {#mar-24}
 **Guest Lecture: RDS in Practice**  
 * Salganik, Matthew J., and Douglas D. Heckathorn. 2004. “Sampling and Estimation in Hidden Populations Using Respondent-Driven Sampling.” *Sociological Methodology*. 
+
+
+<div style="position:relative; padding-top:56.25%;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vS3meirx6YHQEdxXQflN1XO3FwwhCj7bZWENPc0wnK4e_k8JCgFNuEGFyLeB8o_atG55DmwDCOVRAzP/pubembed?start=false&loop=false&delayms=60000"allowfullscreen
+    style="position:absolute; top:0; left:0; width:100%; height:100%;"
+  ></iframe>
+  
+   <!-- click-capture only on the lower-right "Google Slides" area -->
+  <a href="https://drive.google.com/drive/folders/1-xt639Jn8B6Ak4wxSVg5JOFG5SerQSHo?usp=sharing"
+     target="_blank" rel="noopener noreferrer"
+     aria-label="Open course folder"
+     style="
+       position:absolute;
+       right:8px;
+       bottom:8px;
+       width:170px;
+       height:56px;
+       z-index:10;
+       background:transparent;
+     ">
+  </a>
+</div>
+
 ---
 
 ### March 26 — Concurrency and the HIV Epidemic {#mar-26}

@@ -742,7 +742,7 @@ allowfullscreen
 
 ---
 
-### April 9 — Lecture 18 {#apr-9}
+### April 9 — Lab 3 {#apr-9}
 **Network scale-up method**  
 
 * Breen, Casey F., et al. 2025. “Estimating Death Rates in Complex Humanitarian Emergencies Using the Network Survival Method.” American Journal of Epidemiology.
@@ -758,7 +758,7 @@ allowfullscreen
 
 ---
 
-### April 16 — Class Wrap-up {#apr-16}
+### April 16 — Lecture 18, Class Wrap-up {#apr-16}
 
 **Recap and synthesis of class material; Course evaluations**
 

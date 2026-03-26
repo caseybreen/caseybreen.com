@@ -49,7 +49,8 @@ problems based on existing research papers.
 | 12 | Thurs, April 2 | Lab | [Lab 3 – Non-probability sampling](#week-12) | [Lab 3](https://github.com/caseybreen/css_course/blob/main/labs/lab3/css_lab3.qmd)|
 | 13 | Thurs, April 9 | Lecture | [Agent Based Models](#week-13) | | 
 | 14 | Thurs, April 16 | Lecture | [Text as Data / Large Language Models](#week-14) | | 
-| 15 | Thurs, April 23 | Lecture | [Final Presentations](#week-15) | | 
+| 15 | Thurs, April 23 | Lecture | [Final Presentations](#week-15) | 
+| — | Fri, May 1 | — | Final Papers Due | 
 ---
 
 ## Weekly Schedule

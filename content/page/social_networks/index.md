@@ -56,8 +56,7 @@ At the conclusion of this course, students will be able to:
 
 | Date | Type | Topic | Due |
 |------|------|-------|-----|
-| Jan 13 | Lecture 1 | [Introduction to course + syllabus](#jan-13) | [Key terminology](https://docs.google.com/document/d/1730gUAAAE_79An5Ghy0dXV3-8zVtJ73Oj6dr0FlkcTU/edit?usp=sharing)
- |
+| Jan 13 | Lecture 1 | [Introduction to course + syllabus](#jan-13) | [Key terminology](https://docs.google.com/document/d/1730gUAAAE_79An5Ghy0dXV3-8zVtJ73Oj6dr0FlkcTU/edit?usp=sharing) |
 | Jan 15 | Lecture 2 | [Basic graph theory / giant component / degree distributions](#jan-15) | — |
 | Jan 20 | Lecture 3 | [Personal networks & social isolation](#jan-20) | — |
 | Jan 22 | Lab 1 | [Intro to R and iGraph](#jan-22) | **Lab 1 due** |

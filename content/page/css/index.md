@@ -45,7 +45,7 @@ problems based on existing research papers.
 | 8  | Thurs, March 5 | Lab | [Lab 2 – Machine Learning](#week-7) | [Lab 2](https://github.com/caseybreen/css_course/blob/main/labs/lab2/css_lab2.qmd)|
 | 9  | Thurs, March 12 | Lecture | [Non-probability sampling](#week-8) | [Demo - Google Trends](https://github.com/caseybreen/css_course/blob/main/labs/in_class_exercises/04_google_trends.Rmd)  | 
 | 10 | Thurs, March 19 | — | *Spring Break — No Class* | | 
-| 11 | Thurs, March 26 | Lecture | [Social Networks](#week-9) | | 
+| 11 | Thurs, March 26 | Lecture | [Social Networks](#week-9) |[Demo - Network Analysis](https://github.com/caseybreen/css_course/blob/main/labs/in_class_exercises/05_social_network_analysis.qmd) | 
 | 12 | Thurs, April 2 | Lab | [Lab 3 – Non-probability sampling](#week-12) | [Lab 3](https://github.com/caseybreen/css_course/blob/main/labs/lab3/css_lab3.qmd)|
 | 13 | Thurs, April 9 | Lecture | [Agent Based Models](#week-13) | | 
 | 14 | Thurs, April 16 | Lecture | [Text as Data / Large Language Models](#week-14) | | 

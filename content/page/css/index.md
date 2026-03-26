@@ -456,6 +456,8 @@ Students will deliver 10-minute presentations of their final projects.
 Presentations should clearly communicate the research question, data, methods, and main findings, with special attention to the computational approach applied. 
 Each presentation will be followed by brief Q&A.
 
+**Final papers (~10 pages) are due by May 1st at 11:59pm** 
+
 ---
 
 ## Learning Outcomes

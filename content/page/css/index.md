@@ -396,7 +396,39 @@ Apply machine learning algorithms and Facebook user counts to predict overall le
 
 Apply poststratification and inverse-probability weighting to a non-probability sample to estimate mortality rates using network survival method
 
+* Breen, Casey F., Saeed Rahman, Christina Kay, Joeri Smits, Abraham Azar, Steve Ahuka, and Dennis M. Feehan. 2026. “Estimating Death Rates in Complex Humanitarian Emergencies Using the Network Survival Method.” American Journal of Epidemiology 195(1):49–59. doi:10.1093/aje/kwaf101.
 * Baker, Reg, J. Michael Brick, Nancy A. Bates, Mike Battaglia, Mick P. Couper, Jill A. Dever, Krista J. Gile, and Roger Tourangeau. 2013. ‘Summary Report of the AAPOR Task Force on Non-Probability Sampling’. Journal of Survey Statistics and Methodology 1(2):90–143. doi: 10.1093/jssam/smt008.
+
+<div style="position:relative; padding-top:56.25%;">
+
+  <!-- Embedded (view-only) Google Slides -->
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vT8Wg5FzLt61gbyExT0_d66PH4VU4YKX5jCYNCsrels8tVG16mF3ob0GyN0xP9TDbKl7sbDZCSei6q7/pubembed?start=false&loop=false&delayms=3000"
+    style="position:absolute; inset:0; width:100%; height:100%; border:0;"
+    allowfullscreen
+    mozallowfullscreen
+    webkitallowfullscreen>
+  </iframe>
+
+  <!-- Overlay link on Google Slides control area -->
+  <a
+    href="https://docs.google.com/presentation/d/1t3wLe8gHBL8g8mVuECKvmrNZlWtIcbIAdqSRYaXEzPo/edit?usp=sharing"
+    target="_blank"
+    aria-label="Open in Google Slides"
+    style="
+      position:absolute;
+      bottom:0;
+      right:0;
+      width:160px;
+      height:44px;
+      z-index:5;
+      text-indent:-9999px;
+      pointer-events:auto;
+    ">
+    Open
+  </a>
+
+</div>
 
 ---
 

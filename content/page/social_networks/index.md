@@ -319,7 +319,6 @@ frameborder="0"
 
 * Stanley, Milgram. 1967. “The Small-World Problem.” Psychology Today.
 
-
 <div style="position:relative; padding-top:56.25%;">
   <iframe
     src="https://docs.google.com/presentation/d/e/2PACX-1vTQLHhrMZD8zhmABqvu0765RKqxes2Zz5l4scCPb9S7EALdE_bBdIdMxY7AX6okNzzf0wRK2TnQM1_Q/pubembed?start=false&loop=false&delayms=60000"
@@ -351,8 +350,6 @@ frameborder="0"
 * Feld, Scott L. 1991. “Why Your Friends Have More Friends Than You Do.” *American Journal of Sociology*.  
 
  **[Homework 1 due](https://docs.google.com/document/d/1rMdfLTb9pjhHBU06YGHw6fJeMUPZTpm3QPw2FMq6im8/edit?usp=sharing)**
-
-
 
 <div style="position:relative; padding-top:56.25%;">
   <iframe
@@ -738,6 +735,29 @@ allowfullscreen
 ### April 7 — Lecture 17 {#apr-7}
 
 **Final Project Overview + Meet-up Day**
+
+<div style="position:relative; padding-top:56.25%;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vSCz4kDxhK_zRr4Ektrna_mZFwfWJZ3njw10qTlO-VRcWIXYhKbvVT0j5G7ev9c4_D0H0wqYqJyQ4V8/pubembed?start=false&loop=false&delayms=60000"allowfullscreen
+    style="position:absolute; top:0; left:0; width:100%; height:100%;"
+  ></iframe>
+  
+   <!-- click-capture only on the lower-right "Google Slides" area -->
+  <a href="https://drive.google.com/drive/folders/1-xt639Jn8B6Ak4wxSVg5JOFG5SerQSHo?usp=sharing"
+     target="_blank" rel="noopener noreferrer"
+     aria-label="Open course folder"
+     style="
+       position:absolute;
+       right:8px;
+       bottom:8px;
+       width:170px;
+       height:56px;
+       z-index:10;
+       background:transparent;
+     ">
+  </a>
+</div>
+
 
 ---
 

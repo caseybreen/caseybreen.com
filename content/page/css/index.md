@@ -441,7 +441,7 @@ Apply poststratification and inverse-probability weighting to a non-probability 
 * Hastings, Orestes P. and Luca Maria Pesando. 2024. “What’s a Parent to do? Measuring Cultural Logics of Parenting with Computational Text Analysis.” Social Science Research 124:103074.
 * Bail Christopher A. 2024. “Can Generative AI Improve Social Science?” Proceedings of the National Academy of Sciences. 121(21):e2314021121.★
 * Alvero, AJ, Dustin S. Stoltz, Oscar Stuhler, and Marshall A. Taylor. 2025. Sociological Science. “Generative AI in Sociological Research: State of the Discipline.”★
-* Than, Nga, Leanne Fan, Tina Law, Laura K. Nelson, and Leslie McCall. 2025. “Updating ‘The Future of Coding’: Qualitative Coding with Generative Large Language Models.” Sociological Methods & Research 54(3):849–88. doi:10.1177/00491241251339188.
+* Than, Nga, Leanne Fan, Tina Law, Laura K. Nelson, and Leslie McCall. 2025. “Updating ‘The Future of Coding’: Qualitative Coding with Generative Large Language Models.” Sociological Methods & Research 54(3):849–88. doi:10.1177/00491241251339188.★
 
 ---
 

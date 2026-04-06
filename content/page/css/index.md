@@ -434,12 +434,14 @@ Apply poststratification and inverse-probability weighting to a non-probability 
 
 ### Thurs, April 9 — Text as Data / Large Language Models in Social Science Research {#week-14}
 
-* Grimmer, Justin, and Brandon M. Stewart. 2013. “Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts.” Political Analysis 21(3):267–97. doi:10.1093/pan/mps028.★  
-* Alvero, AJ, Dustin S. Stoltz, Oscar Stuhler, and Marshall A. Taylor. 2025. Sociological Science. “Generative AI in Sociological Research: State of the Discipline.”★
+* Grimmer, Justin, and Brandon M. Stewart. 2013. “Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts.” Political Analysis 21(3):267–97. doi:10.1093/pan/mps028.
+* Gentzkow, Matthew, Bryan Kelly, and Matt Taddy. 2019. “Text as Data.” Journal of Economic Literature 57(3):535–74. doi:10.1257/jel.20181020.
 * Bail, Christopher A. 2012. “The Fringe Effect: Civil Society Organizations and the Evolution of Media Discourse about Islam since the September 11th Attacks.” American Sociological Review 77(6):855–79. doi:10.1177/0003122412465743.★
 * Waight, Hannah, Yin Yuan, Margaret E. Roberts, and Brandon M. Stewart. 2025. “The Decade-Long Growth of Government-Authored News Media in China under Xi Jinping.” Proceedings of the National Academy of Sciences 122(11):e2408260122. doi:10.1073/pnas.2408260122.★
 * Hastings, Orestes P. and Luca Maria Pesando. 2024. “What’s a Parent to do? Measuring Cultural Logics of Parenting with Computational Text Analysis.” Social Science Research 124:103074.
 * Bail Christopher A. 2024. “Can Generative AI Improve Social Science?” Proceedings of the National Academy of Sciences. 121(21):e2314021121.★
+* Alvero, AJ, Dustin S. Stoltz, Oscar Stuhler, and Marshall A. Taylor. 2025. Sociological Science. “Generative AI in Sociological Research: State of the Discipline.”★
+* Than, Nga, Leanne Fan, Tina Law, Laura K. Nelson, and Leslie McCall. 2025. “Updating ‘The Future of Coding’: Qualitative Coding with Generative Large Language Models.” Sociological Methods & Research 54(3):849–88. doi:10.1177/00491241251339188.
 
 ---
 

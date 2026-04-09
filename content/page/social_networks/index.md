@@ -767,6 +767,29 @@ allowfullscreen
 * Breen, Casey F., et al. 2025. “Estimating Death Rates in Complex Humanitarian Emergencies Using the Network Survival Method.” American Journal of Epidemiology.
 * Feehan, Dennis M., and Matthew J. Salganik. 2016. “Generalizing the Network Scale-up Method.” Sociological Methodology.
 
+<div style="position:relative; padding-top:56.25%;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vRlYcaZwjXt608aZNeLC4-zHHNfq0DULiKUJRrXE0JeGUsrGPxoXK6tT3ON7dB4He9B9KdGoIGunJG0/pubembed?start=false&loop=false&delayms=60000"allowfullscreen
+    style="position:absolute; top:0; left:0; width:100%; height:100%;"
+  ></iframe>
+  
+   <!-- click-capture only on the lower-right "Google Slides" area -->
+  <a href="https://drive.google.com/drive/folders/1-xt639Jn8B6Ak4wxSVg5JOFG5SerQSHo?usp=sharing"
+     target="_blank" rel="noopener noreferrer"
+     aria-label="Open course folder"
+     style="
+       position:absolute;
+       right:8px;
+       bottom:8px;
+       width:170px;
+       height:56px;
+       z-index:10;
+       background:transparent;
+     ">
+  </a>
+</div>
+
+
 **Lab 3 Due**
 
 ---

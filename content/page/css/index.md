@@ -47,7 +47,7 @@ problems based on existing research papers.
 | 10 | Thurs, March 19 | — | *Spring Break — No Class* | | 
 | 11 | Thurs, March 26 | Lecture | [Social Networks](#week-9) |[Demo - Network Analysis](https://github.com/caseybreen/css_course/blob/main/labs/in_class_exercises/05_social_network_analysis.qmd) | 
 | 12 | Thurs, April 2 | Lab | [Lab 3 – Non-probability sampling](#week-12) | [Lab 3](https://github.com/caseybreen/css_course/blob/main/labs/lab3/css_lab3.qmd)|
-| 13 | Thurs, April 9 | Lecture | [Text as Data / Large Language Models](#week-14) | | 
+| 13 | Thurs, April 9 | Lecture | [Text as Data / Large Language Models](#week-14) | [Demo - Text Analysis](https://github.com/caseybreen/css_course/blob/main/labs/in_class_exercises/07_text_analysis.Rmd) | 
 | 14 | Thurs, April 16 | Lecture | [Agent Based Models](#week-13) | [Demo - Monte Carlo Simulations](https://github.com/caseybreen/css_course/blob/main/labs/in_class_exercises/06_monte_carlo_simulations.Rmd) | 
 | 15 | Thurs, April 23 | Lecture | [Final Presentations](#week-15) | 
 | — | Fri, May 1 | — | Final Papers Due | 

@@ -448,7 +448,7 @@ Apply poststratification and inverse-probability weighting to a non-probability 
 
   <!-- Embedded (view-only) Google Slides -->
   <iframe
-    src="https://docs.google.com/presentation/d/1H1LMwyi28petnWOqhVbAWC_qubd1nArLtLuG6DXNRMs/edit?usp=sharing"
+    src="https://docs.google.com/presentation/d/e/2PACX-1vSuQ3CiEeEq2tT0MYhmEz5--vO31iTLraaj2jgGmTqxtp9AQrf65haKEiLEH662GrakpWFIOam-FqEJ/pubembed?start=false&loop=false&delayms=60000"
     style="position:absolute; inset:0; width:100%; height:100%; border:0;"
     allowfullscreen
     mozallowfullscreen

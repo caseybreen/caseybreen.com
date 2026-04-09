@@ -443,6 +443,37 @@ Apply poststratification and inverse-probability weighting to a non-probability 
 * Alvero, AJ, Dustin S. Stoltz, Oscar Stuhler, and Marshall A. Taylor. 2025. Sociological Science. “Generative AI in Sociological Research: State of the Discipline.”★
 * Than, Nga, Leanne Fan, Tina Law, Laura K. Nelson, and Leslie McCall. 2025. “Updating ‘The Future of Coding’: Qualitative Coding with Generative Large Language Models.” Sociological Methods & Research 54(3):849–88. doi:10.1177/00491241251339188.★
 
+
+<div style="position:relative; padding-top:56.25%;">
+
+  <!-- Embedded (view-only) Google Slides -->
+  <iframe
+    src="src="https://docs.google.com/presentation/d/e/2PACX-1vSuQ3CiEeEq2tT0MYhmEz5--vO31iTLraaj2jgGmTqxtp9AQrf65haKEiLEH662GrakpWFIOam-FqEJ/pubembed?start=false&loop=false&delayms=60000"
+    style="position:absolute; inset:0; width:100%; height:100%; border:0;"
+    allowfullscreen
+    mozallowfullscreen
+    webkitallowfullscreen>
+  </iframe>
+
+  <!-- Overlay link on Google Slides control area -->
+  <a
+    href="https://docs.google.com/presentation/d/1H1LMwyi28petnWOqhVbAWC_qubd1nArLtLuG6DXNRMs/edit?usp=sharing"
+    target="_blank"
+    aria-label="Open in Google Slides"
+    style="
+      position:absolute;
+      bottom:0;
+      right:0;
+      width:160px;
+      height:44px;
+      z-index:5;
+      text-indent:-9999px;
+      pointer-events:auto;
+    ">
+    Open
+  </a>
+
+</div>
 ---
 
 ### Thurs, April 16 — Agent Based Models {#week-13}

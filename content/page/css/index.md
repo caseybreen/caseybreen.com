@@ -474,6 +474,7 @@ Apply poststratification and inverse-probability weighting to a non-probability 
   </a>
 
 </div>
+
 ---
 
 ### Thurs, April 16 — Simulation and Agent Based Models {#week-13}

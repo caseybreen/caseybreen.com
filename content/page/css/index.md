@@ -476,15 +476,14 @@ Apply poststratification and inverse-probability weighting to a non-probability 
 </div>
 ---
 
-### Thurs, April 16 — Agent Based Models {#week-13}
+### Thurs, April 16 — Simulation and Agent Based Models {#week-13}
 
-* Bruch, Elizabeth, and Jon Atwell. "Agent-based models in empirical social research." Sociological methods & research44, no. 2 (2015): 186-221.★  
+* Bruch, Elizabeth, and Jon Atwell. "Agent-based models in empirical social research." Sociological methods & research 44, no. 2 (2015): 186-221.★  
+* Kashyap, Ridhi, and Francisco Villavicencio. "The dynamics of son preference, technology diffusion, and fertility decline underlying distorted sex ratios at birth: A simulation approach." Demography 53, no. 5 (2016): 1261-1281. 
+* Gao, Chen, Xiaochong Lan, Nian Li, Yuan Yuan, Jingtao Ding, Zhilun Zhou, Fengli Xu, and Yong Li. 2024. “Large Language Models Empowered Agent-Based Modeling and Simulation: A Survey and Perspectives.” Humanities and Social Sciences Communications 11(1):1259. doi:10.1057/s41599-024-03611-3.
 * Bruch, Elizabeth E., and Robert D. Mare. 2006. “Neighborhood Choice and Neighborhood Change.” American Journal of Sociology 112(3):667–709. doi:10.1086/507856.★
-* Kashyap, Ridhi, and Francisco Villavicencio. "The dynamics of son preference, technology diffusion, and fertility decline underlying distorted sex ratios at birth: A simulation approach." Demography 53, no. 5 (2016): 1261-1281.★ 
-* Gao, Chen, Xiaochong Lan, Nian Li, Yuan Yuan, Jingtao Ding, Zhilun Zhou, Fengli Xu, and Yong Li. 2024. “Large Language Models Empowered Agent-Based Modeling and Simulation: A Survey and Perspectives.” Humanities and Social Sciences Communications 11(1):1259. doi:10.1057/s41599-024-03611-3.★
-* Alburez‐Gutierrez, Diego, Carl Mason, and Emilio Zagheni. "The “sandwich generation” revisited: Global demographic drivers of care time demands." Population and Development Review 47, no. 4 (2021): 997-1023.
-
-
+* Salganik, Matthew J., Peter Sheridan Dodds, and Duncan J. Watts. 2006. “Experimental Study of Inequality and Unpredictability in an Artificial Cultural Market.” Science 311(5762):854–56. doi:10.1126/science.1121066.★
+* Alburez‐Gutierrez, Diego, Carl Mason, and Emilio Zagheni. "The “sandwich generation” revisited: Global demographic drivers of care time demands." Population and Development Review 47, no. 4 (2021): 997-1023.★
 
 <div style="position:relative; padding-top:56.25%;">
 

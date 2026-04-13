@@ -44,9 +44,22 @@ The Black-White mortality crossover is well-studied demographic paradox. Black A
 </div> 
 </li>
 
-<li>
-<b>Casey F. Breen</b> and Nathan Seltzer. “Structured Inequality, Uncertain Lifespans: Demographic Perspectives on Predicting Individual-level Longevity.” Forthcoming, <i> Population and Development Review. </i> <!-- Links to pubs, abstract, etc. -->
+</ol>
 
+
+
+### Publications
+<hr>
+
+<ol reversed>
+
+<li>
+<b>Casey F. Breen</b> and Nathan Seltzer. “Structured Inequality, Uncertain Lifespans: Demographic Perspectives on Predicting Individual-level Longevity.” 2026. <i> Population and Development Review. </i> padr, 70065.<!-- Links to pubs, abstract, etc. -->
+
+<a style="white-space: nowrap" href="https://doi.org/10.1111/padr.70065" target="_blank" rel="noopener noreferrer">
+<button type="button" class="btn btn-outline-primary">Publication</button> </a> 
+<a style="white-space: nowrap" href="/media/papers/Breen and Seltzer - 2026 - Structured Inequality, Uncertain Lifespans Demographic Perspectives on Predicting Individual‐Level.pdf" target="_blank" rel="noopener noreferrer">
+<button type="button" class="btn btn-outline-primary">PDF</button> </a> 
 <a style="white-space: nowrap" href="https://osf.io/preprints/socarxiv/znsqg_v2" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Open Access</button> </a> 
 <a style="white-space: nowrap" href="https://osf.io/fazsj/?view_only=cbfea9a08a684a48b1c97d1e5f8da967" target="_blank" rel="noopener noreferrer">
@@ -59,15 +72,6 @@ The Black-White mortality crossover is well-studied demographic paradox. Black A
 There are striking disparities in longevity across sociodemographic groups in the United States. Yet, can sociodemographic characteristics meaningfully explain individual-level variation in longevity?  Here, we leverage machine-learning algorithms and large-scale administrative data to predict individual-level mortality using an array of social,economic, and demographic predictors measured in early adulthood.  We conduct two distinct analyses:  a cohort analysis, which predicts the exact age of death for individuals in the same birth cohort, and a period analysis, which predicts whether individuals aged 54–95 will die within the next 10 years.  We are not able to make accurate predictions in either our cohort analysis (<i>R<sup>2</sup></i> = 0.014) or our period analysis (<i>R<sup>2</sup></i> = 0.166).Together,  these analyses demonstrate that later life longevity is unpredictable using sociodemographic characteristics alone, and underscore the crucial need to account for stochastic processes in demographic theory.
 </div> 
 </li>
-
-</ol>
-
-
-
-### Publications
-<hr>
-
-<ol reversed>
 
 <li>
 <b>Casey F. Breen</b>, Masoomali Fatehkia, Jiani Yan, Douglas Leasure, Ingmar Weber, and Ridhi Kashyap. “Mapping Subnational Gender Gaps in Internet and Mobile Adoption Using Social Media Data.” 2025. <i> Proceedings of the National Academy of Science.</i> 122(42):e2416624122.  <!-- Links to pubs, abstract, etc. -->

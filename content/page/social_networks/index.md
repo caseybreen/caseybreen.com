@@ -804,6 +804,28 @@ allowfullscreen
 
 **Recap and synthesis of class material; Course evaluations**
 
+<div style="position:relative; padding-top:56.25%;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vR5W_gIMeOLyKPayAH5w-BQPAeKVsbFvv_PmUTlmnzzue3JRuXbyYju7qwhkVBuSHKIstArepiRzRrl/pubembed?start=false&loop=false&delayms=60000"allowfullscreen
+    style="position:absolute; top:0; left:0; width:100%; height:100%;"
+  ></iframe>
+  
+   <!-- click-capture only on the lower-right "Google Slides" area -->
+  <a href="https://drive.google.com/drive/folders/1-xt639Jn8B6Ak4wxSVg5JOFG5SerQSHo?usp=sharing"
+     target="_blank" rel="noopener noreferrer"
+     aria-label="Open course folder"
+     style="
+       position:absolute;
+       right:8px;
+       bottom:8px;
+       width:170px;
+       height:56px;
+       z-index:10;
+       background:transparent;
+     ">
+  </a>
+</div>
+
 * Watts, Duncan J., and Steven H. Strogatz. 1998. “Collective Dynamics of ‘Small-World’ Networks.” Nature 393(6684):440–42. doi:10.1038/30918.
 
 

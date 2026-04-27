@@ -848,7 +848,7 @@ allowfullscreen
 In this course, attendance at these meetings is mandatory and part of your grade.  
 Every student is allowed four (4) free absences with no questions asked. In other words, you do  
 not have to inform me (or your TA) that you are missing class. For every absence after the  
-allotted four (4), you lose 2.5% of the possible 10% for attendance/participation. You will receive a  
+allotted four (4), you lose 2% of the possible 10% for attendance/participation. You will receive a  
 0% for class attendance/participation after eight (8) absences.  
 
 **Please do not email us if you are using a free absence from lecture “just to let us know.” You  

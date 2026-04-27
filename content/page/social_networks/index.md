@@ -48,7 +48,7 @@ At the conclusion of this course, students will be able to:
 - Homeworks — 15%  
 - Labs — 15%  
 - Final Podcast Project — 20%  
-- Attendance — 10%  
+- Attendance/Participation — 10%  
 
 ---
 

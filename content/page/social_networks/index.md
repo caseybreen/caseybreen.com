@@ -843,7 +843,7 @@ allowfullscreen
 ---
 
 
-## Class Attendance
+## Class Attendance/Participation
 
 In this course, attendance at these meetings is mandatory and part of your grade.  
 Every student is allowed four (4) free absences with no questions asked. In other words, you do  

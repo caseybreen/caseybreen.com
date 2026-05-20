@@ -36,7 +36,7 @@ I am broadly interested in the areas of population health and social networks. M
 
 <a style="white-space: nowrap" href="https://osf.io/preprints/socarxiv/ax9u3_v2" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Open Access</button> </a> 
-<a style="white-space: nowrap" href="10.17605/OSF.IO/WCGFM" target="_blank" rel="noopener noreferrer">
+<a style="white-space: nowrap" href="doi.org/10.17605/OSF.IO/WCGFM" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Replication</button> </a> 
 <a href="#abstract-bw_crossover" class="btn btn-outline-primary" data-toggle="collapse">Abstract</a>
 
@@ -54,10 +54,10 @@ The Black-White mortality crossover is well-studied demographic paradox. Black A
 <button type="button" class="btn btn-outline-primary">Open Access</button> </a> 
 <a style="white-space: nowrap" href="https://github.com/caseybreen/diffusion_fertility_code_release" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Replication</button> </a> 
-<a href="#abstract-bw_crossover" class="btn btn-outline-primary" data-toggle="collapse">Abstract</a>
+<a href="#abstract-diffusion" class="btn btn-outline-primary" data-toggle="collapse">Abstract</a>
 
 <!-- Abstract -->
-<div id="abstract-bw_crossover" class="collapse">
+<div id="abstract-diffusion" class="collapse">
 <br />
 Global cultural diffusion theories have long emphasized how institutional actors such as intergovernmental organizations, international non-governmental organizations, and state agencies spread cultural scripts. We theorize that mobile internet constitutes a qualitatively distinct pathway for the diffusion of these scripts, shifting exposure from institutionally mediated and episodic to more individualized, continuous, and algorithmically curated. This reconfiguration changes both which cultural models individuals encounter and the frequency with which individuals are exposed to them. Using the staggered rollout of mobile internet across Nigeria as an empirical case, we find that expanding coverage reduces fertility, corresponding to a 9% relative decline in the annual probability of birth, consistent with shifts in contraceptive use, ideal family size, and women’s autonomy in financial and healthcare decision-making. These findings suggest that digital infrastructure does not simply extend existing diffusion processes but can reshape them, with measurable consequences for family life.</div> 
 </li>

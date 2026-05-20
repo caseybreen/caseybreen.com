@@ -32,12 +32,12 @@ I am broadly interested in the areas of population health and social networks. M
 
 
 <li>
-<b>Casey F. Breen</b>. “The Black-White Mortality Crossover: New Evidence from Social Security Mortality Records.” <!-- Links to pubs, abstract, etc. -->
+<b>Casey F. Breen</b>. “The Black-White Mortality Crossover: New Evidence from Social Security Mortality Records.” Revise and Resubmit, <i> Demography</i>. <!-- Links to pubs, abstract, etc. -->
 
 <a style="white-space: nowrap" href="https://osf.io/preprints/socarxiv/ax9u3_v2" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Open Access</button> </a> 
 <a style="white-space: nowrap" href="10.17605/OSF.IO/WCGFM" target="_blank" rel="noopener noreferrer">
-<button type="button" class="btn btn-outline-primary">Open Access</button> </a> 
+<button type="button" class="btn btn-outline-primary">Replication</button> </a> 
 <a href="#abstract-bw_crossover" class="btn btn-outline-primary" data-toggle="collapse">Abstract</a>
 
 <!-- Abstract -->

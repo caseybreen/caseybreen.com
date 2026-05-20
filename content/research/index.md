@@ -48,7 +48,7 @@ The Black-White mortality crossover is well-studied demographic paradox. Black A
 </li>
 
 <li>
-<b>Casey F. Breen, Till Koebe, and Ridhi Kashyap</b>. “Digital Diffusion: Mobile Internet and the Spread of Cultural Scripts about Family Life.” <!-- Links to pubs, abstract, etc. -->
+<b>Casey F. Breen</b>, Till Koebe, and Ridhi Kashyap. “Digital Diffusion: Mobile Internet and the Spread of Cultural Scripts about Family Life.” <!-- Links to pubs, abstract, etc. -->
 
 <a style="white-space: nowrap" href="https://osf.io/preprints/socarxiv/eqj56_v1" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Open Access</button> </a> 

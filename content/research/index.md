@@ -30,10 +30,13 @@ I am broadly interested in the areas of population health and social networks. M
 
 <ol reversed>
 
+
 <li>
 <b>Casey F. Breen</b>. “The Black-White Mortality Crossover: New Evidence from Social Security Mortality Records.” <!-- Links to pubs, abstract, etc. -->
 
 <a style="white-space: nowrap" href="https://osf.io/preprints/socarxiv/ax9u3_v2" target="_blank" rel="noopener noreferrer">
+<button type="button" class="btn btn-outline-primary">Open Access</button> </a> 
+<a style="white-space: nowrap" href="10.17605/OSF.IO/WCGFM" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Open Access</button> </a> 
 <a href="#abstract-bw_crossover" class="btn btn-outline-primary" data-toggle="collapse">Abstract</a>
 
@@ -42,6 +45,21 @@ I am broadly interested in the areas of population health and social networks. M
 <br />
 The Black-White mortality crossover is well-studied demographic paradox. Black Americans experience higher age-specific mortality rates than White Americans throughout most of the life course, but this puzzlingly reverses at advanced ages. The leading explanation for the Black-White mortality crossover centers around selective mortality over the life course. Black Americans who survived higher age-specific mortality risk throughout their life course are highly selected on robustness, and have lower mortality than White Americans in late life. However, skeptics argue the Black-White mortality crossover is simply a data artifact from age misreporting or related data quality issues. We use large-scale linked administrative data (N = 2.3 million) to document the Black-White mortality crossover for cohorts born in the early 20th century. We find evidence the crossover is not a data artifact and cannot be uncrossed using sociodemographic characteristics alone.
 </div> 
+</li>
+
+<li>
+<b>Casey F. Breen, Till Koebe, and Ridhi Kashyap</b>. “Digital Diffusion: Mobile Internet and the Spread of Cultural Scripts about Family Life.” <!-- Links to pubs, abstract, etc. -->
+
+<a style="white-space: nowrap" href="https://osf.io/preprints/socarxiv/eqj56_v1" target="_blank" rel="noopener noreferrer">
+<button type="button" class="btn btn-outline-primary">Open Access</button> </a> 
+<a style="white-space: nowrap" href="https://github.com/caseybreen/diffusion_fertility_code_release" target="_blank" rel="noopener noreferrer">
+<button type="button" class="btn btn-outline-primary">Replication</button> </a> 
+<a href="#abstract-bw_crossover" class="btn btn-outline-primary" data-toggle="collapse">Abstract</a>
+
+<!-- Abstract -->
+<div id="abstract-bw_crossover" class="collapse">
+<br />
+Global cultural diffusion theories have long emphasized how institutional actors such as intergovernmental organizations, international non-governmental organizations, and state agencies spread cultural scripts. We theorize that mobile internet constitutes a qualitatively distinct pathway for the diffusion of these scripts, shifting exposure from institutionally mediated and episodic to more individualized, continuous, and algorithmically curated. This reconfiguration changes both which cultural models individuals encounter and the frequency with which individuals are exposed to them. Using the staggered rollout of mobile internet across Nigeria as an empirical case, we find that expanding coverage reduces fertility, corresponding to a 9% relative decline in the annual probability of birth, consistent with shifts in contraceptive use, ideal family size, and women’s autonomy in financial and healthcare decision-making. These findings suggest that digital infrastructure does not simply extend existing diffusion processes but can reshape them, with measurable consequences for family life.</div> 
 </li>
 
 </ol>

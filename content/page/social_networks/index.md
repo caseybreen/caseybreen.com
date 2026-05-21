@@ -81,7 +81,7 @@ At the conclusion of this course, students will be able to:
 | Mar 31 | Review | [Exam 2 review](#mar-31) | — |
 | Apr 2  | Exam   | [Exam 2](#apr-2) | **Exam 2** |
 | Apr 7  | Final Project | [Final project overview & meet-up](#apr-7) | — |
-| Apr 9  | Lab 3 | [Network scale-up method](#apr-9) |**Lab 3 due** |
+| Apr 9  | Lab 3 | [Network scale-up method](#apr-9) |**[Lab 3 due](https://github.com/caseybreen/networks_course/blob/main/labs/lab3.qmd)** |
 | Apr 14 | Final Project | [Final project preparation](#apr-14) | **[Homework 3 due](https://docs.google.com/document/d/1CmLGWYMnHnq6O3NL1f1LCJ5FKFZAMN4HLRRC5LPSeoY/edit?usp=sharing)**  |
 | Apr 16 | Lecture 18 | [Class Wrap-Up ](#apr-16) | — |
 | Apr 21 | Presentation | [Final presentations](#apr-21) | **[Podcast Project due](https://docs.google.com/document/d/1u8zsuRGVLHfjkab6lYLb9v8uBvgw-6cru2UuDukYhRA/edit?usp=sharing)**|

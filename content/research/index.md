@@ -62,6 +62,24 @@ The Black-White mortality crossover is well-studied demographic paradox. Black A
 Global cultural diffusion theories have long emphasized how institutional actors such as intergovernmental organizations, international non-governmental organizations, and state agencies spread cultural scripts. We theorize that mobile internet constitutes a qualitatively distinct pathway for the diffusion of these scripts, shifting exposure from institutionally mediated and episodic to more individualized, continuous, and algorithmically curated. This reconfiguration changes both which cultural models individuals encounter and the frequency with which individuals are exposed to them. Using the staggered rollout of mobile internet across Nigeria as an empirical case, we find that expanding coverage reduces fertility, corresponding to a 9% relative decline in the annual probability of birth, consistent with shifts in contraceptive use, ideal family size, and women’s autonomy in financial and healthcare decision-making. These findings suggest that digital infrastructure does not simply extend existing diffusion processes but can reshape them, with measurable consequences for family life.</div> 
 </li>
 
+
+<li>
+<b>Casey F. Breen</b> and Won-tak Joo. “Record Linkage Error and Inference in Population Research.” <!-- Links to pubs, abstract, etc. -->
+
+<a style="white-space: nowrap" href="https://doi.org/10.31235/osf.io/yjnpm_v1" target="_blank" rel="noopener noreferrer">
+<button type="button" class="btn btn-outline-primary">Open Access</button> </a> 
+<a style="white-space: nowrap" href="https://github.com/caseybreen/recordlinkage/tree/master/code" target="_blank" rel="noopener noreferrer">
+<button type="button" class="btn btn-outline-primary">Replication</button> </a> 
+<a href="#abstract-linkage" class="btn btn-outline-primary" data-toggle="collapse">Abstract</a>
+
+<!-- Abstract -->
+<div id="abstract-linkage" class="collapse">
+<br />
+The explosion in digitization of large-scale administrative data and advances in record linkage have opened up new possibilities for studying core topics in population research, including social mobility, early-life determinants of longevity, and shifts in ethnoracial identity. Much attention has been paid to improving record linkage algorithms, but methodological guidance for researchers analyzing linked data is limited. We propose a general framework to explain how different types of linkage errors—false matches and missed matches—impact inference with linked data and introduce a bias-correction method. We then conduct three empirical case studies on canonical topics in population research: social mobility, the education-longevity gradient, and shifts in ethnoracial identification. These case studies demonstrate the settings in which linkage errors do and do not meaningfully impact substantive research findings. We conclude with practical recommendations for researchers performing inference with linked data and provide an accompanying R package implementing the methods introduced in this paper.
+</li>
+
+
+
 </ol>
 
 

@@ -88,10 +88,10 @@ Each session is organized around lectures and in-class exercises.
         <a href="/media/teaching_materials/methods_camp/day3_intro_r.pdf" target="_blank">Slides</a>
       </td>
       <td style="vertical-align: top; padding: 10px;">
-        <a href="https://github.com/caseybreen/intro_r/blob/main/problem_sets/problem_set1.pdf" target="_blank">Problem Set</a>
+        <a href="/media/teaching_materials/methods_camp/day3_problem_set.pdf" target="_blank">Problem Set</a>
       </td>
       <td style="vertical-align: top; padding: 10px;">
-        <a href="https://github.com/caseybreen/intro_r/blob/main/problem_sets/problem_set1_solutions.pdf" target="_blank">Solutions</a>
+        <a href="/media/teaching_materials/methods_camp/day3_problem_set_solutions.pdf" target="_blank">Solutions</a>
       </td>
     </tr>
     <tr>
@@ -106,10 +106,10 @@ Each session is organized around lectures and in-class exercises.
         <a href="/media/teaching_materials/methods_camp/day4_intro_r.pdf" target="_blank">Slides</a>
       </td>
       <td style="vertical-align: top; padding: 10px;">
-        <a href="https://github.com/caseybreen/intro_r/blob/main/problem_sets/problem_set2.pdf" target="_blank">Problem Set</a>
+        <a href="/media/teaching_materials/methods_camp/day4_problem_set.pdf" target="_blank">Problem Set</a>
       </td>
       <td style="vertical-align: top; padding: 10px;">
-        <a href="https://github.com/caseybreen/intro_r/blob/main/problem_sets/problem_set2_solutions.pdf" target="_blank">Solutions</a>
+        <a href="/media/teaching_materials/methods_camp/day4_problem_set_solutions.pdf" target="_blank">Solutions</a>
       </td>
     </tr>
     <tr>

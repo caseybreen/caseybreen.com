@@ -1102,10 +1102,10 @@ Each session is organized around lectures and in-class exercises.&lt;/p&gt;
         &lt;a href=&#34;https://caseybreen.github.io/media/teaching_materials/methods_camp/day3_intro_r.pdf&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;
       &lt;/td&gt;
       &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
-        &lt;a href=&#34;https://github.com/caseybreen/intro_r/blob/main/problem_sets/problem_set1.pdf&#34; target=&#34;_blank&#34;&gt;Problem Set&lt;/a&gt;
+        &lt;a href=&#34;https://caseybreen.github.io/media/teaching_materials/methods_camp/day3_problem_set.pdf&#34; target=&#34;_blank&#34;&gt;Problem Set&lt;/a&gt;
       &lt;/td&gt;
       &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
-        &lt;a href=&#34;https://github.com/caseybreen/intro_r/blob/main/problem_sets/problem_set1_solutions.pdf&#34; target=&#34;_blank&#34;&gt;Solutions&lt;/a&gt;
+        &lt;a href=&#34;https://caseybreen.github.io/media/teaching_materials/methods_camp/day3_problem_set_solutions.pdf&#34; target=&#34;_blank&#34;&gt;Solutions&lt;/a&gt;
       &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
@@ -1120,10 +1120,10 @@ Each session is organized around lectures and in-class exercises.&lt;/p&gt;
         &lt;a href=&#34;https://caseybreen.github.io/media/teaching_materials/methods_camp/day4_intro_r.pdf&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;
       &lt;/td&gt;
       &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
-        &lt;a href=&#34;https://github.com/caseybreen/intro_r/blob/main/problem_sets/problem_set2.pdf&#34; target=&#34;_blank&#34;&gt;Problem Set&lt;/a&gt;
+        &lt;a href=&#34;https://caseybreen.github.io/media/teaching_materials/methods_camp/day4_problem_set.pdf&#34; target=&#34;_blank&#34;&gt;Problem Set&lt;/a&gt;
       &lt;/td&gt;
       &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
-        &lt;a href=&#34;https://github.com/caseybreen/intro_r/blob/main/problem_sets/problem_set2_solutions.pdf&#34; target=&#34;_blank&#34;&gt;Solutions&lt;/a&gt;
+        &lt;a href=&#34;https://caseybreen.github.io/media/teaching_materials/methods_camp/day4_problem_set_solutions.pdf&#34; target=&#34;_blank&#34;&gt;Solutions&lt;/a&gt;
       &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
@@ -1778,7 +1778,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-813564279&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-896274351&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -1788,7 +1788,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-813564279&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-896274351&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

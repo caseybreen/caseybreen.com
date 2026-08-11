@@ -13,76 +13,6 @@
     </image>
     
     <item>
-      <title>Introduction to R</title>
-      <link>https://caseybreen.github.io/teaching/intro_r/</link>
-      <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://caseybreen.github.io/teaching/intro_r/</guid>
-      <description>&lt;p&gt;This course is designed for incoming graduate students.
-It focuses on foundational R programming skills, emphasizing reproducible workflows and best practices for data analysis in the social sciences.
-Each session is approximately 3 hours and includes lectures, in-class exercises, and take-home problem sets with solutions.&lt;/p&gt;
-&lt;h3 id=&#34;course-materials&#34;&gt;Course Materials&lt;/h3&gt;
-&lt;div style=&#34;overflow-x: auto;&#34;&gt;
-&lt;table style=&#34;min-width: 1000px; font-size: 1rem; border-collapse: separate; border-spacing: 0 0.75rem;&#34;&gt;
-  &lt;thead style=&#34;background-color: #f8f9fa;&#34;&gt;
-    &lt;tr&gt;
-      &lt;th style=&#34;padding: 10px;&#34;&gt;Session&lt;/th&gt;
-      &lt;th style=&#34;padding: 10px;&#34;&gt;Topic &amp; Modules&lt;/th&gt;
-      &lt;th style=&#34;padding: 10px;&#34;&gt;Lecture Slides&lt;/th&gt;
-      &lt;th style=&#34;padding: 10px;&#34;&gt;Problem Set&lt;/th&gt;
-      &lt;th style=&#34;padding: 10px;&#34;&gt;Solutions&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;Session 1&lt;/td&gt;
-      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
-        Module 1: Intro to R &amp; RStudio&lt;br&gt;
-        Module 2: R Programming Basics&lt;br&gt;
-        Module 3: Vectors &amp; Data Frames
-      &lt;/td&gt;
-      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
-        &lt;a href=&#34;https://github.com/caseybreen/intro_r/blob/main/slides/session1_slides.pdf&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;
-      &lt;/td&gt;
-      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
-        &lt;a href=&#34;https://github.com/caseybreen/intro_r/blob/main/problem_sets/problem_set1.pdf&#34; target=&#34;_blank&#34;&gt;Problem Set 1&lt;/a&gt;
-      &lt;/td&gt;
-      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
-        &lt;a href=&#34;https://github.com/caseybreen/intro_r/blob/main/problem_sets/problem_set1_solutions.pdf&#34; target=&#34;_blank&#34;&gt;Solutions&lt;/a&gt;
-      &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;Session 2&lt;/td&gt;
-      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
-        Module 4: Data Import/Export&lt;br&gt;
-        Module 5: Data Manipulation&lt;br&gt;
-        Module 6: Best Practices
-      &lt;/td&gt;
-      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
-        &lt;a href=&#34;https://github.com/caseybreen/intro_r/blob/main/slides/session2_slides.pdf&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;
-      &lt;/td&gt;
-      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
-        &lt;a href=&#34;https://github.com/caseybreen/intro_r/blob/main/problem_sets/problem_set2.pdf&#34; target=&#34;_blank&#34;&gt;Problem Set 2&lt;/a&gt;
-      &lt;/td&gt;
-      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
-        &lt;a href=&#34;https://github.com/caseybreen/intro_r/blob/main/problem_sets/problem_set2_solutions.pdf&#34; target=&#34;_blank&#34;&gt;Solutions&lt;/a&gt;
-      &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;Session 3&lt;/td&gt;
-      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;Reproducible Workflow&lt;/td&gt;
-      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
-        &lt;a href=&#34;https://github.com/caseybreen/intro_r/blob/main/slides/session3_workflow.pdf&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;
-      &lt;/td&gt;
-      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;&lt;/td&gt;
-      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Introduction to Social Networks (SOC 321K)</title>
       <link>https://caseybreen.github.io/teaching/social_networks/</link>
       <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
@@ -317,7 +247,8 @@ and hands-on data analysis to build a foundational understanding of social netwo
 &lt;td&gt;Lab 3&lt;/td&gt;
 &lt;td&gt;
 &lt;a href=&#34;#apr-9&#34;&gt;Network scale-up method&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;Lab 3 due&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;
+&lt;a href=&#34;https://github.com/caseybreen/networks_course/blob/main/labs/lab3.qmd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lab 3 due&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Apr 14&lt;/td&gt;
@@ -1045,8 +976,131 @@ Professor and the Teaching Assistant.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h2&gt;
 &lt;p&gt;This course is largely based on an undergraduate 
-&lt;a href=&#34;https://dennisfeehan.org/teaching/2025fa_demog180/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;course&lt;/a&gt; originally developed by the wonderful Prof. Dennis Feehan at UC Berkeley.
-I am grateful for his generosity in sharing materials (especially lecture slides) and pedagogical approaches that informed the structure and content of this class.&lt;/p&gt;
+&lt;a href=&#34;https://dennisfeehan.org/teaching/2025fa_demog180/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;course&lt;/a&gt; originally developed by Prof. Dennis Feehan at UC Berkeley.
+I am grateful for his generosity in sharing materials (especially lecture slides!) and pedagogical approaches that informed the structure and content of this class.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Methods Camp</title>
+      <link>https://caseybreen.github.io/teaching/methods_camp/</link>
+      <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://caseybreen.github.io/teaching/methods_camp/</guid>
+      <description>&lt;style&gt;
+  .article-metadata { display: none; }
+  .page-subtitle { margin-bottom: 0; }
+&lt;/style&gt;
+&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; RLP 3.106&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Course Instructor:&lt;/strong&gt; Casey Breen (Email: 
+&lt;a href=&#34;mailto:casey.breen@austin.utexas.edu&#34;&gt;casey.breen@austin.utexas.edu&lt;/a&gt;)&lt;br&gt;
+&lt;strong&gt;TA:&lt;/strong&gt; Leng Seong (Email: 
+&lt;a href=&#34;mailto:lc46786@my.utexas.edu&#34;&gt;lc46786@my.utexas.edu&lt;/a&gt;)&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;This one-week course (5 sessions) is designed for incoming graduate students. It focuses on foundational math, statistics, and R programming skills while emphasizing reproducible workflows.
+Each session is organized around lectures and in-class exercises.&lt;/p&gt;
+&lt;h3 id=&#34;course-materials&#34;&gt;Course Materials&lt;/h3&gt;
+&lt;div style=&#34;overflow-x: auto;&#34;&gt;
+&lt;table style=&#34;min-width: 1000px; font-size: 1rem; border-collapse: separate; border-spacing: 0 0.75rem;&#34;&gt;
+  &lt;thead style=&#34;background-color: #f8f9fa;&#34;&gt;
+    &lt;tr&gt;
+      &lt;th style=&#34;padding: 10px;&#34;&gt;Day&lt;/th&gt;
+      &lt;th style=&#34;padding: 10px;&#34;&gt;Category&lt;/th&gt;
+      &lt;th style=&#34;padding: 10px;&#34;&gt;Topics&lt;/th&gt;
+      &lt;th style=&#34;padding: 10px;&#34;&gt;Lecture Slides&lt;/th&gt;
+      &lt;th style=&#34;padding: 10px;&#34;&gt;Problem Set&lt;/th&gt;
+      &lt;th style=&#34;padding: 10px;&#34;&gt;Solutions&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;Day 1&lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;Math/Stats&lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
+        Functions &amp; Operations&lt;br&gt;
+        Ratios &amp; Proportions&lt;br&gt;
+        Rates and Percentages
+      &lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
+        &lt;a href=&#34;https://caseybreen.github.io/media/teaching_materials/methods_camp/day1_foundational_math.pdf&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;
+      &lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
+        &lt;a href=&#34;https://caseybreen.github.io/media/teaching_materials/methods_camp/day1_problem_set.pdf&#34; target=&#34;_blank&#34;&gt;Problem Set&lt;/a&gt;
+      &lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
+        &lt;a href=&#34;https://caseybreen.github.io/media/teaching_materials/methods_camp/day1_problem_set_solutions.pdf&#34; target=&#34;_blank&#34;&gt;Solutions&lt;/a&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;Day 2&lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;Math/Stats&lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
+        Random Variables&lt;br&gt;
+        Distributions&lt;br&gt;
+        Regression
+      &lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
+        &lt;a href=&#34;https://caseybreen.github.io/media/teaching_materials/methods_camp/day2_intro_statistics.pdf&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;
+      &lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
+        &lt;a href=&#34;https://caseybreen.github.io/media/teaching_materials/methods_camp/day2_problem_set.pdf&#34; target=&#34;_blank&#34;&gt;Problem Set&lt;/a&gt;
+      &lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
+        &lt;a href=&#34;https://caseybreen.github.io/media/teaching_materials/methods_camp/day2_problem_set_solutions.pdf&#34; target=&#34;_blank&#34;&gt;Solutions&lt;/a&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;Day 3&lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;Coding&lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
+        Intro to R &amp; RStudio&lt;br&gt;
+        R Programming Basics&lt;br&gt;
+        Vectors &amp; Data Frames
+      &lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
+        &lt;a href=&#34;https://caseybreen.github.io/media/teaching_materials/methods_camp/day3_intro_r.pdf&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;
+      &lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
+        &lt;a href=&#34;https://github.com/caseybreen/intro_r/blob/main/problem_sets/problem_set1.pdf&#34; target=&#34;_blank&#34;&gt;Problem Set&lt;/a&gt;
+      &lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
+        &lt;a href=&#34;https://github.com/caseybreen/intro_r/blob/main/problem_sets/problem_set1_solutions.pdf&#34; target=&#34;_blank&#34;&gt;Solutions&lt;/a&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;Day 4&lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;Coding&lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
+        Data Import/Export&lt;br&gt;
+        Data Manipulation&lt;br&gt;
+        Best Practices
+      &lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
+        &lt;a href=&#34;https://caseybreen.github.io/media/teaching_materials/methods_camp/day4_intro_r.pdf&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;
+      &lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
+        &lt;a href=&#34;https://github.com/caseybreen/intro_r/blob/main/problem_sets/problem_set2.pdf&#34; target=&#34;_blank&#34;&gt;Problem Set&lt;/a&gt;
+      &lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
+        &lt;a href=&#34;https://github.com/caseybreen/intro_r/blob/main/problem_sets/problem_set2_solutions.pdf&#34; target=&#34;_blank&#34;&gt;Solutions&lt;/a&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;Day 5&lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;Workflow&lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
+        Git &amp; GitHub&lt;br&gt;
+        LaTeX &amp; Quarto&lt;br&gt;
+        Zotero
+      &lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
+        &lt;a href=&#34;https://caseybreen.github.io/media/teaching_materials/methods_camp/day5_modern_workflow.pdf&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;
+      &lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;&lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
 </description>
     </item>
     

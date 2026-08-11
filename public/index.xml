@@ -55,76 +55,6 @@
     </item>
     
     <item>
-      <title>Introduction to R</title>
-      <link>https://caseybreen.github.io/teaching/intro_r/</link>
-      <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://caseybreen.github.io/teaching/intro_r/</guid>
-      <description>&lt;p&gt;This course is designed for incoming graduate students.
-It focuses on foundational R programming skills, emphasizing reproducible workflows and best practices for data analysis in the social sciences.
-Each session is approximately 3 hours and includes lectures, in-class exercises, and take-home problem sets with solutions.&lt;/p&gt;
-&lt;h3 id=&#34;course-materials&#34;&gt;Course Materials&lt;/h3&gt;
-&lt;div style=&#34;overflow-x: auto;&#34;&gt;
-&lt;table style=&#34;min-width: 1000px; font-size: 1rem; border-collapse: separate; border-spacing: 0 0.75rem;&#34;&gt;
-  &lt;thead style=&#34;background-color: #f8f9fa;&#34;&gt;
-    &lt;tr&gt;
-      &lt;th style=&#34;padding: 10px;&#34;&gt;Session&lt;/th&gt;
-      &lt;th style=&#34;padding: 10px;&#34;&gt;Topic &amp; Modules&lt;/th&gt;
-      &lt;th style=&#34;padding: 10px;&#34;&gt;Lecture Slides&lt;/th&gt;
-      &lt;th style=&#34;padding: 10px;&#34;&gt;Problem Set&lt;/th&gt;
-      &lt;th style=&#34;padding: 10px;&#34;&gt;Solutions&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;Session 1&lt;/td&gt;
-      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
-        Module 1: Intro to R &amp; RStudio&lt;br&gt;
-        Module 2: R Programming Basics&lt;br&gt;
-        Module 3: Vectors &amp; Data Frames
-      &lt;/td&gt;
-      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
-        &lt;a href=&#34;https://github.com/caseybreen/intro_r/blob/main/slides/session1_slides.pdf&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;
-      &lt;/td&gt;
-      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
-        &lt;a href=&#34;https://github.com/caseybreen/intro_r/blob/main/problem_sets/problem_set1.pdf&#34; target=&#34;_blank&#34;&gt;Problem Set 1&lt;/a&gt;
-      &lt;/td&gt;
-      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
-        &lt;a href=&#34;https://github.com/caseybreen/intro_r/blob/main/problem_sets/problem_set1_solutions.pdf&#34; target=&#34;_blank&#34;&gt;Solutions&lt;/a&gt;
-      &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;Session 2&lt;/td&gt;
-      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
-        Module 4: Data Import/Export&lt;br&gt;
-        Module 5: Data Manipulation&lt;br&gt;
-        Module 6: Best Practices
-      &lt;/td&gt;
-      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
-        &lt;a href=&#34;https://github.com/caseybreen/intro_r/blob/main/slides/session2_slides.pdf&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;
-      &lt;/td&gt;
-      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
-        &lt;a href=&#34;https://github.com/caseybreen/intro_r/blob/main/problem_sets/problem_set2.pdf&#34; target=&#34;_blank&#34;&gt;Problem Set 2&lt;/a&gt;
-      &lt;/td&gt;
-      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
-        &lt;a href=&#34;https://github.com/caseybreen/intro_r/blob/main/problem_sets/problem_set2_solutions.pdf&#34; target=&#34;_blank&#34;&gt;Solutions&lt;/a&gt;
-      &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;Session 3&lt;/td&gt;
-      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;Reproducible Workflow&lt;/td&gt;
-      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
-        &lt;a href=&#34;https://github.com/caseybreen/intro_r/blob/main/slides/session3_workflow.pdf&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;
-      &lt;/td&gt;
-      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;&lt;/td&gt;
-      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Introduction to Social Networks (SOC 321K)</title>
       <link>https://caseybreen.github.io/teaching/social_networks/</link>
       <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
@@ -359,7 +289,8 @@ and hands-on data analysis to build a foundational understanding of social netwo
 &lt;td&gt;Lab 3&lt;/td&gt;
 &lt;td&gt;
 &lt;a href=&#34;#apr-9&#34;&gt;Network scale-up method&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;Lab 3 due&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;
+&lt;a href=&#34;https://github.com/caseybreen/networks_course/blob/main/labs/lab3.qmd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lab 3 due&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Apr 14&lt;/td&gt;
@@ -1087,8 +1018,131 @@ Professor and the Teaching Assistant.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h2&gt;
 &lt;p&gt;This course is largely based on an undergraduate 
-&lt;a href=&#34;https://dennisfeehan.org/teaching/2025fa_demog180/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;course&lt;/a&gt; originally developed by the wonderful Prof. Dennis Feehan at UC Berkeley.
-I am grateful for his generosity in sharing materials (especially lecture slides) and pedagogical approaches that informed the structure and content of this class.&lt;/p&gt;
+&lt;a href=&#34;https://dennisfeehan.org/teaching/2025fa_demog180/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;course&lt;/a&gt; originally developed by Prof. Dennis Feehan at UC Berkeley.
+I am grateful for his generosity in sharing materials (especially lecture slides!) and pedagogical approaches that informed the structure and content of this class.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Methods Camp</title>
+      <link>https://caseybreen.github.io/teaching/methods_camp/</link>
+      <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://caseybreen.github.io/teaching/methods_camp/</guid>
+      <description>&lt;style&gt;
+  .article-metadata { display: none; }
+  .page-subtitle { margin-bottom: 0; }
+&lt;/style&gt;
+&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; RLP 3.106&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Course Instructor:&lt;/strong&gt; Casey Breen (Email: 
+&lt;a href=&#34;mailto:casey.breen@austin.utexas.edu&#34;&gt;casey.breen@austin.utexas.edu&lt;/a&gt;)&lt;br&gt;
+&lt;strong&gt;TA:&lt;/strong&gt; Leng Seong (Email: 
+&lt;a href=&#34;mailto:lc46786@my.utexas.edu&#34;&gt;lc46786@my.utexas.edu&lt;/a&gt;)&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;This one-week course (5 sessions) is designed for incoming graduate students. It focuses on foundational math, statistics, and R programming skills while emphasizing reproducible workflows.
+Each session is organized around lectures and in-class exercises.&lt;/p&gt;
+&lt;h3 id=&#34;course-materials&#34;&gt;Course Materials&lt;/h3&gt;
+&lt;div style=&#34;overflow-x: auto;&#34;&gt;
+&lt;table style=&#34;min-width: 1000px; font-size: 1rem; border-collapse: separate; border-spacing: 0 0.75rem;&#34;&gt;
+  &lt;thead style=&#34;background-color: #f8f9fa;&#34;&gt;
+    &lt;tr&gt;
+      &lt;th style=&#34;padding: 10px;&#34;&gt;Day&lt;/th&gt;
+      &lt;th style=&#34;padding: 10px;&#34;&gt;Category&lt;/th&gt;
+      &lt;th style=&#34;padding: 10px;&#34;&gt;Topics&lt;/th&gt;
+      &lt;th style=&#34;padding: 10px;&#34;&gt;Lecture Slides&lt;/th&gt;
+      &lt;th style=&#34;padding: 10px;&#34;&gt;Problem Set&lt;/th&gt;
+      &lt;th style=&#34;padding: 10px;&#34;&gt;Solutions&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;Day 1&lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;Math/Stats&lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
+        Functions &amp; Operations&lt;br&gt;
+        Ratios &amp; Proportions&lt;br&gt;
+        Rates and Percentages
+      &lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
+        &lt;a href=&#34;https://caseybreen.github.io/media/teaching_materials/methods_camp/day1_foundational_math.pdf&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;
+      &lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
+        &lt;a href=&#34;https://caseybreen.github.io/media/teaching_materials/methods_camp/day1_problem_set.pdf&#34; target=&#34;_blank&#34;&gt;Problem Set&lt;/a&gt;
+      &lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
+        &lt;a href=&#34;https://caseybreen.github.io/media/teaching_materials/methods_camp/day1_problem_set_solutions.pdf&#34; target=&#34;_blank&#34;&gt;Solutions&lt;/a&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;Day 2&lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;Math/Stats&lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
+        Random Variables&lt;br&gt;
+        Distributions&lt;br&gt;
+        Regression
+      &lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
+        &lt;a href=&#34;https://caseybreen.github.io/media/teaching_materials/methods_camp/day2_intro_statistics.pdf&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;
+      &lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
+        &lt;a href=&#34;https://caseybreen.github.io/media/teaching_materials/methods_camp/day2_problem_set.pdf&#34; target=&#34;_blank&#34;&gt;Problem Set&lt;/a&gt;
+      &lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
+        &lt;a href=&#34;https://caseybreen.github.io/media/teaching_materials/methods_camp/day2_problem_set_solutions.pdf&#34; target=&#34;_blank&#34;&gt;Solutions&lt;/a&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;Day 3&lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;Coding&lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
+        Intro to R &amp; RStudio&lt;br&gt;
+        R Programming Basics&lt;br&gt;
+        Vectors &amp; Data Frames
+      &lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
+        &lt;a href=&#34;https://caseybreen.github.io/media/teaching_materials/methods_camp/day3_intro_r.pdf&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;
+      &lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
+        &lt;a href=&#34;https://github.com/caseybreen/intro_r/blob/main/problem_sets/problem_set1.pdf&#34; target=&#34;_blank&#34;&gt;Problem Set&lt;/a&gt;
+      &lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
+        &lt;a href=&#34;https://github.com/caseybreen/intro_r/blob/main/problem_sets/problem_set1_solutions.pdf&#34; target=&#34;_blank&#34;&gt;Solutions&lt;/a&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;Day 4&lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;Coding&lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
+        Data Import/Export&lt;br&gt;
+        Data Manipulation&lt;br&gt;
+        Best Practices
+      &lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
+        &lt;a href=&#34;https://caseybreen.github.io/media/teaching_materials/methods_camp/day4_intro_r.pdf&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;
+      &lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
+        &lt;a href=&#34;https://github.com/caseybreen/intro_r/blob/main/problem_sets/problem_set2.pdf&#34; target=&#34;_blank&#34;&gt;Problem Set&lt;/a&gt;
+      &lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
+        &lt;a href=&#34;https://github.com/caseybreen/intro_r/blob/main/problem_sets/problem_set2_solutions.pdf&#34; target=&#34;_blank&#34;&gt;Solutions&lt;/a&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;Day 5&lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;Workflow&lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
+        Git &amp; GitHub&lt;br&gt;
+        LaTeX &amp; Quarto&lt;br&gt;
+        Zotero
+      &lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;
+        &lt;a href=&#34;https://caseybreen.github.io/media/teaching_materials/methods_camp/day5_modern_workflow.pdf&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;
+      &lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;&lt;/td&gt;
+      &lt;td style=&#34;vertical-align: top; padding: 10px;&#34;&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -1724,7 +1778,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-827543619&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-813564279&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -1734,7 +1788,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-827543619&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-813564279&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -2075,9 +2129,11 @@ date: 2019-09-01
 &lt;hr&gt;
 &lt;ol reversed&gt;
 &lt;li&gt;
-&lt;b&gt;Casey F. Breen&lt;/b&gt;. “The Black-White Mortality Crossover: New Evidence from Social Security Mortality Records.” &lt;!-- Links to pubs, abstract, etc. --&gt;
+&lt;b&gt;Casey F. Breen&lt;/b&gt;. “The Black-White Mortality Crossover: New Evidence from Social Security Mortality Records.” Revise and Resubmit, &lt;i&gt; Demography&lt;/i&gt;. &lt;!-- Links to pubs, abstract, etc. --&gt;
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://osf.io/preprints/socarxiv/ax9u3_v2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Open Access&lt;/button&gt; &lt;/a&gt; 
+&lt;a style=&#34;white-space: nowrap&#34; href=&#34;doi.org/10.17605/OSF.IO/WCGFM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
+&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Replication&lt;/button&gt; &lt;/a&gt; 
 &lt;a href=&#34;#abstract-bw_crossover&#34; class=&#34;btn btn-outline-primary&#34; data-toggle=&#34;collapse&#34;&gt;Abstract&lt;/a&gt;
 &lt;!-- Abstract --&gt;
 &lt;div id=&#34;abstract-bw_crossover&#34; class=&#34;collapse&#34;&gt;
@@ -2086,16 +2142,28 @@ The Black-White mortality crossover is well-studied demographic paradox. Black A
 &lt;/div&gt; 
 &lt;/li&gt;
 &lt;li&gt;
-&lt;b&gt;Casey F. Breen, Till Koebe, and Ridhi Kashyap&lt;/b&gt;. “Digital Diffusion: Mobile Internet and the Spread of Cultural Scripts about Family Life.” &lt;!-- Links to pubs, abstract, etc. --&gt;
+&lt;b&gt;Casey F. Breen&lt;/b&gt;, Till Koebe, and Ridhi Kashyap. “Digital Diffusion: Mobile Internet and the Spread of Cultural Scripts about Family Life.” &lt;!-- Links to pubs, abstract, etc. --&gt;
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://osf.io/preprints/socarxiv/eqj56_v1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Open Access&lt;/button&gt; &lt;/a&gt; 
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://github.com/caseybreen/diffusion_fertility_code_release&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Replication&lt;/button&gt; &lt;/a&gt; 
-&lt;a href=&#34;#abstract-bw_crossover&#34; class=&#34;btn btn-outline-primary&#34; data-toggle=&#34;collapse&#34;&gt;Abstract&lt;/a&gt;
+&lt;a href=&#34;#abstract-diffusion&#34; class=&#34;btn btn-outline-primary&#34; data-toggle=&#34;collapse&#34;&gt;Abstract&lt;/a&gt;
 &lt;!-- Abstract --&gt;
-&lt;div id=&#34;abstract-bw_crossover&#34; class=&#34;collapse&#34;&gt;
+&lt;div id=&#34;abstract-diffusion&#34; class=&#34;collapse&#34;&gt;
 &lt;br /&gt;
 Global cultural diffusion theories have long emphasized how institutional actors such as intergovernmental organizations, international non-governmental organizations, and state agencies spread cultural scripts. We theorize that mobile internet constitutes a qualitatively distinct pathway for the diffusion of these scripts, shifting exposure from institutionally mediated and episodic to more individualized, continuous, and algorithmically curated. This reconfiguration changes both which cultural models individuals encounter and the frequency with which individuals are exposed to them. Using the staggered rollout of mobile internet across Nigeria as an empirical case, we find that expanding coverage reduces fertility, corresponding to a 9% relative decline in the annual probability of birth, consistent with shifts in contraceptive use, ideal family size, and women’s autonomy in financial and healthcare decision-making. These findings suggest that digital infrastructure does not simply extend existing diffusion processes but can reshape them, with measurable consequences for family life.&lt;/div&gt; 
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;Casey F. Breen&lt;/b&gt; and Won-tak Joo. “Record Linkage Error and Inference in Population Research.” &lt;!-- Links to pubs, abstract, etc. --&gt;
+&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://doi.org/10.31235/osf.io/yjnpm_v1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
+&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Open Access&lt;/button&gt; &lt;/a&gt; 
+&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://github.com/caseybreen/recordlinkage/tree/master/code&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
+&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Replication&lt;/button&gt; &lt;/a&gt; 
+&lt;a href=&#34;#abstract-linkage&#34; class=&#34;btn btn-outline-primary&#34; data-toggle=&#34;collapse&#34;&gt;Abstract&lt;/a&gt;
+&lt;!-- Abstract --&gt;
+&lt;div id=&#34;abstract-linkage&#34; class=&#34;collapse&#34;&gt;
+&lt;br /&gt;
+The explosion in digitization of large-scale administrative data and advances in record linkage have opened up new possibilities for studying core topics in population research, including social mobility, early-life determinants of longevity, and shifts in ethnoracial identity. Much attention has been paid to improving record linkage algorithms, but methodological guidance for researchers analyzing linked data is limited. We propose a general framework to explain how different types of linkage errors—false matches and missed matches—impact inference with linked data and introduce a bias-correction method. We then conduct three empirical case studies on canonical topics in population research: social mobility, the education-longevity gradient, and shifts in ethnoracial identification. These case studies demonstrate the settings in which linkage errors do and do not meaningfully impact substantive research findings. We conclude with practical recommendations for researchers performing inference with linked data and provide an accompanying R package implementing the methods introduced in this paper.
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;h3 id=&#34;publications&#34;&gt;Publications&lt;/h3&gt;
@@ -2329,16 +2397,15 @@ and technology (e.g., the rise and diffusion of social media platforms in Silico
 and hands-on data analysis to build a foundational understanding of social networks.&lt;/p&gt;
 &lt;h3 id=&#34;workshops&#34;&gt;Workshops&lt;/h3&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;b&gt;Introduction to R and modern workflow&lt;/b&gt;  &lt;!-- Links to pubs, abstract, etc. --&gt;
-&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://caseybreen.github.io/teaching/intro_r/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
+&lt;p&gt;&lt;b&gt;Methods Camps&lt;/b&gt;  &lt;!-- Links to pubs, abstract, etc. --&gt;
+&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://caseybreen.github.io/teaching/methods_camp/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Course Materials&lt;/button&gt; &lt;/a&gt;
 &lt;a href=&#34;#intro_r&#34; class=&#34;btn btn-outline-primary&#34; data-toggle=&#34;collapse&#34;&gt;Description&lt;/a&gt;&lt;/p&gt;
 &lt;!-- Abstract --&gt;
 &lt;div id=&#34;intro_r&#34; class=&#34;collapse&#34;&gt;
   &lt;br /&gt;
-This course is designed for incoming graduate students. It focuses on foundational R programming skills, emphasizing reproducible workflows
-and best practices for data analysis in the social sciences. Each session is approximately 3 hours and includes lectures, in-class exercises,
-and take-home problem sets with solutions.
+This one-week course (12 instructional hours) is designed for incoming graduate students. It focuses on (1) foundational math and R programming skills while emphasizing reproducible workflows
+and best practices for data analysis in the social sciences. Each session is structured around lectures and in-class group exercises.  
 &lt;/div&gt;
 </description>
     </item>

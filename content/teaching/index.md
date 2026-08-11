@@ -52,8 +52,8 @@ and hands-on data analysis to build a foundational understanding of social netwo
 ### Workshops
 <hr>
 
-<b>Introduction to R and modern workflow</b>  <!-- Links to pubs, abstract, etc. -->
-<a style="white-space: nowrap" href="/teaching/intro_r/" target="_blank" rel="noopener noreferrer">
+<b>Methods Camps</b>  <!-- Links to pubs, abstract, etc. -->
+<a style="white-space: nowrap" href="/teaching/methods_camp/" target="_blank" rel="noopener noreferrer">
 <button type="button" class="btn btn-outline-primary">Course Materials</button> </a> 
 <a href="#intro_r" class="btn btn-outline-primary" data-toggle="collapse">Description</a>
 
@@ -61,9 +61,8 @@ and hands-on data analysis to build a foundational understanding of social netwo
 <!-- Abstract -->
 <div id="intro_r" class="collapse">
   <br />
-This course is designed for incoming graduate students. It focuses on foundational R programming skills, emphasizing reproducible workflows
-and best practices for data analysis in the social sciences. Each session is approximately 3 hours and includes lectures, in-class exercises,
-and take-home problem sets with solutions.
+This one-week course (12 instructional hours) is designed for incoming graduate students. It focuses on (1) foundational math and R programming skills while emphasizing reproducible workflows
+and best practices for data analysis in the social sciences. Each session is structured around lectures and in-class group exercises.  
 </div>
 
 

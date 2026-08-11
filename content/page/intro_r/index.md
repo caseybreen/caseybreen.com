@@ -1,25 +1,39 @@
 ---
-title: "Introduction to R"
+title: "Methods Camp"
+subtitle: "University of Texas at Austin, Department of Sociology"
 date: 2025-04-21
 type: page
 layout: page
-summary: "Overview of the CSS graduate course"
+summary: "Overview of the Methods Camps"
 draft: false
-url: "/teaching/intro_r/"
+url: "/teaching/methods_camp/"
+aliases: ["/teaching/intro_r/"]
 share: false
 ---
 
-This course is designed for incoming graduate students.
-It focuses on foundational R programming skills, emphasizing reproducible workflows and best practices for data analysis in the social sciences. 
-Each session is approximately 3 hours and includes lectures, in-class exercises, and take-home problem sets with solutions.
+<style>
+  .article-metadata { display: none; }
+  .page-subtitle { margin-bottom: 0; }
+</style>
+
+**Location:** RLP 3.106  
+
+**Course Instructor:** Casey Breen (Email: [casey.breen@austin.utexas.edu](mailto:casey.breen@austin.utexas.edu))  
+**TA:** Leng Seong (Email: [lc46786@my.utexas.edu](mailto:lc46786@my.utexas.edu))
+
+---
+
+This one-week course (5 sessions) is designed for incoming graduate students. It focuses on foundational math, statistics, and R programming skills while emphasizing reproducible workflows.
+Each session is organized around lectures and in-class exercises.
 
 ### Course Materials
 <div style="overflow-x: auto;">
 <table style="min-width: 1000px; font-size: 1rem; border-collapse: separate; border-spacing: 0 0.75rem;">
   <thead style="background-color: #f8f9fa;">
     <tr>
-      <th style="padding: 10px;">Session</th>
-      <th style="padding: 10px;">Topic & Modules</th>
+      <th style="padding: 10px;">Day</th>
+      <th style="padding: 10px;">Category</th>
+      <th style="padding: 10px;">Topics</th>
       <th style="padding: 10px;">Lecture Slides</th>
       <th style="padding: 10px;">Problem Set</th>
       <th style="padding: 10px;">Solutions</th>
@@ -27,44 +41,87 @@ Each session is approximately 3 hours and includes lectures, in-class exercises,
   </thead>
   <tbody>
     <tr>
-      <td style="vertical-align: top; padding: 10px;">Session 1</td>
+      <td style="vertical-align: top; padding: 10px;">Day 1</td>
+      <td style="vertical-align: top; padding: 10px;">Math/Stats</td>
       <td style="vertical-align: top; padding: 10px;">
-        Module 1: Intro to R & RStudio<br>
-        Module 2: R Programming Basics<br>
-        Module 3: Vectors & Data Frames
+        Functions & Operations<br>
+        Ratios & Proportions<br>
+        Rates and Percentages
       </td>
       <td style="vertical-align: top; padding: 10px;">
-        <a href="https://github.com/caseybreen/intro_r/blob/main/slides/session1_slides.pdf" target="_blank">Slides</a>
+        <a href="/media/teaching_materials/methods_camp/day1_foundational_math.pdf" target="_blank">Slides</a>
       </td>
       <td style="vertical-align: top; padding: 10px;">
-        <a href="https://github.com/caseybreen/intro_r/blob/main/problem_sets/problem_set1.pdf" target="_blank">Problem Set 1</a>
+        <a href="/media/teaching_materials/methods_camp/day1_problem_set.pdf" target="_blank">Problem Set</a>
+      </td>
+      <td style="vertical-align: top; padding: 10px;">
+        <a href="/media/teaching_materials/methods_camp/day1_problem_set_solutions.pdf" target="_blank">Solutions</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 10px;">Day 2</td>
+      <td style="vertical-align: top; padding: 10px;">Math/Stats</td>
+      <td style="vertical-align: top; padding: 10px;">
+        Random Variables<br>
+        Distributions<br>
+        Regression
+      </td>
+      <td style="vertical-align: top; padding: 10px;">
+        <a href="/media/teaching_materials/methods_camp/day2_intro_statistics.pdf" target="_blank">Slides</a>
+      </td>
+      <td style="vertical-align: top; padding: 10px;">
+        <a href="/media/teaching_materials/methods_camp/day2_problem_set.pdf" target="_blank">Problem Set</a>
+      </td>
+      <td style="vertical-align: top; padding: 10px;">
+        <a href="/media/teaching_materials/methods_camp/day2_problem_set_solutions.pdf" target="_blank">Solutions</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 10px;">Day 3</td>
+      <td style="vertical-align: top; padding: 10px;">Coding</td>
+      <td style="vertical-align: top; padding: 10px;">
+        Intro to R & RStudio<br>
+        R Programming Basics<br>
+        Vectors & Data Frames
+      </td>
+      <td style="vertical-align: top; padding: 10px;">
+        <a href="/media/teaching_materials/methods_camp/day3_intro_r.pdf" target="_blank">Slides</a>
+      </td>
+      <td style="vertical-align: top; padding: 10px;">
+        <a href="https://github.com/caseybreen/intro_r/blob/main/problem_sets/problem_set1.pdf" target="_blank">Problem Set</a>
       </td>
       <td style="vertical-align: top; padding: 10px;">
         <a href="https://github.com/caseybreen/intro_r/blob/main/problem_sets/problem_set1_solutions.pdf" target="_blank">Solutions</a>
       </td>
     </tr>
     <tr>
-      <td style="vertical-align: top; padding: 10px;">Session 2</td>
+      <td style="vertical-align: top; padding: 10px;">Day 4</td>
+      <td style="vertical-align: top; padding: 10px;">Coding</td>
       <td style="vertical-align: top; padding: 10px;">
-        Module 4: Data Import/Export<br>
-        Module 5: Data Manipulation<br>
-        Module 6: Best Practices
+        Data Import/Export<br>
+        Data Manipulation<br>
+        Best Practices
       </td>
       <td style="vertical-align: top; padding: 10px;">
-        <a href="https://github.com/caseybreen/intro_r/blob/main/slides/session2_slides.pdf" target="_blank">Slides</a>
+        <a href="/media/teaching_materials/methods_camp/day4_intro_r.pdf" target="_blank">Slides</a>
       </td>
       <td style="vertical-align: top; padding: 10px;">
-        <a href="https://github.com/caseybreen/intro_r/blob/main/problem_sets/problem_set2.pdf" target="_blank">Problem Set 2</a>
+        <a href="https://github.com/caseybreen/intro_r/blob/main/problem_sets/problem_set2.pdf" target="_blank">Problem Set</a>
       </td>
       <td style="vertical-align: top; padding: 10px;">
         <a href="https://github.com/caseybreen/intro_r/blob/main/problem_sets/problem_set2_solutions.pdf" target="_blank">Solutions</a>
       </td>
     </tr>
     <tr>
-      <td style="vertical-align: top; padding: 10px;">Session 3</td>
-      <td style="vertical-align: top; padding: 10px;">Reproducible Workflow</td>
+      <td style="vertical-align: top; padding: 10px;">Day 5</td>
+      <td style="vertical-align: top; padding: 10px;">Workflow</td>
       <td style="vertical-align: top; padding: 10px;">
-        <a href="https://github.com/caseybreen/intro_r/blob/main/slides/session3_workflow.pdf" target="_blank">Slides</a>
+        Git & GitHub<br>
+        LaTeX & Quarto<br>
+        Zotero
+      </td>
+      <td style="vertical-align: top; padding: 10px;">
+        <a href="/media/teaching_materials/methods_camp/day5_modern_workflow.pdf" target="_blank">Slides</a>
       </td>
       <td style="vertical-align: top; padding: 10px;"></td>
       <td style="vertical-align: top; padding: 10px;"></td>
@@ -72,5 +129,3 @@ Each session is approximately 3 hours and includes lectures, in-class exercises,
   </tbody>
 </table>
 </div>
-
-

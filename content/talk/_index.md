@@ -37,10 +37,10 @@ title: Select Conference Presentations and Invited Talks
       <td><a href="/media/talk_slides/breen_bw_mortality_crossover_asa_2026.pdf" target="_blank">Slides</a></td>
     </tr>
     <tr>
-      <td>Black-White Mortality Crossover Paradox: New Evidence from Linked Social Security Records</td>
+      <td>Black&ndash;White Mortality Crossover Paradox: Observed Mortality Selection and Heterogeneity in Frailty</td>
       <td>Population Association of America</td>
-      <td>May 2026</td>
-      <td></td>
+      <td>May 8, 2026</td>
+      <td><a href="/media/talk_slides/breen_bw_mortality_crossover_paa_2026.pdf" target="_blank">Slides</a></td>
     </tr>
     <tr>
       <td>Black-White Mortality Crossover Paradox: New Evidence from Social Security Mortality Records</td>

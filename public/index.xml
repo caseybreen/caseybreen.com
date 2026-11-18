@@ -1780,7 +1780,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-582796413&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-629357418&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -1790,7 +1790,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-582796413&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-629357418&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -2134,7 +2134,7 @@ date: 2019-09-01
 &lt;b&gt;Casey F. Breen&lt;/b&gt;. “The Black-White Mortality Crossover: New Evidence from Social Security Mortality Records.” Revise and Resubmit, &lt;i&gt; Demography&lt;/i&gt;. &lt;!-- Links to pubs, abstract, etc. --&gt;
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://osf.io/preprints/socarxiv/ax9u3_v2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Open Access&lt;/button&gt; &lt;/a&gt; 
-&lt;a style=&#34;white-space: nowrap&#34; href=&#34;doi.org/10.17605/OSF.IO/WCGFM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
+&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://doi.org/10.17605/OSF.IO/WCGFM&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Replication&lt;/button&gt; &lt;/a&gt; 
 &lt;a href=&#34;#abstract-bw_crossover&#34; class=&#34;btn btn-outline-primary&#34; data-toggle=&#34;collapse&#34;&gt;Abstract&lt;/a&gt;
 &lt;!-- Abstract --&gt;
@@ -2145,7 +2145,7 @@ The Black-White mortality crossover is well-studied demographic paradox. Black A
 &lt;/li&gt;
 &lt;li&gt;
 &lt;b&gt;Casey F. Breen&lt;/b&gt;, Till Koebe, and Ridhi Kashyap. “Digital Diffusion: Mobile Internet and the Spread of Cultural Scripts about Family Life.” &lt;!-- Links to pubs, abstract, etc. --&gt;
-&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://osf.io/preprints/socarxiv/eqj56_v1&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
+&lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://osf.io/preprints/socarxiv/eqj56_v2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Open Access&lt;/button&gt; &lt;/a&gt; 
 &lt;a style=&#34;white-space: nowrap&#34; href=&#34;https://github.com/caseybreen/diffusion_fertility_code_release&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary&#34;&gt;Replication&lt;/button&gt; &lt;/a&gt; 
